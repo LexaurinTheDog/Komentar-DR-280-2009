@@ -1182,6 +1182,11 @@ Správce daně je v daňovém řízení vázán **pravomocnými rozhodnutími** 
 
 Výjimky z možnosti vlastního posouzení (odst. 2): správce daně si nemůže sám určit, zda byl spáchán trestný čin nebo přestupek, ani otázky osobního stavu (svéprávnost, manželský stav apod.) — tyto otázky musejí být vyřešeny příslušnými orgány.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [21 Cdo 930/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C32BC3F6A02E5A4FC125840600184FD2?openDocument) — 27. 2. 2019, kat. A
+  > „Správce daně nemá naléhavý právní zájem na určení vlastnického práva k nemovité věci, k níž zřizuje podle ustanovení § 170 odst. 1 daňového řádu zástavní právo k zajištění daňové pohledávky, dospěje- li k závěru, že zápis o vlastnictví v katastru nemovitostí neodpovídá skutečnému právnímu stavu. Otázku vlastnického práva k nemovité věci je správce daně v takovém případě oprávněn posoudit sám jako otázku předběžnou (§ 99 odst. 1 daňového řádu)"
+
 ---
 
 ### § 100 — Předvolání a předvedení
@@ -1302,6 +1307,11 @@ Z hlediska praxe jsou nejdůležitější:
 > *(3) Na žádost příjemce rozhodnutí vyznačí správce daně na vyhotovení rozhodnutí doložku právní moci, popřípadě vykonatelnosti.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [29 ICdo 4/2017](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/E8D1B8461DF60D5CC12583F900210211?openDocument) — 31. 1. 2019, kat. A
+  > „Omezení kladené ustanovením § 199 odst. 2 insolvenčního zákona důvodům popření pravosti nebo výše přihlášené vykonatelné pohledávky přiznané pravomocným rozhodnutím příslušného orgánu se uplatní i tehdy, jde-li o rozhodnutí, které vydal jako příslušný orgán správce daně v daňovém řízení. V incidenčním sporu o pravost nebo výši vykonatelné pohledávky vzniklé rozhodnutím správního orgánu (včetně pohledávky daňové), insolvenční soud neřeší ani nemá řešit otázku souladnosti rozhodnutí správního orgánu, jímž byla pohledávka přiznána, s hmotným právem a tím, zda byla vydána v souladu s procesními předpisy s výjimkami danými insolvenčním zákonem pro aktivní legitimaci příslušných osob k podání žaloby o určení pravosti nebo výše takové vykonatelné pohledávky nebo pro důvody popření takové vykonatelné pohledávky totiž existence takového rozhodnutí nemá v incidenčním sporu žádný význam. V…"
 
 #### Právní moc
 

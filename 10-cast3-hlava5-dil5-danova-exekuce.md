@@ -39,6 +39,11 @@ Díl 5 (§§ 175–231) se dělí do čtyř vrstev:
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [29 ICdo 108/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/28246BDC493C2882C12589F700186848?openDocument) — 25. 4. 2023, kat. A
+  > „Provedení výkonu rozhodnutí (exekuce) tím, že poskytovatel platebních služeb (peněžní ústav) na základě exekučního příkazu odepíše vymáhanou pohledávku z účtu povinného (dlužníka) a vyplatí ji oprávněnému (věřiteli), není „právním jednáním povinného“ (dlužníka). Jde naopak o (s)plnění dluhu (závazku) dlužníka (povinného) vynucené státní mocí proto, že dlužník žádnou vůli dluh splnit neprojevuje, nebo dokonce projevuje vůli opačnou (dluh neuhradit)"
+
 #### Systematické zařazení
 
 Ustanovení § 175 otevírá Díl 5 Hlavy V a plní roli **větvícího uzlu**: vymezuje alternativní způsoby vymáhání daňových nedoplatků a zakládá zásadu proporcionality nákladů. Samotná **daňová exekuce** je jen jednou z pěti alternativ — správce daně se musí vědomě rozhodnout, který způsob zvolí, a tato volba musí respektovat zásadu přiměřenosti.
@@ -141,6 +146,11 @@ OSŘ v § 274 a násl. rovněž taxativně vypočítává exekuční tituly pro 
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [29 ICdo 108/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/28246BDC493C2882C12589F700186848?openDocument) — 25. 4. 2023, kat. A
+  > „Provedení výkonu rozhodnutí (exekuce) tím, že poskytovatel platebních služeb (peněžní ústav) na základě exekučního příkazu odepíše vymáhanou pohledávku z účtu povinného (dlužníka) a vyplatí ji oprávněnému (věřiteli), není „právním jednáním povinného“ (dlužníka). Jde naopak o (s)plnění dluhu (závazku) dlužníka (povinného) vynucené státní mocí proto, že dlužník žádnou vůli dluh splnit neprojevuje, nebo dokonce projevuje vůli opačnou (dluh neuhradit)"
+
 #### Subsidiarita OSŘ — klíčová norma daňové exekuce
 
 Ustanovení § 177 odst. 1 je **osou celé daňové exekuce**: daňová exekuce není autonomním systémem de novo, nýbrž vychází z OSŘ jako ze svého subsidiárního základu. Kdykoli DŘ v §§ 178–231 neupraví konkrétní otázku, použije se OSŘ (zákon č. 99/1963 Sb.) — viz [Komentář k OSŘ](/home/vojtech/Komentar-OSR-99-1963/). Tato subsidiarita je výslovná a **obecná** (bez nutnosti zvláštního odkazu v každém ustanovení).
@@ -203,6 +213,13 @@ Soudní exekutor dle EŘ rovněž kombinuje prvky „pomocného orgánu soudu" a
 > *- f) prodejem nemovitých věcí.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [29 ICdo 108/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/28246BDC493C2882C12589F700186848?openDocument) — 25. 4. 2023, kat. A
+  > „Provedení výkonu rozhodnutí (exekuce) tím, že poskytovatel platebních služeb (peněžní ústav) na základě exekučního příkazu odepíše vymáhanou pohledávku z účtu povinného (dlužníka) a vyplatí ji oprávněnému (věřiteli), není „právním jednáním povinného“ (dlužníka). Jde naopak o (s)plnění dluhu (závazku) dlužníka (povinného) vynucené státní mocí proto, že dlužník žádnou vůli dluh splnit neprojevuje, nebo dokonce projevuje vůli opačnou (dluh neuhradit)"
+- *NS* [21 Cdo 930/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C32BC3F6A02E5A4FC125840600184FD2?openDocument) — 27. 2. 2019, kat. A
+  > „Správce daně nemá naléhavý právní zájem na určení vlastnického práva k nemovité věci, k níž zřizuje podle ustanovení § 170 odst. 1 daňového řádu zástavní právo k zajištění daňové pohledávky, dospěje- li k závěru, že zápis o vlastnictví v katastru nemovitostí neodpovídá skutečnému právnímu stavu. Otázku vlastnického práva k nemovité věci je správce daně v takovém případě oprávněn posoudit sám jako otázku předběžnou (§ 99 odst. 1 daňového řádu)"
 
 #### Exekuční příkaz jako klíčový procesní úkon
 
@@ -869,6 +886,11 @@ Věci, které se nepodařilo zpeněžit, může správce daně **vyloučit ze so
 > *(5) Proti rozhodnutí o výsledné ceně se lze odvolat do 15 dnů ode dne jeho doručení a dražbu lze nařídit až po právní moci tohoto rozhodnutí.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [21 Cdo 930/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C32BC3F6A02E5A4FC125840600184FD2?openDocument) — 27. 2. 2019, kat. A
+  > „Správce daně nemá naléhavý právní zájem na určení vlastnického práva k nemovité věci, k níž zřizuje podle ustanovení § 170 odst. 1 daňového řádu zástavní právo k zajištění daňové pohledávky, dospěje- li k závěru, že zápis o vlastnictví v katastru nemovitostí neodpovídá skutečnému právnímu stavu. Otázku vlastnického práva k nemovité věci je správce daně v takovém případě oprávněn posoudit sám jako otázku předběžnou (§ 99 odst. 1 daňového řádu)"
 
 #### Nejnákladnější, nejformálnější, nejcitlivější způsob exekuce
 

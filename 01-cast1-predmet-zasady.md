@@ -91,6 +91,17 @@ Pojem „daňové tvrzení" je legislativní zkratkou zavedenou DŘ; ZSDP ji nez
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [29 ICdo 101/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/FB63DF665163ABEDC12588A80017E01F?openDocument) — 14. 6. 2022, kat. A
+  > „Pohledávka z titulu odvodu za porušení rozpočtové kázně vzniká (a stává se splatnou) již dnem porušení rozpočtové kázně, nikoli až vydáním (nebo právní mocí) platebního výměru, jímž příslušný finanční úřad (správce daně) uloží příjemci dotace provést odvod za porušení rozpočtové kázně. Je-li podle rozhodnutí o poskytnutí dotace porušením rozpočtové kázně skutečnost, že ve vymezené době byl prohlášen konkurs na majetek příjemce dotace, pak pohledávka z titulu odvodu za porušení rozpočtové kázně, která vznikla prohlášením konkursu na majetek příjemce dotace, je i tam, kde insolvenční soud spojil rozhodnutí o prohlášení konkursu s rozhodnutím o úpadku dlužníka (§ 148 odst. 1 insolvenčního zákona), pohledávkou vzniklou ve smyslu § 168 odst. 2 písm. e/ insolvenčního zákona „po rozhodnutí o úpadku“ dlužníka. U pohledávky, která je obsažena v taxativním výčtu pohledávek za majetkovou…"
+- *NS* [1 To 30/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/A308A2A904208E17C1258BD3002AEB32?openDocument) — 14. 4. 2022, kat. A
+  > „Pohledávka vyplývající z povinnosti odsouzeného nahradit státu náklady spojené s výkonem vazby, jež se podle § 2 odst. 3 písm. b) daňového řádu považuje za daň a jejíž placení se podle § 361a tr. ř. spravuje podle daňového řádu, je splatná až po rozhodnutí o výši nákladů výkonu vazby vydaného ředitelem věznice podle § 11 odst. 1 vyhlášky č. 10/2000 Sb., ve znění pozdějších předpisů, na základě pravomocného rozhodnutí soudu, kterým byla odsouzenému taková povinnost uložena. Teprve od takto stanoveného okamžiku běží lhůta pro její placení v trvání 6 let ve smyslu § 160 odst. 1 daňového řádu, a proto rozhodnutí o uvedené povinnosti odsouzeného podle § 152 odst. 1 písm. a) tr. ř. nebrání námitka nemožnosti jejího výběru a vymáhání podle § 160 odst. 1 daňového řádu"
+- *NS* [29 ICdo 141/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/3883BB725F79CE03C125845200183A93?openDocument) — 30. 5. 2019, kat. A
+  > „Lhůta ke složení jistoty na náklady řízení incidenčního sporu určená ustanovením § 202 odst. 3 insolvenčního zákona je při platbě jistoty prováděné na základě bezhotovostního příkazu k úhradě prostřednictvím banky (poskytovatele platebních služeb) zachována, jen je-li stanovená částka (jistota) nejpozději posledního dne lhůty připsána na účet příslušného insolvenčního soudu"
+- *NS* [29 ICdo 23/2016](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/DCC1CD02DCB7F714C12582C600479925?openDocument) — 27. 3. 2018, kat. A
+  > „Pohledávka vzniklá po rozhodnutí o úpadku dlužníka z titulu přeplatku na dávce pěstounské péče není pohledávkou za majetkovou podstatou ve smyslu ustanovení § 168 odst. 2 písm. e/ insolvenčního zákona. Veřejnoprávní pohledávka, která vznikla po rozhodnutí o úpadku dlužníka, není ve smyslu ustanovení § 168 odst. 2 písm. e/ insolvenčního zákona daní, poplatkem nebo jiným obdobným peněžitým plněním jen proto, že ve smyslu § 2 odst. 3 písm. b/ daňového řádu se pro účely daňového řádu rozumí daní peněžité plnění, pokud zákon stanoví, že se při jeho správě postupuje podle daňového řádu"
+
 #### Předmět správy — daně jako příjem nebo snížení příjmu veřejného rozpočtu (odst. 1)
 
 Legální definice předmětu správy má dvě větve:

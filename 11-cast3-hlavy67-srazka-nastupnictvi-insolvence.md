@@ -249,6 +249,11 @@ Díl 1 (§§ 238–241) rozlišuje tři skupiny situací:
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [27 Cdo 2143/2017](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8619C2D92ECED761C12583F20017EA04?openDocument) — 27. 2. 2019, kat. A
+  > „K návrhu na výmaz právnické osoby z veřejného rejstříku podle § 82 odst. 1 zákona č. 304/2013 Sb., o veřejných rejstřících právnických a fyzických osob a o evidenci svěřenských fondů, není navrhovatel povinen předložit souhlas správce daně podle § 238 odst. 1 zákona č. 280/2009 Sb., daňového řádu"
+
 #### Souhlas správce daně s výmazem — „daňový clearingový mechanismus" (odst. 1)
 
 Zákon podmiňuje výmaz právnické osoby zanikající bez nástupce z veřejného rejstříku **souhlasem správce daně**, u nějž je daňový subjekt registrován. Jedná se o preventivní opatření — zabraňuje situaci, kdy by PO zanikla s nesplněnými daňovými povinnostmi a správce by ztratil možnost daň stanovit nebo vybrat.
@@ -611,6 +616,11 @@ Základní filosofie: daňové pohledávky se v insolvenčním řízení uspokoj
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [29 ICdo 101/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/FB63DF665163ABEDC12588A80017E01F?openDocument) — 14. 6. 2022, kat. A
+  > „Pohledávka z titulu odvodu za porušení rozpočtové kázně vzniká (a stává se splatnou) již dnem porušení rozpočtové kázně, nikoli až vydáním (nebo právní mocí) platebního výměru, jímž příslušný finanční úřad (správce daně) uloží příjemci dotace provést odvod za porušení rozpočtové kázně. Je-li podle rozhodnutí o poskytnutí dotace porušením rozpočtové kázně skutečnost, že ve vymezené době byl prohlášen konkurs na majetek příjemce dotace, pak pohledávka z titulu odvodu za porušení rozpočtové kázně, která vznikla prohlášením konkursu na majetek příjemce dotace, je i tam, kde insolvenční soud spojil rozhodnutí o prohlášení konkursu s rozhodnutím o úpadku dlužníka (§ 148 odst. 1 insolvenčního zákona), pohledávkou vzniklou ve smyslu § 168 odst. 2 písm. e/ insolvenčního zákona „po rozhodnutí o úpadku“ dlužníka. U pohledávky, která je obsažena v taxativním výčtu pohledávek za majetkovou…"
+
 #### Pohledávky za majetkovou podstatou — časové kritérium (odst. 1)
 
 Klíčovým pravidlem je **časové dělení daňových pohledávek** dle vztahu k okamžiku účinnosti rozhodnutí o úpadku:
@@ -651,6 +661,11 @@ Tím zákon brání zkřížení kompenzací, které by narušovalo pořadí usp
 > *(5) Daňová pohledávka, od jejíhož placení byl dlužník osvobozen rozhodnutím insolvenčního soudu, zaniká právní mocí tohoto rozhodnutí.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [29 ICdo 4/2017](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/E8D1B8461DF60D5CC12583F900210211?openDocument) — 31. 1. 2019, kat. A
+  > „Omezení kladené ustanovením § 199 odst. 2 insolvenčního zákona důvodům popření pravosti nebo výše přihlášené vykonatelné pohledávky přiznané pravomocným rozhodnutím příslušného orgánu se uplatní i tehdy, jde-li o rozhodnutí, které vydal jako příslušný orgán správce daně v daňovém řízení. V incidenčním sporu o pravost nebo výši vykonatelné pohledávky vzniklé rozhodnutím správního orgánu (včetně pohledávky daňové), insolvenční soud neřeší ani nemá řešit otázku souladnosti rozhodnutí správního orgánu, jímž byla pohledávka přiznána, s hmotným právem a tím, zda byla vydána v souladu s procesními předpisy s výjimkami danými insolvenčním zákonem pro aktivní legitimaci příslušných osob k podání žaloby o určení pravosti nebo výše takové vykonatelné pohledávky nebo pro důvody popření takové vykonatelné pohledávky totiž existence takového rozhodnutí nemá v incidenčním sporu žádný význam. V…"
 
 #### Pokračování daňového řízení — zachování s výjimkou exekuce (odst. 1)
 

@@ -608,6 +608,11 @@ DŘ zná tři formy rozhodnutí o stanovení daně:
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [30 Cdo 2867/2016](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/846E1905EF5EBCB5C125828D00312EEC?openDocument) — 21. 2. 2018, kat. A
+  > „Povinnost zaplatit soudní poplatek, který byl splatný společně s podáním žaloby nebo odvolání, ale který nebyl uhrazen a soud již začal jednat ve věci samé, aniž by poplatníka k úhradě soudního poplatku vyzval, nelze podle zákona č. 549/1991 Sb., ve znění účinném od 1. 1. 2011, uložit po uplynutí 3 let od právní moci rozhodnutí, kterým bylo řízení skončeno"
+
 #### Povaha lhůty pro stanovení daně — prekluzivní, hmotněprávní
 
 Lhůta pro stanovení daně je **prekluzivní lhůtou**, nikoli promlčecí. Zásadní důsledky:

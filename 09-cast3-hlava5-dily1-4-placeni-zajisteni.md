@@ -317,6 +317,11 @@ Pro výpočet úroků z prodlení je rozhodný **den úhrady nedoplatku převode
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [29 ICdo 107/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/FDE02D6472B03D65C1258AF6004D30C8?openDocument) — 29. 2. 2024, kat. A
+  > „Žádost dlužníka o převedení daňového přeplatku podle § 155 daňového řádu je procesním úkonem nelze tudíž vyslovit její neúčinnost ani podle § 111 insolvenčního zákona, ani podle § 240 a násl. insolvenčního zákona. Jestliže správce daně podle pokynu (žádosti) daňového dlužníka použije daňový přeplatek na úhradu daňového nedoplatku jiného daňového dlužníka, jde o právní jednání daňového dlužníka, jehož případná neúčinnost má být uplatněna (v souladu s § 237 odst. 1 insolvenčního zákona) vůči onomu jinému daňovému dlužníku, v jehož prospěch bylo právní jednání učiněno a který z něj měl prospěch. Správce daně (potažmo stát) není osobou, v jejíž prospěch bylo takové právní jednání učiněno, ani osobou, která z něj měla prospěch"
+
 #### Vratitelný přeplatek — tři způsoby nakládání
 
 Přeplatek, který nelze automaticky započíst na jiný nedoplatek (§ 154 odst. 2), se stává **vratitelným přeplatkem**. Daňový subjekt má právo požádat o tři způsoby nakládání:
@@ -605,6 +610,13 @@ Ochrana před **nečinností** správce daně při placení (odst. 6) — subjek
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [1 To 30/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/A308A2A904208E17C1258BD3002AEB32?openDocument) — 14. 4. 2022, kat. A
+  > „Pohledávka vyplývající z povinnosti odsouzeného nahradit státu náklady spojené s výkonem vazby, jež se podle § 2 odst. 3 písm. b) daňového řádu považuje za daň a jejíž placení se podle § 361a tr. ř. spravuje podle daňového řádu, je splatná až po rozhodnutí o výši nákladů výkonu vazby vydaného ředitelem věznice podle § 11 odst. 1 vyhlášky č. 10/2000 Sb., ve znění pozdějších předpisů, na základě pravomocného rozhodnutí soudu, kterým byla odsouzenému taková povinnost uložena. Teprve od takto stanoveného okamžiku běží lhůta pro její placení v trvání 6 let ve smyslu § 160 odst. 1 daňového řádu, a proto rozhodnutí o uvedené povinnosti odsouzeného podle § 152 odst. 1 písm. a) tr. ř. nebrání námitka nemožnosti jejího výběru a vymáhání podle § 160 odst. 1 daňového řádu"
+- *NS* [29 ICdo 141/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/3883BB725F79CE03C125845200183A93?openDocument) — 30. 5. 2019, kat. A
+  > „Lhůta ke složení jistoty na náklady řízení incidenčního sporu určená ustanovením § 202 odst. 3 insolvenčního zákona je při platbě jistoty prováděné na základě bezhotovostního příkazu k úhradě prostřednictvím banky (poskytovatele platebních služeb) zachována, jen je-li stanovená částka (jistota) nejpozději posledního dne lhůty připsána na účet příslušného insolvenčního soudu"
+
 #### Systém lhůty pro placení daně — tři vrstvy
 
 Lhůta pro placení daně je **prekluzivní lhůta**, po jejímž uplynutí se právo vybrat a vymáhat daň **absolutně zaniká** — nelze je obnovit ani uznáním dluhu daňovým subjektem. Zákon pracuje se třemi vrstvami:
@@ -872,7 +884,6 @@ Den platby určuje, zda daňový subjekt uhradil daň **včas** (do dne splatnos
 
 Poštovní poukazem zaslaná platba musí být předána bance do **2 pracovních dnů**. Poruší-li pošta tuto lhůtu, uhradí správci daně **úrok z prodlení dle OZ** — a správce daně tento úrok eviduje jako příslušenství daně (přijde do veřejného rozpočtu, ne zpět daňovému subjektu).
 
-
 ---
 
 ## Díl 4 — Zajištění daní
@@ -1003,6 +1014,13 @@ Nesplní-li subjekt povinnost uloženou ZP (nesloží jistotu ve lhůtě), můž
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [21 Cdo 930/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C32BC3F6A02E5A4FC125840600184FD2?openDocument) — 27. 2. 2019, kat. A
+  > „Správce daně nemá naléhavý právní zájem na určení vlastnického práva k nemovité věci, k níž zřizuje podle ustanovení § 170 odst. 1 daňového řádu zástavní právo k zajištění daňové pohledávky, dospěje- li k závěru, že zápis o vlastnictví v katastru nemovitostí neodpovídá skutečnému právnímu stavu. Otázku vlastnického práva k nemovité věci je správce daně v takovém případě oprávněn posoudit sám jako otázku předběžnou (§ 99 odst. 1 daňového řádu)"
+- *NS* [29 ICdo 3/2016](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/FF6F6D34CE339BA6C12582CC00315AB3?openDocument) — 27. 3. 2018, kat. A
+  > „Odvod za porušení rozpočtové kázně, jehož prostřednictvím má být poskytovateli dotace vrácena dotace (nebo její část) proto, že příjemce dotace nedodržel podmínky, při jejichž splnění by se poskytnutá dotace (nebo její část) stala nenávratnou, není mimosmluvní sankcí ve smyslu § 170 písm. d/ insolvenčního zákona. Jde-li o pohledávku, která vznikla po rozhodnutí o úpadku, je odvod za porušení rozpočtové kázně, jehož prostřednictvím má být poskytovateli dotace vrácena dotace (nebo její část) proto, že příjemce dotace nedodržel podmínky, při jejichž splnění by se poskytnutá dotace (nebo její část) stala nenávratnou, pohledávkou za majetkovou podstatou ve smyslu ustanovení § 168 odst. 2 písm. e/ insolvenčního zákona. Insolvenční zákon má ve vztahu k zákonu č. 280/2009 Sb., daňovému řádu, povahu zákona speciálního (jehož uplatnění má v případě dlužníkova úpadku přednost), ve vztahu k…"
+
 #### Zástavní právo v daňovém řádu — veřejnoprávní zástavní právo
 
 Zástavní právo správce daně je **veřejnoprávní** (vzniká rozhodnutím správce), ale podpůrně se řídí podmínkami OZ (zákon č. 89/2012 Sb., viz [Komentář k OZ](/home/vojtech/Komentar-OZ-89-2012/)). Odchylky od OZ:
@@ -1041,6 +1059,11 @@ Zástavní právo zaniká:
 **Výklad:**
 
 Správce daně může zástavní právo uplatnit buď **soudní cestou** (přeměna zástavy v peněžní výtěžek prostřednictvím soudu) nebo **mimosoudním způsobem** dle OZ (veřejná dražba, přímý prodej). Při výkonu zástavního práva se přiměřeně použijí ustanovení o daňové exekuci (§ 175 a násl.) — zejména pravidla pro rozvrhové řízení a ochranu dlužníka. Blíže viz [10-cast3-hlava5-dil5-danova-exekuce.md](10-cast3-hlava5-dil5-danova-exekuce.md).
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [21 Cdo 930/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C32BC3F6A02E5A4FC125840600184FD2?openDocument) — 27. 2. 2019, kat. A
+  > „Správce daně nemá naléhavý právní zájem na určení vlastnického práva k nemovité věci, k níž zřizuje podle ustanovení § 170 odst. 1 daňového řádu zástavní právo k zajištění daňové pohledávky, dospěje- li k závěru, že zápis o vlastnictví v katastru nemovitostí neodpovídá skutečnému právnímu stavu. Otázku vlastnického práva k nemovité věci je správce daně v takovém případě oprávněn posoudit sám jako otázku předběžnou (§ 99 odst. 1 daňového řádu)"
 
 ---
 

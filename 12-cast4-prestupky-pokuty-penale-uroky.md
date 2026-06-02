@@ -303,6 +303,11 @@ Pokuta je splatná **do 30 dnů** od oznámení platebního výměru. Proti plat
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [15 Tdo 832/2016](https://rozhodnuti.nsoud.cz/judikatura/judikatura_ns.nsf/zip?openAgent&query=%5Bdatum_predani_na_web%5D%3E%3D01.01.2017%20AND%20%5Bdatum_predani_na_web%5D%3C%3D31.12.2017&SearchOrder=1&SearchMax=0&start=2040&count=60&pohled=#rozhodnuti-15_Tdo_832_2016.txt) — 4. 1. 2017, kat. A
+  > „Penále podle § 251 zákona č. 280/2009 Sb., daňový řád, ve znění pozdějších předpisů, uložené v daňovém řízení za nesplnění povinnosti tvrzení pravomocným rozhodnutím správního orgánu, má povahu trestní sankce, byť sui generis, proto je třeba na ně aplikovat také čl. 4 odst. 1 Protokolu č. 7 k Úmluvě o ochraně lidských práv a základních svobod. Daňové řízení a trestní stíhání pro skutek spočívající v tom, že nesplnění povinnosti tvrzení vykazovalo vedle platebního deliktu, významného v oblasti správního trestání, znaky trestného činu zkrácení daně, poplatku a podobné povinné platby podle § 240 tr. zákoníku, jsou řízeními o totožném skutku. To platí za situace, že subjekt tohoto trestného činu a daňový subjekt je totožná fyzická osoba (k tomu srov. č. 51/1997 Sb. rozh. tr.). Pravomocné rozhodnutí, jímž se skončí jedno ze souběžně či postupně vedeného daňového a trestního řízení, která…"
+
 #### Povaha penále — zákonná sankce za nesprávné tvrzení zjištěné doměřením
 
 Penále je **zákonným příslušenstvím daně** (§ 2 odst. 5 DŘ). Vzniká **ex lege** — okamžikem, kdy je doměřovacím výměrem pravomocně stanovena vyšší daň (nebo nižší odpočet / ztráta) oproti poslední známé dani. Správce daně vydává **platební výměr**, jenž má deklaratorní povahu: povinnost penále vznikla zákonem, výměr ji pouze deklaruje a vykonatelně stanoví. Odvolání je proto omezeno na přezkum správnosti výpočtu zákonné povinnosti (zejména zda základ — tj. výše doměrku — odpovídá výroku doměřovacího výměru).
