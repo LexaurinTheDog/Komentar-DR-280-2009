@@ -102,13 +102,33 @@ Pokud daňový subjekt odešle elektronické podání způsobem, který nesplňu
 >
 > *- b) elektronicky s využitím dálkového přístupu ve stanoveném formátu a požadované datové struktuře.*
 >
-> *(3) Ve formulářovém podání lze kromě obecných náležitostí podání požadovat [… údaje o dani, identifikační údaje, údaje o skutečnostech prokazujících tvrzení daňového subjektu, další zákonné údaje …]*
+> *(3) Ve formulářovém podání lze kromě obecných náležitostí podání požadovat*
 >
-> *(4) Ministerstvo financí stanoví pro jednotlivé druhy daní vyhláškou obsahovou strukturu formulářového podání […]*
+> *- a) údaje označující správce daně a podání, které je činěno,*
+>
+> *- b) identifikační, kontaktní a platební údaje osoby zúčastněné na správě daní,*
+>
+> *- c) údaje o dani, které se podání týká, a co se ve vztahu k ní navrhuje,*
+>
+> *- d) údaje o skutečnostech prokazujících tvrzení daňového subjektu,*
+>
+> *- e) další údaje nezbytné pro správu daní,*
+>
+> *- f) další údaje, které stanoví zákon.*
+>
+> *(4) Ministerstvo financí stanoví pro jednotlivé druhy daní vyhláškou obsahovou strukturu formulářového podání, a to prostřednictvím stanovení*
+>
+> *- a) uspořádání obecných náležitostí tohoto podání a požadovaných údajů,*
+>
+> *- b) podrobností obecných náležitostí tohoto podání,*
+>
+> *- c) podrobností údajů podle odstavce 3 nebo*
+>
+> *- d) vzoru tohoto podání.*
 >
 > *(5) Ministerstvo financí může stanovit pro jednotlivé druhy daní vyhláškou formát elektronického formulářového podání.*
 >
-> *(6) Má-li daňový subjekt nebo jeho zástupce zpřístupněnu datovou schránku, která se zřizuje ze zákona, nebo zákonem uloženou povinnost mít účetní závěrku ověřenou auditorem, je povinen formulářové podání učinit pouze elektronicky podle odstavce 2 písm. b), a to datovou zprávou odeslanou způsobem uvedeným v § 71 odst. 1; při tom se nepřihlíží k datové schránce fyzické osoby podle jiného právního předpisu, kterou lze znepřístupnit na žádost.*
+> *(6) Má-li daňový subjekt nebo jeho zástupce zpřístupněnu datovou schránku, která se zřizuje ze zákona, nebo zákonem uloženou povinnost mít účetní závěrku ověřenou auditorem, je povinen formulářové podání učinit pouze elektronicky podle odstavce 2 písm. b), a to datovou zprávou odeslanou způsobem uvedeným v § 71 odst. 1; při tom se nepřihlíží k datové schránce fyzické osoby podle jiného právního předpisu5), kterou lze znepřístupnit na žádost.*
 
 **Výklad:**
 
@@ -238,13 +258,13 @@ Vztah k místní příslušnosti: § 75 se uplatní u podání; pro dožádání
 >
 > *(1) Při správě daní se jedná a písemnosti se vyhotovují v českém jazyce.*
 >
-> *(2) Písemnosti vyhotovené v jiném než českém jazyce musí být předloženy v originálním znění, a současně v překladu do jazyka českého, pokud správce daně neprohlásí, že takový překlad nevyžaduje nebo že požaduje úředně ověřený překlad […]*
+> *(2) Písemnosti vyhotovené v jiném než českém jazyce musí být předloženy v originálním znění, a současně v překladu do jazyka českého, pokud správce daně neprohlásí, že takový překlad nevyžaduje nebo že požaduje úředně ověřený překlad; takové prohlášení může správce daně učinit na své úřední desce i pro neurčitý počet písemností v budoucnu.*
 >
-> *(3) Každý, kdo neovládá jazyk, jímž se vede jednání, má právo na tlumočníka zapsaného v seznamu tlumočníků, kterého si obstará na své náklady.*
+> *(3) Každý, kdo neovládá jazyk, jímž se vede jednání, má právo na tlumočníka10) zapsaného v seznamu tlumočníků, kterého si obstará na své náklady.*
 >
-> *(4) Občan České republiky příslušející k národnostní menšině […] má před správcem daně právo činit podání a jednat v jazyce své národnostní menšiny. […] Náklady na tlumočení […] v tomto případě nese správce daně.*
+> *(4) Občan České republiky příslušející k národnostní menšině, která tradičně a dlouhodobě žije na území České republiky11), má před správcem daně právo činit podání a jednat v jazyce své národnostní menšiny. Nemá-li správce daně úřední osobu znalou jazyka národnostní menšiny, obstará si tento občan tlumočníka zapsaného v seznamu tlumočníků. Náklady na tlumočení a náklady na pořízení překladů v tomto případě nese správce daně.*
 >
-> *(5) Osobě neslyšící ustanoví správce daně na své náklady tlumočníka znakové řeči […]*
+> *(5) Osobě neslyšící ustanoví správce daně na své náklady tlumočníka znakové řeči podle jiného právního předpisu12). Osobě neslyšící, která neovládá znakovou řeč, ustanoví správce daně prostředníka, který je schopen se s ní dorozumět pomocí metody zřetelné artikulace. Osobě hluchoslepé bude ustanoven za stejných podmínek prostředník, který je schopen se s ní dorozumět pomocí řeči pro hluchoslepé.*
 
 **Výklad:**
 
@@ -266,17 +286,17 @@ Vztah k místní příslušnosti: § 75 se uplatní u podání; pro dožádání
 >
 > *- c) její poměr k osobě zúčastněné na správě daní nebo k předmětu daně vzbuzuje jiné pochybnosti o její nepodjatosti.*
 >
-> *(2) Osoba zúčastněná na správě daní je oprávněna namítat podjatost úřední osoby, jakmile se o ní dozví. Úřední osoba je povinna neprodleně oznámit okolnosti nasvědčující podjatosti úřední osobě stojící v čele správce daně.*
+> *(2) Osoba zúčastněná na správě daní je oprávněna namítat podjatost úřední osoby, jakmile se o ní dozví. Úřední osoba je povinna neprodleně oznámit úřední osobě stojící v čele správce daně okolnosti nasvědčující podjatosti.*
 >
 > *(3) Úřední osoba, o jejíž nepodjatosti jsou důvodné pochybnosti, smí do doby, než bude rozhodnuto o tom, zda je vyloučena, provést ve věci jen neodkladné úkony.*
 >
-> *(4) O tom, zda je úřední osoba vyloučena, rozhodne úřední osoba stojící v čele správce daně; v případě, že je vyloučena, určí místo ní jinou úřední osobu, která není k vyloučené úřední osobě ve vztahu podřízenosti. Není-li takové nepodjaté úřední osoby, požádá […] nejblíže nadřízeného správce daně, aby dožádal jiného správce daně […]*
+> *(4) O tom, zda je úřední osoba vyloučena, rozhodne úřední osoba stojící v čele správce daně; v případě, že je vyloučena, určí místo ní jinou úřední osobu, která není k vyloučené úřední osobě ve vztahu podřízenosti. Není-li takové nepodjaté úřední osoby, požádá úřední osoba stojící v čele správce daně nejblíže nadřízeného správce daně, aby dožádal jiného správce daně o provedení úkonů, jejichž výkon by příslušel podjaté úřední osobě, pokud nadřízený správce daně tyto úkony neprovede sám.*
 >
-> *(5) Při pochybnostech o nepodjatosti úřední osoby stojící v čele správce daně rozhodne nejblíže nadřízený správce daně; v případě vyloučení rozhodne o delegaci na jiného správce daně.*
+> *(5) Při pochybnostech o nepodjatosti úřední osoby stojící v čele správce daně rozhodne o tom, zda je vyloučena, nejblíže nadřízený správce daně; v případě, že dojde k vyloučení této úřední osoby, rozhodne o delegaci podle § 18 na jiného správce daně.*
 >
 > *(6) Ustanovení předchozích odstavců se nepoužijí pro úřední osoby stojící v čele ústředních správních orgánů.*
 >
-> *(7) Rozhodnutí o tom, zda je úřední osoba vyloučena, se doručuje dotčené úřední osobě a daňovému subjektu. Proti rozhodnutí o vyloučení nelze uplatnit opravné prostředky.*
+> *(7) Rozhodnutí o tom, zda je úřední osoba vyloučena, se doručuje dotčené úřední osobě a daňovému subjektu. Došlo-li k zahájení řízení o tom, zda je úřední osoba vyloučena, na základě námitky jiné osoby zúčastněné na správě daní, správce daně ji o výsledku tohoto řízení vyrozumí. Proti rozhodnutí o tom, zda je úřední osoba vyloučena, nelze uplatnit opravné prostředky.*
 >
 > *(8) Ustanovení odstavců 1 až 4 a 7 se použijí pro znalce a tlumočníky obdobně.*
 
@@ -436,7 +456,7 @@ Správce daně má právo nejen nahlédnout do souborů na nosičích dat, ale i
 >
 > *(3) Správce daně si může od osoby, u níž je místní šetření prováděno, vyžádat nebo odebrat pro účely bližšího posouzení nebo expertizy vzorky věcí. Takto získané vzorky se vrací po expertize či posouzení, připouští-li to jejich povaha.*
 >
-> *(4) Zapůjčení dokladů a jiných věcí nebo odebrání vzorků potvrdí správce daně při jejich převzetí nebo odebrání. Převzaté doklady a další věci nebo odebrané vzorky vrátí správce daně osobě, od které je převzal, nejpozději do 30 dnů od jejich převzetí nebo odebrání. Ve zvlášť složitých případech […] může tuto lhůtu prodloužit nejblíže nadřízený správce daně; pokud důvody pro zapůjčení trvají, může být tato lhůta z důležitých důvodů prodlužována opakovaně.*
+> *(4) Zapůjčení dokladů a jiných věcí nebo odebrání vzorků potvrdí správce daně při jejich převzetí nebo odebrání. Převzaté doklady a další věci nebo odebrané vzorky vrátí správce daně osobě, od které je převzal, nejpozději do 30 dnů od jejich převzetí nebo odebrání. Ve zvlášť složitých případech, zejména je-li nutno zapůjčené doklady a další věci nebo odebrané vzorky podrobit vnější expertize, může tuto lhůtu prodloužit nejblíže nadřízený správce daně; pokud důvody pro zapůjčení trvají, může být tato lhůta z důležitých důvodů prodlužována opakovaně.*
 
 **Výklad:**
 
