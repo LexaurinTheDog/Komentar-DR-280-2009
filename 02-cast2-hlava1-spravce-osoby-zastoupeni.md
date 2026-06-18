@@ -259,6 +259,11 @@ Mezitímní správu (odst. 2) vykonává **dosavadní příslušný správce** d
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [2 Afs 247/2020 - 44](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/671977) — 20. 8. 2021
+  > „Zavedení celostátní územní působnosti finančních úřadů v případě vybrané působnosti lze kombinovat s institutem dožádání podle § 17 daňového řádu. Podle okolností totiž může být žádoucí, aby dokazování nebo vyčíslení daně provedl finanční úřad, který provádí kontrolní postupy. Daň jako takovou však nadále vydáním platebního výměru stanoví finanční úřad místně příslušný podle obecných pravidel. […] Předmětem dožádání může být např. opatřování důkazů, resp. pomůcek, nikoli však jejich hodnocení"
+
 #### Dožádání jako nástroj meziorgánové součinnosti
 
 Dožádání je **delegace provedení konkrétního úkonu** na jiného věcně příslušného správce daně. Smyslem je procesní ekonomie: dožadující správce daně je sice místně příslušný vůči daňovému subjektu, avšak provedení konkrétního úkonu by bylo pro něj technicky obtížné (například výslech svědka sídlícího v jiném územním obvodu, místní šetření v sídle nebo provozovně vzdálené daňového subjektu).
@@ -288,6 +293,11 @@ Dožádaný správce daně je **povinen** dožádané úkony provést — i úko
 > *(2) Při změně okolností, za kterých bylo o delegaci rozhodnuto, nebo okolností rozhodných pro určení místní příslušnosti rozhodne správce daně, který rozhodnutí vydal, o zrušení, změně, nebo potvrzení delegace; jestliže by mohlo dojít ke změně místní příslušnosti mimo obvod územní působnosti tohoto správce daně, rozhodne místo něj nejblíže společně nadřízený správce daně; proti tomuto rozhodnutí nelze uplatnit opravné prostředky.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [4 Afs 178/2020 - 38](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/656680) — 30. 10. 2020
+  > „[s]právní orgán rozhodující o delegaci místní příslušnosti správce daně z důvodu účelnosti (§ 18 odst. 1 zákona č. 280/2009 Sb., daňového řádu) zkoumá zejména, zda realizace podnikatelských aktivit probíhá v místě formálního sídla daňového subjektu, v místě jeho provozovny či jinde, resp. o jaký druh podnikatelských aktivit se jedná. Je možné delegovat místní příslušnost na správce daně se sídlem blíže místu reálného podnikání daňového subjektu, pokud bude následně správa daní efektivnější a hospodárnější pro daňový subjekt i pro správce daně"
 
 #### Delegace — dobrovolná nebo z moci úřední změna místní příslušnosti
 
@@ -372,6 +382,13 @@ Shodně jako u delegace (§ 18 odst. 1) zákon vylučuje opravné prostředky. A
 > *(3) Osoby ustanovené podle zákona, které plní povinnosti stanovené daňovým subjektům, zejména osoba spravující pozůstalost, svěřenský správce a insolvenční správce, mají stejná práva a povinnosti jako daňový subjekt.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [30 Af 65/2016 - 118](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/421158) — 28. 2. 2020
+  > „Toto ustanovení časově limituje povinnosti daňového subjektu nejen ke stanovení daně, ale i k jejímu zjištění. Tato norma je tedy evidentně širší a zahrnuje nejen řízení nalézací, ale i všechna další řízení směřující ke správnému zjištění daně. […] (správa daně je postup, jehož cílem je správné zjištění a stanovení daní a zabezpečení jejich úhrady)"
+- *NSS* [30 Af 58/2018 - 31](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/411381) — 30. 11. 2020
+  > „Podle § 20 odst. 3 zákona č. 280/2009 Sb., daňový řád, má insolvenční správce stejná práva a povinnosti jako daňový subjekt. Podle § 246 odst. 1 insolvenčního zákona přechází na insolvenčního správce oprávnění nakládat s majetkovou podstatou jakož i výkon práv a plnění povinností, které přísluší dlužníkovi, pokud souvisí s majetkovou podstatou. Zejména dle citovaného ustanovení přechází na insolvenčního správce plnění daňových povinností"
 
 #### Pojem daňového subjektu — trojí zákonné vymezení
 
@@ -713,6 +730,11 @@ Tím je zajištěna **kontinuita zastoupení** bez nutnosti plnou moc opakovaně
 > *(6) Pokud v téže věci jedná zmocnitel i zmocněnec, je rozhodující jednání zmocnitele.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [5 Afs 120/2024 - 57](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/740099) — 21. 3. 2025
+  > „podle § 28 odst. 1 daňového řádu může být zmocnění uděleno v různém rozsahu – k určitému úkonu, skupině úkonů, pro určitou část řízení či pro celé řízení. Při posuzování rozsahu zmocnění „je v pochybnostech vždy namístě položit si otázku, jakým úmyslem byli zmocnitel a zmocněnec vedeni při sepisování plné moci“ […] je třeba při posouzení rozsahu zastoupení na základě plné moci stejně jako u jiných právních jednání přisuzovat účastníkům právních vztahů jistou míru racionality"
 
 #### Povinnost vymezit rozsah zmocnění (odst. 1)
 

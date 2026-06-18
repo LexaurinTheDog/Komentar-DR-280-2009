@@ -24,6 +24,15 @@
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [Pl.ÚS 24/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-24-14_1) — nález, 30. 6. 2015
+  > „Podle § 1 odst. 3 zákona č. 280/2009 Sb., daňový řád, je daňové přiznání, hlášení nebo vyúčtování podané daňovým subjektem „základem pro správné zjištění a stanovení daně“. Správné zjištění a stanovení daní je spolu se zabezpečením jejich úhrady cílem správy daní (viz § 1 odst. 2 zákona č. 280/2009 Sb., daňový řád). Důvodová zpráva k daňovému řádu k tomu uvádí, že „v tomto ohledu cíl správy daní navazuje na smysl samotné existence daní, kterým je zajištění financování veřejných potřeb společnosti…“"
+- *ÚS* [Pl.ÚS 3/13](https://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-3-13_1) — nález, 15. 10. 2013
+  > „Škodlivost nastane v případě, kdy porušení zákonné povinnosti vede k ohrožení určitého veřejného zájmu. V daném případě jde především o veřejný zájem na správném stanovení a výběru daně, který vyplývá z § 1 odst. 2 zákona č. 280/2009 Sb., daňový řád, kde je vymezen základní cíl správy daní"
+- *NSS* [6 Afs 269/2015 - 31](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/638771) — 26. 5. 2016
+  > „Za prvé, základní rysem vybírání daní a poplatků je skutečnost, že daň je vybírána korektně s ohledem na skutečný příjem daňového subjektu za uplynulé zdaňovací období, nikoliv v maximální možné výši. V platném daňovém právu nalézá tento princip svůj odraz v ustanovení § 1 odst. 2 zákona č. 280/2009 Sb., daňového řádu, ve znění pozdějších předpisů, který spatřuje cíl daňového řízení ve vybrání daně tak, aby nebyly zkráceny daňové příjmy, nikoliv tak, aby bylo dosaženo nejvyššího možného daňového příjmu"
+
 #### Rozsah působnosti (odst. 1) — trojice subjektů
 
 Zákon upravuje trojici vztahů: (i) postup **správců daní**, (ii) **práva a povinnosti daňových subjektů** a (iii) **práva a povinnosti třetích osob**. Třetí skupinou jsou tzv. osoby zúčastněné na správě daní ve smyslu § 5 odst. 3, tedy svědci, znalci, poddlužníci, ručitelé, správce konkursní podstaty, banky poskytující informace apod. DŘ tedy není toliko zákonem o vztahu stát–poplatník, nýbrž obecným procesním kodexem pro celý okruh veřejnoprávních vztahů při správě daní.
@@ -93,14 +102,10 @@ Pojem „daňové tvrzení" je legislativní zkratkou zavedenou DŘ; ZSDP ji nez
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [29 ICdo 101/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/FB63DF665163ABEDC12588A80017E01F?openDocument) — 14. 6. 2022, kat. A
-  > „Pohledávka z titulu odvodu za porušení rozpočtové kázně vzniká (a stává se splatnou) již dnem porušení rozpočtové kázně, nikoli až vydáním (nebo právní mocí) platebního výměru, jímž příslušný finanční úřad (správce daně) uloží příjemci dotace provést odvod za porušení rozpočtové kázně. Je-li podle rozhodnutí o poskytnutí dotace porušením rozpočtové kázně skutečnost, že ve vymezené době byl prohlášen konkurs na majetek příjemce dotace, pak pohledávka z titulu odvodu za porušení rozpočtové kázně, která vznikla prohlášením konkursu na majetek příjemce dotace, je i tam, kde insolvenční soud spojil rozhodnutí o prohlášení konkursu s rozhodnutím o úpadku dlužníka (§ 148 odst. 1 insolvenčního zákona), pohledávkou vzniklou ve smyslu § 168 odst. 2 písm. e/ insolvenčního zákona „po rozhodnutí o úpadku“ dlužníka. U pohledávky, která je obsažena v taxativním výčtu pohledávek za majetkovou…"
-- *NS* [1 To 30/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/A308A2A904208E17C1258BD3002AEB32?openDocument) — 14. 4. 2022, kat. A
-  > „Pohledávka vyplývající z povinnosti odsouzeného nahradit státu náklady spojené s výkonem vazby, jež se podle § 2 odst. 3 písm. b) daňového řádu považuje za daň a jejíž placení se podle § 361a tr. ř. spravuje podle daňového řádu, je splatná až po rozhodnutí o výši nákladů výkonu vazby vydaného ředitelem věznice podle § 11 odst. 1 vyhlášky č. 10/2000 Sb., ve znění pozdějších předpisů, na základě pravomocného rozhodnutí soudu, kterým byla odsouzenému taková povinnost uložena. Teprve od takto stanoveného okamžiku běží lhůta pro její placení v trvání 6 let ve smyslu § 160 odst. 1 daňového řádu, a proto rozhodnutí o uvedené povinnosti odsouzeného podle § 152 odst. 1 písm. a) tr. ř. nebrání námitka nemožnosti jejího výběru a vymáhání podle § 160 odst. 1 daňového řádu"
-- *NS* [29 ICdo 141/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/3883BB725F79CE03C125845200183A93?openDocument) — 30. 5. 2019, kat. A
-  > „Lhůta ke složení jistoty na náklady řízení incidenčního sporu určená ustanovením § 202 odst. 3 insolvenčního zákona je při platbě jistoty prováděné na základě bezhotovostního příkazu k úhradě prostřednictvím banky (poskytovatele platebních služeb) zachována, jen je-li stanovená částka (jistota) nejpozději posledního dne lhůty připsána na účet příslušného insolvenčního soudu"
-- *NS* [29 ICdo 23/2016](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/DCC1CD02DCB7F714C12582C600479925?openDocument) — 27. 3. 2018, kat. A
-  > „Pohledávka vzniklá po rozhodnutí o úpadku dlužníka z titulu přeplatku na dávce pěstounské péče není pohledávkou za majetkovou podstatou ve smyslu ustanovení § 168 odst. 2 písm. e/ insolvenčního zákona. Veřejnoprávní pohledávka, která vznikla po rozhodnutí o úpadku dlužníka, není ve smyslu ustanovení § 168 odst. 2 písm. e/ insolvenčního zákona daní, poplatkem nebo jiným obdobným peněžitým plněním jen proto, že ve smyslu § 2 odst. 3 písm. b/ daňového řádu se pro účely daňového řádu rozumí daní peněžité plnění, pokud zákon stanoví, že se při jeho správě postupuje podle daňového řádu"
+- *NS* [29 ICdo 23/2016](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/DCC1CD02DCB7F714C12582C600479925?openDocument) — kat. A, 27. 3. 2018
+  > „Veřejnoprávní pohledávka, která vznikla po rozhodnutí o úpadku dlužníka, není ve smyslu ustanovení § 168 odst. 2 písm. e/ insolvenčního zákona daní, poplatkem nebo jiným obdobným peněžitým plněním jen proto, že ve smyslu § 2 odst. 3 písm. b/ daňového řádu se pro účely daňového řádu rozumí daní peněžité plnění, pokud zákon stanoví, že se při jeho správě postupuje podle daňového řádu"
+- *NS* [1 To 30/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/A308A2A904208E17C1258BD3002AEB32?openDocument) — kat. A, 14. 4. 2022
+  > „Pohledávka vyplývající z povinnosti odsouzeného nahradit státu náklady spojené s výkonem vazby, jež se podle § 2 odst. 3 písm. b) daňového řádu považuje za daň a jejíž placení se podle § 361a tr. ř. spravuje podle daňového řádu, je splatná až po rozhodnutí o výši nákladů výkonu vazby vydaného ředitelem věznice podle § 11 odst. 1 vyhlášky č. 10/2000 Sb., ve znění pozdějších předpisů, na základě pravomocného rozhodnutí soudu, kterým byla odsouzenému taková povinnost uložena"
 
 #### Předmět správy — daně jako příjem nebo snížení příjmu veřejného rozpočtu (odst. 1)
 
@@ -334,6 +339,11 @@ Odst. 3 je jednou z nejdůležitějších a nejčastěji citovaných zásad daň
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [31 Af 25/2024 - 52](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/743242) — 17. 6. 2025
+  > „K samotné poučovací povinnosti správce daně, vyjádřené v § 6 odst. 3 zákona č. 280/2009 Sb., daňový řád, je nutno nejprve poznamenat, že se vztahuje pouze na procesní práva a povinnosti. Zároveň nemůže být chápána tak široce, že by měl správce daně daňovému subjektu přímo radit, jak by měl postupovat. Nemůže například ani dopředu stanovit, které důkazní prostředky bude považovat za průkazné a které nikoliv. Citované ustanovení směřuje k obecnému poučení o tom, co vyplývá pro tu kterou situaci z procesních předpisů…"
+
 #### Zásada procesní rovnosti (odst. 1)
 
 Daňové řízení není kontradiktorním sporem dvou rovnocenných stran — správce daně stojí z povahy věci na straně veřejnoprávní moci, zatímco daňový subjekt je povinným. Procesní rovnost proto nemůže být absolutní; DŘ deklaruje rovnost **procesních práv a povinností**, nikoli rovnost procesního postavení (to by bylo contra naturam daňového procesu).
@@ -445,6 +455,15 @@ Odst. 2 obsahuje tři propojené požadavky:
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [9 Af 11/2025 - 91](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/780922) — 29. 1. 2026
+  > „Zákaz zneužití práva byl v rámci transpozice čl. 6 odst. 1 směrnice Rady (EU) 2016/1164, ze dne 12. 7. 2016, s účinností od 1. 4. 2017, prvně výslovně upraven v § 8 odst. 4 zákona č. 280/2009 Sb., daňového řádu, podle něhož při správě daní se nepřihlíží k právnímu jednání a jiným skutečnostem rozhodným pro správu daní, jejichž převažujícím účelem je získání daňové výhody v rozporu se smyslem a účelem daňového právního předpisu"
+- *NSS* [3 Af 20/2021 - 47](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/713559) — 11. 7. 2023
+  > „Na tom nemůže ničeho změnit ani skutečnost, že smlouva mezi ALMAX a jejími zaměstnanci je nazvána jako ubytovací, neboť je třeba dbát zásady materiální pravdy zakotvené v § 8 odst. 3 zákona č. 280/2009 Sb., daňového řádu, podle níž je vždy podstatný faktický obsah a rozsah poskytnuté služby"
+- *NSS* [5 Afs 233/2023 - 57](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/724841) — 16. 9. 2024
+  > „Správce daně provádí kontrolu plnění daňových povinností a je povinen posoudit tvrzené skutečnosti dle jejich skutečného obsahu ve smyslu § 8 odst. 3 daňového řádu"
+
 #### Volné hodnocení důkazů (odst. 1)
 
 Odst. 1 zakotvuje zásadu **volného hodnocení důkazů** — správce daně hodnotí každý důkaz samostatně i v kontextu všech ostatních důkazů, přičemž není vázán žádným zákonným důkazním standardem ani pořadím důkazní síly. Zákon nestanoví, že listinné důkazy mají vyšší váhu než svědecké výpovědi nebo znalecké posudky — je na správci, aby na základě svobodné úvahy posoudil věrohodnost a průkaznost každého důkazu.
@@ -540,6 +559,13 @@ Klíčové je slovo **„převažující"** — GAAR se neaplikuje, je-li daňov
 > *(3) Správce daně může zpracovávat osobní údaje a jiné údaje, jsou-li potřebné pro správu daní, a to jen v rozsahu, který je nezbytný pro dosažení cíle správy daní.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [5 Afs 291/2021 - 39](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/714994) — 9. 10. 2023
+  > „Legitimní očekávání naopak nemůže založit existence jediného rozhodnutí, s nímž se navíc veřejnost běžně neseznamuje [v souladu s § 9 odst. 1 zákona č. 280/2009 Sb., daňový řád, ve znění pozdějších předpisů je správa daní neveřejná], zavazuje tedy pouze své adresáty"
+- *NSS* [31 Af 41/2011 - 24](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/559642) — 24. 7. 2012
+  > „Z ust. § 9 odst. 2 a § 90 zákona č. 280/2009 Sb, daňového řádu, vyplývá, že celní řízení je ovládáno zásadou oficiality. Žalovaný je povinen zahájit celní řízení vždy, jakmile jsou pro to splněny zákonné podmínky"
 
 #### Zásada neveřejnosti a mlčenlivosti (odst. 1)
 

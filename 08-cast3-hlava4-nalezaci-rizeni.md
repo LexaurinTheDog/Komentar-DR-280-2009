@@ -28,6 +28,11 @@ Procesní rámec nalézacího řízení (zahájení, dokazování, lhůty k úko
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [2 Afs 254/2021 - 50](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/708813) — 28. 2. 2023
+  > „Daňový subjekt má podle § 135 odst. 2 zákona č. 280/2009 Sb., daňový řád, v rozhodném znění (dále jen „daňový řád“), povinnost sám v řádném daňovém přiznání tvrdit a uvést správné údaje rozhodné pro stanovení daně. Na základě tvrzení daňového subjektu poté správce daně konkludentně vyměří daň, nemá-li o její výši pochybnosti. Při konkludentním vyměření správce daně žádným způsobem nezkoumá, nehodnotí, neposuzuje zákonnost výše základu daně, daně a jejich právního a skutkového základu. … Břemeno správného tvrzení daně tak leží na daňovém subjektu. Ten také odpovídá za to, že se tvrzení zakládá na pravdivých informacích"
+
 #### Povinnost podat řádné daňové tvrzení (odst. 1)
 
 Řádné daňové tvrzení je **primárním zákonným nástrojem** pro zahájení nalézacího řízení. Zákon rozlišuje dvě základní situace vzniku povinnosti:
@@ -281,6 +286,11 @@ Výjimka: byl-li platební výměr vydán na základě **rozhodnutí o závazné
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [9 Af 64/2016 - 65](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/444372) — 29. 1. 2019
+  > „… doměřovací řízení (§ 141 a násl. uvedeného zákona) nelze považovat za samostatná a oddělená dílčí řízení s odlišným předmětem; z hlediska § 1 odst. 2 téhož zákona tvoří jeden celek, tj. jedno nalézací daňové řízení, jehož cílem je správné stanovení daně. … Specifická povaha nástrojů, kterými daňový řád připouští možnost změny (zrušení) daně (§ 141 a § 143 zákona č. 280/2009 Sb., daňového řádu), neznamená, že v důsledku jejich použití se nemůže jednat o změnu rozhodnutí o stanovení daně ve smyslu § 254 téhož zákona"
+
 #### Povinnost podat dodatečné daňové přiznání — výše (odst. 1)
 
 Zákon ukládá daňovému subjektu **aktivní povinnost** podat dodatečné daňové přiznání (dále „DDP") nebo dodatečné vyúčtování, zjistí-li, že jeho daňová povinnost je vyšší, než odpovídá **poslední známé dani**. Povinnost platí po celou dobu, kdy běží lhůta pro stanovení daně (§ 148 DŘ) — po jejím uplynutí povinnost zaniká spolu s možností daň doměřit.
@@ -410,6 +420,11 @@ Je-li doměřená daň vyšší než daň dle DDP (nebo jde o doměření z moci
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [3 Af 4/2017 - 221](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/608996) — 9. 4. 2021
+  > „Daň lze stanovit v souladu s tvrzením daňového subjektu (§ 144 odst. 1 zákona č. 280/2009 Sb., daňového řádu) jen tehdy, je-li toto tvrzení srozumitelné, vážné a vnitřně nerozporné. Neodhalil-li správce daně zjevný rozpor mezi nově vypočteným nižším základem daně ve vlastním dodatečném daňovém přiznání a údaji v jeho příloze (ze kterých byl zřejmý záměr naopak zvýšit základ daně), a doměřil daň podle tvrzení daňového subjektu, měl to napravit poté, co jej daňový subjekt na svůj omyl upozornil"
+
 #### Konkludentní doměření — zrcadlový obraz § 140
 
 § 144 je přímou obdobou § 140 (konkludentní vyměření) pro doměřovací řízení. Principy jsou totožné; liší se jen terminologie (DPV místo PV, DDP místo DP). Výklad platí mutatis mutandis.
@@ -435,6 +450,11 @@ Výjimky — jsou-li splněny (postup k odstranění pochybností nebo daňová 
 > *(4) Nevyhoví-li daňový subjekt výzvě k podání daňového tvrzení a neučiní-li ve lhůtě uvedené ve výzvě podání, kterým se zahajuje vyměřovací nebo doměřovací řízení, je vyměřovací nebo doměřovací řízení zahájeno uplynutím této lhůty.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [6 Afs 395/2021 - 64](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/710042) — 5. 4. 2023
+  > „Zahájení daňové kontroly přerušuje prekluzivní lhůtu pro stanovení daně (§ 148 odst. 3 zákona č. 280/2009 Sb., daňového řádu), byť správce daně před zahájením této kontroly nevyzval daňový subjekt k podání dodatečného daňového tvrzení (§ 145 odst. 2 daňového řádu), ač pro to podle zákona byly podmínky. Takovéto opomenutí správce daně sice je nezákonné, avšak nejde o takovou vadu, která by měla vztah k výši následně doměřené daně"
 
 #### Výzva k podání řádného tvrzení (odst. 1)
 
@@ -610,8 +630,10 @@ DŘ zná tři formy rozhodnutí o stanovení daně:
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [30 Cdo 2867/2016](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/846E1905EF5EBCB5C125828D00312EEC?openDocument) — 21. 2. 2018, kat. A
-  > „Povinnost zaplatit soudní poplatek, který byl splatný společně s podáním žaloby nebo odvolání, ale který nebyl uhrazen a soud již začal jednat ve věci samé, aniž by poplatníka k úhradě soudního poplatku vyzval, nelze podle zákona č. 549/1991 Sb., ve znění účinném od 1. 1. 2011, uložit po uplynutí 3 let od právní moci rozhodnutí, kterým bylo řízení skončeno"
+- *NSS* [15 Af 92/2015 - 49](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/514796) — 22. 8. 2017
+  > „Smysl lhůt pro stanovení daně a s nimi spojené prekluze daňové povinnosti (resp. pravomoci správce daně vyměřit daň) spočívá v ochraně právní jistoty daňového subjektu, který se může spolehnout na to, že pokud uplynula lhůta pro vyměření daně, není možné, aby mu správce daně vyměřil daň nebo již pravomocně stanovenou daňovou povinnost jakkoli měnil"
+- *NSS* [1 Afs 368/2019 - 27](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/654870) — 28. 5. 2020
+  > „Není-li spotřební daň z vybraných výrobků stanovena ve lhůtě pro stanovení daně ve smyslu § 148 odst. 1 zákona č. 280/2009 Sb., daňový řád, (dojde k zániku práva vyměřit spotřební daň), nelze již vybrané výrobky zdanit a propadnutím těchto výrobků již nelze docílit účelu zákona o spotřebních daních"
 
 #### Povaha lhůty pro stanovení daně — prekluzivní, hmotněprávní
 

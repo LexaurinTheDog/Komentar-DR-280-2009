@@ -68,6 +68,11 @@ Požadavek „co se navrhuje" není třeba formulovat právně přesně — post
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [Pl.ÚS 24/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-24-14_1) — nález, 30. 6. 2015
+  > „Pro takové případy zná zákon č. 280/2009 Sb., daňový řád, podle ustanovení § 71 odst. 3 možnost dodatečného potvrzení či zopakování podání některým ze zákonných způsobů ve lhůtě 5 dnů s tím, že v takovém případě jsou účinky původního podání zachovány. Pokud není podání tímto způsobem zopakováno nebo potvrzeno, hledí se na něj, jako kdyby nebylo vůbec podáno"
+
 #### Tři formy podání
 
 DŘ rozlišuje tři základní formy podání:
@@ -1133,6 +1138,13 @@ Povinnost uchovávat záznamy je vázána na **lhůtu pro stanovení daně** —
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [III.ÚS 3023/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-3023-14_1) — nález, 5. 2. 2015
+  > „Daňové předpisy umožňují správci daně přistoupit ke stanovení daně dle pomůcek za situace, kdy daňový subjekt neplní své zákonné povinnosti a z toho důvodu nelze daň stanovit dokazováním (§ 98 daňového řádu) … Nelze-li tedy v důsledku nedostatků na straně daňového subjektu daň (typicky z důvodu absence relevantních důkazů) stanovit dokazováním, je správce daně oprávněn (ale i povinen) zvolit pro stanovení daně metodu užití pomůcek"
+- *ÚS* [Pl.ÚS 24/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-24-14_1) — nález, 30. 6. 2015
+  > „Ačkoliv procesní úprava správy daní obsahuje postupy, které umožňují správné zjištění a stanovení daně i bez součinnosti s daňovým subjektem (typicky není-li možné stanovit daň na základě dokazování, stanoví ji správce daně na základě pomůcek podle § 98 zákona č. 280/2009 Sb., daňový řád), platí, že se jedná o postupy subsidiární, které z principu nastupují až tehdy, pokud daňový subjekt nedostojí své povinnosti tvrzení daně"
+
 #### Tři způsoby stanovení daně — hierarchie
 
 DŘ zavádí **hierarchii tří způsobů** stanovení daně, od nejpřesnějšího k nejméně přesnému:
@@ -1184,8 +1196,8 @@ Výjimky z možnosti vlastního posouzení (odst. 2): správce daně si nemůže
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [21 Cdo 930/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C32BC3F6A02E5A4FC125840600184FD2?openDocument) — 27. 2. 2019, kat. A
-  > „Správce daně nemá naléhavý právní zájem na určení vlastnického práva k nemovité věci, k níž zřizuje podle ustanovení § 170 odst. 1 daňového řádu zástavní právo k zajištění daňové pohledávky, dospěje- li k závěru, že zápis o vlastnictví v katastru nemovitostí neodpovídá skutečnému právnímu stavu. Otázku vlastnického práva k nemovité věci je správce daně v takovém případě oprávněn posoudit sám jako otázku předběžnou (§ 99 odst. 1 daňového řádu)"
+- *NS* [21 Cdo 930/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C32BC3F6A02E5A4FC125840600184FD2?openDocument) — kat. A, 27. 2. 2019
+  > „Správce daně nemá naléhavý právní zájem na určení vlastnického práva k nemovité věci, k níž zřizuje podle ustanovení § 170 odst. 1 daňového řádu zástavní právo k zajištění daňové pohledávky, dospěje-li k závěru, že zápis o vlastnictví v katastru nemovitostí neodpovídá skutečnému právnímu stavu. Otázku vlastnického práva k nemovité věci je správce daně v takovém případě oprávněn posoudit sám jako otázku předběžnou (§ 99 odst. 1 daňového řádu)"
 
 ---
 
@@ -1310,8 +1322,8 @@ Z hlediska praxe jsou nejdůležitější:
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [29 ICdo 4/2017](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/E8D1B8461DF60D5CC12583F900210211?openDocument) — 31. 1. 2019, kat. A
-  > „Omezení kladené ustanovením § 199 odst. 2 insolvenčního zákona důvodům popření pravosti nebo výše přihlášené vykonatelné pohledávky přiznané pravomocným rozhodnutím příslušného orgánu se uplatní i tehdy, jde-li o rozhodnutí, které vydal jako příslušný orgán správce daně v daňovém řízení. V incidenčním sporu o pravost nebo výši vykonatelné pohledávky vzniklé rozhodnutím správního orgánu (včetně pohledávky daňové), insolvenční soud neřeší ani nemá řešit otázku souladnosti rozhodnutí správního orgánu, jímž byla pohledávka přiznána, s hmotným právem a tím, zda byla vydána v souladu s procesními předpisy s výjimkami danými insolvenčním zákonem pro aktivní legitimaci příslušných osob k podání žaloby o určení pravosti nebo výše takové vykonatelné pohledávky nebo pro důvody popření takové vykonatelné pohledávky totiž existence takového rozhodnutí nemá v incidenčním sporu žádný význam. V…"
+- *NS* [29 ICdo 4/2017](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/E8D1B8461DF60D5CC12583F900210211?openDocument) — kat. A, 31. 1. 2019
+  > „Omezení kladené ustanovením § 199 odst. 2 insolvenčního zákona důvodům popření pravosti nebo výše přihlášené vykonatelné pohledávky přiznané pravomocným rozhodnutím příslušného orgánu se uplatní i tehdy, jde-li o rozhodnutí, které vydal jako příslušný orgán správce daně v daňovém řízení. … V incidenčním sporu mají význam … jen ty procesní námitky, jež jsou způsobilé založit závěr, že příslušný správní akt je aktem nicotným (nulitním)"
 
 #### Právní moc
 
@@ -1369,6 +1381,11 @@ Oprava zřejmých nesprávností je **omezená forma nápravy formálních chyb*
 > *(5) Podnět, který neshledal správce daně oprávněným, odloží a podatele o tom do 30 dnů vyrozumí.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [III.ÚS 1780/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-1780-14_1) — usnesení, 5. 6. 2014
+  > „prohlášení o nicotnosti uvedeného platebního výměru by byl správce daně povinen vydat v případě, že by tento akt (ukázal-li by se být skutečně nicotným) měl nějakým způsobem v současnosti nebo budoucnosti zasáhnout do stěžovatelových (nebo jiných) oprávněných zájmů"
 
 #### Nicotnost vs. nezákonnost — zásadní rozdíl
 

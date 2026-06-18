@@ -20,6 +20,13 @@ Registrační povinnost nevzniká z DŘ samotného, nýbrž z **jednotlivých hm
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [9 Af 9/2014 - 81](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/536953) — 16. 3. 2016
+  > „Registrační povinnost (§ 125 až § 131 zákona č. 280/2009 Sb., daňového řádu) je otázkou pouze evidenční, nikoliv rozhodující pro plnění povinností a uplatnění práv plátce"
+- *NSS* [65 Af 42/2015 - 45](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/519058) — 25. 4. 2017
+  > „Registrační povinnost (§ 125 až § 131 zákona č. 280/2009 Sb., daňového řádu) je otázkou pouze evidenční, nikoliv rozhodující pro plnění povinností a uplatnění práv plátce. Nepřiznání nároku na odpočet DPH je výjimkou ze základní zásady, kterou tento nárok představuje, proto nepřiznání nároku na odpočet odběrateli nelze opírat toliko o zjištění, že dodavatel nebyl plátcem registrovaným"
+
 #### Povaha a obsah registrační povinnosti
 
 Ustanovení § 125 je **odkazovací normou** — sama o sobě registrační povinnost nezakládá, nýbrž jen pojmově vymezuje, kdy se v rovině DŘ o registrační povinnost jedná: jde o povinnost podat přihlášku k registraci k **jednotlivé dani**. Materiální podmínky vzniku (kdo je povinen, od kdy, ve vztahu ke které dani) stanoví vždy **příslušný hmotněprávní zákon**:
@@ -169,6 +176,11 @@ Retroaktivní fikce doručení „bez vady ke dni původního podání" chrání
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [57 Af 40/2019 - 93](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/674444) — 30. 9. 2021
+  > „Právo registrovat daňový subjekt z moci úřední jako plátce daně z přidané hodnoty (§ 129 odst. 3 zákona č. 280/2009 Sb., daňového řádu) zaniká ve lhůtě podle § 20 odst. 2 daňového řádu. […] smyslem právního institutu lhůty je „snížení entropie (neurčitosti) při uplatňování práv, resp. pravomocí, časové omezení stavu nejistoty v právních vztazích […], urychlení procesu rozhodování s cílem reálného dosažení zamýšlených cílů“"
+
 #### Lhůta pro vydání rozhodnutí a možnost prodloužení (odst. 1)
 
 Správce daně je vázán **zákonnou lhůtou 30 dnů** pro vydání rozhodnutí o registraci. Lhůta začíná běžet:
@@ -260,6 +272,11 @@ Povinnost je absolutní — i v situacích, kdy identifikace daňového subjektu
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [10 Af 18/2014 - 41](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/466220) — 7. 12. 2017
+  > „[…] nevydáním tohoto rozhodnutí [o přechodu místní příslušnosti správce daně podle § 131 daňového řádu] došlo ke zkrácení žalobcova práva na to, aby v jeho věci rozhodoval místně příslušný správce daně"
+
 #### Zvláštní mechanismus přechodu místní příslušnosti
 
 Zákonodárce v § 131 zvolil pro registrační agendu **zvláštní model přechodu místní příslušnosti**, odlišný od obecných pravidel § 13–16 DŘ (viz [02-cast2-hlava1-spravce-osoby-zastoupeni.md](02-cast2-hlava1-spravce-osoby-zastoupeni.md)). Změna místní příslušnosti v důsledku registrační události (přestěhování sídla, změna místa podnikání) probíhá ve třech krocích:
@@ -301,6 +318,11 @@ Institut závazného posouzení je znám v různých podobách v zahraničních 
 > *(3) Proti rozhodnutí o závazném posouzení nelze uplatnit opravné prostředky.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [45 Af 10/2016 - 44](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/465960) — 22. 1. 2018
+  > „[…] rozhodnutí o závazném posouzení není rozhodnutím ve smyslu § 65 s. ř. s., a tedy nezakládá, nemění, neruší ani závazně neurčuje práva nebo povinnosti žádajícího daňového subjektu, ale „pouze stanoveným postupem právně posuzuje daňovým subjektem deklarovanou daňovou situaci (finanční operaci) a vymezuje daňové důsledky z tohoto posouzení pro daňový subjekt vyplývající. Povinnost daňového subjektu řídit se názorem vyjádřeným v rozhodnutí o závazném posouzení není jeho vydáním založena.“"
 
 #### Editační povinnost správce daně — „vydá" (odst. 1)
 
@@ -347,6 +369,11 @@ Daňový subjekt, který s obsahem posouzení nesouhlasí, má de facto jedinou 
 > *(5) Prokáže-li se při stanovení daně, že podmínky, za kterých bylo rozhodnutí o závazném posouzení vydáno, nejsou splněny, nelze toto rozhodnutí v tomto daňovém řízení použít.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [45 Af 10/2016 - 44](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/465960) — 22. 1. 2018
+  > „Povinnost respektovat závěry vyslovené v rozhodnutí o závazném posouzení stíhá […] pouze správce daně, který bude rozhodovat o daňové povinnosti žadatele, a to za předpokladu, že v době rozhodování o daňové povinnosti je skutečný stav věci totožný s údaji, na jejichž základě bylo rozhodnutí o závazném posouzení vydáno"
 
 #### Závaznost rozhodnutí — jednostranná závaznost vůči správci (odst. 1)
 
@@ -424,6 +451,13 @@ Hlava III Části třetí obsahuje jediné ustanovení — § 134 — které vš
 > *(4) Součástí dílčích řízení podle odstavce 3 je případné řízení o řádném opravném prostředku proti rozhodnutí vydanému v těchto řízeních.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [1 Afs 238/2014 - 52](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/636073) — 27. 8. 2015
+  > „Daňový subjekt je oprávněn uplatnit daňovou ztrátu v řízení vyměřovacím, jehož účelem je stanovení daně, v řízení doměřovacím, které je vedeno za účelem stanovení změny poslední známé daně, a to i v rámci postupu k odstranění pochybností či daňové kontroly, jakož i v řízení o řádném opravném prostředku proti rozhodnutí vydanému ve vyměřovacím či doměřovacím řízení (viz § 134 zákona č. 280/2009 Sb., daňového řádu)"
+- *NSS* [29 Af 66/2017 - 32](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/442222) — 28. 3. 2019
+  > „[…] ačkoliv je vyměřovací a doměřovací řízení dle § 134 odst. 3 zákona č. 280/2009 Sb., daňového řádu […] specifickým druhem řízení, neboť se v něm do velké míry uplatní tzv. autoaplikace norem finančního práva (kdy daňový subjekt sám, bez autoritativního donucení správcem daně na sebe aplikuje normy finančního práva), neznamená to, že zde neuplatní obecná ustanovení pro daňové řízení"
 
 #### Pojem „daňové řízení" a jeho odlišení od „správy daní"
 

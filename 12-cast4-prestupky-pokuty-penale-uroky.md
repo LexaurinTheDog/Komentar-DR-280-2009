@@ -75,6 +75,11 @@ Porušení mlčenlivosti úřední osoby může být zároveň trestným činem 
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [1 Afs 87/2021 - 30](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/659491) — 2. 6. 2021
+  > „Z citovaného ustanovení plyne jednoznačný úmysl zákonodárce sankcionovat pořádkovou pokutou pouze takové odepření součinnosti, které se projevuje určitou mírou závažnosti a intenzitou. Nelze proto přijmout výklad, který by umožňoval potrestat každé neuposlechnutí výzvy správce daně ke splnění procesní povinnosti nepeněžité povahy ve smyslu § 57 a 58 daňového řádu"
+
 #### Systematika — dva typy pořádkové pokuty
 
 § 247 zakotvuje **dvoustupňový systém pořádkových pokut** lišící se horní hranicí a skutkovou podstatou:
@@ -240,6 +245,11 @@ Dobrovolnost uznání je klíčová — pokud pokutovaný nesouhlasí, nelze zje
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [Pl.ÚS 24/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-24-14_1) — nález, 30. 6. 2015
+  > „Smyslem a účelem předmětné pokuty podle daňového řádu je sankce za nedodržení lhůty, která narůstá s časovým odstupem od zákonem předpokládané lhůty, a odráží tedy do jisté míry intenzitu porušení povinnosti. Ústavní soud má za to, že systém sankcí uložených přímo ze zákona v posuzovaném případě naopak přispívá ke spravedlivému nastavení tohoto systému"
+
 #### Povaha pokuty — zákonná, automatická, z moci úřední
 
 Pokuta za opožděné tvrzení daně je **příslušenstvím daně** (§ 2 odst. 5 DŘ) a vzniká **přímo ze zákona** splněním podmínek (pozdní podání nebo nepodání po dobu delší 5 pracovních dnů). Správce daně ji nezakládá, pouze ji vydáním platebního výměru deklaruje a stanoví splatnost. Platební výměr je formálně správní akt, který lze napadnout odvoláním, avšak odvolací důvody jsou omezeny na skutkové otázky (správnost výpočtu základu, počtu dnů prodlení, aplikace slevy dle odst. 7).
@@ -305,8 +315,10 @@ Pokuta je splatná **do 30 dnů** od oznámení platebního výměru. Proti plat
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [15 Tdo 832/2016](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/67A5BC380047F9AEC12580E40040D901?openDocument) — 4. 1. 2017, kat. A
-  > „Penále podle § 251 zákona č. 280/2009 Sb., daňový řád, ve znění pozdějších předpisů, uložené v daňovém řízení za nesplnění povinnosti tvrzení pravomocným rozhodnutím správního orgánu, má povahu trestní sankce, byť sui generis, proto je třeba na ně aplikovat také čl. 4 odst. 1 Protokolu č. 7 k Úmluvě o ochraně lidských práv a základních svobod. Daňové řízení a trestní stíhání pro skutek spočívající v tom, že nesplnění povinnosti tvrzení vykazovalo vedle platebního deliktu, významného v oblasti správního trestání, znaky trestného činu zkrácení daně, poplatku a podobné povinné platby podle § 240 tr. zákoníku, jsou řízeními o totožném skutku. To platí za situace, že subjekt tohoto trestného činu a daňový subjekt je totožná fyzická osoba (k tomu srov. č. 51/1997 Sb. rozh. tr.). Pravomocné rozhodnutí, jímž se skončí jedno ze souběžně či postupně vedeného daňového a trestního řízení, která…"
+- *NS* [15 Tdo 832/2016](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/67A5BC380047F9AEC12580E40040D901?openDocument) — kat. A, 4. 1. 2017
+  > „Penále podle § 251 zákona č. 280/2009 Sb., daňový řád, ve znění pozdějších předpisů, uložené v daňovém řízení za nesplnění povinnosti tvrzení pravomocným rozhodnutím správního orgánu, má povahu trestní sankce, byť sui generis, proto je třeba na ně aplikovat také čl. 4 odst. 1 Protokolu č. 7 k Úmluvě o ochraně lidských práv a základních svobod. Daňové řízení a trestní stíhání pro skutek spočívající v tom, že nesplnění povinnosti tvrzení vykazovalo vedle platebního deliktu, významného v oblasti správního trestání, znaky trestného činu zkrácení daně, poplatku a podobné povinné platby podle § 240 tr. zákoníku, jsou řízeními o totožném skutku"
+- *NSS* [4 Afs 39/2019 - 33](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/659174) — 25. 5. 2021
+  > „Ačkoli je penále zařazeno do systému daňového práva, má trestní povahu se zárukami vyplývajícími z čl. 40 odst. 6 Listiny a čl. 6 a 7 Úmluvy"
 
 #### Povaha penále — zákonná sankce za nesprávné tvrzení zjištěné doměřením
 
@@ -494,6 +506,11 @@ Naopak: v rozsahu, v jakém úrok *nevzniká* (typicky nemajetková újma, újma
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [6 Afs 91/2022 - 24](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/710868) — 10. 5. 2023
+  > „úrok z prodlení plní … funkci ekonomické náhrady za nedoplatky peněžních prostředků na daních, které musí veřejné rozpočty získávat z jiných zdrojů. Jedná se v podstatě o cenu finančních prostředků v čase, která je daná úrokovou mírou … Úrok z prodlení tedy nelze považovat za odstrašující trest k odvrácení recidivy"
+
 #### Zákonný odkaz na občanský zákoník — sazba repo + 8 p.b.
 
 Odst. 4 věta první odkazuje na výši úroku z prodlení **podle občanského zákoníku** — zákon č. 89/2012 Sb. (OZ) sám výši nestanoví, nýbrž zmocňuje vládu k nařízení. Nařízení vlády č. 351/2013 Sb. stanoví výši úroku z prodlení jako **repo sazbu ČNB platnou pro první den prodlení zvýšenou o 8 procentních bodů**. V kombinaci s § 251a odst. 5 DŘ (repo sazba platná pro první den pololetí) platí: pro každé pololetí se vezme repo sazba platná k 1. lednu nebo 1. červenci a přičte se 8 p.b. — výsledek je denní sazba výpočtu (přepočtená na dny: roční sazba / 365). Příklad: repo sazba 4 % → úrok z prodlení = 12 % p.a.
@@ -609,6 +626,11 @@ Sazba úroku z vratitelného přeplatku = **sazba úroku z prodlení** (repo + 8
 > *(5) Výše úroku z nesprávně stanovené daně podle odstavců 1 až 4 se zvyšuje na dvojnásobek po dobu, kdy je vedeno exekuční řízení.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [30 Af 34/2012 - 99](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/550488) — 8. 4. 2014
+  > „Ustanovením § 254 zák. č. 280/2009 Sb. je sankcionováno vydání rozhodnutí o stanovení daně, které bylo z důvodu své nezákonnosti nebo z důvodu nesprávného úředního postupu zrušeno, prohlášeno nicotným nebo změněno. Sankcí je tedy postihována specifikovaná nezákonná činnost správce daně, přičemž trest v podobě přiznání úroku z neoprávněného jednání správce daně by měl odpovídat rozsahu nezákonného jednání …"
 
 #### Sankční kompenzace za nezákonné nebo chybné stanovení daně
 

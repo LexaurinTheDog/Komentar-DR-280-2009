@@ -508,6 +508,11 @@ Zatímco § 57 a § 58 upravují informační povinnost **na žádost** správce
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [45 Af 2/2015 - 43](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/519686) — 23. 5. 2017
+  > „Protokol zachycuje podstatný průběh jednání a jsou v něm označeny doklady a jiné listiny odevzdané nebo předložené při jednání (§ 60 zákona č. 280/2009 Sb. daňový řád), tedy nejedná se o doslovný zápis jednání"
+
 #### Funkce protokolu v daňovém řízení
 
 Protokol je **primárním nástrojem dokumentace průběhu a obsahu procesních úkonů** při správě daní. Plní dvě klíčové funkce:
@@ -604,6 +609,11 @@ Drobné opravy (překlepy, chyby v číslech, zjevné nesprávnosti) správce da
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [1 Afs 266/2024 - 101](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/740229) — 26. 3. 2025
+  > „úřední záznam (§ 63 daňového řádu) je pouhá poznámka úředníka či jiné zachycení okolností, které by mohly např. i v budoucnosti mít nějaký informační přínos pro daňové řízení. Tento záznam podepíše úředník sám; již z prostého významu takto vyhotovené listiny je zřejmé, že taková listina nemůže být sama o sobě nositelem důkazu rozhodného pro stanovení daně. Jedná se o interní záznam, který učiní úředník, je[n]ž se s určitou informací setká"
+
 #### Úřední záznam vs. protokol — zásadní rozdíl
 
 | Kritérium | Protokol | Úřední záznam |
@@ -656,6 +666,11 @@ Drobné opravy (překlepy, chyby v číslech, zjevné nesprávnosti) správce da
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [10 Afs 419/2020 - 50](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/703135) — 16. 8. 2022
+  > „Pokud správní orgán předloží soudu spis, ve kterém chybí obsah, jednotlivé listiny nejsou řádně číslovány a chronologicky seřazeny, porušuje § 64 odst. 5 zákona č. 280/2009 Sb., daňového řádu. Toto pochybení správního orgánu znemožňuje soudu ověřit, zda je spis úplný a jaké dokumenty obsahoval v době rozhodování správních orgánů"
+
 #### Funkce spisu jako procesního páteře
 
 Spis je **centrálním úložištěm veškeré dokumentace** vztahující se k daňovému subjektu u příslušného správce daně. Správně vedený spis je podmínkou zákonnosti daňového řízení — rozhodnutí vydané bez řádného spisu nebo spisu neúplného je zpravidla přezkoumatelné pro vady řízení.
@@ -699,6 +714,13 @@ Přísné oddělení vyhledávací části od ostatních je klíčovým nástroj
 > *(3) Při přeřazení písemnosti z vyhledávací části spisu do příslušné části spisu musí být ze soupisu písemností patrno, která písemnost, zaevidovaná v části vyhledávací, byla přeřazena, do které části, pod jakým pořadovým číslem a k jakému datu.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [4 Afs 233/2023 - 42](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/715730) — 1. 11. 2023
+  > „Podle Nejvyššího správního soudu skutečnost, že požadovaná písemnost slouží výhradně pro potřeby správce daně, je ve smyslu § 65 odst. 1 písm. d) zákona č. 280/2009 Sb., daňový řád, ve znění pozdějších předpisů (dále jen „daňový řád“), pouze zákonným důvodem pro zařazení této písemnosti do vyhledávací části spisu, a nikoli zákonným důvodem pro neposkytnutí této písemnosti k nahlížení. I do písemnosti z vyhledávací části spisu lze za splnění podmínek podle § 66 odst. 3 daňového řádu nahlížet"
+- *NSS* [25 A 132/2019 - 47](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/435106) — 14. 8. 2019
+  > „Není však splněna druhá podmínka § 65 odst. 1 písm. a) zákona č. 280/2009 Sb., daňového řádu (dále jen „daňový řád“), tedy že zpřístupnění těchto listin žalobci by zmařilo nebo ohrozilo cíl správy daní, účel úkonu nebo ohrozilo objektivnost důkazu. Lze souhlasit s tím, že zákon obecně neumožňuje nahlédnutí do vyhledávací části spisu a z tohoto základního pravidla platí výjimka dle § 66 odst. 3 daňového řádu. Je to však správce daně, který je povinen posoudit, zda je nahlédnut…"
 
 #### Ratio vyhledávací části
 
@@ -757,6 +779,13 @@ Přeřazení písemnosti musí být **dohledatelné ze soupisu** — ze soupisu 
 > *(4) Oprávnění nahlédnout do spisu lze využít v úředních hodinách pro veřejnost, pokud správce daně nepřipustí nahlížení do spisu i v průběhu pracovní doby mimo úřední hodiny pro veřejnost.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [II.ÚS 3518/13](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-3518-13_1) — usnesení, 12. 8. 2014
+  > „Nadto Ústavní soud dodává, že v obecné rovině zákonné omezení nahlížení do tzv. vyhledávací části daňového spisu, ve smyslu ustanovení § 66 odst. 2 zákona č. 280/2009 Sb., daňový řád, ve znění pozdějších předpisů, respektuje obsah čl. 2 odst. 3 a čl. 4 odst. 2 Listiny, přičemž povinnost jeho ústavně konformní interpretace nebyla v posuzovaném případě porušena"
+- *NSS* [8 Afs 128/2019 - 78](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/658805) — 29. 4. 2021
+  > „Za účelem, aby soud plně dostál smyslu soudního přezkumu, pak ve fázi řízení, kdy se nemůže žalobce seznámit s obsahem vyhledávací části správního spisu (§ 66 zákona č. 280/2009 Sb., daňového řádu), soud ‚supluje‘ procesní aktivitu žalobce a seznámí se s obsahem vyhledávací části správního spisu, a to z hlediska jeho relevance ve vztahu k odůvodnění zajišťovacího příkazu"
 
 #### Nahlížení do spisu jako klíčové procesní právo
 
