@@ -44,6 +44,43 @@ Odst. 3 ukládá dvě samostatné povinnosti:
 
 > **Srovnání se správním řádem:** SŘ (§ 39) rovněž umožňuje správnímu orgánu stanovit lhůtu pro provedení úkonu. Minimální lhůtu 8 dnů jako obecné pravidlo SŘ výslovně nestanoví; DŘ je v tomto ohledu příznivější pro daňové subjekty. Povinnost poučit o důsledcích nedodržení lhůty v poučení rozhodnutí je i v SŘ standardním požadavkem plynoucím z obecné poučovací povinnosti (§ 4 odst. 2 SŘ), nikoliv však výslovně normativně zakotvena u každé lhůty.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Správce daně zahájí u obchodní korporace postup k odstranění pochybností (§ 89 DŘ) a výzvou doručenou v pondělí stanoví daňovému subjektu lhůtu **5 dnů** k předložení účetních dokladů za zdaňovací období. V poučení výzvy uvede pouze obecnou formulaci, že nesplnění může vést ke stanovení daně podle pomůcek; délku zkrácené lhůty neodůvodní. Daňový subjekt namítá, že lhůta je nezákonně krátká a výzva vadná. Důkazy: text výzvy s poučením, doručenka, povaha požadovaného úkonu (rozsah účetnictví).
+
+**2. Právní otázka.** Je výzva stanovící lhůtu kratší než 8 dnů bez odůvodnění její délky a bez konkrétního poučení o důsledcích zákonná a vyvolává procesní účinky?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 32 DŘ — stanovení lhůty rozhodnutím, minimální lhůta 8 dnů (odst. 2), povinnost poučit o důsledcích a odůvodnit zkrácenou lhůtu (odst. 3).
+- *Související ustanovení téhož zákona:* § 102 odst. 1 písm. f) a odst. 2 DŘ (náležitosti poučení a odůvodnění rozhodnutí); § 6 odst. 3 DŘ (poučovací povinnost); § 36 DŘ (možnost prodloužení); § 89 DŘ (výzva v postupu k odstranění pochybností).
+- *Související předpisy:* § 39 SŘ jako srovnávací rámec stanovení lhůty správním orgánem.
+- *Judikatura:* nosný závěr správních soudů — stanovení lhůty kratší než zákonné minimum bez řádného odůvodnění naléhavosti a jednoduchosti úkonu představuje vadu řízení; je-li lhůta fakticky nesplnitelná vzhledem k rozsahu požadovaného úkonu, jde o zásah do práva na součinnost a o porušení zásady přiměřenosti.
+
+**4. Subsumpce.** Úkon (předložení kompletního účetnictví) není „jednoduchý" — odporuje to první kumulativní podmínce odst. 2. Zvláštní naléhavost správce netvrdí ani neprokazuje. Chybí odůvodnění délky lhůty požadované odst. 3 větou za středníkem, jakož i konkretizované poučení o právních důsledcích. Znak „výjimečnosti" zkrácení tedy naplněn není.
+
+**5. Řešení.** Výzva je stižena vadou: lhůta kratší než 8 dnů byla stanovena pro úkon, který není jednoduchý, a navíc bez povinného odůvodnění a poučení. Daňový subjekt by měl ve lhůtě požádat o prodloužení podle § 36 (čímž si zachová pozici), současně vadu namítnout. Stanoví-li správce daň podle pomůcek pro nesplnění takto vadné výzvy, je to v odvolání i v žalobě úspěšně napadnutelné — fakticky nesplnitelná či nezákonně zkrácená lhůta nemůže jít k tíži subjektu.
+
+**6. Varianty.** (a) Jednalo-li by se o úkon jednoduchý a zvlášť naléhavý (např. sdělení jediného čísla účtu při hrozícím zmaření zajištění) a správce délku lhůty odůvodnil, byla by zkrácená lhůta zákonná. (b) Kdyby správce stanovil lhůtu 10 dnů, odpadla by povinnost odůvodnit délku a výzva by obstála i bez zvláštního zdůvodnění.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument správce:* „Účetnictví bylo malého rozsahu, úkon byl jednoduchý." Neutralizace: jednoduchost je objektivní kategorie; u kompletního účetnictví za zdaňovací období ji lze stěží dovodit a důkazní břemeno naléhavosti i jednoduchosti nese správce, který je v rozhodnutí netvrdil.
+- *Protiargument:* „Vada poučení je bezvýznamná, subjekt o důsledcích věděl." Neutralizace: u lhůty pod 8 dnů zákon výslovně vyžaduje odůvodnění délky i v rozhodnutí, které se jinak neodůvodňuje; jde o samostatnou obligatorní náležitost, nikoli o formalitu.
+- *Slabé místo:* namítá-li subjekt vadu, ale o prodloužení nepožádá a úkon vůbec neprovede, oslabuje svou pozici tvrzením o procesní pasivitě — proto je vhodné kombinovat námitku s žádostí dle § 36.
+
+#### H. Praktický závěr
+
+Lhůtu kratší než 8 dnů lze stanovit jen pro úkon současně jednoduchý a zvlášť naléhavý, vždy s odůvodněním její délky a s poučením o důsledcích nedodržení. Standardem je lhůta nejméně 8 dnů.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Je lhůta stanovena formou rozhodnutí (nikoli neformální výzvou)?
+- [ ] Nestanoví lhůtu přímo zákon (subsidiarita správní lhůty)?
+- [ ] Je u lhůty pod 8 dnů úkon jednoduchý a zároveň zvlášť naléhavý?
+- [ ] Obsahuje poučení rozhodnutí konkrétní právní důsledky nedodržení lhůty?
+- [ ] Je u zkrácené lhůty odůvodněna její délka (i když se rozhodnutí jinak neodůvodňuje)?
+
+**Typicky rozhodné důkazy / podklady:** text výzvy/rozhodnutí včetně poučení a odůvodnění, doručenka, povaha a rozsah požadovaného úkonu, případná žádost o prodloužení dle § 36.
+
 ---
 
 ### § 33 — Počítání času
@@ -94,6 +131,43 @@ Připadne-li **poslední den lhůty** (u dní, týdnů, měsíců, let) na sobot
 
 > **Srovnání se SŘ a OSŘ:** Pravidla počítání lhůt v DŘ jsou věcně shodná s § 40 SŘ a § 57 OSŘ. Daňové specifikum spočívá zejména v tom, že DŘ tato pravidla obsahuje autonomně — nepotřebuje subsidiárně odkazovat na SŘ (na rozdíl od jiných správních procesů). Tím je zajištěna konzistence i pro případ budoucích změn SŘ nebo OSŘ, které by se správy daní nedotkly.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Platební výměr je daňovému subjektu doručen fikcí ve čtvrtek 31. ledna. Subjekt chce podat odvolání (lhůta 30 dnů, § 109 odst. 1 DŘ). Odvolání podá k poštovní přepravě v pondělí 3. března. Správce daně odvolání odmítne jako opožděné s tím, že lhůta uplynula v neděli 2. března. Důkazy: doručenka s vyznačeným dnem doručení, podací poštovní razítko na obálce odvolání, kalendář s vyznačenými dny pracovního klidu.
+
+**2. Právní otázka.** Kdy přesně uplyne třicetidenní lhůta běžící ode dne doručení 31. ledna a posouvá se její konec, připadl-li na neděli?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 33 DŘ — počítání času; odst. 2 (počátek u lhůt podle dní následující den), odst. 4 (přesun konce lhůty připadajícího na sobotu, neděli nebo svátek na nejblíže následující pracovní den).
+- *Související ustanovení téhož zákona:* § 109 odst. 1 DŘ (30denní odvolací lhůta); § 35 odst. 1 písm. b) DŘ (zachování lhůty podáním u pošty v poslední den); § 47 odst. 2 DŘ (fikce doručení).
+- *Související předpisy:* zákon č. 245/2000 Sb., o státních svátcích a dnech pracovního klidu (vymezení svátků); § 40 SŘ a § 57 OSŘ jako věcně shodná pravidla.
+- *Judikatura:* ustálený výklad správních soudů — pravidlo dies a quo non computatur a přesun konce lhůty na pracovní den je třeba aplikovat ve prospěch adresáta; den pracovního volna, který není svátkem, konec lhůty neposouvá.
+
+**4. Subsumpce.** Rozhodná skutečnost (doručení) nastala 31. ledna; lhůta začala běžet 1. února (odst. 2). Třicátým dnem je 2. března. Připadl-li 2. března na neděli, posouvá se konec lhůty podle odst. 4 na nejblíže následující pracovní den — pondělí 3. března. Podání u pošty 3. března je tedy podáním v poslední den lhůty (§ 35 odst. 1 písm. b)).
+
+**5. Řešení.** Odvolání bylo podáno včas. Odmítnutí pro opožděnost je nezákonné: správce nesprávně neaplikoval přesun konce lhůty na pondělí. Daňový subjekt to namítne; rozhodnutí o odmítnutí odvolání je samostatně přezkoumatelné. Klíčové je podací razítko pošty z 3. března.
+
+**6. Varianty.** (a) Šlo-li by o lhůtu určenou v hodinách (kratší než den), přesun na pracovní den by se neuplatnil (odst. 4 in fine) a konec by nastal uplynutím příslušného okamžiku i v neděli. (b) Připadl-li by konec lhůty na „den pracovního volna" vyhlášený k přemostění svátku (ne na svátek sám), k posunu by nedošlo a podání 3. března by mohlo být opožděné.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Lhůta uplynula v neděli 2. března, podání v pondělí je opožděné." Neutralizace: odst. 4 výslovně posouvá konec lhůty připadající na neděli na nejblíže následující pracovní den; opačný výklad pravidlo ignoruje.
+- *Protiargument:* „Rozhodný je den, kdy odvolání došlo správci, nikoli den podání u pošty." Neutralizace: § 35 odst. 1 písm. b) zachovává lhůtu již dnem podání zásilky u provozovatele poštovních služeb bez ohledu na dobu přepravy.
+- *Slabé místo:* záměna „dne pracovního volna" se „svátkem" — pouze státem uznané svátky dle zák. č. 245/2000 Sb. (a soboty/neděle) konec lhůty posouvají; spoléhání na přemosťovací volno je rizikové.
+
+#### H. Praktický závěr
+
+Den rozhodné skutečnosti se do lhůty nepočítá; lhůta v dnech/týdnech/měsících/letech, jejíž konec připadne na sobotu, neděli nebo svátek, končí až nejblíže následující pracovní den. Lhůty kratší než den tento posun nemají.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Byl správně určen den rozhodné skutečnosti a vyloučen z počítání (dies a quo)?
+- [ ] Jde o lhůtu v dnech, nebo v týdnech/měsících/letech (jiné pravidlo konce)?
+- [ ] Existuje v posledním měsíci stejněčíselný den; pokud ne, použit poslední den měsíce?
+- [ ] Připadl konec lhůty na sobotu/neděli/svátek a byl posunut na pracovní den?
+- [ ] Nejde o lhůtu kratší než den (bez přesunu na pracovní den)?
+
+**Typicky rozhodné důkazy / podklady:** doručenka nebo doklad o dni rozhodné skutečnosti, podací poštovní razítko, kalendář se státními svátky (zák. č. 245/2000 Sb.).
+
 ---
 
 ### § 34 — Běh lhůty pro správce daně
@@ -122,6 +196,43 @@ Stavení lhůty je **automatické** — nevyžaduje vydání zvláštního rozho
 #### Elektronické podání s potvrzením — rozhodný den (odst. 2)
 
 Zákon pracuje s technickou realitou dvoustupňového elektronického podání: část elektronických formulářů nebo datových zpráv vyžaduje tzv. **následné potvrzení** (typicky potvrzení e-mailem nebo druhou datovou zprávou, nebo potvrzení prostřednictvím aplikace finanční správy). V takovém případě je pro počátek běhu lhůty správce rozhodný nikoli den primárního podání, nýbrž **den, kdy bylo toto potvrzení podáno**. Smyslem je zamezit zneužití — správce by nemohl začít věcně pracovat dříve, než bylo podání definitivně potvrzeno a technicky kompletní.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Daňový subjekt podá žádost o vrácení vratitelného přeplatku (§ 155 DŘ); od jejího podání běží správci daně lhůta k vyřízení. Údaje v žádosti jsou neúplné, proto správce daně vydá výzvu k součinnosti (doplnění čísla účtu a identifikace). Subjekt doplní údaje až po deseti dnech. Vznikne spor, zda správce dodržel svou lhůtu pro úkon. Důkazy: žádost s datem podání, výzva k součinnosti s datem vydání, podání doplňující součinnost s datem, evidence spisu.
+
+**2. Právní otázka.** O jakou dobu se staví běh lhůty správce daně, odvozuje-li svůj počátek ode dne podání osoby zúčastněné a správce si vyžádal výzvou součinnost?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 34 DŘ — stavení lhůty pro správce daně od vydání výzvy k součinnosti do pátého pracovního dne po jejím poskytnutí (odst. 1); rozhodný den u elektronického podání vyžadujícího dodatečné potvrzení (odst. 2).
+- *Související ustanovení téhož zákona:* § 101 DŘ (forma rozhodnutí — výzva musí mít formu rozhodnutí); § 32 DŘ (stanovení lhůty k součinnosti); § 71 a § 73 DŘ (formy podání a jejich potvrzení); § 155 DŘ (vrácení přeplatku jako příklad lhůty navázané na podání).
+- *Související předpisy:* zákon č. 300/2008 Sb. (datové zprávy a jejich potvrzování) ve vztahu k odst. 2.
+- *Judikatura:* obecný výklad — stavení lhůty pro správce je automatické, nevyžaduje zvláštní rozhodnutí; běží jen tehdy, má-li výzva formu rozhodnutí, nikoli neformální žádosti.
+
+**4. Subsumpce.** Lhůta správce odvozuje počátek ode dne podání žádosti — podmínka odst. 1 splněna. Správce vydal výzvu (rozhodnutí) k součinnosti — běh lhůty se staví ode dne vydání výzvy. Součinnost byla poskytnuta v určitý den; stavení trvá až do pátého pracovního dne po tomto dni. O tuto dobu se lhůta správce fakticky prodlužuje.
+
+**5. Řešení.** Doba od vydání výzvy do pátého pracovního dne po doplnění údajů se do běhu lhůty správce nepočítá. Posuzuje-li se dodržení lhůty (např. pro účely úroku z prodlení správce nebo podnětu dle § 38), je nutné tuto stavící dobu odečíst. Správce musí v spisu přesně zaznamenat den vydání výzvy a den poskytnutí součinnosti — jinak unese důkazní břemeno o stavení obtížně.
+
+**6. Varianty.** (a) Pokud by „výzva" byla jen neformálním telefonickým dotazem bez formy rozhodnutí, ke stavení by nedošlo a lhůta by běžela dál. (b) Bylo-li by původní podání učiněno elektronicky se vyžadovaným dodatečným potvrzením (odst. 2), počátek lhůty správce by se vůbec neodvíjel od primárního podání, nýbrž až ode dne podání potvrzení.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument subjektu:* „Lhůta správci běžela bez přerušení, je v prodlení." Neutralizace: prokáže-li správce vydání výzvy-rozhodnutí a den poskytnutí součinnosti, stavení nastalo automaticky ze zákona.
+- *Protiargument správce:* „Lhůta se staví, i když jsem o součinnost požádal jen e-mailem." Neutralizace: stavení vyvolá jen výzva mající formu rozhodnutí (§ 101); neformální žádost účinek stavení nemá.
+- *Slabé místo:* nepřesná evidence dat ve spisu — bez jednoznačného data vydání výzvy a data součinnosti nelze stavící dobu spolehlivě vypočítat a riziko jde k tíži správce.
+
+#### H. Praktický závěr
+
+Odvozuje-li lhůta správce počátek ode dne podání, výzva k součinnosti (ve formě rozhodnutí) staví běh této lhůty od svého vydání do pátého pracovního dne po poskytnutí součinnosti. U elektronického podání vyžadujícího potvrzení je rozhodný až den potvrzení.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Odvozuje lhůta správce počátek ode dne podání osoby zúčastněné?
+- [ ] Má výzva k součinnosti formu rozhodnutí (§ 101)?
+- [ ] Je zaznamenán den vydání výzvy a den poskytnutí součinnosti?
+- [ ] Byla správně odečtena doba do pátého pracovního dne po součinnosti?
+- [ ] Vyžadovalo elektronické podání dodatečné potvrzení (rozhodný den potvrzení)?
+
+**Typicky rozhodné důkazy / podklady:** podání s datem, výzva k součinnosti (rozhodnutí) s datem vydání, doklad o poskytnutí součinnosti, u e-podání doklad o dni potvrzení, evidence spisu.
 
 ---
 
@@ -181,6 +292,43 @@ Podání učiněné u **nadřízeného správce daně** nebo u **jiného věcně
 Paragraf 35 odst. 3 je **výslovnou normativní presumpcí** zachování lhůty: v pochybnostech se má za to, že lhůta byla zachována, ledaže správce daně prokáže opak. Jde o promítnutí zásady přiměřenosti a ochrany práv osoby zúčastněné (§ 5 odst. 3, § 6 DŘ) do důkazního břemene: **správce daně nese důkazní břemeno** v tom, že lhůta zachována nebyla. Jedná se o výjimku z jinak obecného principu, že ten, kdo tvrdí právo, nese břemeno jeho prokázání.
 
 > **Srovnání se SŘ a OSŘ:** Zachování lhůty podáním poštou je shodné s § 40 odst. 1 písm. a) SŘ a § 57 odst. 3 OSŘ. DŘ výslovně a podrobněji rozlišuje elektronické způsoby zachování (portál vs. datová schránka); SŘ i OSŘ tuto dichotomii v tak detailní podobě neobsahují. Presumpce zachování lhůty v § 35 odst. 3 DŘ nemá přímou analogii v SŘ — zvýhodňuje daňový subjekt.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Daňový subjekt podá poslední den třicetidenní odvolací lhůty (sobotu posunutou na pondělí) odvolání k poštovní přepravě jako doporučenou zásilku adresovanou místně příslušnému finančnímu úřadu. Zásilka dorazí úřadu až za tři dny. Správce daně tvrdí, že odvolání je opožděné, neboť „došlo" po lhůtě, a navíc se nepodařilo dohledat podací lístek. Důkazy: obálka s podacím razítkem pošty, podací lístek, doručenka původního rozhodnutí, evidence doručené pošty úřadu.
+
+**2. Právní otázka.** Je lhůta zachována, byla-li zásilka v poslední den lhůty podána u provozovatele poštovních služeb, byť správci došla později, a kdo nese důkazní břemeno o (ne)zachování lhůty?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 35 DŘ — zachování lhůty osobním úkonem, poštovní zásilkou, datovou zprávou na technické zařízení nebo do datové schránky (odst. 1); náhradní příslušnost (odst. 2); presumpce zachování v pochybnostech (odst. 3).
+- *Související ustanovení téhož zákona:* § 33 DŘ (počítání času, přesun na pracovní den); § 39 odst. 3 DŘ (podmínka poštovní smlouvy); § 42 DŘ a § 71 DŘ (elektronická podání); § 109 odst. 1 DŘ (odvolací lhůta).
+- *Související předpisy:* zákon č. 300/2008 Sb. (okamžik odeslání/doručení datové zprávy); zákon č. 29/2000 Sb., o poštovních službách.
+- *Judikatura:* ustálený závěr — pro zachování lhůty poštou je rozhodný den podání zásilky (podací razítko), nikoli den dojití správci; pochybnosti o zachování lhůty jdou k tíži správce (odst. 3).
+
+**4. Subsumpce.** Zásilka byla adresována věcně i místně příslušnému správci a podána u provozovatele poštovních služeb v poslední den lhůty — naplněn znak odst. 1 písm. b). Doba přepravy je právně irelevantní. Nelze-li jednoznačně prokázat opak, uplatní se presumpce odst. 3 ve prospěch subjektu.
+
+**5. Řešení.** Lhůta je zachována. Odmítnutí odvolání jako opožděného je nezákonné. I kdyby chyběl podací lístek, podací razítko na obálce postačuje; a v pochybnostech platí presumpce zachování, dokud správce neprokáže opak (odst. 3) — důkazní břemeno tíží jeho. Subjekt namítne zachování lhůty v odvolání proti rozhodnutí o odmítnutí.
+
+**6. Varianty.** (a) Byla-li by zásilka podána jako obyčejná (nedoporučená) bez jakéhokoli dokladu o podání, prokázání dne podání by bylo obtížné a presumpce odst. 3 by se opírala jen o tvrzení subjektu — riziko neunesení. (b) Bylo-li by podáno datovou schránkou, lhůta by byla zachována okamžikem odeslání zprávy do schránky správce, i kdyby si ji správce přečetl až později (písm. d).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument správce:* „Odvolání došlo po lhůtě, je opožděné." Neutralizace: rozhodný je den podání u pošty (písm. b), nikoli den dojití; doba přepravy se nepočítá.
+- *Protiargument:* „Subjekt neprokázal včasné podání." Neutralizace: odst. 3 obrací důkazní břemeno — v pochybnostech se lhůta považuje za zachovanou, ledaže správce prokáže opak.
+- *Slabé místo:* podání u věcně nepříslušného orgánu (např. celní úřad místo finančního) lhůtu nezachová; náhradní příslušnost dle odst. 2 vyžaduje zachování věcné příslušnosti (nadřízený nebo jiný věcně příslušný správce).
+
+#### H. Praktický závěr
+
+Lhůta je zachována, je-li v poslední den proveden úkon u příslušného správce, podána zásilka u pošty, nebo odeslána datová zpráva na technické zařízení či do datové schránky správce. Den dojití správci je nerozhodný; v pochybnostech svědčí presumpce zachování subjektu.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Byl úkon učiněn nejpozději v poslední den lhůty (s případným posunem dle § 33 odst. 4)?
+- [ ] Byla zásilka/datová zpráva adresována věcně a místně příslušnému správci?
+- [ ] Existuje doklad o dni podání (podací razítko, podací lístek, doručenka datové schránky)?
+- [ ] U datové schránky: byla zpráva odeslána (rozhodný okamžik odeslání) do schránky správce?
+- [ ] Při pochybnostech uplatněna presumpce zachování dle odst. 3 (břemeno na správci)?
+
+**Typicky rozhodné důkazy / podklady:** obálka s podacím razítkem, podací lístek, doručenka/potvrzení datové schránky nebo technického zařízení, evidence podání u správce daně.
 
 ---
 
@@ -244,6 +392,43 @@ Rozhodnutí o žádosti o prodloužení lhůty není napadnutelné odvoláním a
 
 Pro zachování podmínky „žádost před uplynutím lhůty" se aplikuje týž mechanismus jako pro zachování lhůt obecně (§ 35 odst. 1) — den podání žádosti u poštovního doručovatele nebo elektronicky.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Správce daně stanoví výzvou ve daňové kontrole lhůtu 30 dnů (počátek 1. dubna, konec 30. dubna) k vyjádření k výsledku kontrolního zjištění. Dne 25. dubna (zbývá 5 dnů) podá daňový subjekt první žádost o prodloužení o 14 dnů s odůvodněním, že účetní je nemocná. Správce na žádost nereaguje a teprve 10. května vydá rozhodnutí o částečném vyhovění (prodloužení jen o 3 dny). Důkazy: výzva s datem a lhůtou, žádost o prodloužení s datem podání, doklad o oznámení rozhodnutí správce.
+
+**2. Právní otázka.** Jaké účinky má nečinnost správce na první žádost o prodloužení správní lhůty a jak se určí konec lhůty, je-li částečně vyhovující rozhodnutí oznámeno až po uplynutí původní lhůty?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 36 DŘ — povinné vyhovění první žádosti o prodloužení správní lhůty (odst. 2), fikce vyhovění při nečinnosti správce (odst. 3), zákaz prodloužení prekluzivních lhůt (odst. 5), vyloučení opravných prostředků (odst. 6).
+- *Související ustanovení téhož zákona:* § 32 DŘ (stanovení lhůty); § 35 odst. 1 DŘ (rozhodný den podání žádosti, odst. 7); § 37 DŘ (navrácení v předešlý stav jako alternativa po uplynutí lhůty); § 88 DŘ (vyjádření ve daňové kontrole).
+- *Související předpisy:* § 39 SŘ (prodloužení lhůty ve správním řízení) jako srovnání.
+- *Judikatura:* obecný výklad — fikce vyhovění chrání žadatele před průtahy; první žádosti o prodloužení správní lhůty musí být vyhověno alespoň o zbývající dobu.
+
+**4. Subsumpce.** Jde o lhůtu stanovenou správcem (nikoli prekluzivní), žádost je první a byla podána před uplynutím lhůty — naplněny podmínky odst. 1 a 2. Správce nevydal rozhodnutí do 30 dnů od žádosti ani do doby, o niž bylo žádáno; nastoupila fikce vyhovění (odst. 3 věta první). Současně rozhodnutí o jen částečném vyhovění bylo oznámeno až po uplynutí původní lhůty — uplatní se odst. 3 věta druhá.
+
+**5. Řešení.** Vzhledem k nečinnosti správce nad rámec požadované doby i nad 30 dnů platí fikce, že žádosti bylo vyhověno; pozdější částečně vyhovující rozhodnutí je v rozporu s již nastalou fikcí. I kdyby fikce nenastala, podle odst. 3 věty druhé by lhůta skončila uplynutím tolika dnů po oznámení rozhodnutí, kolik dnů (5) zbývalo při podání žádosti — tj. pět dnů po 10. květnu. Proti rozhodnutí o žádosti nelze podat opravný prostředek (odst. 6); obrana spočívá v uplatnění fikce a v námitce v navazujícím řízení.
+
+**6. Varianty.** (a) Šlo-li by o lhůtu, s níž zákon spojuje zánik práva (odvolací lhůta), prodloužit ji nelze vůbec (odst. 5) a žádost by byla bezpředmětná. (b) Byla-li by to druhá žádost o prodloužení, povinnost vyhovět by neplatila a správce by měl diskreci.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument správce:* „Vyhověl jsem částečně, využil jsem diskreci." Neutralizace: u první žádosti o správní lhůtu diskrece neexistuje — vyhovět je nutné alespoň o zbývající dobu; navíc zde nastoupila fikce plného vyhovění pro nečinnost.
+- *Protiargument:* „Žádost byla podána pozdě." Neutralizace: pro určení dne podání platí § 35 odst. 1 (odst. 7) — rozhodný je den podání u pošty/elektronicky, nikoli den dojití správci.
+- *Slabé místo:* fikce a věta druhá odst. 3 se týkají jen lhůt stanovených správcem; u zákonných lhůt (vyjma výslovného zmocnění, zejm. odst. 4) prodloužení vůbec nepřichází v úvahu.
+
+#### H. Praktický závěr
+
+První žádosti o prodloužení správní lhůty musí být vyhověno alespoň o zbývající dobu; nečinnost správce zakládá fikci vyhovění. Prekluzivní lhůty prodloužit nelze a proti rozhodnutí o prodloužení není opravný prostředek. Lhůtu pro daňové tvrzení lze prodloužit až o 3 měsíce (zahraniční příjmy: do 10 měsíců).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Byla žádost podána před uplynutím lhůty (rozhodný den dle § 35 odst. 1)?
+- [ ] Jde o lhůtu stanovenou správcem, nebo zákonnou (u zákonné nutné zvláštní zmocnění)?
+- [ ] Je to první žádost (povinné vyhovění alespoň o zbývající dobu)?
+- [ ] Nenastala fikce vyhovění (nečinnost nad požadovanou dobu nebo nad 30 dnů)?
+- [ ] Nejde o prekluzivní lhůtu, kterou nelze prodloužit (odst. 5)?
+
+**Typicky rozhodné důkazy / podklady:** výzva/rozhodnutí stanovící lhůtu, žádost o prodloužení s datem podání, doklad o (ne)vydání a oznámení rozhodnutí správce, výpočet zbývající doby ke dni žádosti.
+
 ---
 
 ### § 37 — Navrácení lhůty v předešlý stav
@@ -306,6 +491,43 @@ Tato úprava je výrazně přísnější než § 41 SŘ a § 58 OSŘ, které pod
 
 Zákon výjimečně zbavuje správce daně povinnosti odůvodnit rozhodnutí, jímž žádosti vyhovuje. Naproti tomu zamítnutí žádosti musí být odůvodněno — správce musí vysvětlit, proč neshledal závažný důvod nebo proč je překážka z odst. 4.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Daňovému subjektu — fyzické osobě — uplyne marně lhůta pro podání odvolání proti doměřovacímu platebnímu výměru, protože byl v rozhodné době hospitalizován v bezvědomí po vážné dopravní nehodě. Po propuštění z nemocnice (12 dnů po skončení lhůty) podá žádost o navrácení lhůty v předešlý stav. Správce daně žádost zamítne s odůvodněním, že odvolací lhůta je prekluzivní. Důkazy: lékařská zpráva o hospitalizaci a jejím rozsahu, doručenka platebního výměru, datum propuštění, datum podání žádosti.
+
+**2. Právní otázka.** Lze povolit navrácení odvolací lhůty v předešlý stav, zmeškal-li ji subjekt z důvodu hospitalizace, a brání tomu některý ze zákazů podle § 37 odst. 4?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 37 DŘ — navrácení lhůty v předešlý stav ze závažného důvodu (odst. 2), 15denní lhůta od pominutí důvodu (odst. 3), prekluzivní limit 1 roku a absolutní vyloučení u lhůt pro stanovení daně, placení daně a podání daňového tvrzení (odst. 4).
+- *Související ustanovení téhož zákona:* § 109 odst. 1 DŘ (odvolací lhůta); § 36 odst. 5 DŘ (prekluzivní lhůty nelze prodloužit); § 148 a § 160 DŘ (lhůty pro stanovení a placení daně).
+- *Související předpisy:* § 41 SŘ a § 58 OSŘ (obdobné instituty bez absolutních vyloučení).
+- *Judikatura:* *NSS* 6 Afs 115/2024 - 28 (23. 8. 2024) — závažné důvody jsou dány tam, kde existovala překážka objektivní povahy nezávislá na vůli žadatele. Hospitalizace v bezvědomí takovou objektivní překážkou typicky je.
+
+**4. Subsumpce.** Lhůta již uplynula (podmínka odst. 2). Hospitalizace v bezvědomí je závažný a objektivní důvod ve smyslu judikatury NSS. Žádost byla podána do 15 dnů od pominutí důvodu (propuštění) — odst. 3 splněn. Odvolací lhůta není žádnou ze tří lhůt absolutně vyloučených v odst. 4 písm. a–c (není to lhůta pro stanovení daně, placení daně ani pro podání daňového tvrzení) a od posledního dne zmeškané lhůty neuplynul více než rok.
+
+**5. Řešení.** Navrácení lze povolit. Zamítnutí s odkazem na „prekluzivitu" odvolací lhůty je nesprávné: § 37 odst. 4 odvolací lhůtu mezi absolutně vyloučené nezařazuje, a roční limit dodržen je. Správce měl posoudit závažnost důvodu a žádosti vyhovět; nově stanoví den uplynutí lhůty, čímž se otevře možnost podat odvolání. Při vyhovění se rozhodnutí neodůvodňuje (odst. 5); zamítnutí odůvodnit musí.
+
+**6. Varianty.** (a) Šlo-li by o zmeškání lhůty pro podání daňového tvrzení nebo lhůty pro stanovení/placení daně, navrácení by bylo absolutně vyloučeno (odst. 4 písm. a–c) bez ohledu na závažnost důvodu. (b) Podal-li by subjekt žádost až 20 dnů po propuštění, byla by pro překročení 15denní lhůty nepřípustná, byť důvod zmeškání byl jinak závažný.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument správce:* „Odvolací lhůta je prekluzivní, navrácení nelze povolit." Neutralizace: prekluzivita brání prodloužení (§ 36 odst. 5), ale navrácení dle § 37 je možné u všech lhůt vyjma tří taxativně uvedených v odst. 4 — odvolací lhůta mezi nimi není.
+- *Protiargument:* „Důvod nebyl dostatečně závažný." Neutralizace: dle NSS 6 Afs 115/2024 postačí objektivní překážka nezávislá na vůli žadatele; hospitalizace v bezvědomí ji naplňuje a prokazuje se lékařskou zprávou.
+- *Slabé místo:* prokázání okamžiku „pominutí důvodu" (počátek 15denní lhůty) — je nutné doložit datum, kdy subjekt nabyl reálné schopnosti jednat; nejasnost jde k tíži žadatele.
+
+#### H. Praktický závěr
+
+Navrácení lhůty v předešlý stav lze povolit ze závažného (objektivního) důvodu, je-li žádost podána do 15 dnů od jeho pominutí a neuplynul více než rok. Absolutně vyloučeno je u lhůt pro stanovení daně, placení daně a podání daňového tvrzení.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Uplynula již zmeškaná lhůta (jinak jde o prodloužení dle § 36)?
+- [ ] Existuje závažný objektivní důvod zmeškání (NSS 6 Afs 115/2024)?
+- [ ] Byla žádost podána do 15 dnů od pominutí důvodu zmeškání?
+- [ ] Neuplynul od posledního dne zmeškané lhůty více než 1 rok?
+- [ ] Nejde o lhůtu pro stanovení daně, placení daně nebo podání daňového tvrzení (absolutní vyloučení)?
+
+**Typicky rozhodné důkazy / podklady:** lékařské zprávy / doklady o objektivní překážce, doručenka zmeškané písemnosti, datum pominutí důvodu, datum podání žádosti o navrácení.
+
 ---
 
 ### § 38 — Ochrana před nečinností
@@ -358,6 +580,43 @@ Nadřízený správce daně má ve lhůtě **30 dnů** od obdržení podnětu:
 - Shledá-li podnět **nedůvodným** — odloží jej a vyrozumí podavatele s důvody; zvláštní pravidlo ukládá uvést, které podklady ke shromáždění ještě chybí — čímž podavatel získá informaci o stavu řízení.
 
 **Praktický dopad:** Podnět dle § 38 je účinný zejména tehdy, kdy správce daně ví, že nadřízený bude kontrolovat jeho nečinnost. Je-li správce opakovaně shledán nečinným, nastupuje možnost stížnosti na postup úřední osoby (§ 261 DŘ) a v krajním případě soudní ochrana před nečinností.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Daňový subjekt podá žádost o vrácení vratitelného přeplatku. Správce daně po dobu více než čtyř měsíců nečiní žádný úkon, přeplatek nevrací ani nevydává rozhodnutí, ačkoli má všechny podklady. Subjekt podá podnět nejblíže nadřízenému správci daně (Odvolacímu finančnímu ředitelství) na ochranu před nečinností. Nadřízený do 30 dnů nereaguje. Subjekt zvažuje žalobu na nečinnost u správního soudu. Důkazy: žádost o vrácení přeplatku s datem, spis bez úkonů správce, podnět dle § 38 s datem, doklad o (ne)reakci nadřízeného.
+
+**2. Právní otázka.** Je podnět dle § 38 DŘ účinným (a před žalobou nutným) prostředkem ochrany před nečinností správce daně v oblasti placení daní a jaké jsou lhůty pro postup nadřízeného?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 38 DŘ — podnět nadřízenému správci při průtazích (marné uplynutí zákonné lhůty, nedodržení obvyklé lhůty, nerozhodnutí po shromáždění podkladů — odst. 1), subsidiární tříměsíční lhůta (odst. 2), postup a lhůty nadřízeného 30 dnů (odst. 3 a 4).
+- *Související ustanovení téhož zákona:* § 155 DŘ (vrácení přeplatku); § 261 DŘ (stížnost na postup úřední osoby); § 254 DŘ (úrok při nesprávném postupu správce).
+- *Související předpisy:* § 79 a násl. SŘS (zákon č. 150/2002 Sb. — žaloba na nečinnost); § 80 SŘ (opatření proti nečinnosti).
+- *Judikatura:* *NSS* 5 Afs 1/2021 - 25 (18. 3. 2022) — je-li správce v prodlení s úkony v oblasti placení daní, je podnět dle § 38 DŘ právním prostředkem ochrany nebo nápravy ve smyslu § 85 SŘS (tj. jeho vyčerpání je podmínkou přípustnosti soudní ochrany).
+
+**4. Subsumpce.** Správce má shromážděny podklady a nerozhoduje bezodkladně — naplněn důvod odst. 1 písm. c). Současně uplynuly více než 3 měsíce od posledního úkonu (odst. 2). Podnět směřuje k nejblíže nadřízenému správci. Ten měl do 30 dnů buď přikázat nápravu (odst. 3), nebo podnět odložit s odůvodněním (odst. 4); jeho nečinnost otevírá další prostředky.
+
+**5. Řešení.** Podnět dle § 38 je správný a podle NSS 5 Afs 1/2021 nutný prostředek před žalobou na nečinnost. Nereaguje-li nadřízený do 30 dnů a nezjedná nápravu, je vyčerpán prostředek ochrany v rámci DŘ a otevírá se žaloba na nečinnost dle § 79 SŘS. Subjekt by měl prokázat podání podnětu a marné uplynutí 30denní lhůty nadřízeného; lze zvážit i stížnost dle § 261 DŘ.
+
+**6. Varianty.** (a) Stanovil-li by zákon pro daný úkon výslovnou lhůtu, opíral by se podnět o odst. 1 písm. a) (marné uplynutí zákonné lhůty) a nemuselo by se čekat 3 měsíce. (b) Kdyby správce dosud neměl všechny podklady, mohl nadřízený podnět odložit dle odst. 4 s povinností uvést, které podklady chybí — pak by nešlo o nečinnost, nýbrž o probíhající shromažďování.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument správce:* „Nejde o nečinnost, věc je složitá." Neutralizace: má-li správce shromážděny podklady, musí rozhodnout bezodkladně (odst. 1 písm. c); složitost neomlouvá nečinnost po kompletaci spisu.
+- *Protiargument:* „Podnět dle § 38 není nutný, lze jít rovnou k soudu." Neutralizace: dle NSS 5 Afs 1/2021 je podnět prostředkem ochrany ve smyslu § 85 SŘS, jehož vyčerpání žaloba na nečinnost zpravidla vyžaduje.
+- *Slabé místo:* u důvodu „obvyklé lhůty" (odst. 1 písm. b) je sporné, jaká doba je obvyklá — referenčním bodem je rozsah a složitost věci; bez opory v praxi je tvrzení o překročení obvyklé lhůty zranitelné.
+
+#### H. Praktický závěr
+
+Podnět dle § 38 je správním (nikoli opravným) prostředkem proti průtahům; nadřízený do 30 dnů buď přikáže nápravu, nebo podnět odůvodněně odloží. Jeho vyčerpání je zpravidla podmínkou žaloby na nečinnost dle SŘS.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Je dán některý důvod odst. 1 (zákonná lhůta / obvyklá lhůta / nerozhodnutí po shromáždění podkladů)?
+- [ ] Není-li, uplynuly 3 měsíce od posledního úkonu (odst. 2)?
+- [ ] Směřuje podnět k nejblíže nadřízenému správci daně?
+- [ ] Uplynula nadřízenému 30denní lhůta k příkazu nápravy nebo k odložení podnětu?
+- [ ] Je podnět dle § 38 vyčerpán před podáním žaloby na nečinnost (§ 79 SŘS, NSS 5 Afs 1/2021)?
+
+**Typicky rozhodné důkazy / podklady:** žádost/poslední úkon s datem, výpis ze spisu prokazující nečinnost, podnět dle § 38 s datem, doklad o reakci/nečinnosti nadřízeného správce.
 
 ---
 
@@ -417,6 +676,43 @@ Výjimka pro doručování **do ciziny** je odůvodněna tím, že zahraniční 
 
 > **Srovnání se SŘ:** SŘ (§ 19) rovněž preferuje elektronické doručování (datová schránka) před listinným; osobní doručení při jednání má v SŘ rovněž prioritu. Podmínka poštovní smlouvy je v DŘ výslovnější než v SŘ, kde se doručování prostřednictvím pošty řídí obecnými poštovními předpisy s odkazem na poštovní podmínky. V DŘ tak není prostor pro diskusi o tom, zda bylo doručení prostou zásilkou „dostatečné" — v souladu s podmínkami smlouvy musí být dodání.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Finanční úřad doručí platební výměr obchodní korporaci, která má zpřístupněnou datovou schránku, prostou poštovní zásilkou vhozenou do schránky v sídle (bez datové schránky, bez doručenky). Korporace o výměru tvrdí, že jí nebyl řádně doručen, a brojí proti pozdějšímu vymáhání. Důkazy: výpis z evidence datových schránek o zpřístupnění schránky, doklad o způsobu odeslání (prostá zásilka), absence doručenky, evidence spisu.
+
+**2. Právní otázka.** Je doručení prostou poštovní zásilkou účinné, má-li adresát zpřístupněnou datovou schránku a měl-li mu být výměr doručen elektronicky podle hierarchie způsobů doručování?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 39 DŘ — hierarchie způsobů doručování s prioritou elektronického doručování a osobního doručení při úkonu (odst. 1), zásilka jen subsidiárně (odst. 2), podmínka poštovní smlouvy (odst. 3).
+- *Související ustanovení téhož zákona:* § 42 DŘ (povinné doručování datovou schránkou); § 47 DŘ (účinky doručení); § 48 DŘ (neúčinnost doručení); § 51 DŘ (prokázání doručení).
+- *Související předpisy:* zákon č. 300/2008 Sb. (elektronické doručování datovou schránkou); zákon č. 29/2000 Sb. (poštovní služby).
+- *Judikatura:* *NSS* 65 Af 68/2017 - 41 (18. 12. 2018) — dle § 39 odst. 1 DŘ správce daně přednostně doručuje při ústním jednání/jiném úkonu nebo elektronicky; poštovní zásilka je až subsidiární.
+
+**4. Subsumpce.** Adresát má zpřístupněnou datovou schránku — podle § 39 odst. 1 písm. b) ve spojení s § 42 DŘ měl být výměr doručen elektronicky. Poštovní zásilka je dle odst. 2 přípustná jen tehdy, není-li možné doručit elektronicky; tato podmínka splněna nebyla. Navíc prostá zásilka odporuje podmínce poštovní smlouvy (odst. 3) — nelze prokázat řádný způsob doručení.
+
+**5. Řešení.** Doručení prostou poštovní zásilkou bylo procesně vadné: nebyla respektována priorita elektronického doručování a nedodržena podmínka odst. 3. Doručení tak nenastalo způsobem stanoveným zákonem; lhůty (odvolací) řádně nezačaly běžet a navazující vymáhání je zpochybnitelné. Správce by měl doručit znovu datovou schránkou. Subjekt namítne vadu doručení; uplatní se i § 51 (břemeno prokázání doručení tíží správce).
+
+**6. Varianty.** (a) Neměl-li by adresát datovou schránku zpřístupněnu, byla by poštovní zásilka přípustná, ovšem jen jako registrovaná zásilka s doručenkou dle podmínky odst. 3 (prostá zásilka by stejně neobstála). (b) Doručoval-li by správce výměr osobně při ústním jednání s protokolem (§ 51 odst. 5), bylo by doručení účinné okamžitě i bez pošty.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument správce:* „Zásilka byla fakticky vhozena do schránky, adresát se mohl seznámit." Neutralizace: faktické vhození prosté zásilky nenahrazuje zákonný způsob doručení; při zpřístupněné datové schránce je elektronické doručení povinné (§ 42).
+- *Protiargument:* „Způsob doručení je věcí úvahy správce." Neutralizace: § 39 stanoví závaznou hierarchii; poštovní zásilka je přípustná jen, není-li možné doručit při úkonu nebo elektronicky (NSS 65 Af 68/2017).
+- *Slabé místo:* prokázal-li by správce, že se subjekt s písemností fakticky seznámil a podle ní jednal, mohlo by být doručení prokázáno náhradně dle § 51 odst. 3 — proto je vhodné vadu doručení namítnout dříve, než subjekt na výměr jakkoli zareaguje.
+
+#### H. Praktický závěr
+
+Doručuje se přednostně při úkonu nebo elektronicky (datová schránka); poštovní zásilka je až subsidiární a jen jako registrovaná dle poštovní smlouvy. Při zpřístupněné datové schránce je poštovní doručení zpravidla vadné.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Má adresát zpřístupněnou datovou schránku (pak priorita elektronického doručení, § 42)?
+- [ ] Bylo možné doručit při ústním jednání nebo jiném úkonu?
+- [ ] Přistoupil správce k zásilce až po vyloučení přednostních způsobů (odst. 2)?
+- [ ] Je u poštovního doručení splněna podmínka poštovní smlouvy (registrovaná zásilka, odst. 3)?
+- [ ] Lze způsob a den doručení prokázat (§ 51), nebo jde o prostou zásilku bez doručenky?
+
+**Typicky rozhodné důkazy / podklady:** výpis o zpřístupnění datové schránky, doklad o zvoleném způsobu doručení, doručenka, poštovní smlouva/podmínky, evidence spisu.
+
 ---
 
 ### § 40 — Doručování do vlastních rukou
@@ -449,6 +745,43 @@ Doručování do vlastních rukou je provázáno s § 47 odst. 1 (doručení oka
 
 > **Srovnání se SŘ:** SŘ (§ 19 odst. 4) rovněž rozlišuje písemnosti doručované do vlastních rukou, přičemž hlavní kategorie jsou shodné s DŘ. OSŘ (§ 49) pak rozlišuje ještě podrobnější kategorie — doručení do vlastních rukou v civilním procesu je striktněji vymezeno s ohledem na zákonné důsledky doručení pro průběh sporu (např. fikce uznání návrhu apod.).
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Správce daně doručuje rozhodnutí, od jehož doručení běží 30denní odvolací lhůta, fyzické osobě. Doručovatel adresáta nezastihne, avšak místo aby zásilku do vlastních rukou uložil a zanechal výzvu k vyzvednutí, vhodí ji rovnou do domovní schránky (jako by šlo o písemnost dle § 44 odst. 6). Adresát zásilku objeví se zpožděním a podá odvolání, které správce odmítne jako opožděné s tím, že doručeno bylo dnem vhození. Důkazy: rozhodnutí s vyznačením, že běží lhůta, doručenka/záznam doručovatele o způsobu doručení, údaj o dni vhození a dni faktického seznámení.
+
+**2. Právní otázka.** Bylo rozhodnutí, od jehož doručení běží lhůta, doručeno řádně, bylo-li jen vhozeno do schránky bez postupu pro doručení do vlastních rukou?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 40 DŘ — povinné doručování do vlastních rukou, je-li den doručení rozhodný pro počátek běhu lhůty (písm. a), stanoví-li tak zákon (písm. b) nebo určí-li tak správce (písm. c).
+- *Související ustanovení téhož zákona:* § 44 odst. 4 DŘ (postup u doručení do vlastních rukou — uložení a výzva); § 47 odst. 1 a 2 DŘ (okamžik převzetí, fikce po 10 dnech); § 109 odst. 1 DŘ (odvolací lhůta); § 48 DŘ (neúčinnost doručení).
+- *Související předpisy:* § 19 odst. 4 SŘ (kategorie písemností do vlastních rukou) jako srovnání.
+- *Judikatura:* obecný výklad — u písemnosti, od jejíhož doručení běží lhůta, je nepřípustné prosté vhození do schránky; musí předcházet pokus o doručení adresátovi a uložení s výzvou.
+
+**4. Subsumpce.** Rozhodnutí spouští běh odvolací lhůty — naplněn důvod § 40 písm. a) pro doručení do vlastních rukou. Postup byl proto vázán na § 44 odst. 4 (uložení + upozornění + 10denní lhůta), nikoli na vhození dle § 44 odst. 6. Vhozením do schránky doručení do vlastních rukou řádně nenastalo.
+
+**5. Řešení.** Doručení je vadné. Den vhození nemůže být dnem doručení rozhodnutí, od něhož běží lhůta. Odvolací lhůta řádně nezačala běžet (resp. by mohla počít až řádným doručením nebo fikcí po správně provedeném uložení). Odmítnutí odvolání jako opožděného je nezákonné; subjekt namítne vadu doručení do vlastních rukou, popř. požádá o neúčinnost doručení (§ 48), seznámil-li se se zásilkou opožděně.
+
+**6. Varianty.** (a) Šlo-li by o písemnost, která se nedoručuje do vlastních rukou a od jejíhož doručení neběží lhůta, bylo by vhození do schránky dle § 44 odst. 6 přípustné. (b) Určil-li by správce doručení do vlastních rukou i tam, kde to zákon nevyžaduje (§ 40 písm. c), musel by být dodržen postup uložení s výzvou stejně jako u písm. a).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument správce:* „Zásilka se dostala do dispozice adresáta vhozením, doručeno bylo." Neutralizace: u písemnosti, od níž běží lhůta, zákon vyžaduje doručení do vlastních rukou; prosté vhození tento režim obchází a nevyvolá řádné doručení.
+- *Protiargument:* „Adresát se nakonec seznámil, vada je bezvýznamná." Neutralizace: rozhodný je den řádného doručení pro počátek lhůty; vada ve způsobu doručení zpochybňuje samotný počátek běhu lhůty.
+- *Slabé místo:* je-li z následného postupu adresáta zjevné, že se s rozhodnutím seznámil (§ 51 odst. 3), může správce dovozovat náhradní prokázání doručení; subjekt proto musí pečlivě doložit den faktického seznámení a vadu způsobu doručení.
+
+#### H. Praktický závěr
+
+Spouští-li doručení běh lhůty, doručuje se vždy do vlastních rukou — tj. pokus o doručení adresátovi a při nezastižení uložení s výzvou (10 dnů), nikoli prosté vhození do schránky. Totéž platí, stanoví-li to zákon nebo určí správce.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Je den doručení rozhodný pro počátek běhu lhůty (pak nutně do vlastních rukou)?
+- [ ] Nebo stanoví doručení do vlastních rukou zákon, popř. je určil správce?
+- [ ] Byl proveden pokus o doručení adresátovi (ne pouhé vhození do schránky)?
+- [ ] Při nezastižení: byla písemnost uložena a zanechána výzva s 10denní lhůtou (§ 44 odst. 4)?
+- [ ] Je den doručení (převzetí nebo fikce) doložen pro počátek navazujících lhůt?
+
+**Typicky rozhodné důkazy / podklady:** záznam doručovatele o způsobu doručení, doručenka, výzva k vyzvednutí, údaj o dni uložení a dni převzetí/fikce, doklad o dni faktického seznámení.
+
 ---
 
 ### § 41 — Doručování zástupci
@@ -472,6 +805,43 @@ Rozsah exkluzivity doručování je vymezen **rozsahem oprávnění k zastupová
 Výjimka z exkluzivního doručování nastupuje, pokud **písemnost ukládá osobní povinnost**, kterou musí splnit zastoupený (nikoliv zástupce) — typicky výzva k osobní účasti na ústním jednání, výzva k podpisu protokolu nebo výzva k osobní identifikaci. V takovém případě se doručuje **oběma** — zástupci i zastoupenému.
 
 Pravidlo pro určení počátku lhůty při souběžném doručování: rozhodný je den, kdy bylo doručeno **pozdějšímu** adresátovi. Tím je chráněn zastoupený i zástupce — lhůta začíná běžet teprve poté, co oba vědí o obsahu písemnosti, a to bez ohledu na pořadí doručení.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Daňový subjekt udělí daňovému poradci neomezenou plnou moc k zastupování ve všech věcech správy daní. Správce daně přesto doručí výzvu k odstranění pochybností (§ 89 DŘ) přímo daňovému subjektu, nikoli zástupci. Subjekt na výzvu nereaguje, neboť ji považuje za vadně doručenou. Správce stanoví daň podle pomůcek. Důkazy: plná moc s rozsahem zmocnění a datem uplatnění u správce, doručenka výzvy (komu bylo doručeno), evidence zástupce u správce daně.
+
+**2. Právní otázka.** Je doručení výzvy přímo zastoupenému (nikoli zástupci) účinné, má-li subjekt zástupce s plnou mocí pokrývající daný úkon?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 41 DŘ — exkluzivní doručování zástupci v rozsahu jeho oprávnění (odst. 1); souběžné doručování zastoupenému i zástupci, má-li zastoupený vykonat něco osobně, s rozhodným pozdějším dnem doručení (odst. 2).
+- *Související ustanovení téhož zákona:* §§ 25–31 DŘ (zastoupení, plná moc a její rozsah); § 47 DŘ (účinky doručení); § 40 DŘ (doručení do vlastních rukou); § 89 DŘ (výzva v postupu k odstranění pochybností).
+- *Související předpisy:* § 34 SŘ (doručování zástupci ve správním řízení) jako srovnání.
+- *Judikatura:* ustálený výklad — doručení pouze zastoupenému (namísto zástupci) v rozsahu plné moci je procesně neúčinné a nevyvolává účinky doručení ani počátek lhůt.
+
+**4. Subsumpce.** Subjekt má zástupce s plnou mocí pokrývající daný úkon — podle odst. 1 se mělo doručovat výlučně zástupci. Výzva nevyžaduje osobní úkon zastoupeného (jde o předložení dokladů, které učiní zástupce), takže výjimka odst. 2 (souběžné doručování) se neuplatní. Doručení přímo zastoupenému je proto neúčinné.
+
+**5. Řešení.** Doručení výzvy je vadné a nevyvolalo účinky; lhůta k reakci řádně nezačala běžet. Stanovení daně podle pomůcek pro „nesplnění" vadně doručené výzvy je nezákonné a v odvolání/žalobě napadnutelné. Správce měl doručit zástupci. Subjekt namítne neúčinnost doručení zastoupenému a poukáže na uplatněnou plnou moc.
+
+**6. Varianty.** (a) Ukládala-li by výzva osobní úkon zastoupeného (osobní účast, podpis protokolu), doručovalo by se oběma a rozhodný pro počátek lhůty by byl pozdější den doručení (odst. 2). (b) Byla-li by plná moc omezena jen na jinou agendu (např. jen placení daně), pro výzvu v nalézacím řízení by exkluzivita neplatila a doručení zastoupenému by mohlo být řádné.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument správce:* „Doručil jsem přímo subjektu, ten o výzvě věděl." Neutralizace: při zastoupení v rozsahu plné moci se doručuje výlučně zástupci; doručení zastoupenému je neúčinné bez ohledu na faktickou vědomost.
+- *Protiargument:* „Šlo o osobní povinnost, proto jsem doručil subjektu." Neutralizace: i tehdy se podle odst. 2 doručuje oběma (zástupci i zastoupenému), nikoli pouze zastoupenému; navíc předložení dokladů osobní povinností není.
+- *Slabé místo:* rozhodný je rozsah a okamžik uplatnění plné moci u správce — byla-li plná moc uplatněna až po vydání výzvy nebo se na úkon nevztahuje, exkluzivita neplatí; je nutné doložit datum a rozsah zmocnění.
+
+#### H. Praktický závěr
+
+Má-li subjekt zástupce, doručuje se v rozsahu plné moci výlučně zástupci; doručení zastoupenému je neúčinné. Jen má-li zastoupený něco vykonat osobně, doručuje se oběma a lhůta běží od pozdějšího doručení.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Má adresát zástupce a v jakém rozsahu (plná moc uplatněná u správce)?
+- [ ] Pokrývá zmocnění daný úkon (pak doručení výlučně zástupci)?
+- [ ] Bylo skutečně doručeno zástupci, nikoli (jen) zastoupenému?
+- [ ] Ukládá písemnost osobní úkon zastoupeného (pak doručit oběma)?
+- [ ] Při souběžném doručení: počítá se lhůta od pozdějšího z obou doručení?
+
+**Typicky rozhodné důkazy / podklady:** plná moc s rozsahem a datem uplatnění, doručenky (komu bylo doručeno), evidence zástupce u správce daně, povaha úkonu (osobní/neosobní).
 
 ---
 
@@ -511,6 +881,43 @@ Praktický dopad: naprostá většina daňových subjektů — obchodní korpora
 
 > **Srovnání se SŘ:** Zákon č. 300/2008 Sb. se použije i ve správním řízení, kde SŘ (§ 19 odst. 1) rovněž preferuje doručování do datové schránky. Nicméně DŘ navíc v § 42 výslovně tuto povinnost normuje jako absolutní pravidlo bez výjimky (není-li doručení datovou schránkou technicky nemožné), což je přísnější než obecná úprava SŘ.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Finanční úřad dodá platební výměr do datové schránky obchodní korporace 1. dubna. Jednatel se do datové schránky po celou dobu nepřihlásí. Dne 11. dubna nastane fikce doručení podle zákona č. 300/2008 Sb. (10 dnů od dodání bez přihlášení). Korporace později tvrdí, že rozhodnutí jí nikdy nebylo doručeno, neboť zprávu v schránce „nikdy neotevřela". Důkazy: doručenka datové schránky (dodací a doručovací událost), výpis z evidence o zpřístupnění schránky, datum dodání zprávy a uplynutí 10 dnů.
+
+**2. Právní otázka.** Nastalo doručení platebního výměru fikcí dle zákona č. 300/2008 Sb., nepřihlásil-li se adresát do své zpřístupněné datové schránky po dobu 10 dnů od dodání zprávy?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 42 DŘ — povinné elektronické doručování osobě se zpřístupněnou datovou schránkou podle jiného právního předpisu.
+- *Související ustanovení téhož zákona:* § 39 DŘ (priorita elektronického doručování); § 47 odst. 2 DŘ (paralelní fikce u zásilky — 10 dnů od uložení); § 35 odst. 1 písm. d) DŘ (zachování lhůty odesláním do schránky správce); § 41 DŘ (doručování zástupci, má-li i zástupce schránku).
+- *Související předpisy:* zákon č. 300/2008 Sb., o elektronických úkonech a autorizované konverzi dokumentů — § 17 odst. 3 a 4 (okamžik doručení přihlášením oprávněné osoby, jinak fikce po 10 dnech od dodání).
+- *Judikatura:* ustálený výklad — fikce doručení do datové schránky nastává nezávisle na faktickém přečtení zprávy; rozhodné je dodání do schránky a uplynutí 10 dnů bez přihlášení oprávněné osoby.
+
+**4. Subsumpce.** Adresát má zpřístupněnou datovou schránku — § 42 DŘ ukládá doručovat elektronicky. Zpráva byla dodána 1. dubna; oprávněná osoba se nepřihlásila. Podle § 17 odst. 4 zák. č. 300/2008 Sb. nastala fikce doručení desátým dnem od dodání (11. dubna). Faktické nepřečtení zprávy je právně bez významu.
+
+**5. Řešení.** Platební výměr byl doručen fikcí 11. dubna; od tohoto dne běží odvolací lhůta (§ 109 odst. 1 DŘ). Tvrzení o „neotevření" zprávy doručení nevylučuje. Obrana adresáta je možná jen úzce — namítat technickou nemožnost přihlášení nebo žádat o určení neúčinnosti dle pravidel zák. č. 300/2008 Sb. při závažné překážce; samotná nečinnost adresáta ho nechrání.
+
+**6. Varianty.** (a) Přihlásila-li by se oprávněná osoba do schránky např. 5. dubna, doručení by nastalo již tímto dřívějším dnem přihlášení (nikoli až fikcí 11. dubna). (b) Neměl-li by adresát schránku zpřístupněnu, doručovalo by se poštovní zásilkou s vlastní fikcí dle § 47 odst. 2 (10 dnů od uložení), jejíž mechanismus je odlišný (od uložení, ne od dodání do schránky).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument adresáta:* „Zprávu jsem nikdy neotevřel, není doručeno." Neutralizace: fikce dle § 17 odst. 4 zák. č. 300/2008 Sb. nastává uplynutím 10 dnů od dodání bez přihlášení; přečtení není podmínkou.
+- *Protiargument:* „Správce měl doručit poštou." Neutralizace: § 42 DŘ při zpřístupněné schránce ukládá doručovat elektronicky; poštovní doručení by zde bylo vadné.
+- *Slabé místo:* nelze-li jednoznačně doložit den dodání zprávy do schránky (doručenka datové schránky), je výpočet 10denní fikce sporný; rovněž je třeba ověřit, že schránka byla v rozhodné době skutečně zpřístupněna a doručovalo se oprávněné osobě/zástupci.
+
+#### H. Praktický závěr
+
+Má-li adresát zpřístupněnou datovou schránku, doručuje se mu povinně elektronicky; doručeno je přihlášením oprávněné osoby, jinak fikcí 10. den od dodání zprávy do schránky — bez ohledu na faktické přečtení.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Má adresát (nebo jeho zástupce) zpřístupněnou datovou schránku?
+- [ ] Byla zpráva dodána do schránky a je doložen den dodání (doručenka)?
+- [ ] Přihlásila se oprávněná osoba (doručení dnem přihlášení), nebo nastala fikce po 10 dnech?
+- [ ] Doručovalo se správné osobě (zástupci dle § 41, je-li ustanoven)?
+- [ ] Od správně určeného dne doručení byly počítány navazující lhůty (odvolání)?
+
+**Typicky rozhodné důkazy / podklady:** doručenka datové schránky (dodací a doručovací událost), výpis o zpřístupnění schránky, identifikace oprávněné osoby, datum dodání a datum přihlášení/fikce.
+
 ---
 
 ### Díl 3 — Doručování prostřednictvím zásilky
@@ -534,6 +941,43 @@ Adresátem je jak samotná osoba zúčastněná na správě daní, tak i **zást
 #### Povinnost prokázat totožnost (odst. 2)
 
 Adresát i osoba přijímající zásilku jsou **povinni** prokázat totožnost na výzvu doručovatele. To je předpokladem pro řádné vyplnění doručenky (§ 51 odst. 2 písm. h) DŘ — jméno a vztah k adresátovi). Odmítnutí prokázání totožnosti je odmítnutím součinnosti, nikoliv odmítnutím přijetí zásilky; odmítnutí přijetí zásilky se řídí § 47 odst. 3 DŘ (fikce doručení dnem odmítnutí).
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Úřední osoba pověřená doručováním zastihne daňový subjekt (fyzickou osobu) nikoli na adrese pro doručování, ale na jeho pracovišti během daňové kontroly v provozovně. Předá mu zásilku do vlastních rukou. Adresát odmítne prokázat totožnost (občanský průkaz) s tím, že „není na své adrese", ale zásilku fyzicky převezme. Později tvrdí, že doručení bylo vadné, protože proběhlo mimo adresu pro doručování. Důkazy: doručenka s místem a způsobem doručení, záznam o výzvě k prokázání totožnosti a jeho odmítnutí, protokol o kontrole v provozovně.
+
+**2. Právní otázka.** Je doručení do vlastních rukou účinné, proběhlo-li mimo adresu pro doručování tam, kde byl adresát zastižen, a jaké jsou důsledky odmítnutí prokázat totožnost?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 43 DŘ — možnost doručit kdekoli, kde je adresát zastižen, včetně místa podnikání a pracoviště (odst. 1); povinnost adresáta i přijímající osoby prokázat totožnost na výzvu (odst. 2).
+- *Související ustanovení téhož zákona:* § 41 DŘ (zástupce pro správu daní jako adresát); § 47 odst. 1 a odst. 3 DŘ (okamžik převzetí, fikce při odepření přijetí); § 51 odst. 2 DŘ (náležitosti doručenky včetně totožnosti přijímajícího).
+- *Související předpisy:* obecné předpisy o prokazování totožnosti při úředním jednání.
+- *Judikatura:* obecný výklad — doručení do vlastních rukou je účinné okamžikem převzetí adresátem bez ohledu na to, že k němu došlo mimo adresu pro doručování, byl-li adresát zastižen.
+
+**4. Subsumpce.** Adresát byl zastižen na pracovišti (v provozovně) — podle odst. 1 lze doručit i zde. Zásilku do vlastních rukou převzal, takže podle § 47 odst. 1 nastalo doručení okamžikem převzetí. Odmítnutí prokázat totožnost je porušením povinnosti dle odst. 2 (odepřením součinnosti), nikoli však odepřením přijetí zásilky (§ 47 odst. 3) — zásilku adresát fyzicky převzal.
+
+**5. Řešení.** Doručení je účinné okamžikem převzetí; námitka „mimo adresu" neobstojí, neboť § 43 odst. 1 doručení kdekoli při zastižení výslovně připouští. Odmítnutí prokázat totožnost se zaznamená do doručenky a nemá vliv na účinnost doručení, byl-li adresát doručovateli znám nebo jinak ztotožněn; ztížuje však dokazování, kdo zásilku převzal (význam pro § 51). Subjektu námitka vadného doručení nepomůže.
+
+**6. Varianty.** (a) Kdyby adresát zásilku odmítl převzít (nikoli jen odmítl prokázat totožnost), nastala by fikce doručení dnem odepření přijetí (§ 47 odst. 3) po poučení o důsledcích. (b) Zastižen-li by byl namísto adresáta jen jiný (neoprávněný) člověk, doručení do vlastních rukou by tímto převzetím nenastalo.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument adresáta:* „Doručení mimo mou adresu je neplatné." Neutralizace: § 43 odst. 1 výslovně umožňuje doručit kdekoli, kde je adresát zastižen (byt, místo podnikání, pracoviště).
+- *Protiargument:* „Odmítl jsem prokázat totožnost, doručení nenastalo." Neutralizace: povinnost prokázat totožnost je součinností (odst. 2); její porušení nezmaří doručení, byl-li adresát ztotožněn; odmítnutí se jen zaznamená.
+- *Slabé místo:* nebyla-li totožnost přijímajícího řádně zaznamenána na doručence (§ 51 odst. 2 písm. h), může vzniknout spor, zda převzala oprávněná osoba; břemeno řádného prokázání doručení tíží správce.
+
+#### H. Praktický závěr
+
+Zásilku lze doručit kdekoli, kde je adresát (nebo zástupce pro správu daní) zastižen. Adresát i přijímající osoba musí na výzvu prokázat totožnost; odmítnutí je odepřením součinnosti, nikoli odepřením přijetí — to má vlastní režim (§ 47 odst. 3).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Byl adresát (či zástupce pro správu daní) skutečně zastižen na daném místě?
+- [ ] Šlo o převzetí oprávněnou osobou (adresát, zástupce, oprávněný přijímatel)?
+- [ ] Byla totožnost přijímajícího ověřena a zaznamenána na doručence (§ 51 odst. 2 písm. h)?
+- [ ] Nešlo o odepření přijetí zásilky (jiný režim — § 47 odst. 3)?
+- [ ] Je den a způsob doručení doložen pro počátek navazujících lhůt?
+
+**Typicky rozhodné důkazy / podklady:** doručenka s místem, způsobem a totožností přijímajícího, záznam o výzvě k prokázání totožnosti, případný protokol o úkonu v místě zastižení.
 
 ---
 
@@ -588,6 +1032,43 @@ DŘ rozlišuje tři kategorie písemností dle požadavku na potvrzení doručen
 
 > **Srovnání se SŘ:** SŘ (§ 20 a násl.) má obdobnou strukturu doručování fyzickým osobám. Podstatný rozdíl: SŘ výslovně rozlišuje doručování do vlastních rukou (§ 19 odst. 4), zatímco DŘ používá totožné pojmosloví. Desetidenní úložní lhůta je shodná. V SŘ je blízkost osoby vymezena jako „kdokoliv, kdo bydlí nebo se zdržuje v místě doručení" — DŘ podobně hovoří o osobě na adrese nebo v jejím blízkém okolí.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Fyzická osoba podniká na základě živnostenského oprávnění, není zapsána ve veřejném rejstříku. Místo podnikání (provozovna) má v jiné obci než místo trvalého pobytu. Správce daně doručuje výzvu související s podnikatelskou činností (do vlastních rukou) na adresu provozovny; adresát zde není zastižen, zásilka je uložena a po 10 dnech nastane fikce doručení. Adresát namítá, že se mu mělo doručovat na adresu místa pobytu. Důkazy: živnostenský rejstřík (zápis/nezápis ve veřejném rejstříku), adresa trvalého pobytu, doručenka s adresou doručení a dnem uložení.
+
+**2. Právní otázka.** Na kterou adresu se doručuje nezapsanému podnikateli — fyzické osobě písemnost související s jeho podnikatelskou činností?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 44 DŘ — adresy pro doručování fyzické osobě (odst. 1), zvláštní pravidlo pro podnikatelské písemnosti a pro nezapsaného podnikatele — doručení na adresu místa pobytu (odst. 2); postup u doručení do vlastních rukou s 10denní úložní lhůtou (odst. 4).
+- *Související ustanovení téhož zákona:* § 45 DŘ (doručování právnickým osobám — obdobně pro podnikatele zapsané ve veřejném rejstříku); § 47 odst. 2 DŘ (fikce doručení po 10 dnech); § 40 DŘ (doručování do vlastních rukou).
+- *Související předpisy:* zákon č. 133/2000 Sb., o evidenci obyvatel (adresa pro doručování v ISEO); zákon č. 455/1991 Sb., živnostenský zákon.
+- *Judikatura:* obecný výklad — u nezapsaného podnikatele je i pro podnikatelské písemnosti rozhodná adresa místa pobytu, nestanoví-li subjekt na žádost jinou adresu.
+
+**4. Subsumpce.** Adresát je podnikatel nezapsaný ve veřejném rejstříku. Podle § 44 odst. 2 věty druhé se mu — i jde-li o písemnost související s podnikáním — doručuje na adresu místa pobytu, nikoli na adresu provozovny. Doručení na adresu provozovny tak neodpovídá zákonu; fikce doručení po uložení na nesprávné adrese řádně nenastala.
+
+**5. Řešení.** Doručení na adresu provozovny je vadné: u nezapsaného podnikatele je rozhodná adresa místa pobytu (§ 44 odst. 2). Fikce doručení po 10 dnech proto na adrese provozovny nenastala. Subjekt námitku uplatní; správce by měl doručit na adresu místa pobytu (nebo na adresu, kterou subjekt na žádost zvolil dle odst. 3). Vada brání řádnému počátku navazujících lhůt.
+
+**6. Varianty.** (a) Byl-li by podnikatel zapsán ve veřejném rejstříku, doručovalo by se ve věcech podnikání obdobně jako právnické osobě (§ 44 odst. 2 věta první ve spojení s § 45) — tedy na adresu zapsanou v rejstříku. (b) Požádal-li by subjekt podle odst. 3 o doručování na adresu provozovny, bylo by doručení na tuto adresu řádné.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument správce:* „Šlo o podnikatelskou písemnost, doručil jsem do provozovny." Neutralizace: u nezapsaného podnikatele § 44 odst. 2 výslovně odkazuje na adresu místa pobytu; provozovna není zákonnou adresou pro doručování bez žádosti dle odst. 3.
+- *Protiargument:* „Adresát se v provozovně reálně zdržuje." Neutralizace: rozhodná je zákonem určená adresa pro doručování, nikoli faktická přítomnost; tu lze využít jen při osobním zastižení dle § 43.
+- *Slabé místo:* podal-li subjekt dříve žádost dle odst. 3 o doručování na jinou adresu (např. provozovnu), námitka nesprávné adresy odpadá; je nutné ověřit existenci takové žádosti.
+
+#### H. Praktický závěr
+
+Fyzické osobě se doručuje na adresu místa pobytu (popř. evidovanou v ISEO či na žádostí zvolenou). Podnikateli zapsanému ve veřejném rejstříku se ve věcech podnikání doručuje jako právnické osobě; nezapsanému i pro podnikatelské písemnosti na adresu místa pobytu.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Souvisí písemnost s podnikatelskou činností fyzické osoby?
+- [ ] Je podnikatel zapsán ve veřejném rejstříku (pak režim jako u PO), nebo nezapsán (adresa místa pobytu)?
+- [ ] Nepožádal subjekt o doručování na jinou adresu v ČR (odst. 3)?
+- [ ] U doručení do vlastních rukou: byla při nezastižení zásilka uložena s 10denní výzvou (odst. 4)?
+- [ ] Je den uložení a fikce doručení (§ 47 odst. 2) doložen na správné adrese?
+
+**Typicky rozhodné důkazy / podklady:** výpis z živnostenského/veřejného rejstříku (zápis/nezápis), údaj o adrese místa pobytu (ISEO), případná žádost dle odst. 3, doručenka s adresou a dnem uložení.
+
 ---
 
 ### § 45 — Doručování právnickým osobám
@@ -623,6 +1104,43 @@ Pokud se právnické osobě nepodaří zásilku doručit (ani uložená zásilka
 #### Orgány veřejné moci (odst. 5)
 
 Pro doručování jiným správním orgánům, soudům nebo jiným orgánům veřejné moci se přiměřeně použijí pravidla pro právnické osoby. V praxi se doručuje zejména do datové schránky orgánu veřejné moci — zpravidla jde o povinné doručování datovou schránkou (§ 42 DŘ), takže § 45 odst. 5 se uplatní jen subsidiárně.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Společnost s ručením omezeným má v obchodním rejstříku zapsané sídlo na adrese, kde fakticky nesídlí (tzv. virtuální sídlo, „prázdná" adresa). Správce daně tam doručuje rozhodnutí do vlastních rukou poštou; zásilka není vyzvednuta, po 10 dnech nastane fikce doručení. Společnost tvrdí, že se o rozhodnutí nedozvěděla, protože na adrese sídla nikdo není. Správce následně doručí i na adresu místa pobytu jednatele. Důkazy: výpis z OR se zapsaným sídlem, doručenka na adresu sídla s dnem uložení, údaj o adrese jednatele dle § 24 odst. 2, doručenka na adresu jednatele.
+
+**2. Právní otázka.** Nastala fikce doručení rozhodnutí doručovaného na zapsané sídlo PO, byť tam fakticky nesídlí, a za jakých podmínek lze doručit na soukromou adresu jednatele?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 45 DŘ — doručování PO na adresu sídla (odst. 1), osoby oprávněné převzít zásilku (odst. 3), záložní doručení na adresu místa pobytu osoby oprávněné jednat jménem PO po marném uplynutí úložní lhůty (odst. 4).
+- *Související ustanovení téhož zákona:* § 24 odst. 2 DŘ (osoby oprávněné jednat jménem PO); § 47 odst. 2 DŘ (fikce doručení); § 42 DŘ (přednost datové schránky, již PO zpravidla má).
+- *Související předpisy:* § 429 OZ (sídlo podnikatele a možnost dovolat se skutečného sídla); § 503 a násl. OZ (organizační složka zahraniční PO); zákon o veřejných rejstřících.
+- *Judikatura:* ustálený výklad — riziko neúčinného doručení na formálně zapsané sídlo, kde PO fakticky nesídlí, jde k tíži PO; fikce doručení nastává i tehdy, je-li sídlo jen formální.
+
+**4. Subsumpce.** Doručováno bylo na sídlo zapsané v OR (odst. 1) — zákon vychází z formální registrační povinnosti. Zásilka nebyla vyzvednuta; nastala fikce doručení po 10 dnech (§ 47 odst. 2). Protože zásilka nebyla vyzvednuta, byly splněny podmínky pro fakultativní záložní doručení na adresu místa pobytu jednatele dle odst. 4 (je-li adresa správci známa).
+
+**5. Řešení.** Fikce doručení na zapsané sídlo nastala bez ohledu na faktickou neobsazenost adresy — riziko nese PO, která neudržuje zápis v souladu se skutečností. Doručení na adresu jednatele dle odst. 4 je možností (nikoli povinností) správce a uplatní se zejména u nefunkčních PO. Námitka „na sídle nikdo není" PO nepomůže; obrana je úzká (např. neúčinnost doručení dle § 48 při závažné a nepředvídatelné překážce).
+
+**6. Varianty.** (a) Měla-li by PO zpřístupněnou datovou schránku (typicky ano u zapsaných PO), doručovalo by se přednostně do ní (§ 42) a poštovní doručení na sídlo by bylo vadné. (b) Šlo-li by o písemnost nikoli do vlastních rukou, mohla ji převzít i kterýkoli zaměstnanec nebo vhodná osoba v okolí sídla (odst. 3).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument PO:* „Na sídle fakticky nesídlíme, doručení je neúčinné." Neutralizace: zákon vychází ze zapsaného sídla; riziko nesouladu zápisu se skutečností nese PO, fikce doručení nastává.
+- *Protiargument:* „Správce nesměl doručovat na soukromou adresu jednatele." Neutralizace: § 45 odst. 4 to po marném uplynutí úložní lhůty umožňuje, je-li adresa známa; jde o zákonné záložní doručení.
+- *Slabé místo:* má-li PO datovou schránku, je primární povinné elektronické doručování (§ 42); poštovní doručení na sídlo by pak bylo vadné — je nutné ověřit (ne)existenci schránky před spoléháním na fikci u poštovní zásilky.
+
+#### H. Praktický závěr
+
+PO se doručuje na zapsané sídlo; nesoulad zápisu se skutečností jde k její tíži a fikce doručení nastává. Nebyla-li uložená zásilka vyzvednuta, lze záložně doručit na známou adresu místa pobytu osoby oprávněné jednat jménem PO. U PO se zpřístupněnou datovou schránkou má přednost elektronické doručení.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Nemá PO zpřístupněnou datovou schránku (jinak priorita § 42)?
+- [ ] Bylo doručeno na adresu sídla zapsanou ve veřejném rejstříku?
+- [ ] Převzala zásilku oprávněná osoba (statutární orgán; u písemností mimo vlastní ruce i zaměstnanec)?
+- [ ] Při nevyzvednutí úložní zásilky: zvážено záložní doručení na adresu jednatele (odst. 4), je-li známa?
+- [ ] Je den uložení a fikce doručení (§ 47 odst. 2) řádně doložen?
+
+**Typicky rozhodné důkazy / podklady:** výpis z veřejného rejstříku (sídlo, statutární orgán), doručenka na sídlo s dnem uložení, údaj o adrese místa pobytu jednatele (§ 24 odst. 2), případně doručenka na adresu jednatele.
 
 ---
 
@@ -661,6 +1179,43 @@ Chybí-li v upozornění poučení o právních důsledcích nevyzvednutí, mohl
 #### Uložení bez předchozího pokusu o doručení (odst. 3)
 
 Na žádost adresáta lze zásilky ukládat rovnou, bez předchozího pokusu o osobní doručení. Tím se zjednodušuje doručovací proces pro adresáty, kteří jsou z různých důvodů na adrese nedostupní (časté pracovní cesty, sezónní nepřítomnost). Žádost musí být písemná a musí směřovat k doručovateli nebo provozovateli poštovních služeb.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Adresát (fyzická osoba) není při doručování rozhodnutí do vlastních rukou zastižen. Doručovatel zásilku uloží na poště a do domovní schránky vhodí upozornění („lístek"), na němž však chybí **písemné poučení o právních důsledcích nevyzvednutí** (o fikci doručení po 10 dnech). Adresát si zásilku nevyzvedne; nastane fikce doručení a uplyne odvolací lhůta. Adresát namítá vadu upozornění. Důkazy: vzor/kopie upozornění o uložení, doručenka s dnem uložení, doklad o vhození upozornění, údaj o dni faktického seznámení adresáta.
+
+**2. Právní otázka.** Jaké důsledky má absence poučení o právních důsledcích nevyzvednutí v upozornění o uložení písemnosti na účinnost fikce doručení?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 46 DŘ — místa uložení (odst. 1), povinné náležitosti upozornění o uložení včetně písemného poučení o právních důsledcích nevyzvednutí (odst. 2), uložení bez předchozího pokusu na žádost adresáta (odst. 3).
+- *Související ustanovení téhož zákona:* § 47 odst. 2 DŘ (fikce doručení po 10 dnech od uložení); § 48 DŘ (neúčinnost doručení); § 37 DŘ (navrácení v předešlý stav); § 51 DŘ (prokázání doručení).
+- *Související předpisy:* § 23 SŘ (uložení a poučení ve správním řízení) jako srovnání.
+- *Judikatura:* ustálený výklad NSS k doručování v daňovém řízení — vady upozornění (zejm. chybějící poučení) se posuzují individuálně podle toho, zda adresát byl reálně zkrácen na možnosti se s písemností seznámit.
+
+**4. Subsumpce.** Zásilka byla uložena (§ 46 odst. 1), avšak upozornění postrádalo obligatorní náležitost dle odst. 2 — poučení o důsledcích nevyzvednutí. Tato vada se dotýká informační ochrany adresáta, kterou § 46 odst. 2 zajišťuje; jejím důsledkem může být neúčinnost doručení (§ 48) nebo důvod pro navrácení v předešlý stav (§ 37).
+
+**5. Řešení.** Chybějící poučení je vadou upozornění; zda zmaří fikci doručení, se posoudí individuálně — rozhodné je, zda adresát byl reálně zbaven informace, která ho chrání, a zda se o zásilce dozvěděl odjinud. Adresát by měl uplatnit neúčinnost doručení (§ 48), prokáže-li, že kvůli vadě nevěděl o důsledcích nevyzvednutí; alternativně navrácení v předešlý stav. Břemeno řádnosti doručovacího postupu (včetně náležitostí upozornění) nese správce (§ 51).
+
+**6. Varianty.** (a) Obsahovalo-li by upozornění všechny náležitosti včetně poučení, fikce doručení po 10 dnech by nastala bez vad a obrana adresáta by byla omezena na § 48 při závažné nepředvídatelné překážce. (b) Požádal-li adresát předem písemně o ukládání bez pokusu o doručení (odst. 3), bylo by uložení rovnou zákonné, ale náležitosti upozornění včetně poučení by musely být splněny i tak.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument správce:* „Vada poučení je formální, fikce stejně nastala." Neutralizace: poučení o důsledcích nevyzvednutí je obligatorní náležitostí (odst. 2) chránící adresáta; jeho absence zakládá důvod neúčinnosti doručení dle § 48.
+- *Protiargument:* „Adresát se měl o zásilku zajímat." Neutralizace: zákon klade povinnost řádně poučit na správce; pasivita adresáta nezhojí chybějící zákonnou náležitost upozornění.
+- *Slabé místo:* prokáže-li správce, že se adresát se zásilkou fakticky seznámil a podle ní jednal (§ 51 odst. 3), může být doručení prokázáno náhradně i přes vadu upozornění; adresát proto musí doložit, že o důsledcích nevěděl a byl reálně zkrácen.
+
+#### H. Praktický závěr
+
+Upozornění o uložení musí obsahovat zákonné náležitosti, zejména písemné poučení o důsledcích nevyzvednutí (fikce po 10 dnech). Jeho absence je vadou, která může vést k neúčinnosti doručení (§ 48) nebo k navrácení lhůty (§ 37). Bez pokusu o doručení lze uložit jen na předchozí písemnou žádost adresáta.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Bylo místo uložení správné (správce daně nebo provozovatel poštovních služeb)?
+- [ ] Obsahuje upozornění označení správce, adresáta, místo, den a hodiny vyzvednutí?
+- [ ] Obsahuje upozornění písemné poučení o právních důsledcích nevyzvednutí?
+- [ ] Bylo upozornění vloženo do schránky nebo na jiné vhodné místo?
+- [ ] Pokud uloženo bez pokusu o doručení: existuje předchozí písemná žádost adresáta (odst. 3)?
+
+**Typicky rozhodné důkazy / podklady:** kopie/vzor upozornění o uložení (s poučením), doručenka s dnem uložení, doklad o vhození upozornění, případná žádost dle odst. 3, údaj o dni faktického seznámení.
 
 ---
 
@@ -726,6 +1281,43 @@ Doručení zásilky do ciziny se považuje za doručení dle DŘ, pokud lze prok
 > - OSŘ (§ 50c) má rovněž desetidenní úložní lhůtu a fikci doručení, ale civilní proces je o něco přísnější v požadavcích na formu uložení a upozornění.
 > - Odmítnutí zásilky s okamžitou fikcí doručení je v DŘ, SŘ i OSŘ shodné — jde o obecné procesní pravidlo.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Platební výměr je doručován daňovému subjektu poštou do vlastních rukou. Adresát není zastižen, zásilka je 1. června uložena a do schránky vloženo řádné upozornění. Adresát si zásilku nevyzvedne. Dne 11. června (10. den úložní lhůty) nastane fikce doručení. Po marném uplynutí úložní lhůty doručovatel zásilku vhodí do schránky adresáta; adresát ji najde 15. června a teprve tehdy se s výměrem seznámí, ač odvolací lhůta běží již od 11. června. Důkazy: doručenka s dnem uložení, doklad o marném uplynutí úložní lhůty a oznámení správci, údaj o dni vhození a dni seznámení.
+
+**2. Právní otázka.** Kdy nastalo doručení platebního výměru — dnem fikce po 10 dnech od uložení, nebo až dnem faktického nalezení zásilky ve schránce?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 47 DŘ — doručení okamžikem převzetí (odst. 1), fikce doručení 10. dnem od uložení i bez vědomosti adresáta (odst. 2), fikce při odepření přijetí (odst. 3), informování správce o marném uplynutí úložní lhůty (odst. 4), vhození nevyzvednuté zásilky do schránky (odst. 5 a 6).
+- *Související ustanovení téhož zákona:* § 46 DŘ (uložení a upozornění); § 48 DŘ (neúčinnost doručení); § 33 odst. 2 DŘ (počítání 10denní lhůty); § 109 odst. 1 DŘ (odvolací lhůta).
+- *Související předpisy:* § 23 odst. 4 a § 24 SŘ (úložní lhůta a fikce ve správním řízení) jako srovnání.
+- *Judikatura:* ustálený výklad — fikce doručení nastává posledním dnem úložní lhůty bez ohledu na pozdější faktické seznámení; vhození zásilky do schránky po marném uplynutí lhůty je jen informativní, doručení již nastalo fikcí.
+
+**4. Subsumpce.** Zásilka byla uložena 1. června s řádným upozorněním; adresát si ji nevyzvedl. Podle § 47 odst. 2 nastala fikce doručení 11. června (10. den, počítáno dle § 33 odst. 2). Pozdější nalezení zásilky 15. června je právně bez vlivu na okamžik doručení — fikce již nastala. Vhození do schránky po marném uplynutí úložní lhůty (odst. 5) je informativní.
+
+**5. Řešení.** Výměr byl doručen fikcí 11. června; odvolací lhůta běží od tohoto dne, nikoli od 15. června. Adresát, který se seznámil opožděně, je chráněn pouze institutem neúčinnosti doručení (§ 48), prokáže-li závažný a nepředvídatelný důvod, proč si zásilku nevyzvedl; samotné opožděné nalezení zásilky takovým důvodem není. Subjekt by měl bez prodlení zvážit žádost dle § 48.
+
+**6. Varianty.** (a) Kdyby adresát zásilku při pokusu o doručení výslovně odmítl převzít, nastala by fikce již dnem odepření přijetí (odst. 3), nikoli až 10. den. (b) Požádal-li adresát předem o nevhazování nevyzvednutých zásilek do schránky (odst. 6), zásilka by se vrátila správci a adresát by se s ní neseznámil ani vhozením — fikce by ovšem stejně nastala 11. června.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument adresáta:* „Doručeno bylo až nalezením zásilky 15. června." Neutralizace: § 47 odst. 2 stanoví fikci k 10. dni od uložení bez ohledu na vědomost; pozdější vhození/nalezení je jen informativní.
+- *Protiargument:* „O uložení jsem se nedozvěděl." Neutralizace: subjektivní nevědomost o uložení fikci nevylučuje; ochranou je jen § 48 při závažném nepředvídatelném důvodu.
+- *Slabé místo:* nebylo-li upozornění o uložení řádné (chybějící poučení dle § 46 odst. 2), je fikce zpochybnitelná — proto je třeba ověřit náležitosti upozornění a den uložení na doručence.
+
+#### H. Praktický závěr
+
+Doručeno je okamžikem převzetí; není-li zásilka vyzvednuta, nastává fikce doručení 10. den od uložení bez ohledu na vědomost adresáta. Pozdější vhození/nalezení zásilky okamžik doručení neposouvá. Při odepření přijetí je doručeno dnem odepření. Obranou opožděně seznámeného adresáta je § 48.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Byla zásilka řádně uložena a upozornění bez vad (§ 46 odst. 2)?
+- [ ] Byl správně vypočten 10. den úložní lhůty (§ 33 odst. 2) jako den fikce?
+- [ ] Nešlo o odepření přijetí (fikce dnem odepření, odst. 3)?
+- [ ] Bylo počítáno běh navazujících lhůt ode dne fikce, nikoli od pozdějšího vhození/seznámení?
+- [ ] Existuje u opožděného seznámení důvod pro žádost dle § 48 (závažný a nepředvídatelný)?
+
+**Typicky rozhodné důkazy / podklady:** doručenka s dnem uložení a způsobem doručení, doklad o marném uplynutí úložní lhůty a oznámení správci, údaj o dni vhození a dni faktického seznámení adresáta.
+
 ---
 
 ### § 48 — Neúčinnost doručení
@@ -772,6 +1364,43 @@ Shledá-li správce daně žádost důvodnou, **vysloví neúčinnost doručení
 Zamítne-li správce žádost, fikce doručení v původní den zůstává v platnosti a lhůty nadále plynou od původního dne fikce. Rozhodnutí o zamítnutí je napadnutelné odvoláním (není-li výslovně vyloučeno — a DŘ u § 48 takové výjimky nestanoví).
 
 > **Srovnání se SŘ:** SŘ neobsahuje přesný ekvivalent § 48 DŘ — ochranu před fikcí doručení v SŘ zajišťuje primárně § 24 odst. 2 SŘ (zákonné podmínky pro vznik fikce jsou přísnější, a proto je méně situací, kde by fikce nastala „nespravedlivě"). Ochrana v DŘ je proto explicitnější a procesně propracovanější. OSŘ (§ 50d) rovněž zná institut vrácení lhůty při doručení fikcí — podmínky jsou podobné, ale OSŘ je spojuje s restitucí odvolací lhůty v konkrétním řízení.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Daňovému subjektu je rozhodnutí doručeno fikcí (§ 47 odst. 2), zatímco byl po dobu úložní lhůty hospitalizován po náhlé těžké příhodě, o zásilce nevěděl a neměl ustanoveného zástupce. Po návratu z nemocnice nahlédne do spisu u správce daně a tím se s rozhodnutím poprvé seznámí. Do 15 dnů od nahlédnutí podá žádost o vyslovení neúčinnosti doručení. Důkazy: lékařská zpráva o hospitalizaci v době úložní lhůty, protokol/záznam o nahlížení do spisu s datem, doručenka rozhodnutí (den fikce), datum podání žádosti.
+
+**2. Právní otázka.** Lze vyslovit neúčinnost doručení a je nahlédnutí do spisu „skutečným seznámením" rozhodným pro počátek 15denní lhůty k podání žádosti?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 48 DŘ — neúčinnost doručení při závažném a předem nepředvídatelném důvodu nemožnosti vyzvednutí (odst. 1), 15denní lhůta od skutečného seznámení a absolutní 6měsíční lhůta od doručení (odst. 2), účinky vyslovení neúčinnosti — doručeno dnem oznámení rozhodnutí o neúčinnosti (odst. 3).
+- *Související ustanovení téhož zákona:* § 47 odst. 2 DŘ (fikce doručení, kterou § 48 koriguje); § 66 a násl. DŘ (nahlížení do spisu); § 109 odst. 1 DŘ (odvolací lhůta, jež znovu počne); § 37 DŘ (odlišný institut navrácení lhůty).
+- *Související předpisy:* § 24 odst. 2 SŘ a § 50d OSŘ (obdobná ochrana před fikcí doručení).
+- *Judikatura:* *NSS* 1 Afs 95/2015 - 36 (14. 10. 2015) — za skutečné seznámení s písemností ve smyslu § 48 odst. 2 DŘ lze považovat i nahlížení do spisu.
+
+**4. Subsumpce.** Fikce doručení nastala (§ 47 odst. 2). Hospitalizace po náhlé příhodě je závažný a předem nepředvídatelný důvod, pro který si adresát nemohl zásilku vyzvednout (odst. 1). Skutečným seznámením je dle NSS 1 Afs 95/2015 i nahlédnutí do spisu; od tohoto dne běží 15denní lhůta (odst. 2), která byla dodržena. Absolutní 6měsíční lhůta od fikce není překročena.
+
+**5. Řešení.** Žádosti lze vyhovět. Správce vysloví neúčinnost doručení; podle odst. 3 se rozhodnutí považuje za doručené teprve dnem oznámení rozhodnutí o vyslovení neúčinnosti, od něhož znovu běží odvolací lhůta. Adresát tak získá plnou procesní příležitost. Klíčové je doložit hospitalizaci v době úložní lhůty a datum nahlédnutí do spisu jako počátek 15denní lhůty.
+
+**6. Varianty.** (a) Seznámil-li by se adresát se zásilkou (např. nahlédnutím) více než 6 měsíců po fikci doručení, právo by zaniklo absolutní lhůtou bez ohledu na dodržení 15 dnů. (b) Byl-li by důvod předvídatelný (plánovaný dlouhodobý pobyt v zahraničí, kdy si měl zařídit doručování či zástupce), nešlo by o nepředvídatelný důvod a žádost by byla zamítnuta.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument správce:* „Nahlédnutí do spisu není seznámením s konkrétní písemností." Neutralizace: dle NSS 1 Afs 95/2015 se za skutečné seznámení považuje i nahlížení do spisu — počátek 15denní lhůty je tedy navázán na den nahlédnutí.
+- *Protiargument:* „Důvod nebyl nepředvídatelný." Neutralizace: náhlá těžká zdravotní příhoda je typickým nepředvídatelným a závažným důvodem; prokazuje se lékařskou dokumentací.
+- *Slabé místo:* běh 6měsíční absolutní lhůty — i při jinak důvodné žádosti právo zaniká jejím uplynutím; rizikem je rovněž nepřesné určení dne „skutečného seznámení".
+
+#### H. Praktický závěr
+
+Neúčinnost doručení lze vyslovit při závažném a nepředvídatelném důvodu nemožnosti vyzvednutí; žádost je nutné podat do 15 dnů od skutečného seznámení (i nahlédnutím do spisu) a nejpozději do 6 měsíců od doručení. Po vyslovení neúčinnosti běží lhůty znovu ode dne oznámení tohoto rozhodnutí.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Nastala fikce doručení (§ 47 odst. 2), kterou má § 48 korigovat?
+- [ ] Je důvod nemožnosti vyzvednutí závažný a předem nepředvídatelný?
+- [ ] Byl určen den skutečného seznámení (i nahlédnutím do spisu — NSS 1 Afs 95/2015)?
+- [ ] Je dodržena 15denní lhůta od seznámení a zároveň 6měsíční lhůta od doručení?
+- [ ] Směřuje žádost správci daně, který písemnost doručil?
+
+**Typicky rozhodné důkazy / podklady:** doklady o závažné nepředvídatelné překážce (lékařské zprávy), protokol o nahlížení do spisu s datem, doručenka rozhodnutí (den fikce), datum podání žádosti.
 
 ---
 
@@ -832,6 +1461,43 @@ Pro posílení šance adresáta na skutečné seznámení se zásilkou zákon um
 
 > **Srovnání se SŘ:** SŘ (§ 25) rovněž umožňuje doručování veřejnou vyhláškou v obdobných situacích. V SŘ je lhůta pro nastoupení fikce doručení 15 dnů od vyvěšení — totožná s DŘ. Podmínky (neznámý pobyt/sídlo, velký okruh adresátů) jsou v DŘ i SŘ věcně shodné, byť terminologicky odlišné.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Daňový subjekt (fyzická osoba) se odstěhuje, aniž nahlásí novou adresu; v základním registru obyvatel není evidována adresa pro doručování a subjekt nemá datovou schránku ani zástupce. Správce daně po neúspěšných pokusech o doručení a prověření registrů přistoupí k doručení rozhodnutí veřejnou vyhláškou, kterou vyvěsí na úřední desce a zveřejní dálkovým přístupem; současně požádá obecní úřad posledního známého pobytu o zveřejnění. Subjekt si do 15 dnů písemnost nevyzvedne. Důkazy: doklady o prověření registrů a o neúspěšných pokusech, text veřejné vyhlášky s vyznačeným dnem vyvěšení a sejmutí, doklad o dálkovém zveřejnění.
+
+**2. Právní otázka.** Byly splněny podmínky pro doručení veřejnou vyhláškou osobě neznámého pobytu a kdy nastala fikce doručení?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 49 DŘ — doručení veřejnou vyhláškou osobě neznámého pobytu/sídla nebo neznámé (odst. 1 písm. a), vyvěšení nejméně 15 dnů na úřední desce a dálkový přístup (odst. 2), fikce doručení 15. dnem od vyvěšení (odst. 3), vyznačení dne vyvěšení a sejmutí (odst. 4), součinnost obecního úřadu (odst. 5).
+- *Související ustanovení téhož zákona:* § 26 odst. 1 písm. c) DŘ (ustanovení zástupce neznámé osobě — má přednost před vyhláškou); § 42 DŘ (přednost datové schránky); § 52 DŘ (mlčenlivost — proto vyhláška neobsahuje text písemnosti).
+- *Související předpisy:* zákon č. 133/2000 Sb., o evidenci obyvatel; § 25 SŘ (veřejná vyhláška ve správním řízení, rovněž 15 dnů).
+- *Judikatura:* obecný výklad — doručení veřejnou vyhláškou je krajním (subsidiárním) prostředkem; předpokládá prokazatelné prověření dostupných registrů a vyčerpání řádných způsobů doručení.
+
+**4. Subsumpce.** Pobyt adresáta je neznámý, nemá datovou schránku ani zástupce a nebyl mu ustanoven zástupce dle § 26 odst. 1 písm. c) — naplněn důvod odst. 1 písm. a). Vyhláška byla vyvěšena na úřední desce a zveřejněna dálkově (odst. 2), s vyznačením dne vyvěšení (odst. 4) a se součinností obecního úřadu (odst. 5). Subjekt si do 15 dnů písemnost nevyzvedl — fikce doručení nastala 15. dnem od vyvěšení (odst. 3).
+
+**5. Řešení.** Doručení veřejnou vyhláškou bylo provedeno řádně a fikce doručení nastala 15. dnem od vyvěšení na úřední desce; od tohoto dne běží navazující lhůty. Předpokladem zákonnosti je doložené prověření registrů a neúspěch řádného doručení; pokud by správce nedohledal, že adresát má např. datovou schránku, bylo by doručení vyhláškou vadné. Subjekt může brojit jen tehdy, prokáže-li, že byla známa jeho adresa nebo schránka, anebo že mu měl být ustanoven zástupce.
+
+**6. Varianty.** (a) Měl-li by adresát zpřístupněnou datovou schránku, mělo se doručovat do ní (§ 42) a vyhláška by byla nepřípustná. (b) Byl-li by neznámé osobě ustanoven zástupce dle § 26 odst. 1 písm. c), doručovalo by se tomuto zástupci, nikoli veřejnou vyhláškou.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument subjektu:* „Moje adresa byla dohledatelná, vyhláška byla nepřípustná." Neutralizace: správce musí doložit prověření registrů a neúspěšné pokusy; obstojí, jen pokud pobyt skutečně nebyl zjistitelný.
+- *Protiargument:* „Nevěděl jsem o vyhlášce." Neutralizace: fikce doručení dle odst. 3 nastává nezávisle na vědomosti; zákon proto vyžaduje i dálkový přístup a umožňuje součinnost obecního úřadu pro zvýšení šance seznámení.
+- *Slabé místo:* chybí-li na vyhlášce vyznačení dne vyvěšení a sejmutí (odst. 4), nelze fikci doručení přesně určit a doručení je zpochybnitelné; rovněž nedoložené prověření registrů činí postup vadným.
+
+#### H. Praktický závěr
+
+Veřejná vyhláška je subsidiárním způsobem doručení (neznámý pobyt/sídlo, velký okruh adresátů, selhání doručení do ciziny). Vyvěšuje se nejméně 15 dnů na úřední desce a zveřejňuje dálkově; fikce doručení nastává 15. dnem od vyvěšení. Má přednost ustanovení zástupce dle § 26 i doručení datovou schránkou dle § 42.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Je dán některý důvod odst. 1 (neznámý pobyt/sídlo či osoba, velký okruh adresátů, selhání doručení do ciziny)?
+- [ ] Bylo prokazatelně prověřeno, že adresa/datová schránka nejsou zjistitelné a není ustanoven zástupce (§ 26 odst. 1 písm. c)?
+- [ ] Byla vyhláška vyvěšena nejméně 15 dnů na úřední desce a zveřejněna dálkovým přístupem?
+- [ ] Je na vyhlášce vyznačen den vyvěšení a sejmutí (odst. 4)?
+- [ ] Byla fikce doručení určena k 15. dni od vyvěšení (nevyzvedl-li si adresát písemnost dříve)?
+
+**Typicky rozhodné důkazy / podklady:** doklady o prověření registrů a neúspěšných pokusech o doručení, text veřejné vyhlášky s vyznačeným dnem vyvěšení a sejmutí, doklad o dálkovém zveřejnění a o součinnosti obecního úřadu.
+
 ---
 
 ### § 50 — Doručování hromadného předpisného seznamu
@@ -859,6 +1525,43 @@ Ode dne doručení běží **odvolací lhůta** (§ 109 odst. 1 DŘ — 30 dnů)
 #### Ochrana daňového tajemství při nahlížení (odst. 3)
 
 Zákon výslovně omezuje přístup k hromadnému předpisnému seznamu: při nahlížení jsou daňovému subjektu zpřístupněny **pouze údaje o jeho vlastní dani**. Jiné poplatníky se z hromadného předpisného seznamu nelze dozvědět — tím je zachována povinnost mlčenlivosti (§ 52 DŘ) a ochrana daňového tajemství i v podmínkách hromadného předpisu.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Poplatník daně z nemovitých věcí obdrží v polovině roku složenku k úhradě daně. Domnívá se, že daň mu nikdy nebyla „vyměřena", protože nedostal individuální platební výměr; chce podat odvolání, ale finanční úřad mu sdělí, že daň byla stanovena hromadným předpisným seznamem, jehož zpřístupnění a veřejnou vyhlášku vyvěsil po dobu 30 dnů. Poplatník namítá, že o zpřístupnění nevěděl. Důkazy: veřejná vyhláška o zpřístupnění hromadného předpisného seznamu s daty vyvěšení, doklad o době zpřístupnění k nahlédnutí, evidence dálkového zveřejnění.
+
+**2. Právní otázka.** Kdy se hromadný předpisný seznam považuje za doručený a od kdy běží poplatníkovi odvolací lhůta, nevěděl-li o zpřístupnění a do seznamu nenahlédl?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 50 DŘ — zpřístupnění hromadného předpisného seznamu k nahlédnutí nejméně 30 dnů a oznámení veřejnou vyhláškou vyvěšenou nejméně 30 dnů (odst. 1); fikce doručení třicátým dnem po zpřístupnění (odst. 2); zpřístupnění pouze údajů o vlastní dani poplatníka (odst. 3).
+- *Související ustanovení téhož zákona:* § 49 DŘ (veřejná vyhláška); § 109 odst. 1 DŘ (30denní odvolací lhůta běžící ode dne doručení); § 52 DŘ (mlčenlivost — ochrana daňového tajemství).
+- *Související předpisy:* zákon č. 338/1992 Sb., o dani z nemovitých věcí (hromadné stanovení daně); zákon o dani z nemovitých věcí pro splatnost daně.
+- *Judikatura:* obecný výklad — den doručení hromadného předpisného seznamu je pevně určen zákonem (30. den po zpřístupnění) nezávisle na tom, zda poplatník do seznamu nahlédl.
+
+**4. Subsumpce.** Daň byla stanovena hromadným předpisným seznamem; ten byl zpřístupněn k nahlédnutí a oznámen veřejnou vyhláškou po dobu nejméně 30 dnů (odst. 1). Podle odst. 2 se za den doručení považuje třicátý den po zpřístupnění — bez ohledu na to, zda poplatník nahlédl. Od tohoto dne běží odvolací lhůta (§ 109 odst. 1) i splatnost daně.
+
+**5. Řešení.** Hromadný předpisný seznam byl poplatníkovi doručen 30. den po zpřístupnění; odvolací lhůta běžela od tohoto dne a v polovině roku zpravidla již dávno uplynula. Tvrzení o nevědomosti o zpřístupnění nemá vliv — fikce doručení je zákonná a pevná. Poplatník již zpravidla nemůže účinně odvolat; obrana je krajně omezená (např. namítat, že zpřístupnění/veřejná vyhláška neproběhly po zákonem požadovanou dobu).
+
+**6. Varianty.** (a) Nedodržel-li by správce 30denní dobu zpřístupnění nebo vyvěšení veřejné vyhlášky (odst. 1), nebylo by doručení řádné a fikci ke 30. dni by nebylo možné dovodit. (b) Umožnil-li by správce při nahlížení přístup i k údajům jiných poplatníků, šlo by o porušení odst. 3 a mlčenlivosti (§ 52), byť na okamžik doručení seznamu by to vliv nemělo.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument poplatníka:* „Nedostal jsem platební výměr, daň nebyla vyměřena." Neutralizace: u daně z nemovitých věcí se daň stanoví hromadným předpisným seznamem; individuální výměr se nedoručuje, doručení nastává fikcí dle odst. 2.
+- *Protiargument:* „O zpřístupnění jsem nevěděl." Neutralizace: den doručení je zákonem pevně určen (30. den po zpřístupnění) nezávisle na vědomosti či nahlédnutí.
+- *Slabé místo:* nedoloží-li správce dodržení nejméně 30denní doby zpřístupnění a vyvěšení vyhlášky, je fikce doručení zpochybnitelná; rovněž je třeba ověřit dálkové zveřejnění.
+
+#### H. Praktický závěr
+
+Hromadný předpisný seznam (typicky daň z nemovitých věcí) se zpřístupní k nahlédnutí a oznámí veřejnou vyhláškou nejméně na 30 dnů; doručen je 30. den po zpřístupnění bez ohledu na nahlédnutí. Od tohoto dne běží odvolací lhůta i splatnost. Při nahlížení jsou přístupné jen údaje o vlastní dani poplatníka.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Stanoví zákon u dané daně stanovení hromadným předpisným seznamem?
+- [ ] Byl seznam zpřístupněn k nahlédnutí a oznámen veřejnou vyhláškou nejméně 30 dnů?
+- [ ] Byl den doručení určen ke 30. dni po zpřístupnění (odst. 2)?
+- [ ] Byly při nahlížení zpřístupněny pouze údaje o dani daného poplatníka (odst. 3)?
+- [ ] Byly navazující lhůty (odvolání, splatnost) počítány ode dne doručení (30. dne)?
+
+**Typicky rozhodné důkazy / podklady:** veřejná vyhláška o zpřístupnění s daty vyvěšení a sejmutí, doklad o době a místě zpřístupnění k nahlédnutí, evidence dálkového zveřejnění.
 
 ---
 
@@ -933,6 +1636,43 @@ Doručení při ústním jednání se prokazuje **podpisy v protokolu**. Klíčo
 Nemůže-li adresát (nebo přijímající osoba) pro tělesnou indispozici (nemoc, zranění) podepsat potvrzení o přijetí, podepíše se jako svědek **jiná dospělá osoba** s uvedením důvodu nemožnosti podpisu adresátem. Tím zákon řeší situaci, kdy fyzické doručení proběhlo, ale adresát není schopen procesně potvrditelného podpisu.
 
 > **Srovnání se SŘ a OSŘ:** Náležitosti doručenky v DŘ jsou srovnatelné s § 23a SŘ (doručení prostřednictvím provozovatele poštovních služeb) a s § 50f OSŘ. Ve všech třech procesních kodexech je doručenka veřejnou listinou. Specifickým rysem DŘ je výslovné ošetření situace, kdy adresát odmítl podepsat protokol (odst. 5) — SŘ takový postup předpokládá z povahy věci, ale výslovně ho neupravuje stejně detailně. OSŘ (§ 50h) řeší odmítnutí podpisu při doručení u soudu obdobně.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Správce daně tvrdí, že rozhodnutí bylo doručeno do vlastních rukou v určitý den; doručenka se však u provozovatele poštovních služeb ztratila a nelze ji předložit. Daňový subjekt popírá doručení a tvrdí, že lhůta k odvolání nikdy nezačala běžet. Správce přitom doloží, že subjekt v reakci na obsah rozhodnutí uhradil přesně doměřenou částku daně a v průvodním podání rozhodnutí výslovně označil. Důkazy: záznam o ztrátě doručenky, doklad o platbě odpovídající doměřené dani, podání subjektu odkazující na rozhodnutí, evidence spisu.
+
+**2. Právní otázka.** Lze prokázat doručení rozhodnutí i bez doručenky (veřejné listiny), a postačí k tomu chování adresáta, z něhož je zjevné, že mu bylo doručeno?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 51 DŘ — doručenka jako veřejná listina (odst. 1), náležitosti doručenky (odst. 2), náhradní prokázání doručení při ztrátě/poškození/nevyplnění doručenky (odst. 3), prokázání doručení bez obálky a v protokolu (odst. 4 a 5), zastoupení podpisu adresáta svědkem při tělesné indispozici (odst. 6).
+- *Související ustanovení téhož zákona:* § 47 DŘ (účinky doručení); § 8 odst. 3 DŘ (zásada materiální pravdy); § 92 DŘ (dokazování); § 60 DŘ (protokol).
+- *Související předpisy:* § 567 OZ (veřejná listina); § 23a SŘ a § 50f OSŘ (doručenka jako veřejná listina) jako srovnání.
+- *Judikatura:* obecný výklad — formální vada či ztráta doručenky nevylučuje prokázání doručení jiným způsobem; rozhodné je, zda je z postupu adresáta zjevné, že se s písemností seznámil.
+
+**4. Subsumpce.** Doručenka jako veřejná listina chybí (ztráta) — uplatní se odst. 3, který připouští náhradní prokázání. Z postupu adresáta (úhrada přesně doměřené částky, výslovné označení rozhodnutí v podání) je zjevné, že mu rozhodnutí bylo doručeno a seznámil se s ním. Tím je v souladu se zásadou materiální pravdy (§ 8 odst. 3) doručení prokázáno i bez doručenky.
+
+**5. Řešení.** Doručení lze prokázat náhradně dle § 51 odst. 3; chování adresáta vylučuje jiné rozumné vysvětlení než seznámení s rozhodnutím. Tvrzení o nedoručení proto neobstojí a odvolací lhůta běžela od prokázaného dne doručení. Správce nese důkazní břemeno doručení a unesl je nepřímými důkazy; subjekt by musel naopak prokázat, že se s rozhodnutím přesto neseznámil, což je při jeho vlastním jednání obtížné.
+
+**6. Varianty.** (a) Kdyby adresát po doručení neučinil žádný úkon navázaný na obsah rozhodnutí a doručenka chyběla, náhradní prokázání by bylo obtížné a pochybnosti by mohly svědčit ve prospěch nedoručení. (b) Bylo-li by doručováno při ústním jednání a adresát odmítl podepsat protokol (odst. 5), účinky doručení by nastaly i tak — odmítnutí podpisu se jen zaznamená.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument subjektu:* „Bez doručenky není doručení prokázáno." Neutralizace: odst. 3 výslovně připouští náhradní prokázání; doručenka je sice veřejnou listinou, ale není jediným možným důkazem.
+- *Protiargument:* „Platba neprokazuje seznámení s rozhodnutím." Neutralizace: úhrada přesně doměřené částky a označení rozhodnutí v podání jsou postupem, z něhož je seznámení zjevné (§ 51 odst. 3) v duchu materiální pravdy (§ 8 odst. 3).
+- *Slabé místo:* nepřímé důkazy musí vylučovat jiné vysvětlení; je-li chování adresáta vícevýznamné (mohl platit z jiného důvodu), může náhradní prokázání selhat — proto je třeba řetězec nepřímých důkazů pečlivě doložit.
+
+#### H. Praktický závěr
+
+Doručení do vlastních rukou se prokazuje doručenkou (veřejnou listinou); při její ztrátě, poškození či nevyplnění lze doručení prokázat náhradně, zejména je-li z postupu adresáta zjevné, že se s písemností seznámil. Při doručení v protokolu nastávají účinky i přes odmítnutí podpisu.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Existuje řádně vyplněná doručenka se zákonnými náležitostmi (§ 51 odst. 2)?
+- [ ] Při absenci/vadě doručenky: je k dispozici náhradní důkaz doručení (odst. 3)?
+- [ ] Je z postupu adresáta zjevné, že se s písemností seznámil (úkon navázaný na obsah)?
+- [ ] U doručení bez obálky / v protokolu: jsou splněny náležitosti dle odst. 4 a 5?
+- [ ] Při tělesné indispozici adresáta: podepsal potvrzení svědek s uvedením důvodu (odst. 6)?
+
+**Typicky rozhodné důkazy / podklady:** doručenka (je-li k dispozici), kopie písemnosti s podpisem (odst. 4), protokol s podpisy (odst. 5), nepřímé důkazy seznámení (platba odpovídající rozhodnutí, podání odkazující na rozhodnutí), záznam o ztrátě doručenky.
 
 ---
 

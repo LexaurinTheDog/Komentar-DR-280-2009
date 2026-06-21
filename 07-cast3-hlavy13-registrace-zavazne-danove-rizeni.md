@@ -42,6 +42,42 @@ Registrační povinnost je vázána na **vznik** hmotněprávní povinnosti, nik
 
 Registrační povinnost jako taková je povinností procesní povahy — jde o povinnost podání (§ 70 odst. 1 DŘ). Podání přihlášky k registraci proto podléhá obecným pravidlům pro podání (forma, způsob, vady podání — § 70–74 DŘ). Správce daně je příslušný k vedení registračního řízení podle obecných pravidel místní příslušnosti (§ 13 a násl. DŘ) — viz [02-cast2-hlava1-spravce-osoby-zastoupeni.md](02-cast2-hlava1-spravce-osoby-zastoupeni.md).
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Podnikající fyzická osoba (řemeslník) překročí v srpnu obrat rozhodný pro povinnou registraci k DPH podle § 6 ZDPH. Domnívá se, že dokud se sám nezaregistruje a nemá přidělené DIČ, není plátcem a nemusí odvádět DPH z plnění uskutečněných po vzniku plátcovství. Přihlášku podá až po výzvě správce daně o čtyři měsíce později. Mezitím vystavoval daňové doklady bez DPH. Pro posouzení je třeba obstarat: účetní evidenci pro stanovení dne překročení obratu, vystavené faktury a smlouvy o sporných plněních.
+
+**2. Právní otázka.** Vzniká registrační povinnost (a navazující hmotněprávní postavení plátce) až registrací správcem daně, nebo již okamžikem naplnění podmínek hmotněprávního zákona, takže § 125 DŘ je jen odkazovací (evidenční) normou?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 125 DŘ — odkazovací norma; registrační povinnost vzniká vznikem povinnosti podat přihlášku k jednotlivé dani, sám DŘ ji nezakládá.
+- *Související ustanovení téhož zákona:* § 126 (přihláška), § 129 (rozhodnutí o registraci), § 247a (přestupek nesplnění registrační povinnosti), § 70 odst. 1 (povinnost podání).
+- *Související předpisy:* § 6 ZDPH (vznik plátcovství při překročení obratu) — určuje *materiální* vznik povinnosti; § 240 TZ při úmyslném zkrácení daně.
+- *Judikatura:* NSS 9 Af 9/2014-81 a 65 Af 42/2015-45 (v komentáři) — registrační povinnost dle § 125 až § 131 DŘ je otázkou *pouze evidenční*, nikoli rozhodující pro plnění povinností a uplatnění práv plátce.
+
+**4. Subsumpce.** Znak „vznik povinnosti podat přihlášku" je naplněn dnem překročení obratu dle § 6 ZDPH (srpen), nikoli dnem faktické registrace. Registrace je tak deklaratorní, nikoli konstituivní pro postavení plátce. Sporné je jen datum překročení obratu (skutkově prokazatelné z evidence), nikoli právní následek opožděné registrace.
+
+**5. Řešení.** Plátcem se subjekt stal ze zákona; povinnost přiznat a odvést DPH z plnění po vzniku plátcovství trvá bez ohledu na opožděnou registraci. Pozdní registrace nezbavuje daňové povinnosti, naopak zakládá odpovědnost za přestupek dle § 247a DŘ a nedoplatek včetně úroku z prodlení. Praktický krok: bezodkladně podat přihlášku, dodatečně přiznat daň, případně zvážit dodanění odběratelům.
+
+**6. Varianty.** (a) Šlo-li by o *dobrovolnou* registraci dle § 6f ZDPH, plátcovství by vzniklo až rozhodnutím správce — registrace by zde byla konstituivní. (b) Pokud by obrat ve skutečnosti překročen nebyl (chybný výpočet), registrační povinnost by vůbec nevznikla a případná registrace z moci úřední by byla nezákonná.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „bez DIČ nejsem plátce".* Lze namítnout, že bez přiděleného DIČ a zápisu nelze postavení plátce uplatnit. Neutralizace: judikatura (NSS 65 Af 42/2015-45) jasně označuje registraci za pouze evidenční; hmotněprávní postavení plyne z naplnění podmínek ZDPH.
+- *Riziko zaměnění s dobrovolnou registrací.* U dobrovolné registrace a registrace identifikované osoby je naopak konstituivní účinek pravidlem — paušální tvrzení „registrace je vždy jen evidenční" je nepřesné a nutno rozlišovat dle typu daně.
+- *Slabé místo:* § 125 sám neurčuje žádné lhůty ani okruh osob — celá hmotněprávní matérie je v jiných zákonech; bez jejich citace je argumentace neúplná.
+
+#### H. Praktický závěr
+
+Ustanovení čtěte jako pouhý procesní „ukazatel": kdy vzniká *povinnost se přihlásit*, určuje výlučně hmotněprávní daňový zákon. Registrace je zpravidla evidenční, nikoli podmínkou vzniku daňové povinnosti.
+
+**Checklist (advokát / soud / správní orgán / daňový subjekt):**
+- [ ] Identifikovat hmotněprávní zákon zakládající registrační povinnost (ZDPH, ZDP, ZSpD…) a jeho lhůtu.
+- [ ] Určit den vzniku povinnosti (např. překročení obratu), nikoli den faktické registrace.
+- [ ] Posoudit, zda jde o povinnou (deklaratorní) či dobrovolnou (konstituivní) registraci.
+- [ ] Zvážit přestupkovou odpovědnost dle § 247a a vznik nedoplatku/úroků.
+
+**Typicky rozhodné důkazy / podklady:** účetní/daňová evidence dokládající den vzniku povinnosti, přihláška k registraci, vystavené daňové doklady, výzva správce daně.
+
 ---
 
 ### § 126 — Přihláška k registraci
@@ -70,6 +106,42 @@ Správnost a úplnost uvedených údajů je ověřována v postupu podle § 128 
 #### Elektronická forma přihlášky
 
 Přihláška k registraci k DPH podléhá povinnosti elektronického podání podle zákona o DPH, je-li daňový subjekt k tomu povinen (§ 101a odst. 1 ZDPH). Obecná elektronická povinnost pro daňové přiznání a jiná podání (§ 72 odst. 4 DŘ) se na přihlášku k registraci vztahuje analogicky, neboť i přihláška je podáním.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Začínající právnická osoba (s. r. o.) podá přihlášku k registraci plátce DPH e-mailem s prostým textem, mimo předepsaný tiskopis, a neuvede číslo bankovního účtu ani den vzniku registrační povinnosti. Současně osoba povinná podávat elektronicky podá přihlášku v listinné podobě poštou. Pro posouzení je třeba: doklad o formě a okamžiku podání, obsah podání, doklad o povinnosti elektronického podání dle § 101a ZDPH.
+
+**2. Právní otázka.** Je přihláška podaná mimo předepsaný tiskopis a bez části předepsaných údajů (resp. v nesprávné formě u osoby s povinností elektronického podání) podáním bez vady, vadným podáním řešitelným postupem dle § 128, nebo neúčinným podáním?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 126 DŘ — povinnost uvést v přihlášce „předepsané údaje potřebné pro správu daní"; blanketní norma odkazující na tiskopis/zákon.
+- *Související ustanovení téhož zákona:* § 70–74 (forma a vady podání), § 72 odst. 1 a 4 (tiskopis, elektronická forma), § 128 (postup k odstranění pochybností v registračních údajích), § 247a (přestupek).
+- *Související předpisy:* § 101a odst. 1 ZDPH (povinné elektronické podání přihlášky k DPH); prováděcí vyhláška k tiskopisům; § 240 TZ při úmyslném uvedení nepravdivých údajů.
+- *Judikatura:* obecná správně-soudní zásada, že podání v nesprávné formě či s vadami se přednostně řeší výzvou k odstranění vad, nikoli rovnou odmítnutím (zásada vstřícnosti § 6 odst. 4 DŘ).
+
+**4. Subsumpce.** Chybějící údaje (účet, den vzniku) naplňují znak „neuvedení předepsaných údajů" → vada podání řešitelná dle § 74, resp. § 128. Nesprávná forma u osoby s povinností elektronického podání je vadou podle § 74 odst. 1; podání se však nepovažuje za neúčinné, lze-li vadu odstranit.
+
+**5. Řešení.** Správce nevyřídí přihlášku jejím odmítnutím, nýbrž vyzve k odstranění vad (doplnění údajů, podání na předepsaném tiskopise / v elektronické formě) a stanoví lhůtu (§ 128 odst. 1). Vyhoví-li subjekt ve lhůtě, hledí se na přihlášku jako podanou bez vady ke dni původního podání (§ 128 odst. 2). Praktický krok: reagovat na výzvu, podat řádný tiskopis se všemi rubrikami.
+
+**6. Varianty.** (a) Pokud by subjekt vědomě uvedl nepravdivý identifikační údaj (např. fiktivní sídlo), hrozí přestupek dle § 247a, popř. trestněprávní následek. (b) Pokud by chyběl jen údaj, který správce automatizovaně zjistí z rejstříku, vada by nebránila registraci (srov. logiku § 127 odst. 4).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „forma je jen formalita".* Lze tvrdit, že obsah podání je dostatečný a forma nerozhoduje. Neutralizace: u osoby s povinností elektronického podání je forma zákonným požadavkem (§ 101a ZDPH, § 74 DŘ); nedodržení je odstranitelná vada, nikoli irelevance.
+- *Riziko posunu dne podání.* Při pozdním odstranění vad se přihláška považuje za podanou až dnem doplnění (§ 128 odst. 2 in fine) — to může způsobit pozdní registraci a navazující sankce; nutno reagovat ve lhůtě.
+- *Slabé místo:* okruh „předepsaných údajů" není v § 126 vyčíslen — argumentace musí odkázat na konkrétní tiskopis/vyhlášku, jinak je neurčitá.
+
+#### H. Praktický závěr
+
+Přihláška je podáním dle § 70 DŘ: rozhoduje předepsaná forma i úplnost údajů. Vady se řeší výzvou (§ 128), nikoli automatickým odmítnutím; klíčové je včas reagovat, aby zůstal zachován původní den podání.
+
+**Checklist (advokát / soud / správní orgán / daňový subjekt):**
+- [ ] Použít aktuální předepsaný tiskopis přihlášky; ověřit povinnost elektronického podání (§ 101a ZDPH).
+- [ ] Vyplnit všechny rubriky (identifikace, sídlo/kontakt, důvod a den registrace, bankovní účet).
+- [ ] Při výzvě k odstranění vad reagovat ve lhůtě, aby platil původní den podání (§ 128 odst. 2).
+- [ ] Ověřit pravdivost údajů (riziko § 247a / § 240 TZ).
+
+**Typicky rozhodné důkazy / podklady:** vyplněný tiskopis přihlášky, doklad o formě a datu podání (potvrzení datové schránky / e-podání), výzva správce, doklad o povinnosti elektronické formy.
 
 ---
 
@@ -121,6 +193,43 @@ Povinnost předložit rozhodnutí orgánu veřejné moci podle písm. b) se neup
 
 Odst. 4 zohledňuje digitalní propojení správce daně s jinými registry (obchodní rejstřík, živnostenský rejstřík, evidence obyvatel, ARES apod.). Pokud může správce daně změnu příslušného registračního údaje **automatizovaně zjistit z evidencí**, do nichž mu zákon přístup zřizuje, oznamovací povinnost daňového subjektu pro tento údaj **vůbec nevzniká**. Okruh takových údajů musí správce zveřejnit způsobem dle § 56 odst. 2 DŘ (na úřední desce a způsobem umožňujícím dálkový přístup). Toto ustanovení reflektuje zásadu přiměřenosti (§ 5 odst. 3 DŘ) — správce nesmí vyžadovat součinnost, jíž může dosáhnout vlastními prostředky.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Společnost registrovaná k DPH změní k 1. březnu sídlo a zároveň prodá část svého obchodního závodu (provozovnu) jiné společnosti smlouvou uzavřenou 10. března. Změnu sídla neoznámí (domnívá se, že ji správce „zjistí z rejstříku") a smlouvu o prodeji závodu nepředloží vůbec. Číslo nového bankovního účtu sdělí správci běžným e-mailem. Pro posouzení je třeba: výpis z obchodního rejstříku, smlouva o prodeji části závodu, datum jejího uzavření, doklad o formě oznámení.
+
+**2. Právní otázka.** Které z těchto změn musel subjekt oznámit na předepsaném formuláři ve lhůtě 15 dnů a u kterých oznamovací povinnost odpadá pro automatizovanou zjistitelnost správcem (odst. 4)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 127 DŘ — oznamovací povinnost při změně registračních údajů (15 dnů, odst. 1), výhradní formulář (odst. 2), předkládání listin včetně smlouvy o koupi závodu (odst. 3 písm. c), výjimka pro automatizovaně zjistitelné údaje (odst. 4).
+- *Související ustanovení téhož zákona:* § 129 odst. 3 (zrušení/registrace z moci úřední při nesplnění), § 129 odst. 4 (změna formou úředního záznamu), § 56 odst. 2 (zveřejnění okruhu údajů), § 247a (přestupek), § 36 (nelze prodloužit zákonné lhůty).
+- *Související předpisy:* zákon o veřejných rejstřících (304/2013 Sb.) a § 2175 a násl. OZ (koupě závodu) — důsledky pro nástupnictví a místní příslušnost.
+- *Judikatura:* k povaze registrace jako evidenční srov. NSS 9 Af 9/2014-81 (citováno u § 125) — vady evidence nemění hmotněprávní postavení, ale zakládají procesní následky.
+
+**4. Subsumpce.** Změna sídla zapisovaného do obchodního rejstříku → spadá patrně do okruhu údajů zjistitelných automatizovaně (odst. 4), je-li takto zveřejněn → oznamovací povinnost nevzniká. Smlouva o prodeji části závodu → znak odst. 3 písm. c) naplněn → povinnost předložit smlouvu do 15 dnů od uzavření (tj. do 25. března). Změna bankovního účtu → oznamovací údaj, ale forma e-mailu nenaplňuje znak „oznámení o změně registračních údajů" (odst. 2) → vadné podání.
+
+**5. Řešení.** Subjekt nesplnil povinnost u smlouvy o koupi části závodu (předložení do 15 dnů) a u bankovního účtu zvolil nesprávnou formu. Správný postup: podat oznámení o změně registračních údajů na předepsaném formuláři (účet) a předložit smlouvu o prodeji části závodu. Změnu sídla oznamovat netřeba, je-li v okruhu dle § 56 odst. 2. Riziko: přestupek dle § 247a za nesplnění lhůty; změna místní příslušnosti dle § 131.
+
+**6. Varianty.** (a) Kdyby správce okruh automatizovaně zjistitelných údajů u sídla nezveřejnil, povinnost oznámit změnu sídla by trvala. (b) Kdyby šlo o úplný prodej (zrušení s likvidací) místo části závodu, nastoupila by navíc povinnost dle odst. 3 písm. a)/b) a žádost o zrušení registrace dle odst. 1.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „údaj si správce zjistí sám".* Subjekt může tvrdit, že žádný údaj nemusí hlásit, protože vše je v rejstřících. Neutralizace: výjimka odst. 4 platí jen pro údaje, jejichž okruh správce *zveřejnil* dle § 56 odst. 2; smlouva o koupi závodu ani bankovní účet do veřejných rejstříků nepatří.
+- *Protiargument proti vázané formě.* Lze namítat formalismus výhradního formuláře (odst. 2). Neutralizace: zákon výslovně připouští *pouze* oznámení o změně registračních údajů; jiné podání je vadné a neúčinné pro tento účel.
+- *Slabé místo:* hranice „automatizovaně zjistitelných" údajů je proměnlivá a závisí na aktuálním zveřejnění — nutno ji ověřit k datu změny, nelze argumentovat paušálně.
+
+#### H. Praktický závěr
+
+Po registraci trvá aktivní povinnost hlásit změny do 15 dnů, a to výhradně na předepsaném formuláři; u vyjmenovaných listin (zrušení, zánik povolení, koupě závodu) je nutné je předložit. Výjimka platí jen pro údaje, které správce sám zveřejnil jako automatizovaně zjistitelné.
+
+**Checklist (advokát / soud / správní orgán / daňový subjekt):**
+- [ ] Identifikovat každou změnu registračního údaje a den, kdy nastala (běh 15denní lhůty).
+- [ ] Ověřit, zda údaj spadá do okruhu zveřejněného dle § 56 odst. 2 (pak se neoznamuje).
+- [ ] Použít výhradně „oznámení o změně registračních údajů" (odst. 2), nikoli volné podání.
+- [ ] Předložit listiny dle odst. 3 (zrušení, zánik povolení, smlouva o koupi závodu) ve lhůtě.
+- [ ] Zvážit žádost o zrušení registrace, zanikly-li důvody registrace (odst. 1).
+
+**Typicky rozhodné důkazy / podklady:** formulář oznámení o změně, smlouva o koupi závodu s datem uzavření, rozhodnutí/listina o zrušení či zániku povolení, výpis z rejstříku, doklad o formě a datu podání.
+
 ---
 
 ### § 128 — Postup k odstranění pochybností v registračních údajích
@@ -153,6 +262,42 @@ Odst. 2 stanoví dvě odlišné právní situace:
 | **Daňový subjekt nevyhoví vůbec** | Správce daně je oprávněn postupovat podle § 129 odst. 3 (registrace nebo zrušení registrace z moci úřední) |
 
 Retroaktivní fikce doručení „bez vady ke dni původního podání" chrání daňový subjekt, který povinnost splnil s drobnými nedostatky — zabraňuje tomu, aby opožděné oznámení pochybností správcem vedlo k nevýhodné pozdní registraci. Tím se projevuje zásada vstřícnosti (§ 6 odst. 4 DŘ).
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Daňový subjekt podá 1. dubna přihlášku k registraci. Správce daně má pochybnosti o úplnosti údajů a vydá výzvu, v níž ovšem jen obecně žádá „doložit a doplnit přihlášku", aniž specifikuje, co je sporné, a stanoví lhůtu 10 dnů. Subjekt reaguje doplněním až 20. dubna (po lhůtě). Pro posouzení je třeba: znění výzvy, doklad o jejím doručení, obsah a datum doplnění.
+
+**2. Právní otázka.** Je blanketní (nekonkretizovaná) výzva k odstranění pochybností způsobilá vyvolat účinky § 128, a jaký je důsledek vyhovění po lhůtě pro určení dne podání přihlášky?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 128 DŘ — obligatorní prověřovací fáze; výzva musí identifikovat konkrétní pochybnosti a stanovit lhůtu; fikce podání bez vady ke dni původního podání (odst. 2) vs. posun na den pozdního vyhovění.
+- *Související ustanovení téhož zákona:* § 89 (obecný postup k odstranění pochybností — odlišný předmět), § 129 odst. 1 (běh 30denní lhůty pro rozhodnutí), § 129 odst. 3 (registrace/zrušení z moci úřední při nevyhovění), § 5 odst. 3 a § 6 odst. 4 (přiměřenost, vstřícnost).
+- *Související předpisy:* —; subsidiárně obecné požadavky na určitost úkonu správního orgánu.
+- *Judikatura:* k požadavku konkrétnosti výzvy k odstranění pochybností analogicky judikatura NSS k § 89 DŘ (výzva musí být konkrétní a srozumitelná, jinak je neúčinná) — nosný závěr: blanketní výzva nezakládá procesní následky.
+
+**4. Subsumpce.** Výzva „obecně doložit" nenaplňuje znak „identifikace konkrétních pochybností" → je vadná. Vyhovění po lhůtě by jinak naplnilo znak odst. 2 věty druhé (podání se považuje za učiněné dnem pozdního vyhovění), ovšem jen u řádné výzvy; u vadné výzvy nelze subjektu klást k tíži zmeškání lhůty.
+
+**5. Řešení.** Blanketní výzva je neúčinná; lhůta z ní neběží způsobem, který by posunul den podání přihlášky k tíži subjektu. Správce má vydat novou, konkretizovanou výzvu. Vyhoví-li subjekt řádné výzvě ve lhůtě, hledí se na přihlášku jako bezvadnou ke dni 1. dubna; až po lhůtě by se za den podání považoval den doplnění (s posunem 30denní lhůty pro rozhodnutí dle § 129 odst. 1).
+
+**6. Varianty.** (a) Kdyby byla výzva konkrétní a subjekt by reagoval ve lhůtě, přihláška by platila ke dni 1. dubna bez posunu. (b) Kdyby subjekt na řádnou výzvu nereagoval vůbec, otevřel by se postup z moci úřední dle § 129 odst. 3 (registrace nebo zrušení registrace s odůvodněným rozhodnutím).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument správce „lhůta byla zmeškána".* Správce může trvat na posunu dne podání. Neutralizace: posun nastává jen při řádné, konkretizované výzvě; vadná výzva nemůže jít k tíži adresáta (§ 6 odst. 4, zásada zákazu přenášení pochybení správce na subjekt).
+- *Protiargument o povaze § 128 vs. § 89.* Lze zaměnit oba postupy. Neutralizace: § 128 řeší *registrační údaje*, § 89 *daňové tvrzení*; účinky a navazující rozhodnutí jsou odlišné, nelze je směšovat.
+- *Slabé místo:* délka lhůty ve výzvě není v § 128 číselně určena — argumentace o nepřiměřenosti krátké lhůty se opírá jen o § 5 odst. 3, což je hodnotící kritérium a vyžaduje skutkové odůvodnění.
+
+#### H. Praktický závěr
+
+§ 128 je zvláštní prověřovací fáze registračního řízení: výzva musí být konkrétní a opatřená přiměřenou lhůtou. Včasné vyhovění zachovává původní den podání; opožděné jej posouvá, úplné nevyhovění otevírá postup z moci úřední dle § 129 odst. 3.
+
+**Checklist (advokát / soud / správní orgán / daňový subjekt):**
+- [ ] Ověřit, zda výzva konkrétně identifikuje pochybnosti a stanoví přiměřenou lhůtu (jinak je neúčinná).
+- [ ] Rozlišit postup dle § 128 (registrační údaje) od § 89 (daňové tvrzení).
+- [ ] Vyhovět ve lhůtě → zachování původního dne podání; sledovat běh 30denní lhůty (§ 129 odst. 1).
+- [ ] Při nevyhovění počítat s postupem z moci úřední dle § 129 odst. 3.
+
+**Typicky rozhodné důkazy / podklady:** text výzvy správce, doklad o doručení, datum a obsah doplnění, původní přihláška/oznámení.
 
 ---
 
@@ -207,6 +352,42 @@ Rozhodnutí vydaná z moci úřední musejí obsahovat odůvodnění (výjimka o
 
 Odst. 4 je důležitým **formálním zjednodušením**: změnu registračních údajů (na rozdíl od samotné registrace nebo zrušení registrace) **neprovádí správce daně rozhodnutím, nýbrž pouze úředním záznamem** (§ 65 DŘ). Úřední záznam nemá formu rozhodnutí a není přímo přezkoumatelný odvoláním — slouží jen k interní evidenci v daňovém spisu. Tím se odlehčuje registrační agenda od formalismu řízení v případech, kdy jde jen o aktualizaci údajů (změna adresy, bankovního účtu, kontaktní osoby), a nikoli o vznik nebo zánik registrace samotné.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Správce daně získá z vyhledávací činnosti a z údajů jiné finanční správy poznatky, že obchodní společnost překročila obrat pro povinnou registraci k DPH již před třemi a půl lety, přihlášku však nepodala. Teprve nyní vydá rozhodnutí o registraci plátce z moci úřední podle § 129 odst. 3 s účinky zpětně. Společnost namítá, že právo registrovat ji z moci úřední již zaniklo. Pro posouzení je třeba: datum vzniku registrační povinnosti, datum vydání rozhodnutí, doklady o vyhledávací činnosti.
+
+**2. Právní otázka.** Je právo správce registrovat daňový subjekt z moci úřední dle § 129 odst. 3 časově neomezené, nebo podléhá prekluzivní (propadné) lhůtě, a které ustanovení ji určuje?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 129 DŘ — 30denní lhůta pro rozhodnutí (odst. 1), dispenz od odůvodnění při kladném rozhodnutí v souladu s přihláškou (odst. 2), registrace/zrušení z moci úřední (odst. 3), změna údajů úředním záznamem (odst. 4).
+- *Související ustanovení téhož zákona:* § 20 odst. 2 (lhůta vážící se k registraci), § 9 odst. 2 a § 78 (oficiální zásada, vyhledávací činnost), § 102 odst. 4 (odůvodnění rozhodnutí), § 109 (odvolání proti rozhodnutí z moci úřední).
+- *Související předpisy:* § 6 ZDPH (vznik plátcovství) — hmotněprávní podklad registrace z moci úřední.
+- *Judikatura:* NSS 57 Af 40/2019-93 (v komentáři) — právo registrovat z moci úřední jako plátce DPH (§ 129 odst. 3) *zaniká ve lhůtě podle § 20 odst. 2 DŘ*; smyslem lhůty je časové omezení nejistoty a urychlení rozhodování.
+
+**4. Subsumpce.** Znak „registrace z moci úřední" je naplněn (subjekt nepodal přihlášku, je to důvodné). Sporný je znak včasnosti: na výkon pravomoci dle odst. 3 dopadá prekluzivní lhůta dle § 20 odst. 2 DŘ. Pokud rozhodnutí bylo vydáno po jejím marném uplynutí, pravomoc zanikla a rozhodnutí je nezákonné.
+
+**5. Řešení.** Registrace z moci úřední je možná jen v rámci lhůty dle § 20 odst. 2 DŘ; po jejím uplynutí právo registrovat zaniká (NSS 57 Af 40/2019-93). Bylo-li rozhodnutí vydáno opožděně, subjekt je napadne odvoláním (§ 109; výjimka z odůvodnění dle odst. 2 se na rozhodnutí z moci úřední neuplatní). Praktický krok: namítnout prekluzi pravomoci a doložit počátek běhu lhůty.
+
+**6. Varianty.** (a) Kdyby správce rozhodl v souladu s podanou přihláškou (nikoli z moci úřední), rozhodnutí by se neodůvodňovalo (odst. 2) a otázka prekluze pravomoci by nevznikla. (b) Kdyby šlo jen o změnu adresy, provedl by ji správce úředním záznamem dle odst. 4 bez rozhodnutí a bez možnosti odvolání.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument správce „oficiální zásada bez lhůty".* Správce může tvrdit, že § 129 odst. 3 lhůtu výslovně nestanoví. Neutralizace: NSS 57 Af 40/2019-93 dovodil aplikaci § 20 odst. 2 DŘ; mlčení odst. 3 neznamená bezbřehost pravomoci.
+- *Protiargument o nadbytečnosti odůvodnění.* Správce by mohl rozhodnutí z moci úřední neodůvodnit s odkazem na odst. 2. Neutralizace: dispenz odst. 2 platí jen při shodě s přihláškou; rozhodnutí proti vůli subjektu odůvodnění vyžaduje (§ 102 odst. 4).
+- *Slabé místo:* určení přesného počátku běhu lhůty dle § 20 odst. 2 může být skutkově sporné (kdy „vznikla" registrační povinnost) — nutno doložit obrat a datum jeho překročení.
+
+#### H. Praktický závěr
+
+§ 129 stanoví lhůtu i formu rozhodování: kladné rozhodnutí dle přihlášky se neodůvodňuje, rozhodnutí z moci úřední ano a podléhá prekluzi pravomoci (§ 20 odst. 2 DŘ). Pouhá změna údajů se činí úředním záznamem, nikoli rozhodnutím.
+
+**Checklist (advokát / soud / správní orgán / daňový subjekt):**
+- [ ] Ověřit dodržení 30denní lhůty pro rozhodnutí (odst. 1) a podmínek jejího prodloužení nadřízeným správcem.
+- [ ] U registrace/zrušení z moci úřední ověřit běh a uplynutí prekluzivní lhůty dle § 20 odst. 2 DŘ (NSS 57 Af 40/2019-93).
+- [ ] Zkontrolovat, zda rozhodnutí z moci úřední obsahuje odůvodnění (dispenz odst. 2 se neuplatní).
+- [ ] Odlišit změnu údajů (úřední záznam, odst. 4) od registrace/zrušení (rozhodnutí).
+
+**Typicky rozhodné důkazy / podklady:** rozhodnutí o registraci/zrušení, doklady o vzniku registrační povinnosti a běhu lhůty, spis o vyhledávací činnosti, úřední záznam o změně údajů.
+
 ---
 
 ### § 130 — Daňové identifikační číslo
@@ -258,6 +439,42 @@ Daňový subjekt je povinen DIČ uvádět:
 
 Povinnost je absolutní — i v situacích, kdy identifikace daňového subjektu je z kontextu zřejmá, musí být DIČ uvedeno. Opomenutí DIČ na daňovém dokladu je formálním nedostatkem, který může zpochybnit nárok na odpočet DPH.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Fyzická osoba podnikatel (advokát) je poprvé registrována k dani z příjmů a obává se uvádět své rodné číslo na fakturách dostupných veřejnosti. Požádá správce daně o přidělení vlastního identifikátoru namísto rodného čísla v kmenové části DIČ. Souběžně zahraniční osoba bez RČ i IČO žádá o registraci k DPH. Pro posouzení je třeba: doklad totožnosti, žádost o vlastní identifikátor, podklady k existenci/neexistenci obecného identifikátoru.
+
+**2. Právní otázka.** Má fyzická osoba, které již bylo přiděleno rodné číslo, právní nárok na přidělení vlastního identifikátoru správcem daně podle § 130 odst. 4 písm. b), a jakou formou se vlastní identifikátor přiděluje?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 130 DŘ — struktura DIČ (CZ + kmenová část), povinnost uvádět DIČ (odst. 2), preference obecného identifikátoru RČ/IČO (odst. 3), přidělení vlastního identifikátoru rozhodnutím (odst. 4 písm. a, b).
+- *Související ustanovení téhož zákona:* § 125–129 (registrace, při níž se DIČ přiděluje), § 102 (náležitosti rozhodnutí o přidělení vlastního identifikátoru).
+- *Související předpisy:* § 29 ZDPH (DIČ na daňovém dokladu), § 6 odst. 1 zákona o evidenci obyvatel (rodné číslo); v rovině EU formát CZ DIČ jako VAT number pro systém VIES.
+- *Judikatura:* k formálním vadám daňového dokladu (chybějící/nesprávné DIČ) a podmínkám nároku na odpočet DPH judikatura NSS a SDEU — nosný závěr: formální vada nesmí sama o sobě vést k odepření odpočtu, jsou-li splněny hmotněprávní podmínky.
+
+**4. Subsumpce.** U advokáta je naplněn znak odst. 4 písm. b): fyzická osoba s přiděleným RČ *požádá* o vlastní identifikátor → správce jej *přidělí* rozhodnutím; jde o nárokový (editační) postup k ochraně soukromí. U zahraniční osoby je naplněn znak odst. 4 písm. a): obecný identifikátor neexistuje → vlastní identifikátor se přidělí obligatorně.
+
+**5. Řešení.** Správce vyhoví žádosti advokáta a přidělí vlastní identifikátor rozhodnutím (konstituivní akt); kmenovou část DIČ pak tvoří tento identifikátor, nikoli RČ. U zahraniční osoby přidělí vlastní identifikátor z povahy věci. DIČ je nutno uvádět ve styku se správcem a na daňových dokladech (§ 29 ZDPH). Praktický krok: podat žádost o vlastní identifikátor, sledovat vydání rozhodnutí.
+
+**6. Varianty.** (a) Kdyby advokát měl být registrován k více daním, DIČ se nepřiděluje opakovaně — zůstává jediné napříč daněmi. (b) Kdyby na přijaté faktuře chybělo DIČ dodavatele, šlo by o formální vadu; odpočet nelze odepřít, prokáže-li příjemce splnění hmotněprávních podmínek (srov. judikaturu u § 125).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument správce „RČ stačí".* Správce by mohl odmítnout vlastní identifikátor s tím, že subjekt má RČ. Neutralizace: odst. 4 písm. b) dává fyzické osobě nárok požádat o vlastní identifikátor právě i tehdy, má-li RČ; jde o nástroj ochrany soukromí.
+- *Protiargument „chybějící DIČ ruší odpočet".* Lze tvrdit, že bez správného DIČ na dokladu nárok na odpočet zaniká. Neutralizace: formální vada nevylučuje odpočet při splnění hmotněprávních podmínek; absolutnost povinnosti uvádět DIČ se týká pořádkové roviny, nikoli automaticky hmotněprávní.
+- *Slabé místo:* § 130 neupravuje lhůtu pro přidělení vlastního identifikátoru ani detail formy — nutno vyjít z obecných pravidel rozhodování (§ 101 a násl. DŘ).
+
+#### H. Praktický závěr
+
+DIČ je jediný identifikátor subjektu v daňové správě; přiděluje se při první registraci a tvoří jej kód „CZ" a kmenová část (zpravidla RČ/IČO). Fyzická osoba může z důvodu ochrany soukromí požádat o vlastní identifikátor, který se přiděluje rozhodnutím.
+
+**Checklist (advokát / soud / správní orgán / daňový subjekt):**
+- [ ] Ověřit, zda subjekt již má DIČ (nepřiděluje se podruhé pro další daň).
+- [ ] U fyzické osoby zvážit žádost o vlastní identifikátor dle odst. 4 písm. b) (ochrana RČ).
+- [ ] U osoby bez obecného identifikátoru zajistit přidělení vlastního identifikátoru rozhodnutím (odst. 4 písm. a).
+- [ ] Důsledně uvádět DIČ ve styku se správcem a na daňových dokladech (§ 29 ZDPH).
+
+**Typicky rozhodné důkazy / podklady:** rozhodnutí o přidělení vlastního identifikátoru, žádost subjektu, doklad o (ne)existenci RČ/IČO, daňové doklady s uvedeným DIČ.
+
 ---
 
 ### § 131 — Změna místní příslušnosti registrovaných daňových subjektů
@@ -294,6 +511,42 @@ Mezi vydáním rozhodnutí o přechodu a samotným dnem přechodu může nastat 
 #### Rozšíření na daně, k nimž se neregistruje (odst. 3)
 
 Odst. 3 řeší konzistentnost příslušnosti pro daně, u nichž daňový subjekt registraci nepodléhá (typicky: daň z nemovitých věcí, kde je příslušnost určena polohou nemovitosti, nikoli sídlem subjektu). Nastane-li změna podmínek místní příslušnosti, která se **současně týká i neregistrovaných daní**, uplatní se totéž rozhodnutí a jeho účinky i pro tyto daně. Výsledkem je jednotný správce pro daňový subjekt napříč daněmi, u nichž je příslušnost dána tytéž skutkovou okolností.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Společnost přestěhuje sídlo z obvodu jednoho finančního úřadu (resp. územního pracoviště) do obvodu jiného. Dosavadní správce daně však nevydá rozhodnutí o dni přechodu místní příslušnosti dle § 131 odst. 1 a fakticky pokračuje ve vedení daňové kontroly a vydá platební výměr, ačkoli již měla agendu převzít jiný (nový) správce. Subjekt namítá, že ve věci rozhodoval místně nepříslušný správce. Pro posouzení je třeba: doklad o změně sídla a jeho datu, spis o úkonech dosavadního správce, absence rozhodnutí dle § 131.
+
+**2. Právní otázka.** Vede nevydání rozhodnutí o přechodu místní příslušnosti dle § 131 odst. 1 ke zkrácení práva daňového subjektu na to, aby ve věci rozhodoval místně příslušný správce daně, a jaké jsou důsledky pro úkony dosud činěného správce?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 131 DŘ — rozhodnutí dosavadního správce o dni přechodu příslušnosti (odst. 1, bez možnosti odvolání), změna/zrušení rozhodnutí při změně okolností před přechodem (odst. 2), rozšíření na neregistrované daně (odst. 3).
+- *Související ustanovení téhož zákona:* § 13–16 (obecná místní příslušnost, delegace, dožádání), § 109 (zde odvolání vyloučeno), § 75 (postoupení podání místně nepříslušným správcem).
+- *Související předpisy:* zákon o Finanční správě ČR (456/2011 Sb.) — organizace územních pracovišť; SŘS pro soudní přezkum.
+- *Judikatura:* NSS 10 Af 18/2014-41 (v komentáři) — nevydáním rozhodnutí o přechodu místní příslušnosti dle § 131 došlo ke zkrácení práva žalobce na to, aby v jeho věci rozhodoval *místně příslušný* správce daně.
+
+**4. Subsumpce.** Znak „změna podmínek pro určení místní příslušnosti" je naplněn (změna sídla). Dosavadní správce měl povinnost vydat rozhodnutí o dni přechodu (odst. 1) — neučinil tak. Přechod příslušnosti nenastává okamžitě ex lege, nýbrž k datu určenému rozhodnutím; jeho absence znamená, že koordinovaný přechod neproběhl a vznikl zásah do práva na zákonného (místně příslušného) správce.
+
+**5. Řešení.** Nevydání rozhodnutí dle § 131 odst. 1 je vadou řízení zkracující právo subjektu na rozhodování místně příslušným správcem (NSS 10 Af 18/2014-41). Subjekt může namítat tuto vadu; proti samotnému rozhodnutí o přechodu se sice nelze odvolat (odst. 1 in fine), ale lze se domáhat soudního přezkumu a nápravy navazujících úkonů. Praktický krok: uplatnit námitku místní nepříslušnosti, žádat vydání rozhodnutí dle § 131.
+
+**6. Varianty.** (a) Kdyby se subjekt před určeným dnem přechodu přestěhoval zpět, dosavadní správce by své rozhodnutí zrušil nebo změnil (odst. 2). (b) Kdyby se změna týkala současně i daně z nemovitých věcí (neregistrované), uplatnily by se účinky téhož rozhodnutí i na tuto daň (odst. 3).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „příslušnost přešla automaticky".* Lze tvrdit, že změnou sídla přešla příslušnost sama ze zákona a rozhodnutí je formalita. Neutralizace: § 131 odst. 1 zakládá přechod *až ke dni určenému rozhodnutím*; bez něj koordinovaný přechod nenastal (NSS 10 Af 18/2014-41).
+- *Protiargument „vyloučení odvolání = nepřezkoumatelnost".* Z vyloučení odvolání (odst. 1) by mohl plynout závěr o nemožnosti obrany. Neutralizace: vyloučen je řádný opravný prostředek, nikoli soudní přezkum ve správním soudnictví.
+- *Slabé místo:* posouzení, kdy přesně nastala „změna podmínek" a zda byla relevantní pro místní příslušnost, je skutkově náročné; je třeba doložit datum a charakter změny sídla/místa podnikání.
+
+#### H. Praktický závěr
+
+Změna místní příslušnosti registrovaného subjektu probíhá zvláštním postupem: dosavadní správce rozhodnutím (nenapadnutelným odvoláním) určí den přechodu agendy na nového správce. Nevydání tohoto rozhodnutí je vadou zasahující do práva na zákonného správce daně.
+
+**Checklist (advokát / soud / správní orgán / daňový subjekt):**
+- [ ] Zjistit, zda nastala změna podmínek pro místní příslušnost (sídlo, místo podnikání) a její datum.
+- [ ] Ověřit, zda dosavadní správce vydal rozhodnutí o dni přechodu příslušnosti (odst. 1).
+- [ ] Při absenci rozhodnutí namítat zkrácení práva na místně příslušného správce (NSS 10 Af 18/2014-41).
+- [ ] Zohlednit možnost změny/zrušení rozhodnutí při změně okolností před přechodem (odst. 2) a dopad na neregistrované daně (odst. 3).
+
+**Typicky rozhodné důkazy / podklady:** rozhodnutí o přechodu místní příslušnosti (nebo doklad o jeho absenci), doklad o změně sídla/místa podnikání a datu, spis o úkonech dosavadního a nového správce.
 
 ---
 
@@ -351,6 +604,42 @@ Precizní vymezení věcného a časového rozsahu je klíčové pro uplatnění
 Proti rozhodnutí o závazném posouzení **nelze uplatnit opravné prostředky** (odvolání, rozklad, obnova řízení v daňovém řádu). Vyloučení je absolutní — platí pro obě strany. Smysl je funkční: závazné posouzení je formou „daňového dotazu" a vzájemné závaznosti, do níž obě strany vstupují dobrovolně. Napadnutelnost opravnými prostředky by popírala jeho stabilizační funkci.
 
 Daňový subjekt, který s obsahem posouzení nesouhlasí, má de facto jedinou volbu: transakci realizovat a počkat na vyměřovací řízení, v němž může výsledné rozhodnutí napadnout odvoláním. Správce daně je přitom vázán vlastním posouzením (§ 133 odst. 1), takže nesouhlasné posouzení fakticky daňovému subjektu výhodu nepřináší — daňový subjekt jej při správném závazném posouzení nezobchoduje.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Skupina podniků plánuje vnitroskupinové transakce a požádá správce daně o závazné posouzení způsobu, jakým byla vytvořena cena sjednaná mezi spojenými osobami (převodní ceny — § 38nc ZDP). Žádost podrobně popíše plánovanou strukturu transakcí. Správce daně vydá rozhodnutí o závazném posouzení. Později (před realizací) skupina chce posouzení napadnout odvoláním, protože se závěrem nesouhlasí. Pro posouzení je třeba: žádost s vylíčením skutkového základu, vydané rozhodnutí, vymezení časového a věcného rozsahu závaznosti.
+
+**2. Právní otázka.** Je správce daně povinen závazné posouzení vydat (editační povinnost), a lze proti rozhodnutí o závazném posouzení uplatnit opravné prostředky, případně je samostatně napadnout správní žalobou?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 132 DŘ — editační povinnost („vydá"), předmět posouzení (nastalé i očekávané skutečnosti), náležitosti výroku včetně časového a věcného rozsahu (odst. 2), vyloučení opravných prostředků (odst. 3).
+- *Související ustanovení téhož zákona:* § 133 (závaznost a účinnost), § 102 odst. 1 (náležitosti rozhodnutí), § 38 DŘ (ochrana proti nečinnosti), § 65 (úřední záznam — pro srovnání povahy aktů).
+- *Související předpisy:* § 38nc ZDP (závazné posouzení převodních cen) a další hmotněprávní zmocnění; § 65 a § 80 SŘS (žaloba proti rozhodnutí / nečinnosti).
+- *Judikatura:* NSS 45 Af 10/2016-44 (v komentáři) — rozhodnutí o závazném posouzení *není rozhodnutím ve smyslu § 65 SŘS*; nezakládá, nemění ani neruší práva/povinnosti, pouze posuzuje deklarovanou situaci; povinnost řídit se jím není jeho vydáním založena.
+
+**4. Subsumpce.** Znaky pro vydání jsou naplněny: žádost, zákonné zmocnění (§ 38nc ZDP), identifikovatelné rozhodné skutečnosti → správce *musí* vydat (editační povinnost). Znak „přípustnost opravného prostředku" naplněn není: odst. 3 je vylučuje absolutně; současně dle NSS nejde o rozhodnutí přezkoumatelné samostatnou žalobou dle § 65 SŘS.
+
+**5. Řešení.** Správce je povinen posouzení vydat; jeho odmítnutí by zakládalo nečinnost (§ 38 DŘ, § 80 SŘS). Proti vydanému posouzení nelze podat odvolání ani samostatnou správní žalobu (NSS 45 Af 10/2016-44). Nesouhlasí-li subjekt, musí transakci realizovat a bránit se až proti navazujícímu rozhodnutí o stanovení daně. Praktický krok: precizně vymezit skutkový základ v žádosti, neboť na něj se váže pozdější závaznost.
+
+**6. Varianty.** (a) Trpí-li žádost vadami (nedostatečné vymezení skutku, mimo zákonné případy), správce vyzve k doplnění nebo žádost odmítne s odůvodněním — editační povinnost se neuplatní. (b) Týká-li se posouzení skutečnosti *již nastalé*, plní konsolidační funkci ex post; u *očekávané* skutečnosti funkci preventivní ex ante.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „proti posouzení se musí dát bránit ihned".* Subjekt může namítat, že vyloučení opravných prostředků odporuje právu na soudní ochranu. Neutralizace: NSS 45 Af 10/2016-44 dovodil, že nejde o rozhodnutí zasahující do práv ve smyslu § 65 SŘS; ochrana je zajištěna až proti rozhodnutí o dani.
+- *Protiargument správce „vydání je na uvážení".* Správce by mohl tvrdit diskreci. Neutralizace: formulace „vydá" zakládá editační povinnost; odmítnutí ve splněných zákonných případech je nečinností (§ 38 DŘ).
+- *Slabé místo:* závaznost stojí a padá s přesností popisu skutku v žádosti (§ 133 odst. 1 a 5); vágní žádost vede k posouzení bez praktické hodnoty — to je riziko na straně subjektu, nikoli vada normy.
+
+#### H. Praktický závěr
+
+Závazné posouzení je nárokový (editační) nástroj právní jistoty: správce je povinen je v zákonných případech vydat, výrok musí vymezit věcný i časový rozsah závaznosti. Proti posouzení nejsou přípustné opravné prostředky a nejde o rozhodnutí napadnutelné samostatnou žalobou.
+
+**Checklist (advokát / soud / správní orgán / daňový subjekt):**
+- [ ] Ověřit zákonné zmocnění pro vydání posouzení (např. § 38nc ZDP) — bez něj nelze vydat.
+- [ ] V žádosti přesně a úplně vylíčit rozhodné skutečnosti (váže se na ně pozdější závaznost).
+- [ ] Zkontrolovat, že výrok vymezuje věcný i časový rozsah závaznosti (odst. 2).
+- [ ] Počítat s nemožností odvolání i samostatné žaloby (odst. 3, NSS 45 Af 10/2016-44); obrana až proti rozhodnutí o dani.
+
+**Typicky rozhodné důkazy / podklady:** žádost o závazné posouzení s vylíčením skutku, vydané rozhodnutí o závazném posouzení, podklady transakce (smlouvy, kalkulace převodních cen).
 
 ---
 
@@ -413,6 +702,42 @@ Odst. 5 se uplatní i v případech, kdy daňový subjekt neúmyslně chybně po
 | Nezměněná zákonná úprava | § 133 odst. 2 | Posouzení se stává neúčinným |
 | Časový rámec (3 leté maximum) | § 133 odst. 3, 4 | Posouzení pro pozdější zdaňovací období neúčinné |
 | Faktické splnění podmínek vydání | § 133 odst. 5 | Posouzení nepoužitelné v daném řízení |
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Daňový subjekt získal před čtyřmi lety závazné posouzení daňových důsledků určité restrukturalizační transakce. Mezitím (i) nabylo právní moci, (ii) byl novelizován příslušný hmotněprávní zákon, který danou transakci nyní upravuje odlišně, a (iii) skutečná podoba transakce se v jednom podstatném prvku odchýlila od popisu v žádosti. Při daňové kontrole se subjekt dovolává závaznosti posouzení vůči správci. Pro posouzení je třeba: rozhodnutí o závazném posouzení a datum jeho právní moci, znění původní a novelizované úpravy, srovnání popsaného a skutečného stavu transakce.
+
+**2. Právní otázka.** Je rozhodnutí o závazném posouzení za těchto okolností (změna zákona, odchylka skutkového stavu, uplynutí času) ještě účinné a závazné vůči správci daně při stanovení daně?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 133 DŘ — asymetrická závaznost vůči správci za podmínky totožnosti skutkového stavu (odst. 1), zánik účinnosti změnou zákona (odst. 2), tříleté časové omezení (odst. 3 a 4), nepoužitelnost při nesplnění podmínek vydání (odst. 5).
+- *Související ustanovení téhož zákona:* § 132 (vydání posouzení a rozsah závaznosti), § 134 (stanovení daně v nalézacím řízení), § 85 a násl. (daňová kontrola, při níž se účinnost posuzuje).
+- *Související předpisy:* příslušný hmotněprávní zákon, jehož novelizace způsobí zánik účinnosti (odst. 2); přechodná ustanovení novely.
+- *Judikatura:* NSS 45 Af 10/2016-44 (v komentáři) — povinnost respektovat závěry posouzení stíhá *pouze* správce rozhodujícího o dani žadatele a jen je-li skutečný stav *totožný* s údaji, na jejichž základě bylo posouzení vydáno.
+
+**4. Subsumpce.** (i) Změna zákona → naplněn znak odst. 2 → posouzení se stalo *neúčinným ze zákona*. (ii) Odchylka skutkového stavu v podstatném prvku → není splněna podmínka totožnosti (odst. 1), resp. naplněn znak odst. 5 → posouzení *nelze v daném řízení použít*. (iii) I bez toho je třeba ověřit běh tříleté lhůty (odst. 3/4). Každý z důvodů samostatně vylučuje závaznost.
+
+**5. Řešení.** Závaznost vůči správci je vyloučena hned z několika důvodů: změna zákona (odst. 2) způsobila neúčinnost; podstatná odchylka skutku brání použití (odst. 1, 5). Správce stanoví daň bez ohledu na obsah posouzení. Subjekt se nemůže účinně dovolávat ochrany legitimního očekávání, neboť sám nedodržel popsaný skutkový základ. Praktický krok: při změně poměrů požádat o nové závazné posouzení dle aktuální úpravy.
+
+**6. Varianty.** (a) Kdyby zákon novelizován nebyl a skutkový stav byl totožný, posouzení by zůstalo závazné vůči správci v rámci tříleté lhůty. (b) Šlo-li by o jednorázovou daň (k jednotlivé skutečnosti), počítala by se tříletá lhůta od *konce kalendářního roku* právní moci (odst. 4), nikoli ode dne právní moci jako u daní se zdaňovacím obdobím (odst. 3).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „legitimní očekávání".* Subjekt může namítat ochranu důvěry v dříve vydané posouzení. Neutralizace: ochrana je podmíněna totožností skutku a neměnností zákona (§ 133 odst. 1, 2; NSS 45 Af 10/2016-44); při jejich nesplnění očekávání nepožívá ochrany.
+- *Protiargument „odchylka byla nepodstatná".* Lze tvrdit, že odlišnost skutku je marginální. Neutralizace: odst. 5 vyžaduje *skutečné* splnění podmínek; „víceméně" shodný stav nestačí — důkazní břemeno totožnosti tíží subjekt.
+- *Slabé místo:* určení, zda novela je „změnou úpravy, na jejímž základě bylo posouzení vydáno", může být sporné u dílčích či nepřímých novel — nutno argumentovat konkrétním vztahem novelizovaného ustanovení k výroku posouzení.
+
+#### H. Praktický závěr
+
+Závazné posouzení váže pouze správce a jen při kumulativním splnění podmínek: totožnost skutkového stavu, neměnnost zákona a dodržení tříleté lhůty. Změna zákona působí neúčinnost ze zákona; odchylka skutku či neprokázání podmínek brání použití posouzení v řízení.
+
+**Checklist (advokát / soud / správní orgán / daňový subjekt):**
+- [ ] Porovnat skutečný stav v době rozhodování o dani s údaji v žádosti (totožnost dle odst. 1, 5).
+- [ ] Ověřit, zda nedošlo k novelizaci rozhodné zákonné úpravy (odst. 2 — neúčinnost ze zákona).
+- [ ] Spočítat tříletou lhůtu správně dle typu daně (odst. 3 vs. odst. 4) a případné zkrácení správcem.
+- [ ] Při změně poměrů zvážit podání nové žádosti o závazné posouzení dle aktuální úpravy.
+
+**Typicky rozhodné důkazy / podklady:** rozhodnutí o závazném posouzení a datum právní moci, žádost s popisem skutku, srovnání s reálně provedenou transakcí, znění původní a novelizované právní úpravy.
 
 ---
 
@@ -546,6 +871,42 @@ DAŇOVÉ ŘÍZENÍ (§ 134)
     ├── Obnova řízení (§ 117–119)
     └── Přezkumné řízení (§ 121–123)
 ```
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Daňový subjekt vykázal v jednom zdaňovacím období daňovou ztrátu. Správce daně provádí daňovou kontrolu daně z příjmů za toto období a hodlá daň doměřit. Subjekt chce uplatnit (resp. zohlednit) daňovou ztrátu jak ve vyměřovacím, tak v navazujícím doměřovacím řízení a v odvolání proti dodatečnému platebnímu výměru. Vzniká spor, zda je daňová kontrola samostatným „řízením" a v jakých dílčích řízeních lze ztrátu uplatnit. Pro posouzení je třeba: daňová tvrzení za období, zpráva o daňové kontrole, platební a dodatečný platební výměr, odvolání.
+
+**2. Právní otázka.** Co tvoří „daňové řízení" ve smyslu § 134 (vč. vztahu k pojmu „správa daní" a k povaze daňové kontroly jako postupu) a v kterých dílčích řízeních lze uplatnit daňovou ztrátu, resp. řádný opravný prostředek?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 134 DŘ — účel a zánik daňového řízení (odst. 1), posuzování daně ke zdaňovacímu období / jednotlivé skutečnosti (odst. 2), katalog dílčích řízení (nalézací, placení, mimořádné prostředky — odst. 3), řádný opravný prostředek jako součást dílčího řízení (odst. 4).
+- *Související ustanovení téhož zákona:* § 1 odst. 2 (správa daní jako širší pojem), § 85 a násl. (daňová kontrola jako *postup*, nikoli řízení), § 89 (postup k odstranění pochybností), § 135–148 (vyměřovací a doměřovací řízení), § 108 a násl. (odvolání), § 148 (lhůta pro stanovení daně).
+- *Související předpisy:* zákon o daních z příjmů (586/1992 Sb.) — daňová ztráta; subsidiárně SŘ (66 SŘ — pro srovnání zastavení řízení formálním aktem).
+- *Judikatura:* NSS 1 Afs 238/2014-52 (v komentáři) — daňovou ztrátu lze uplatnit ve vyměřovacím i doměřovacím řízení (i v rámci postupu k odstranění pochybností či daňové kontroly) a v řízení o řádném opravném prostředku; NSS 29 Af 66/2017-32 — vyměřovací/doměřovací řízení je specifické (autoaplikace norem), ale neuplatní se v něm obecná ustanovení pro daňové řízení.
+
+**4. Subsumpce.** Daňová kontrola naplňuje znak „postup v rámci správy daní" (§ 85), nikoli znak „dílčí řízení" dle § 134 odst. 3 — je předřazena doměřovacímu řízení. Uplatnění ztráty spadá pod větev a) nalézacího řízení (vyměřovací i doměřovací) a dle odst. 4 i do navazujícího odvolání, jež je *součástí* téhož dílčího řízení.
+
+**5. Řešení.** Daňovou ztrátu lze uplatnit ve vyměřovacím i doměřovacím řízení a v odvolání proti rozhodnutí v nich vydanému (NSS 1 Afs 238/2014-52). Daňová kontrola sama není dílčím řízením, ale jejím výsledkem se zahajuje/podkládá doměřovací řízení. Obecná ustanovení pro daňové řízení se přitom uplatní i přes autoaplikační povahu nalézacího řízení (NSS 29 Af 66/2017-32). Praktický krok: vázat lhůty (§ 148) a vedení spisu (§ 65) na konkrétní dílčí řízení.
+
+**6. Varianty.** (a) Šlo-li by o daň vázanou k *jednotlivé skutečnosti* (např. dřívější daň z nabytí nemovitých věcí), předmět řízení by se posuzoval ke skutečnosti, nikoli ke zdaňovacímu období (odst. 2). (b) Při napadení rozhodnutí *mimořádným* opravným prostředkem (obnova, přezkum — větev c) by šlo o samostatné dílčí řízení, nikoli o součást nalézacího řízení jako u řádného odvolání (odst. 4).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „daňová kontrola je řízení".* Lze namítat, že kontrola je samostatné řízení s vlastními právy. Neutralizace: § 134 odst. 3 ji mezi dílčí řízení neřadí; je *postupem* (§ 85) předcházejícím doměřovacímu řízení (systematika § 1 odst. 2 vs. § 134).
+- *Protiargument „v autoaplikačním řízení neplatí obecná pravidla".* Z autoaplikační povahy by mohl plynout závěr o vyloučení obecných ustanovení. Neutralizace: NSS 29 Af 66/2017-32 výslovně potvrdil, že obecná ustanovení pro daňové řízení se uplatní i zde.
+- *Slabé místo:* hranice mezi „řízením" a „postupem" je pojmově náročná a v praxi vede k záměnám (lhůty, opravné prostředky); argumentaci je nutno vést přes konkrétní ustanovení, nikoli přes obecné označení fáze.
+
+#### H. Praktický závěr
+
+§ 134 je pojmový rámec celé Části třetí: daňové řízení je soubor dílčích řízení (nalézací, placení, mimořádné prostředky) vedený ke konkrétní dani a období/skutečnosti; končí splněním nebo jiným zánikem daňové povinnosti. Daňová kontrola je postup, nikoli dílčí řízení; řádné opravné prostředky jsou součástí dílčího řízení, v němž vznikly.
+
+**Checklist (advokát / soud / správní orgán / daňový subjekt):**
+- [ ] Odlišit „správu daní" (§ 1 odst. 2) od „daňového řízení" (§ 134) a daňovou kontrolu (postup) od dílčího řízení.
+- [ ] Určit, zda se daň posuzuje ke zdaňovacímu období, nebo k jednotlivé skutečnosti (odst. 2) — dopad na lhůty (§ 148) a rozsah kontroly/doměření.
+- [ ] Zařadit konkrétní úkon do správné větve dílčího řízení (nalézací / placení / mimořádné prostředky).
+- [ ] Řádný opravný prostředek vázat ke stejnému dílčímu řízení (odst. 4); mimořádný prostředek vést jako samostatné dílčí řízení (větev c).
+
+**Typicky rozhodné důkazy / podklady:** daňová tvrzení, platební a dodatečný platební výměr, zpráva o daňové kontrole, odvolání a rozhodnutí o něm, daňový spis vedený pro dané dílčí řízení.
 
 ---
 
