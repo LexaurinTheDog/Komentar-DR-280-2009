@@ -89,56 +89,6 @@ Správce daně se neurčuje názvem instituce, ale zákonem svěřenou působnos
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=38ac50b9e8e878d4b26d generator=2026-07-17.4 source_sha256=c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3 -->
-#### Revizní doplnění k § 10
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/280-2009 Zákon daňový řád.md`; identifikátor verze: `SB-2009-00280_2026-01-01`; SHA-256: `c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3`.
-
-##### Znění ustanovení
-
-> (1) Správcem daně je správní orgán nebo jiný státní orgán (dále jen „orgán veřejné moci“) v rozsahu, v jakém mu je zákonem nebo na základě zákona svěřena působnost v oblasti správy daní.
->
-> (2) Správním orgánem se pro účely tohoto zákona rozumí orgán moci výkonné, orgán územního samosprávného celku, jiný orgán a právnická nebo fyzická osoba, pokud vykonává působnost v oblasti veřejné správy.
->
-> (3) Správce daně má způsobilost vystupovat v postavení věřitele, dlužníka, poškozeného nebo v postavení jim obdobném ve věcech souvisejících se správou daní a v tomto rozsahu má i procesní způsobilost.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=38ac50b9e8e878d4b26d -->
-
 ### § 11 — Pravomoc správce daně
 
 > **§ 11**
@@ -219,64 +169,6 @@ Pravomoc dle § 11 je rámcový katalog; jednotlivé úkony se opírají o konkr
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=6d4d6b8284346604e93f generator=2026-07-17.4 source_sha256=c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3 -->
-#### Revizní doplnění k § 11 — Pravomoc správce daně
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/280-2009 Zákon daňový řád.md`; identifikátor verze: `SB-2009-00280_2026-01-01`; SHA-256: `c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3`.
-
-##### Znění ustanovení
-
-> (1) Správce daně
->
-> - a) vede daňová řízení a jiná řízení podle daňového zákona,
->
-> - b) provádí vyhledávací činnost,
->
-> - c) kontroluje plnění povinností osob zúčastněných na správě daní,
->
-> - d) vyzývá ke splnění povinností,
->
-> - e) zabezpečuje placení daní.
->
-> (2) Správce daně pro účely správy daní může zřídit a vést registry a evidence daňových subjektů a jejich daňových povinností.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=6d4d6b8284346604e93f -->
-
 ### § 12 — Úřední osoby a jejich identifikace
 
 > **§ 12**
@@ -349,58 +241,6 @@ Identifikace úřední osoby je předpokladem námitky podjatosti. Odmítne-li j
 **Typicky rozhodné důkazy / podklady:** protokoly o jednání, písemná žádost o sdělení úřední osoby, doklad o poměru osoby k věci/účastníkům, rozhodnutí o námitce podjatosti.
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=de464a00fa0b868c02fe generator=2026-07-17.4 source_sha256=c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3 -->
-#### Revizní doplnění k § 12 — Úřední osoby
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/280-2009 Zákon daňový řád.md`; identifikátor verze: `SB-2009-00280_2026-01-01`; SHA-256: `c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3`.
-
-##### Znění ustanovení
-
-> (1) Správce daně vykonává svou pravomoc prostřednictvím úředních osob.
->
-> (2) Úřední osobou je zaměstnanec, který se bezprostředně podílí na výkonu pravomoci správce daně, nebo osoba oprávněná k výkonu pravomoci správce daně zákonem nebo na základě zákona.
->
-> (3) Úřední osoba prokazuje svoje oprávnění k úkonům při správě daní služebním průkazem, pokud tak stanoví zákon, popřípadě jiným způsobem.
->
-> (4) O tom, kdo je v dané věci úřední osobou, správce daně osobu zúčastněnou na správě daní na požádání informuje. Úřední osoba na požádání osoby zúčastněné na správě daní sdělí své jméno, služební nebo obdobné označení, a ve kterém organizačním útvaru správce daně je zařazena.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=de464a00fa0b868c02fe -->
 
 ### Místní příslušnost
 
@@ -488,60 +328,6 @@ U právnické osoby zapsané do rejstříku rozhoduje adresa zápisu, ne skuteč
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=1ce692ffcde23bf836f6 generator=2026-07-17.4 source_sha256=c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3 -->
-#### Revizní doplnění k § 13
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/280-2009 Zákon daňový řád.md`; identifikátor verze: `SB-2009-00280_2026-01-01`; SHA-256: `c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3`.
-
-##### Znění ustanovení
-
-> (1) Místní příslušnost správce daně, není-li dále stanoveno jinak, se řídí
->
-> - a) u fyzické osoby jejím místem pobytu; pro účely správy daní se místem pobytu fyzické osoby rozumí adresa místa trvalého pobytu občana České republiky, nebo adresa hlášeného místa pobytu cizince, a nelze-li takto místo pobytu fyzické osoby určit, rozumí se jím místo na území České republiky, kde se fyzická osoba převážně zdržuje,
->
-> - b) u právnické osoby jejím sídlem; pro účely správy daní se sídlem právnické osoby rozumí adresa, pod kterou je právnická osoba zapsaná v obchodním rejstříku nebo obdobném veřejném rejstříku, nebo adresa, kde právnická osoba sídlí skutečně, pokud se tato osoba do těchto rejstříků nezapisuje.
->
-> (2) Je-li předmětem daně nemovitá věc, je ke správě daní místně příslušný správce daně, v jehož obvodu územní působnosti se nemovitá věc nachází.
->
-> (3) U poplatků, jejichž předmětem je zpoplatnění úkonu, je místně příslušným správcem daně orgán veřejné moci, který je příslušný k provedení tohoto úkonu.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=1ce692ffcde23bf836f6 -->
-
 ### § 14 — Souběh místní příslušnosti a spory o příslušnost
 
 > **§ 14**
@@ -603,54 +389,6 @@ Při souběhu příslušnosti rozhoduje priorita zahájení (§ 91), případně
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=f541afce6a7ad6407bee generator=2026-07-17.4 source_sha256=c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3 -->
-#### Revizní doplnění k § 14
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/280-2009 Zákon daňový řád.md`; identifikátor verze: `SB-2009-00280_2026-01-01`; SHA-256: `c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3`.
-
-##### Znění ustanovení
-
-> (1) Je-li v téže věci místně příslušných několik správců daně, řízení provede ten z nich, u kterého bylo řízení zahájeno nejdříve, pokud se místně příslušní správci daně nedohodnou jinak; ostatní správci daně řízení nezahájí, popřípadě zahájené řízení zastaví.
->
-> (2) Spory o místní příslušnost mezi správci daně rozhoduje správce daně, který je jim nejblíže společně nadřízen. Není-li takový správce daně, určí místní příslušnost ministerstvo nebo jiný ústřední správní orgán, do jehož působnosti daná věc náleží (dále jen „ústřední správní orgán“).
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=f541afce6a7ad6407bee -->
-
 ### § 15 — Provedení úkonu mimo vlastní obvod
 
 > **§ 15**
@@ -702,52 +440,6 @@ Místně příslušný správce smí provést potřebný úkon i mimo svůj obvo
 **Typicky rozhodné důkazy / podklady:** protokol o místním šetření, doklad o místní příslušnosti k subjektu, doklady o umístění provozovny/skladu, odůvodnění potřebnosti úkonu.
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=500bae31801027a8b22e generator=2026-07-17.4 source_sha256=c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3 -->
-#### Revizní doplnění k § 15
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/280-2009 Zákon daňový řád.md`; identifikátor verze: `SB-2009-00280_2026-01-01`; SHA-256: `c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3`.
-
-##### Znění ustanovení
-
-> Správce daně může provést potřebný úkon i mimo svůj obvod územní působnosti, pokud se týká daňového subjektu, ke správě jehož daní je místně příslušný.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=500bae31801027a8b22e -->
 
 ### § 16 — Změna místní příslušnosti
 
@@ -806,54 +498,6 @@ Do fyzického postoupení spisu vykonává správu dosavadní správce a jeho ú
 **Typicky rozhodné důkazy / podklady:** datum změny pobytu/sídla, doklad o postoupení spisu a výpisu z osobního daňového účtu, vyrozumění subjektu, data vydání jednotlivých rozhodnutí.
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=33a509023a8ef19f6e8e generator=2026-07-17.4 source_sha256=c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3 -->
-#### Revizní doplnění k § 16 — Změna místní příslušnosti
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/280-2009 Zákon daňový řád.md`; identifikátor verze: `SB-2009-00280_2026-01-01`; SHA-256: `c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3`.
-
-##### Znění ustanovení
-
-> (1) Dojde-li ke změně místní příslušnosti, správce daně bezodkladně postoupí části spisu týkající se daní, které lze stanovit nebo vybrat a vymáhat, tomu správci daně, který je nově příslušný, a vyrozumí o tom bezodkladně daňový subjekt. Ve stejném rozsahu k této části spisu připojí i výpis z osobního daňového účtu daňového subjektu.
->
-> (2) Správu daní vykonává dosud příslušný správce daně do doby, než je daná část spisu postoupena nově příslušnému správci daně.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=33a509023a8ef19f6e8e -->
 
 ### § 17 — Dožádání
 
@@ -927,56 +571,6 @@ Dožádání slouží k opatření důkazů a provedení úkonů, nikoli k jejic
 **Typicky rozhodné důkazy / podklady:** písemné dožádání s vymezením úkonu, protokoly o provedených úkonech, předané listiny/pomůcky, vlastní hodnotící úvaha dožadujícího správce.
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=d13c894df4594f8a874c generator=2026-07-17.4 source_sha256=c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3 -->
-#### Revizní doplnění k § 17 — Dožádání
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/280-2009 Zákon daňový řád.md`; identifikátor verze: `SB-2009-00280_2026-01-01`; SHA-256: `c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3`.
-
-##### Znění ustanovení
-
-> (1) Místně příslušný správce daně může dožádat jiného věcně příslušného správce daně téhož nebo nižšího stupně o provedení úkonů nebo dílčích řízení nebo jiných postupů, které by sám mohl provést jen s obtížemi nebo s vynaložením neúčelných nákladů, anebo které by nemohl provést vůbec.
->
-> (2) Dožádaný správce daně provede dožádané úkony, jakož i úkony, které zajišťují účel dožádání, bezodkladně, nebo sdělí důvody, pro které dožádání vyhovět nemůže.
->
-> (3) Spory mezi správci daně o provedení dožádaných úkonů rozhoduje ten správce daně, který je nejblíže společně nadřízen dožádanému a dožadujícímu správci daně.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=d13c894df4594f8a874c -->
 
 ### § 18 — Delegace místní příslušnosti
 
@@ -1052,54 +646,6 @@ Delegace trvale přesouvá příslušnost na jiného správce téhož stupně z 
 **Typicky rozhodné důkazy / podklady:** výpis z OR (formální sídlo), nájemní/pracovní smlouvy a doklady o provozovnách, místo vedení účetnictví, podnět/žádost o delegaci a rozhodnutí o ní.
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=c9937b626972df9a6b94 generator=2026-07-17.4 source_sha256=c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3 -->
-#### Revizní doplnění k § 18 — Delegace
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/280-2009 Zákon daňový řád.md`; identifikátor verze: `SB-2009-00280_2026-01-01`; SHA-256: `c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3`.
-
-##### Znění ustanovení
-
-> (1) Na žádost daňového subjektu nebo z podnětu správce daně může nejblíže společně nadřízený správce daně delegovat místní příslušnost k výkonu správy daní na jiného věcně příslušného správce daně, jestliže je to účelné nebo jsou-li pro výkon správy daní potřebné mimořádné odborné znalosti; proti rozhodnutí ve věci delegace nelze uplatnit opravné prostředky.
->
-> (2) Při změně okolností, za kterých bylo o delegaci rozhodnuto, nebo okolností rozhodných pro určení místní příslušnosti rozhodne správce daně, který rozhodnutí vydal, o zrušení, změně, nebo potvrzení delegace; jestliže by mohlo dojít ke změně místní příslušnosti mimo obvod územní působnosti tohoto správce daně, rozhodne místo něj nejblíže společně nadřízený správce daně; proti tomuto rozhodnutí nelze uplatnit opravné prostředky.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=c9937b626972df9a6b94 -->
 
 ### § 19 — Atrakce
 
@@ -1180,60 +726,6 @@ Atrakce je nejsilnějším a hierarchicky vzhůru směřujícím přesunem věci
 **Typicky rozhodné důkazy / podklady:** rozhodnutí o atrakci s odůvodněním důvodu, doklady o nečinnosti a stížnosti dle § 38, podklady o prejudiciálním dopadu do jiných řízení, navazující meritorní rozhodnutí.
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=aa1bc351793da4677092 generator=2026-07-17.4 source_sha256=c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3 -->
-#### Revizní doplnění k § 19 — Atrakce
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/280-2009 Zákon daňový řád.md`; identifikátor verze: `SB-2009-00280_2026-01-01`; SHA-256: `c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3`.
-
-##### Znění ustanovení
-
-> (1) Nadřízený správce daně může věc převzít místo podřízeného správce daně
->
-> - a) jsou-li pro výkon správy daní potřebné mimořádné odborné znalosti,
->
-> - b) za účelem zjednání nápravy v rámci ochrany před nečinností podřízeného správce daně,
->
-> - c) jde-li o rozhodnutí ve věci, které bude mít zásadní dopad i do řízení s jinými daňovými subjekty.
->
-> (2) Proti rozhodnutí podle odstavce 1 nelze uplatnit opravné prostředky.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=aa1bc351793da4677092 -->
 
 ### Díl 2 — Osoby zúčastněné na správě daní a zastoupení
 
@@ -1331,56 +823,6 @@ Po prohlášení úpadku plní daňové povinnosti insolvenční správce, kter�
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=36e342dba5a2f3a2b4c9 generator=2026-07-17.4 source_sha256=c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3 -->
-#### Revizní doplnění k § 20
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/280-2009 Zákon daňový řád.md`; identifikátor verze: `SB-2009-00280_2026-01-01`; SHA-256: `c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3`.
-
-##### Znění ustanovení
-
-> (1) Daňovým subjektem je osoba, kterou za daňový subjekt označuje zákon, jakož i osoba, kterou zákon označuje jako poplatníka nebo jako plátce daně.
->
-> (2) Daňový subjekt má práva a povinnosti týkající se správného zjištění a stanovení daně po dobu běhu lhůty pro stanovení daně a při placení daně po dobu, ve které lze požadovat placení nedoplatku, a to i v případech, kdy přestal být daňovým subjektem.
->
-> (3) Osoby ustanovené podle zákona, které plní povinnosti stanovené daňovým subjektům, zejména osoba spravující pozůstalost, svěřenský správce a insolvenční správce, mají stejná práva a povinnosti jako daňový subjekt.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=36e342dba5a2f3a2b4c9 -->
-
 ### § 21 — Plátcova pokladna
 
 > **§ 21**
@@ -1454,56 +896,6 @@ Plátcova pokladna je organizační jednotka plátce s vlastní místní přísl
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=92b5c5863c518f1396f3 generator=2026-07-17.4 source_sha256=c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3 -->
-#### Revizní doplnění k § 21
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/280-2009 Zákon daňový řád.md`; identifikátor verze: `SB-2009-00280_2026-01-01`; SHA-256: `c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3`.
-
-##### Znění ustanovení
-
-> (1) Má-li plátce daně organizační jednotku, kde dochází k výkonu povinností stanovených daňovým zákonem, zejména vybírání, srážení nebo zajištění daně, a kde jsou k tomu uloženy potřebné doklady, je tato organizační jednotka plátcovou pokladnou, pokud tak stanoví zákon.
->
-> (2) Pro plátcovu pokladnu je místně příslušným správcem daně ten, v jehož obvodu územní působnosti je umístěna.
->
-> (3) Plátcova pokladna vykonává práva a povinnosti plátce daně; pokud si jednání plátce daně a osoby oprávněné jednat za plátcovu pokladnu odporuje, je rozhodující jednání plátce daně.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=92b5c5863c518f1396f3 -->
-
 ### § 22 — Třetí osoby
 
 > **§ 22**
@@ -1568,52 +960,6 @@ Třetí osoby (svědci, držitelé listin, banky, ručitelé, poddlužníci) maj
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=a4e9185d0283b3e35de9 generator=2026-07-17.4 source_sha256=c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3 -->
-#### Revizní doplnění k § 22 — Třetí osoby
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/280-2009 Zákon daňový řád.md`; identifikátor verze: `SB-2009-00280_2026-01-01`; SHA-256: `c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3`.
-
-##### Znění ustanovení
-
-> Třetími osobami se rozumějí osoby jiné než daňový subjekt, které mají práva a povinnosti při správě daní, nebo jejichž práva a povinnosti jsou správou daní dotčena.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=a4e9185d0283b3e35de9 -->
-
 ### § 23 — Prokázání totožnosti
 
 > **§ 23**
@@ -1673,54 +1019,6 @@ Každá osoba zúčastněná na správě daní je povinna na výzvu prokázat to
 **Typicky rozhodné důkazy / podklady:** protokol o jednání/místním šetření, záznam o výzvě a odmítnutí prokázat totožnost, žádost o součinnost bezpečnostního sboru, doklad totožnosti (byl-li předložen).
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=73e46f0a3ad73a7cbd7f generator=2026-07-17.4 source_sha256=c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3 -->
-#### Revizní doplnění k § 23 — Prokázání totožnosti
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/280-2009 Zákon daňový řád.md`; identifikátor verze: `SB-2009-00280_2026-01-01`; SHA-256: `c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3`.
-
-##### Znění ustanovení
-
-> (1) Osoba zúčastněná na správě daní je povinna na vyzvání úřední osoby prokázat svoji totožnost.
->
-> (2) Neprokáže-li osoba zúčastněná na správě daní na vyzvání úřední osoby svoji totožnost, může správce daně požádat o zjištění její totožnosti příslušný bezpečnostní sbor2) a k dalšímu úkonu při správě daní ji nepřipustit do doby zjištění její totožnosti.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=73e46f0a3ad73a7cbd7f -->
 
 ### § 24 — Procesní způsobilost
 
@@ -1807,62 +1105,6 @@ Za právnickou osobu jedná statutární orgán; v daňovém řízení může i 
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=0d921dd54185b8a6a95b generator=2026-07-17.4 source_sha256=c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3 -->
-#### Revizní doplnění k § 24 — Procesní způsobilost
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/280-2009 Zákon daňový řád.md`; identifikátor verze: `SB-2009-00280_2026-01-01`; SHA-256: `c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3`.
-
-##### Znění ustanovení
-
-> (1) Osoba zúčastněná na správě daní může při správě daní samostatně jednat v rozsahu, v jakém je svéprávná.
->
-> (2) Jménem právnické osoby je oprávněn při správě daní jednat její statutární orgán, nebo ten, kdo prokáže, že je oprávněn jejím jménem podle jiného právního předpisu jednat3).
->
-> (3) Právnická osoba je oprávněna pověřit svého zaměstnance nebo jinou fyzickou osobu, která vykonává činnost této právnické osoby, aby jednala jejím jménem před správcem daně v rozsahu tohoto pověření. Prokurista právnické osoby je při správě daní oprávněn jednat jejím jménem, může-li podle udělené prokury jednat samostatně.
->
-> (4) V téže věci může jménem právnické osoby současně jednat jen jedna fyzická osoba. V případě, kdy je pro jednání statutárního orgánu právnické osoby vyžadováno společné jednání více osob, jedná jejím jménem kterýkoliv člen tohoto statutárního orgánu.
->
-> (5) Odstavce 3 a [[#§ 4|4]] se použijí obdobně pro jednání jménem podnikající fyzické osoby.
->
-> (6) Ustanovení týkající se právnických osob se použijí obdobně i na organizační složky státu nebo pobočky nebo jiné organizační složky obchodního závodu zahraniční osoby a na jiné jednotky, kterým zákon svěřuje výkon práv a povinností osob zúčastněných na správě daní.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Výslovné vnitřní odkazy v místním znění: § 4
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=0d921dd54185b8a6a95b -->
-
 ### § 25 — Zástupce: katalog a obecná pravidla
 
 > **§ 25**
@@ -1938,64 +1180,6 @@ Zastoupení nebrání tomu, aby správce v nezbytných případech jednal přím
 **Typicky rozhodné důkazy / podklady:** plná moc / doklad o zastoupení, předvolání a protokol o úkonu se subjektem, vyrozumění zástupce, doklad o nezbytnosti osobní účasti.
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=e78b013a8e841903a92f generator=2026-07-17.4 source_sha256=c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3 -->
-#### Revizní doplnění k § 25 — Zástupce
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/280-2009 Zákon daňový řád.md`; identifikátor verze: `SB-2009-00280_2026-01-01`; SHA-256: `c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3`.
-
-##### Znění ustanovení
-
-> (1) Zástupcem osoby zúčastněné na správě daní je
->
-> - a) zákonný zástupce fyzické osoby nebo opatrovník,
->
-> - b) ustanovený zástupce,
->
-> - c) zmocněnec,
->
-> - d) společný zmocněnec, nebo
->
-> - e) společný zástupce.
->
-> (2) Zastupování zástupcem nevylučuje, aby správce daně v případech, kdy je osobní účast zastoupeného nezbytná, jednal se zastoupeným přímo, nebo aby ho vyzval k vykonání některých úkonů. Zastoupený je povinen výzvě správce daně vyhovět. O tomto jednání nebo výzvě správce daně bezodkladně vyrozumí zástupce.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=e78b013a8e841903a92f -->
 
 ### § 26 — Ustanovený zástupce
 
@@ -2108,82 +1292,6 @@ Nemá-li PO osobu způsobilou jednat ani zvoleného zmocněnce, správce daně j
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=98dc9f401db13908bf9b generator=2026-07-17.4 source_sha256=c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3 -->
-#### Revizní doplnění k § 26 — Ustanovený zástupce
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/280-2009 Zákon daňový řád.md`; identifikátor verze: `SB-2009-00280_2026-01-01`; SHA-256: `c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3`.
-
-##### Znění ustanovení
-
-> (1) Správce daně ustanoví zástupce
->
-> - a) osobě, která nemá plnou procesní způsobilost k jednání při správě daní, pokud nemá zákonného zástupce nebo opatrovníka nebo nemohou-li ji zastupovat,
->
-> - b) právnické osobě, která nemá osobu způsobilou jednat jejím jménem, popřípadě je-li sporné, kdo je k tomu oprávněn,
->
-> - c) osobě neznámého pobytu nebo sídla,
->
-> - d) osobě stižené přechodnou duševní poruchou, která jí brání při správě daní samostatně jednat; v těchto případech správce daně rozhoduje na základě odborného lékařského posudku, nebo
->
-> - e) osobě, které brání jiná překážka, aby při správě daní činila úkony,
->
-> pokud si nezvolila zmocněnce.
->
-> (2) Zástupcem ustanoví správce daně toho, u koho je osoba, jíž se zástupce ustanovuje, v péči, anebo jinou vhodnou osobu. Rozhodnutí o ustanovení zástupce může správce daně vydat jen s předchozím souhlasem předpokládaného zástupce. Nelze-li takto ustanovit zástupce, navrhne jej ze seznamu daňových poradců Komora daňových poradců na vyžádání správce daně, a to do 30 dnů od vyžádání; předchozí souhlas se u zástupce navrženého Komorou daňových poradců nevyžaduje.
->
-> (3) Zástupcem nelze ustanovit osobu, o níž lze mít důvodně za to, že má takový zájem na výsledku řízení, který odůvodňuje obavu, že nebude řádně hájit zájmy zastupovaného.
->
-> (4) Zastupování na základě ustanovení správcem daně zaniká, jestliže ustanovený zástupce přestane být plně svéprávným nebo se stane nezpůsobilým k zastupování ztrátou profesního oprávnění.
->
-> (5) Správce daně zruší ustanovení zástupce z vlastního podnětu nebo na návrh ustanoveného zástupce nebo zastoupeného
->
-> - a) nedbá-li zástupce o ochranu práv nebo zájmů zastoupeného,
->
-> - b) vyjde-li najevo, že zástupce má takový zájem na výsledku řízení, který odůvodňuje obavu, že nebude řádně hájit zájmy zastupovaného,
->
-> - c) pominou-li důvody ustanovení, nebo
->
-> - d) z jiných závažných důvodů.
->
-> Proti rozhodnutí o zrušení ustanovení zástupce se nelze odvolat.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=98dc9f401db13908bf9b -->
-
 ### § 27 — Zmocněnec a plná moc
 
 > **§ 27**
@@ -2252,56 +1360,6 @@ Plná moc je vůči správci daně účinná až okamžikem uplatnění (doruče
 **Typicky rozhodné důkazy / podklady:** datovaná plná moc, doklad o jejím uplatnění u správce, doručenky písemností, údaje o změně místní příslušnosti či dožádání.
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=966d26521228069ec533 generator=2026-07-17.4 source_sha256=c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3 -->
-#### Revizní doplnění k § 27
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/280-2009 Zákon daňový řád.md`; identifikátor verze: `SB-2009-00280_2026-01-01`; SHA-256: `c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3`.
-
-##### Znění ustanovení
-
-> (1) Osoba zúčastněná na správě daní si může zvolit zmocněnce, s výjimkou případů, kdy má při správě daní něco osobně vykonat.
->
-> (2) Plná moc je vůči správci daně účinná od okamžiku jejího uplatnění u tohoto správce daně.
->
-> (3) Plná moc je účinná i vůči jinému správci daně po změně místní příslušnosti, vůči správci daně, který provádí úkony na základě dožádání, jakož i vůči dalším správcům daně, pokud vedou řízení ve věci, pro kterou byla plná moc uplatněna.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=966d26521228069ec533 -->
 
 ### § 28 — Rozsah a vady plné moci, zánik zmocnění
 
@@ -2392,62 +1450,6 @@ Rozsah plné moci musí být vymezen určitě; při neurčitosti správce vyzve 
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=7781c05d76e0bf9ff971 generator=2026-07-17.4 source_sha256=c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3 -->
-#### Revizní doplnění k § 28
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/280-2009 Zákon daňový řád.md`; identifikátor verze: `SB-2009-00280_2026-01-01`; SHA-256: `c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3`.
-
-##### Znění ustanovení
-
-> (1) Zmocnitel je povinen vymezit rozsah zmocnění tak, aby bylo zřejmé, k jakým úkonům, řízením nebo jiným postupům se plná moc vztahuje.
->
-> (2) Není-li rozsah zmocnění vymezen nebo není-li vymezen přesně, vyzve správce daně zmocnitele k úpravě plné moci; ustanovení o vadách podání se použije obdobně. O nedostatcích při vymezení rozsahu plné moci vyrozumí rovněž zmocněnce.
->
-> (3) Plná moc je vůči správci daně účinná až po odstranění vad. Účinky podání učiněného zmocněncem na základě vadné plné moci zůstávají zachovány, pokud dojde k odstranění vad ve stanovené lhůtě.
->
-> (4) Zvolí-li si zmocnitel nového zmocněnce, platí, že okamžikem uplatnění nové plné moci u správce daně vypověděl plnou moc dosavadnímu zmocněnci v rozsahu, ve kterém byla udělena plná moc novému zmocněnci.
->
-> (5) Zmocněnec, který nemá sídlo nebo bydliště na území členského státu Evropské unie, jiného smluvního státu Dohody o Evropském hospodářském prostoru nebo Švýcarské konfederace, je povinen si zvolit zmocněnce pro doručování se sídlem nebo místem pobytu v České republice, jinak budou pro něho písemnosti ukládány u správce daně s účinky doručení dnem jejich vydání, jde-li o rozhodnutí, v ostatních případech dnem jejich písemného vyhotovení.
->
-> (6) Pokud v téže věci jedná zmocnitel i zmocněnec, je rozhodující jednání zmocnitele.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=7781c05d76e0bf9ff971 -->
-
 ### § 29 — Omezení zmocnění
 
 > **§ 29**
@@ -2505,54 +1507,6 @@ V téže věci může jednat jen jeden zmocněnec. Substituci smí udělit pouze
 **Typicky rozhodné důkazy / podklady:** plná moc a případná substituční plná moc, doklad o profesním statusu zmocněnce (zápis v KDP / ČAK), vymezení „věci" (daňová agenda), pořadí uplatnění plných mocí.
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=8a86edb4b8f772d5ebd9 generator=2026-07-17.4 source_sha256=c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3 -->
-#### Revizní doplnění k § 29 — Omezení zmocnění
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/280-2009 Zákon daňový řád.md`; identifikátor verze: `SB-2009-00280_2026-01-01`; SHA-256: `c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3`.
-
-##### Znění ustanovení
-
-> (1) V téže věci může být současně zvolen pouze jeden zmocněnec.
->
-> (2) Zmocněnec, nejde-li o daňového poradce nebo advokáta (dále jen „poradce“), není oprávněn zvolit si dalšího zmocněnce, s výjimkou zmocněnce pro doručování podle § 28 odst. 5.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Výslovné vnitřní odkazy v místním znění: § 28
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=8a86edb4b8f772d5ebd9 -->
 
 ### § 30 — Společné zastupování
 
@@ -2624,56 +1578,6 @@ Při společné daňové povinnosti (typicky spoluvlastníci nemovitosti) jsou s
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=c0b3df7f2f8b821efec7 generator=2026-07-17.4 source_sha256=c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3 -->
-#### Revizní doplnění k § 30 — Společné zastupování
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/280-2009 Zákon daňový řád.md`; identifikátor verze: `SB-2009-00280_2026-01-01`; SHA-256: `c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3`.
-
-##### Znění ustanovení
-
-> (1) Vzniká-li více daňovým subjektům společná daňová povinnost, jsou povinny si zvolit společného zmocněnce. Pokud tak neučiní ani na výzvu správce daně, ustanoví jim správce daně společného zástupce; [[#§ 26|§ 26]] se použije obdobně.
->
-> (2) Rozhodnutí o ustanovení společného zástupce se doručuje pouze tomuto zástupci; zastoupené daňové subjekty správce daně o ustanovení společného zástupce vyrozumí. Zastoupené daňové subjekty se proti rozhodnutí o ustanovení společného zástupce nemohou odvolat.
->
-> (3) Pro společného zmocněnce se použijí § 27 až 29 obdobně.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Výslovné vnitřní odkazy v místním znění: § 26, § 27
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=c0b3df7f2f8b821efec7 -->
-
 ### § 31 — Odborný konzultant
 
 > **§ 31**
@@ -2735,54 +1639,6 @@ Odborného konzultanta lze přibrat bez souhlasu správce; není zástupcem. Ma�
 **Typicky rozhodné důkazy / podklady:** protokol o jednání zachycující rušivé chování, rozhodnutí o pořádkové pokutě, rozhodnutí o vyloučení konzultanta, doklad o roli konzultanta (nikoli zástupce).
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=38c425253d2c47c2522c generator=2026-07-17.4 source_sha256=c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3 -->
-#### Revizní doplnění k § 31 — Odborný konzultant
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/280-2009 Zákon daňový řád.md`; identifikátor verze: `SB-2009-00280_2026-01-01`; SHA-256: `c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3`.
-
-##### Znění ustanovení
-
-> (1) Osoba zúčastněná na správě daní si může k jednání přibrat odborného konzultanta.
->
-> (2) Pokud odborný konzultant maří jednání, může správce daně, nevede-li nebo nevedlo-li by k nápravě ani uložení pořádkové pokuty, rozhodnutím vyloučit odborného konzultanta z dalšího jednání.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=38c425253d2c47c2522c -->
 
 ## Shrnutí kapitoly — synoptická přehledová tabulka
 
