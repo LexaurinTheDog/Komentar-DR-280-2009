@@ -110,6 +110,72 @@ Pokud o opravném nebo dozorčím prostředku rozhodla úřední osoba stojící
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=0537320c1b78758dfd46 generator=2026-07-17.4 source_sha256=c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3 -->
+#### Revizní doplnění k § 108 — Použití opravných a dozorčích prostředků
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/280-2009 Zákon daňový řád.md`; identifikátor verze: `SB-2009-00280_2026-01-01`; SHA-256: `c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3`.
+
+##### Znění ustanovení
+
+> (1) Rozhodnutí vydané při správě daní lze přezkoumat na základě
+>
+> - a) řádného opravného prostředku, kterým je
+>
+>   - 1. odvolání nebo rozklad,
+>
+>   - 2. námitka, stanoví-li tak zákon,
+>
+> - b) mimořádného opravného prostředku, kterým je návrh na povolení obnovy řízení, nebo
+>
+> - c) dozorčího prostředku, kterým je
+>
+>   - 1. nařízení obnovy řízení,
+>
+>   - 2. nařízení přezkoumání rozhodnutí,
+>
+>   - 3. jiné zahájení přezkoumání rozhodnutí, stanoví-li tak zákon.
+>
+> (2) Proti rozhodnutí, které vydal ústřední správní orgán nebo úřední osoba stojící v jeho čele, lze podat rozklad. O rozkladu rozhoduje úřední osoba stojící v čele ústředního správního orgánu na základě návrhu jí ustanovené komise. Na řízení o rozkladu se použijí obdobně ustanovení o odvolání, nevylučuje-li to povaha věci.
+>
+> (3) Rozhodla-li v řízení o opravném nebo dozorčím prostředku úřední osoba stojící v čele ústředního správního orgánu, nelze tato rozhodnutí s výjimkou uvedenou v § 119 odst. 2 a § 122 odst. 2 dále přezkoumávat opravnými a dozorčími prostředky podle tohoto zákona.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 119, § 122
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=0537320c1b78758dfd46 -->
+
 ### Díl 2 — Odvolací řízení
 
 ### § 109 — Obecná ustanovení o odvolání
@@ -194,6 +260,60 @@ Odvolání je obecným řádným prostředkem proti nepravomocným rozhodnutím 
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=61df3f3479bbd4d86084 generator=2026-07-17.4 source_sha256=c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3 -->
+#### Revizní doplnění k § 109
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/280-2009 Zákon daňový řád.md`; identifikátor verze: `SB-2009-00280_2026-01-01`; SHA-256: `c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3`.
+
+##### Znění ustanovení
+
+> (1) Příjemce rozhodnutí se může odvolat proti rozhodnutí správce daně, pokud zákon nestanoví jinak. Odvolání je nepřípustné, směřuje-li jenom proti odůvodnění rozhodnutí.
+>
+> (2) Proti rozhodnutí označenému jako výzva, kterým správce daně vyzývá příjemce rozhodnutí k uplatnění práva nebo splnění povinností, se nelze samostatně odvolat, pokud zákon nestanoví jinak.
+>
+> (3) Odvolání se podává u správce daně, jehož rozhodnutí je odvoláním napadeno.
+>
+> (4) Odvolání lze podat do 30 dnů ode dne doručení rozhodnutí, proti němuž odvolání směřuje, a to i před doručením tohoto rozhodnutí.
+>
+> (5) Odvolání nemá odkladný účinek, pokud zákon nestanoví jinak.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=61df3f3479bbd4d86084 -->
+
 ### § 110 — Lhůta při chybném poučení
 
 > **§ 110**
@@ -256,6 +376,56 @@ Vadné, neúplné nebo chybějící poučení prodlužuje odvolací lhůtu, avš
 **Typicky rozhodné důkazy / podklady:** text napadeného rozhodnutí včetně poučení (nebo jeho absence), doručenka, případné opravné rozhodnutí dle § 104, datum podání odvolání, podklady k případnému návrhu dle § 37.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=a67d733358fc92d8fc4f generator=2026-07-17.4 source_sha256=c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3 -->
+#### Revizní doplnění k § 110
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/280-2009 Zákon daňový řád.md`; identifikátor verze: `SB-2009-00280_2026-01-01`; SHA-256: `c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3`.
+
+##### Znění ustanovení
+
+> (1) V případě chybějícího, neúplného nebo nesprávného poučení podle § 102 odst. 1 písm. f) lze odvolání podat do 30 dnů ode dne doručení opravného rozhodnutí podle [[#§ 104|§ 104]], bylo-li vydáno, nejpozději však do 3 měsíců ode dne doručení rozhodnutí, proti němuž odvolání směřuje.
+>
+> (2) Je-li v poučení připuštěno odvolání i tehdy, kdy je zákon nepřipouští, a je-li podáno odvolání, řízení o odvolání se zastaví.
+>
+> (3) Je-li v poučení chybně přiznán odvolání odkladný účinek tehdy, kdy jej zákon nepřiznává, má včas podané odvolání odkladný účinek.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 102, § 104
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=a67d733358fc92d8fc4f -->
 
 ### § 111 — Dispoziční práva odvolatele, více příjemců
 
@@ -333,6 +503,62 @@ Uplynula-li v průběhu odvolacího řízení lhůta pro stanovení daně (§ 14
 **Typicky rozhodné důkazy / podklady:** seznam všech příjemců rozhodnutí, doručenky každému z nich, podání odvolání a případné zpětvzetí (s datem), doklad o vyrozumění ostatních příjemců, evidence běhu prekluzivní lhůty.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=dcefc679d655d9831a25 generator=2026-07-17.4 source_sha256=c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3 -->
+#### Revizní doplnění k § 111
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/280-2009 Zákon daňový řád.md`; identifikátor verze: `SB-2009-00280_2026-01-01`; SHA-256: `c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3`.
+
+##### Znění ustanovení
+
+> (1) Příjemce rozhodnutí se může vzdát svého práva na odvolání až do uplynutí odvolací lhůty; dnem vzdání se práva na odvolání nabývá rozhodnutí, vůči kterému byl tento úkon učiněn, právní moci. Je-li v řízení více příjemců rozhodnutí a všichni se vzdali práva podat odvolání, nabývá rozhodnutí právní moci dnem, kdy tak učinil poslední z nich.
+>
+> (2) Do doby, než je rozhodnutí o odvolání vydáno, může odvolatel odvolání měnit, doplňovat nebo vzít zpět.
+>
+> (3) Dnem zpětvzetí odvolání je odvolací řízení zastaveno a rozhodnutí, které bylo tímto odvoláním napadeno, nabývá právní moci. Pokud vzali všichni odvolatelé podané odvolání zpět, odvolací řízení je zastaveno dnem zpětvzetí odvolání posledního z odvolatelů a tímto dnem nabývá rozhodnutí právní moci.
+>
+> (4) Může-li odvolání podat několik příjemců rozhodnutí a odvolá-li se jen některý z nich, správce daně, který napadené rozhodnutí vydal, zašle kopii odvolání ostatním příjemcům rozhodnutí a vyzve je, aby se k podanému odvolání vyjádřili ve stanovené lhůtě, která nesmí být kratší než 15 dnů.
+>
+> (5) Došlo-li před skončením odvolacího řízení ke změně místní příslušnosti, provede odvolací řízení správce daně, který napadené rozhodnutí vydal a jemu nejblíže nadřízený správce daně.
+>
+> (6) Pokud již uplynula lhůta pro stanovení daně, správce daně, který v odvolacím řízení tuto skutečnost zjistil, napadené rozhodnutí o stanovení daně zruší a zastaví odvolací řízení.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=dcefc679d655d9831a25 -->
 
 ### § 112 — Náležitosti odvolání
 
@@ -414,6 +640,68 @@ Odvolání musí mít šest náležitostí dle odst. 1; odstranitelné vady ře�
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=65b621ce3ac8475f16fc generator=2026-07-17.4 source_sha256=c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3 -->
+#### Revizní doplnění k § 112 — Náležitosti odvolání
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/280-2009 Zákon daňový řád.md`; identifikátor verze: `SB-2009-00280_2026-01-01`; SHA-256: `c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3`.
+
+##### Znění ustanovení
+
+> (1) Odvolání musí mít tyto náležitosti
+>
+> - a) označení správce daně, který napadené rozhodnutí vydal,
+>
+> - b) označení odvolatele,
+>
+> - c) číslo jednací, popřípadě číslo platebního výměru nebo jinou jednoznačnou identifikaci rozhodnutí, proti němuž odvolání směřuje,
+>
+> - d) uvedení důvodů, v nichž jsou spatřovány nesprávnosti nebo nezákonnosti napadeného rozhodnutí,
+>
+> - e) označení důkazních prostředků k tvrzením o skutkovém stavu, která jsou uvedena v odvolání,
+>
+> - f) návrh na změnu nebo zrušení rozhodnutí.
+>
+> (2) Obsahuje-li podané odvolání vady, které brání řádnému projednání věci, vyzve správce daně odvolatele k doplnění podání s poučením, v jakém směru musí být doplněno, a stanoví pro to přiměřenou lhůtu, která nesmí být kratší než 15 dnů.
+>
+> (3) Odstraní-li odvolatel vady, které brání řádnému projednání věci, platí, že odvolání bylo podáno řádně a včas, v opačném případě správce daně odvolací řízení zastaví.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=65b621ce3ac8475f16fc -->
+
 ### § 113 — Postup správce daně prvního stupně (autoremedura)
 
 > **§ 113**
@@ -491,6 +779,62 @@ Autoremedura umožňuje správci daně prvního stupně rozhodnout o odvolání 
 **Typicky rozhodné důkazy / podklady:** odvolání s důvody a nově předloženými důkazy, původní spis a podklady prvostupňového rozhodnutí, vyjádření ostatních příjemců (jsou-li), stanovisko správce daně prvního stupně při postoupení.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=403c8b20bdfb39e95955 generator=2026-07-17.4 source_sha256=c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3 -->
+#### Revizní doplnění k § 113 — Postup správce daně prvního stupně
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/280-2009 Zákon daňový řád.md`; identifikátor verze: `SB-2009-00280_2026-01-01`; SHA-256: `c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3`.
+
+##### Znění ustanovení
+
+> (1) Správce daně, jehož rozhodnutí je odvoláním napadeno,
+>
+> - a) rozhodne o odvolání sám, pokud mu v plném rozsahu vyhoví a toto rozhodnutí není v rozporu s vyjádřením příjemců rozhodnutí podle § 111 odst. 4,
+>
+> - b) rozhodne o odvolání sám, pokud mu vyhoví pouze částečně a ve zbytku je zamítne a toto rozhodnutí není v rozporu s vyjádřením příjemců rozhodnutí podle § 111 odst. 4, nebo
+>
+> - c) odvolání zamítne a zastaví odvolací řízení, pokud je podané odvolání nepřípustné nebo bylo podáno po lhůtě.
+>
+> (2) Nemůže-li správce daně, jehož rozhodnutí je odvoláním napadeno, posoudit všechny údaje uvedené v odvolání z výsledků již provedeného řízení, řízení doplní o nezbytné úkony.
+>
+> (3) Pokud správce daně, jehož rozhodnutí je odvoláním napadeno, o odvolání nerozhodne sám, postoupí odvolání s příslušnou částí spisu a se svým stanoviskem bez zbytečného odkladu odvolacímu orgánu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 111
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=403c8b20bdfb39e95955 -->
 
 ### § 114 — Postup odvolacího orgánu
 
@@ -578,6 +922,58 @@ Odvolací orgán (nejblíže nadřízený správce daně) přezkoumává rozhodn
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=a74b9bd1ecf450c4fd7e generator=2026-07-17.4 source_sha256=c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3 -->
+#### Revizní doplnění k § 114
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/280-2009 Zákon daňový řád.md`; identifikátor verze: `SB-2009-00280_2026-01-01`; SHA-256: `c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3`.
+
+##### Znění ustanovení
+
+> (1) Odvolacím orgánem je správce daně nejblíže nadřízený správci daně, který napadené rozhodnutí vydal.
+>
+> (2) Odvolací orgán přezkoumá odvoláním napadené rozhodnutí vždy v rozsahu požadovaném v odvolání. Odvolací orgán však není návrhy odvolatele vázán, a to ani v případě, že v odvolání neuplatněné skutečnosti ovlivní rozhodnutí v neprospěch odvolatele.
+>
+> (3) Vyjdou-li při přezkoumávání najevo nesprávnosti nebo nezákonnosti odvolatelem neuplatněné, které však mohou mít vliv na výrok rozhodnutí o odvolání, odvolací orgán je prověří.
+>
+> (4) Směřuje-li odvolání proti rozhodnutí o stanovení daně podle pomůcek, zkoumá odvolací orgán pouze dodržení zákonných podmínek použití tohoto způsobu stanovení daně, jakož i přiměřenosti použitých pomůcek.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=a74b9bd1ecf450c4fd7e -->
+
 ### § 115 — Dokazování v odvolacím řízení, právo na vyjádření
 
 > **§ 115**
@@ -654,6 +1050,58 @@ Provádí-li odvolací orgán dokazování (nebo mění právní názor v nepros
 **Typicky rozhodné důkazy / podklady:** protokoly a úřední záznamy o dokazování v odvolacím řízení, samotné obstarané listiny, doklad o seznámení odvolatele dle § 115 odst. 2 a jeho obsah, vyjádření odvolatele, evidence lhůt a případná žádost dle § 37.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=73defb8b8abf7b4120b2 generator=2026-07-17.4 source_sha256=c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3 -->
+#### Revizní doplnění k § 115
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/280-2009 Zákon daňový řád.md`; identifikátor verze: `SB-2009-00280_2026-01-01`; SHA-256: `c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3`.
+
+##### Znění ustanovení
+
+> (1) V rámci odvolacího řízení může odvolací orgán provádět dokazování k doplnění podkladů pro rozhodnutí nebo k odstranění vad řízení, anebo toto doplnění nebo odstranění vad uložit správci daně, který napadené rozhodnutí vydal, se stanovením přiměřené lhůty.
+>
+> (2) Provádí-li odvolací orgán v rámci odvolacího řízení dokazování, seznámí před vydáním rozhodnutí o odvolání odvolatele se zjištěnými skutečnostmi a důkazy, které je prokazují, a umožní mu, aby se k nim ve stanovené lhůtě vyjádřil, popřípadě navrhl provedení dalších důkazních prostředků. Obdobně postupuje odvolací orgán i v případě, kdy dospěje k odlišnému právnímu názoru, než správce daně prvního stupně, a tato změna by ovlivnila rozhodnutí v neprospěch odvolatele.
+>
+> (3) Lhůta podle odstavce 2 nesmí být delší než 15 dnů a lze ji prodloužit. Žádost o navrácení této lhůty v předešlý stav je možné podat nejpozději do vydání rozhodnutí o odvolání.
+>
+> (4) Po uplynutí lhůty podle odstavce 2 odvolací orgán k návrhům na provedení dalších důkazů nepřihlíží.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=73defb8b8abf7b4120b2 -->
 
 ### § 116 — Rozhodnutí odvolacího orgánu, zpětkové řízení
 
@@ -736,6 +1184,64 @@ Odvolací orgán rozhodnutí buď změní, nebo zruší a zastaví řízení, ne
 **Typicky rozhodné důkazy / podklady:** rozhodnutí o odvolání s odůvodněním, odvolání s výčtem všech námitek (pro kontrolu jejich vypořádání), spis prvostupňového řízení, případné rozhodnutí o vrácení věci se závazným právním názorem.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=486e9ca2a7fd9e2b83b7 generator=2026-07-17.4 source_sha256=c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3 -->
+#### Revizní doplnění k § 116
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/280-2009 Zákon daňový řád.md`; identifikátor verze: `SB-2009-00280_2026-01-01`; SHA-256: `c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3`.
+
+##### Znění ustanovení
+
+> (1) Odvolací orgán
+>
+> - a) napadené rozhodnutí změní,
+>
+> - b) napadené rozhodnutí zruší a zastaví řízení, nebo
+>
+> - c) odvolání zamítne a napadené rozhodnutí potvrdí.
+>
+> (2) V odůvodnění rozhodnutí o odvolání musí být vypořádány všechny důvody, v nichž odvolatel spatřuje nesprávnosti nebo nezákonnosti napadeného rozhodnutí.
+>
+> (3) Zjistí-li odvolací orgán, že jsou u správce daně prvního stupně splněny podmínky pro rozhodnutí podle § 113 odst. 1, může vrátit věc k rozhodnutí správci daně prvního stupně s odůvodněním obsahujícím právní názor, kterým je správce daně prvního stupně vázán, jinak o odvolání rozhodne sám.
+>
+> (4) Proti rozhodnutí odvolacího orgánu se nelze dále odvolat.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 113
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=486e9ca2a7fd9e2b83b7 -->
 
 ### Díl 3 — Obnova řízení
 
@@ -820,6 +1326,62 @@ Obnova řízení směřuje proti pravomocným rozhodnutím ze čtyř taxativníc
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=65344ac61e5663688b20 generator=2026-07-17.4 source_sha256=c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3 -->
+#### Revizní doplnění k § 117
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/280-2009 Zákon daňový řád.md`; identifikátor verze: `SB-2009-00280_2026-01-01`; SHA-256: `c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3`.
+
+##### Znění ustanovení
+
+> (1) Řízení ukončené pravomocným rozhodnutím správce daně se obnoví na návrh příjemce rozhodnutí, nebo z moci úřední, jestliže
+>
+> - a) vyšly najevo nové skutečnosti nebo důkazy, které nemohly být bez zavinění příjemce rozhodnutí nebo správce daně uplatněny v řízení již dříve a mohly mít podstatný vliv na výrok rozhodnutí,
+>
+> - b) rozhodnutí bylo učiněno na základě padělaného nebo pozměněného dokladu anebo dokladu obsahujícího nepravdivé údaje, křivé výpovědi svědka nebo nepravdivého znaleckého posudku,
+>
+> - c) rozhodnutí bylo dosaženo trestným činem, nebo
+>
+> - d) rozhodnutí záviselo na posouzení předběžné otázky a příslušný orgán veřejné moci o ní dodatečně rozhodl jinak způsobem, který má vliv na toto rozhodnutí a jemu předcházející řízení.
+>
+> (2) Nalézací řízení nelze obnovit z důvodů, za kterých lze podat dodatečné přiznání nebo dodatečné vyúčtování.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=65344ac61e5663688b20 -->
+
 ### § 118 — Návrh na povolení obnovy řízení — lhůta a náležitosti
 
 > **§ 118**
@@ -886,6 +1448,56 @@ Návrh na povolení obnovy se podává u správce daně prvního stupně do 6 m�
 **Typicky rozhodné důkazy / podklady:** návrh na obnovu, doklad o dni, kdy se navrhovatel dozvěděl o důvodu (doručené rozhodnutí, korespondence), pravomocné rozhodnutí, jehož obnova se navrhuje, podklady k důvodu obnovy dle § 117.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=dce43fa7eb6c0d57a201 generator=2026-07-17.4 source_sha256=c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3 -->
+#### Revizní doplnění k § 118
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/280-2009 Zákon daňový řád.md`; identifikátor verze: `SB-2009-00280_2026-01-01`; SHA-256: `c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3`.
+
+##### Znění ustanovení
+
+> (1) Návrh na povolení obnovy řízení se podává u správce daně, který ve věci rozhodl v prvním stupni.
+>
+> (2) Návrh na povolení obnovy řízení lze podat do 6 měsíců ode dne, kdy se navrhovatel dozvěděl o důvodech obnovy řízení.
+>
+> (3) V návrhu na povolení obnovy řízení musí být uvedeny okolnosti svědčící o jeho důvodnosti a o dodržení lhůty pro podání návrhu na povolení obnovy řízení.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=dce43fa7eb6c0d57a201 -->
 
 ### § 119 — Povolení nebo nařízení obnovy, lhůty pro obnovu
 
@@ -966,6 +1578,60 @@ O obnově rozhoduje správce daně, který ve věci rozhodl v posledním stupni 
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=562b413709bf1539bc1e generator=2026-07-17.4 source_sha256=c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3 -->
+#### Revizní doplnění k § 119
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/280-2009 Zákon daňový řád.md`; identifikátor verze: `SB-2009-00280_2026-01-01`; SHA-256: `c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3`.
+
+##### Znění ustanovení
+
+> (1) Obnovu řízení povolí nebo nařídí správce daně, který ve věci rozhodl v posledním stupni, a neshledá-li důvod povolení obnovy, návrh zamítne.
+>
+> (2) Jde-li o povolení nebo nařízení obnovy řízení ve věci, ve které rozhodovala v posledním stupni úřední osoba stojící v čele ústředního správního orgánu, povolí nebo nařídí obnovu řízení anebo návrh zamítne tato úřední osoba na základě návrhu jí ustanovené komise.
+>
+> (3) Správce daně v odůvodnění rozhodnutí vymezí důvody, na základě kterých se obnova řízení povoluje nebo nařizuje.
+>
+> (4) Obnovu nalézacího řízení lze povolit nebo nařídit, pokud neuplynula lhůta pro stanovení daně. Obnovu řízení při placení daní lze povolit nebo nařídit, pokud neuplynula lhůta pro placení daně. V ostatních případech lze obnovu řízení povolit nebo nařídit do 3 let ode dne právní moci rozhodnutí ukončujícího toto řízení.
+>
+> (5) Došlo-li ke změně místní příslušnosti před vydáním rozhodnutí, kterým se obnova řízení povoluje nebo nařizuje, provede řízení o povolení obnovy, jakož i vlastní obnovené řízení nově místně příslušný správce daně. Ke změně místní příslušnosti, ke které došlo po vydání rozhodnutí o povolení či nařízení obnovy řízení, se nepřihlíží.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=562b413709bf1539bc1e -->
+
 ### § 120 — Obnovené řízení
 
 > **§ 120**
@@ -1032,6 +1698,58 @@ Obnovené řízení provede správce daně prvního stupně (u trestného činu 
 **Typicky rozhodné důkazy / podklady:** rozhodnutí o povolení/nařízení obnovy (počátek odkladného účinku), původní pravomocné rozhodnutí, případné zajišťovací příkazy (rozlišení § 167 vs. § 170/§ 173), nové rozhodnutí ve věci, evidence běhu úroků.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=54e6a8e2651b1455e97b generator=2026-07-17.4 source_sha256=c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3 -->
+#### Revizní doplnění k § 120 — Obnovené řízení
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/280-2009 Zákon daňový řád.md`; identifikátor verze: `SB-2009-00280_2026-01-01`; SHA-256: `c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3`.
+
+##### Znění ustanovení
+
+> (1) Obnovené řízení ve věci provede správce daně, který ve věci rozhodoval v prvním stupni; pokud nastaly důvody podle § 117 odst. 1 písm. c), provede obnovené řízení ve věci správce daně, v jímž vedeném řízení tyto důvody nastaly.
+>
+> (2) Obnovené řízení se zahajuje vydáním rozhodnutí o povolení nebo nařízení obnovy.
+>
+> (3) Povolení nebo nařízení obnovy řízení má vůči původnímu rozhodnutí odkladný účinek až do oznámení rozhodnutí ve věci vydaného v obnoveném řízení s výjimkou zajištění podle [[#§ 170|§ 170]] a [[#§ 173|173]]. Po dobu trvání odkladného účinku nevznikají úroky, které jsou příslušenstvím daně.
+>
+> (4) Novým rozhodnutím ve věci se původní rozhodnutí ruší.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 117, § 170, § 173
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=54e6a8e2651b1455e97b -->
 
 ### Díl 4 — Přezkumné řízení
 
@@ -1115,6 +1833,58 @@ Přezkumné řízení je výhradně dozorčí prostředek zahajovaný z moci ú�
 **Typicky rozhodné důkazy / podklady:** pravomocné rozhodnutí, u nějž je tvrzen rozpor s právním předpisem, podnět k přezkumu s konkretizací vady, případná soudní rozhodnutí o téže věci (k odst. 2), žádost o sdělení výsledku.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=976b244e3d799b0f595b generator=2026-07-17.4 source_sha256=c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3 -->
+#### Revizní doplnění k § 121
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/280-2009 Zákon daňový řád.md`; identifikátor verze: `SB-2009-00280_2026-01-01`; SHA-256: `c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3`.
+
+##### Znění ustanovení
+
+> (1) Správce daně z moci úřední nařídí přezkoumání rozhodnutí, jestliže po předběžném posouzení věci dojde k závěru, že rozhodnutí bylo vydáno v rozporu s právním předpisem. K vadám řízení, o nichž nelze mít důvodně za to, že mohly mít vliv na soulad napadeného rozhodnutí s právními předpisy, se nepřihlíží.
+>
+> (2) V rozsahu, ve kterém bylo rozhodnutí vydané při správě daní přezkoumáno ve správním soudnictví, nelze nařídit přezkoumání rozhodnutí.
+>
+> (3) Podnět k nařízení přezkoumání rozhodnutí podá u správce daně, který rozhodl v řízení v posledním stupni, kterýkoli správce daně, jakmile zjistí, že pro nařízení přezkoumání rozhodnutí jsou dány zákonné podmínky.
+>
+> (4) Za podmínek podle odstavce 3 může podnět k přezkoumání rozhodnutí podat kterákoli osoba zúčastněná na správě daní. Pokud o to osoba, která podala podnět, požádá, sdělí jí správce daně, zda shledal podnět důvodným či nikoliv.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=976b244e3d799b0f595b -->
 
 ### § 122 — Příslušnost k nařízení přezkumu, objektivní lhůty
 
@@ -1204,6 +1974,70 @@ Přezkoumání nařizuje správce daně nejblíže nadřízený tomu, kdo rozhod
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=6471aac13efbd8799486 generator=2026-07-17.4 source_sha256=c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3 -->
+#### Revizní doplnění k § 122
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/280-2009 Zákon daňový řád.md`; identifikátor verze: `SB-2009-00280_2026-01-01`; SHA-256: `c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3`.
+
+##### Znění ustanovení
+
+> (1) Přezkoumání rozhodnutí nařídí správce daně nejblíže nadřízený správci daně, který ve věci rozhodl v posledním stupni.
+>
+> (2) Jde-li o nařízení přezkoumání rozhodnutí ústředního správního orgánu nebo úřední osoby stojící v čele ústředního správního orgánu, nařídí přezkoumání rozhodnutí úřední osoba stojící v čele ústředního správního orgánu na základě návrhu jí ustanovené komise.
+>
+> (3) Přezkoumání rozhodnutí lze nařídit, pokud neuplynula lhůta
+>
+> - a) pro stanovení daně, jde-li o rozhodnutí o stanovení daně,
+>
+> - b) pro placení daně, jde-li o rozhodnutí vydané v řízení při placení daní,
+>
+> - c) 3 let ode dne právní moci tohoto rozhodnutí, jde-li o
+>
+>   - 1. jiné rozhodnutí než podle písmene a) nebo b),
+>
+>   - 2. nařízení z důvodu možného zrušení rozhodnutí o stanovení daně, které nabylo právní moci po uplynutí lhůty pro stanovení daně,
+>
+>   - 3. nařízení z důvodu možného zrušení rozhodnutí vydaného při placení daní, které nabylo právní moci po uplynutí lhůty pro placení daně.
+>
+> (4) Došlo-li ke změně místní příslušnosti od právní moci přezkoumávaného rozhodnutí, provede následné přezkumné řízení nově místně příslušný správce daně. Ke změně místní příslušnosti, ke které došlo po vydání rozhodnutí o nařízení přezkoumání rozhodnutí, se nepřihlíží.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=6471aac13efbd8799486 -->
+
 ### § 123 — Postup při přezkumném řízení
 
 > **§ 123**
@@ -1281,6 +2115,60 @@ Přezkumné řízení provede správce daně posledního stupně, vázán důvod
 **Typicky rozhodné důkazy / podklady:** rozhodnutí o nařízení přezkoumání (vymezení důvodů a právního názoru), přezkoumávané rozhodnutí, spis, podklady k doplnění řízení v rozsahu nařízení, výsledné rozhodnutí o zrušení/změně nebo o zastavení.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=b8af93b885b5b9d527e8 generator=2026-07-17.4 source_sha256=c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3 -->
+#### Revizní doplnění k § 123 — Postup při přezkumném řízení
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/280-2009 Zákon daňový řád.md`; identifikátor verze: `SB-2009-00280_2026-01-01`; SHA-256: `c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3`.
+
+##### Znění ustanovení
+
+> (1) Přezkumné řízení provede správce daně, který ve věci rozhodl v posledním stupni.
+>
+> (2) Řízení je zahájeno vydáním rozhodnutí o nařízení přezkoumání rozhodnutí.
+>
+> (3) Správce daně je při řízení vázán důvody, pro které bylo nařízeno, a právním názorem vyjádřeným v rozhodnutí o nařízení přezkoumání rozhodnutí; ve stejném rozsahu může řízení doplňovat a odstraňovat jeho vady.
+>
+> (4) Nařízení přezkoumání rozhodnutí má vůči takto přezkoumávanému rozhodnutí a navazujícím rozhodnutím odkladný účinek až do doby oznámení rozhodnutí ve věci, vydaného v přezkumném řízení, s výjimkou zajištění podle § 167 až 169, [[#§ 170|§ 170]] a [[#§ 173|173]]. Po dobu trvání odkladného účinku úroky, které jsou příslušenstvím daně, nevznikají.
+>
+> (5) Jestliže správce daně po zahájení přezkumného řízení zjistí, že byly naplněny podmínky podle § 121 odst. 1, vydá rozhodnutí, kterým se původní rozhodnutí zruší nebo změní. V opačném případě přezkumné řízení zastaví.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 167, § 170, § 173, § 121
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=b8af93b885b5b9d527e8 -->
 
 ### Díl 5 — Vztah ke správnímu soudnictví
 
@@ -1371,6 +2259,60 @@ Rozhodnutí vydané v tomto přezkumném řízení **nelze napadnout opravnými 
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=d81ecc4eb1c644ed168b generator=2026-07-17.4 source_sha256=c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3 -->
+#### Revizní doplnění k § 124
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/280-2009 Zákon daňový řád.md`; identifikátor verze: `SB-2009-00280_2026-01-01`; SHA-256: `c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3`.
+
+##### Znění ustanovení
+
+> (1) Domáhá-li se navrhovatel ve správním soudnictví zrušení rozhodnutí vydaného správcem daně, může jej správce daně uspokojit změnou nebo zrušením tohoto rozhodnutí v přezkumném řízení.
+>
+> (2) Přezkumné řízení směřující k uspokojení navrhovatele ve správním soudnictví provede správce daně, který ve věci rozhodl v posledním stupni; ustanovení o nařízení přezkoumání rozhodnutí se nepoužijí.
+>
+> (3) K novým skutečnostem a návrhům na provedení nových důkazních prostředků, které navrhovatel ve své žalobě neuvedl, správce daně v rámci přezkumného řízení směřujícího k uspokojení navrhovatele ve správním soudnictví nepřihlíží.
+>
+> (4) V rámci přezkumného řízení směřujícího k uspokojení navrhovatele ve správním soudnictví nelze změnit rozhodnutí v neprospěch navrhovatele.
+>
+> (5) Proti rozhodnutí vydanému v rámci přezkumného řízení směřujícího k uspokojení navrhovatele ve správním soudnictví nelze uplatnit opravné prostředky.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=d81ecc4eb1c644ed168b -->
+
 ### § 124a — Účinky zrušení rozhodnutí krajského soudu Nejvyšším správním soudem
 
 > **§ 124a**
@@ -1437,6 +2379,58 @@ Tato ustanovení jsou klíčová pro **koordinaci správního a daňového říz
 **Typicky rozhodné důkazy / podklady:** rozsudek krajského soudu (zrušující i nový), rozhodnutí NSS o kasační stížnosti, nové rozhodnutí správce daně vydané po prvním rozsudku, doklady o právní moci jednotlivých soudních rozhodnutí, evidence stavu daňové povinnosti.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=02559acf063689ba749d generator=2026-07-17.4 source_sha256=c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3 -->
+#### Revizní doplnění k § 124a
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/280-2009 Zákon daňový řád.md`; identifikátor verze: `SB-2009-00280_2026-01-01`; SHA-256: `c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3`.
+
+##### Znění ustanovení
+
+> (1) Zruší-li Nejvyšší správní soud rozhodnutí krajského soudu, na jehož základě bylo správcem daně vydáno nové rozhodnutí ve věci, pozbývá toto rozhodnutí správce daně všech právních účinků dnem nabytí právní moci
+>
+> - a) nového rozhodnutí krajského soudu, kterým je žaloba zamítnuta nebo ve kterém dojde ke změně právního názoru oproti zrušenému rozhodnutí krajského soudu, nebo
+>
+> - b) rozhodnutí Nejvyššího správního soudu, rozhodl-li současně se zrušením rozhodnutí krajského soudu o žalobě sám.
+>
+> (2) Zruší-li Nejvyšší správní soud rozhodnutí krajského soudu, kterým došlo ke zrušení rozhodnutí správce daně, nabývá toto rozhodnutí správce daně znovu všech právních účinků dnem nabytí právní moci nového rozhodnutí krajského soudu, kterým je žaloba zamítnuta, nebo dnem nabytí právní moci rozhodnutí Nejvyššího správního soudu, rozhodl-li současně se zrušením rozhodnutí krajského soudu o žalobě sám.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=02559acf063689ba749d -->
 
 ## Souhrnná tabulka — lhůty v Hlavě VII
 

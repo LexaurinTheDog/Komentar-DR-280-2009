@@ -83,6 +83,56 @@ Lhůtu kratší než 8 dnů lze stanovit jen pro úkon současně jednoduchý a 
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=d0a232b3a9a9089f997d generator=2026-07-17.4 source_sha256=c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3 -->
+#### Revizní doplnění k § 32 — Určení lhůty k provedení úkonu
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/280-2009 Zákon daňový řád.md`; identifikátor verze: `SB-2009-00280_2026-01-01`; SHA-256: `c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3`.
+
+##### Znění ustanovení
+
+> (1) Správce daně stanoví osobě zúčastněné na správě daní rozhodnutím lhůtu pro úkon při správě daní, pokud je toho třeba a pokud ji nestanoví zákon.
+>
+> (2) Lhůtu kratší než 8 dnů lze stanovit jen zcela výjimečně pro úkony jednoduché a zvlášť naléhavé.
+>
+> (3) Pokud správce daně ukládá rozhodnutím povinnost, ke které se stanovená lhůta váže, musí být v poučení tohoto rozhodnutí obsaženy i právní důsledky nedodržení této lhůty; pokud jde o lhůtu kratší než 8 dnů, musí být rovněž odůvodněna délka této lhůty, a to i v případě, že se rozhodnutí jinak neodůvodňuje.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=d0a232b3a9a9089f997d -->
+
 ### § 33 — Počítání času
 
 > **§ 33**
@@ -170,6 +220,58 @@ Den rozhodné skutečnosti se do lhůty nepočítá; lhůta v dnech/týdnech/mě
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=9e27dc880343c31c0e24 generator=2026-07-17.4 source_sha256=c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3 -->
+#### Revizní doplnění k § 33 — Počítání času
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/280-2009 Zákon daňový řád.md`; identifikátor verze: `SB-2009-00280_2026-01-01`; SHA-256: `c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3`.
+
+##### Znění ustanovení
+
+> (1) Lhůta stanovená podle týdnů, měsíců nebo let počíná běžet dnem, který následuje po dni, kdy došlo ke skutečnosti určující počátek běhu lhůty, a končí uplynutím toho dne, který se svým pojmenováním nebo číselným označením shoduje se dnem, kdy započal běh lhůty. Není-li takový den v měsíci, připadne poslední den lhůty na jeho poslední den.
+>
+> (2) Lhůta stanovená podle dní počíná běžet dnem, který následuje po dni, kdy došlo ke skutečnosti určující počátek běhu lhůty.
+>
+> (3) Lhůta určená v kratších časových jednotkách, než jsou dny, se počítá od okamžiku, kdy došlo ke skutečnosti určující počátek běhu lhůty.
+>
+> (4) Připadne-li poslední den lhůty na sobotu, neděli nebo svátek, je posledním dnem lhůty nejblíže následující pracovní den; to neplatí, jde-li o lhůtu určenou v kratších časových jednotkách, než jsou dny.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=9e27dc880343c31c0e24 -->
+
 ### § 34 — Běh lhůty pro správce daně
 
 > **§ 34**
@@ -235,6 +337,54 @@ Odvozuje-li lhůta správce počátek ode dne podání, výzva k součinnosti (v
 **Typicky rozhodné důkazy / podklady:** podání s datem, výzva k součinnosti (rozhodnutí) s datem vydání, doklad o poskytnutí součinnosti, u e-podání doklad o dni potvrzení, evidence spisu.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=8d77b25aa20eee9b7b36 generator=2026-07-17.4 source_sha256=c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3 -->
+#### Revizní doplnění k § 34 — Běh lhůty pro správce daně
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/280-2009 Zákon daňový řád.md`; identifikátor verze: `SB-2009-00280_2026-01-01`; SHA-256: `c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3`.
+
+##### Znění ustanovení
+
+> (1) Pokud je den, kdy osoba zúčastněná na správě daní učinila podání, dnem počátku běhu lhůty pro vydání rozhodnutí nebo provedení jiného úkonu správce daně nebo pokud je počátek běhu lhůty od tohoto dne odvozován, běh lhůty se staví ode dne vydání rozhodnutí, kterým správce daně vyzývá osobu zúčastněnou na správě daní k součinnosti, do pátého pracovního dne ode dne, kdy dojde k požadované součinnosti.
+>
+> (2) Pokud osoba zúčastněná na správě daní učinila podání elektronicky způsobem vyžadujícím dodatečné potvrzení, je pro určení počátku běhu lhůty pro vydání rozhodnutí nebo provedení jiného úkonu správce daně rozhodný den, kdy bylo podáno potvrzení tohoto podání.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=8d77b25aa20eee9b7b36 -->
 
 ### § 35 — Zachování lhůty
 
@@ -331,6 +481,66 @@ Lhůta je zachována, je-li v poslední den proveden úkon u příslušného spr
 **Typicky rozhodné důkazy / podklady:** obálka s podacím razítkem, podací lístek, doručenka/potvrzení datové schránky nebo technického zařízení, evidence podání u správce daně.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=1603d1435993aef5bb57 generator=2026-07-17.4 source_sha256=c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3 -->
+#### Revizní doplnění k § 35 — Zachování lhůty
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/280-2009 Zákon daňový řád.md`; identifikátor verze: `SB-2009-00280_2026-01-01`; SHA-256: `c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3`.
+
+##### Znění ustanovení
+
+> (1) Lhůta je zachována, je-li nejpozději v poslední den lhůty
+>
+> - a) učiněn úkon u věcně a místně příslušného správce daně,
+>
+> - b) podána u provozovatele poštovních služeb poštovní zásilka obsahující podání adresovaná věcně a místně příslušnému správci daně,
+>
+> - c) podána datová zpráva adresovaná věcně a místně příslušnému správci daně na technické zařízení správce daně nebo na technické zařízení společné pro několik správců daně (dále jen „technické zařízení správce daně“),
+>
+> - d) podána datová zpráva do datové schránky5) věcně a místně příslušného správce daně.
+>
+> Jde-li o lhůtu určenou v kratších časových jednotkách, než jsou dny, je tato lhůta zachována, je-li požadovaný úkon učiněn před jejím uplynutím.
+>
+> (2) Nebyl-li úkon učiněn u věcně a místně příslušného správce daně, je lhůta zachována, je-li nejpozději v poslední den lhůty učiněn tento úkon u nadřízeného správce daně nebo u jiného věcně příslušného správce daně.
+>
+> (3) V pochybnostech se považuje lhůta za zachovanou, pokud se neprokáže opak.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=1603d1435993aef5bb57 -->
 
 ### § 36 — Prodloužení lhůty
 
@@ -431,6 +641,64 @@ První žádosti o prodloužení správní lhůty musí být vyhověno alespoň 
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=c161a49e71eb9abccb89 generator=2026-07-17.4 source_sha256=c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3 -->
+#### Revizní doplnění k § 36 — Prodloužení lhůty
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/280-2009 Zákon daňový řád.md`; identifikátor verze: `SB-2009-00280_2026-01-01`; SHA-256: `c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3`.
+
+##### Znění ustanovení
+
+> (1) Správce daně povolí ze závažného důvodu na žádost osoby zúčastněné na správě daní prodloužení lhůty stanovené správcem daně, pokud byla žádost o prodloužení lhůty podána před jejím uplynutím; za stejných podmínek lze prodloužit i lhůtu zákonnou, pokud tak stanoví zákon.
+>
+> (2) Správce daně vyhoví první žádosti o prodloužení lhůty, nejde-li o lhůtu stanovenou zákonem, a lhůtu prodlouží alespoň o dobu, která v den podání žádosti ještě zbývá ze lhůty, o jejíž prodloužení je žádáno, ledaže by bylo žádáno o lhůtu kratší.
+>
+> (3) Nevydá-li správce daně rozhodnutí do doby, o niž má být lhůta podle žádosti prodloužena, nebo nevydá-li rozhodnutí do 30 dnů ode dne, kdy žádost obdržel, platí, že žádosti bylo vyhověno. Je-li rozhodnutí, kterým nebylo žádosti plně vyhověno, oznámeno po uplynutí stanovené lhůty, o jejíž prodloužení je žádáno, končí běh této lhůty uplynutím tolika dnů po oznámení tohoto rozhodnutí, kolik dnů zbývalo v době podání žádosti do uplynutí stanovené lhůty.
+>
+> (4) Správce daně může na žádost daňového subjektu nebo z vlastního podnětu prodloužit až o 3 měsíce lhůtu pro podání řádného daňového tvrzení. Pokud předmět daně tvoří i příjmy, které jsou předmětem daně v zahraničí, může správce daně na žádost daňového subjektu v odůvodněných případech prodloužit lhůtu pro podání daňového přiznání až na 10 měsíců po uplynutí zdaňovacího období.
+>
+> (5) Lhůtu nelze prodloužit, jde-li o lhůtu, se kterou zákon spojuje zánik práva.
+>
+> (6) Proti rozhodnutí o žádosti o prodloužení lhůty nelze uplatnit opravné prostředky.
+>
+> (7) Pro určení dne podání žádosti o prodloužení lhůty je rozhodný den, kdy byla tato žádost podána podle § 35 odst. 1.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 35
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=c161a49e71eb9abccb89 -->
+
 ### § 37 — Navrácení lhůty v předešlý stav
 
 > **§ 37**
@@ -530,6 +798,66 @@ Navrácení lhůty v předešlý stav lze povolit ze závažného (objektivního
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=477ed6da079554bd0e9e generator=2026-07-17.4 source_sha256=c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3 -->
+#### Revizní doplnění k § 37 — Navrácení lhůty v předešlý stav
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/280-2009 Zákon daňový řád.md`; identifikátor verze: `SB-2009-00280_2026-01-01`; SHA-256: `c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3`.
+
+##### Znění ustanovení
+
+> (1) Osoba zúčastněná na správě daní je oprávněna požádat správce daně o navrácení lhůty v předešlý stav.
+>
+> (2) Správce daně povolí ze závažného důvodu navrácení lhůty stanovené daňovým zákonem nebo správcem daně v předešlý stav, pokud před podáním žádosti lhůta již uplynula, a nově stanoví den jejího uplynutí.
+>
+> (3) Žádost o navrácení lhůty v předešlý stav musí být podána do 15 dnů ode dne, kdy pominul důvod zmeškání lhůty.
+>
+> (4) Navrácení lhůty v předešlý stav nelze povolit, pokud od posledního dne zmeškané lhůty uplynul více než 1 rok, nebo pokud jde o lhůtu
+>
+> - a) pro stanovení daně,
+>
+> - b) pro placení daně, nebo
+>
+> - c) pro podání daňového tvrzení.
+>
+> (5) V případě, že je žádosti o navrácení lhůty v předešlý stav vyhověno, rozhodnutí se neodůvodňuje.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=477ed6da079554bd0e9e -->
+
 ### § 38 — Ochrana před nečinností
 
 > **§ 38**
@@ -619,6 +947,64 @@ Podnět dle § 38 je správním (nikoli opravným) prostředkem proti průtahům
 **Typicky rozhodné důkazy / podklady:** žádost/poslední úkon s datem, výpis ze spisu prokazující nečinnost, podnět dle § 38 s datem, doklad o reakci/nečinnosti nadřízeného správce.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=d28d65be8e7b2380bcfa generator=2026-07-17.4 source_sha256=c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3 -->
+#### Revizní doplnění k § 38 — Ochrana před nečinností
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/280-2009 Zákon daňový řád.md`; identifikátor verze: `SB-2009-00280_2026-01-01`; SHA-256: `c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3`.
+
+##### Znění ustanovení
+
+> (1) Osoba zúčastněná na správě daní je oprávněna dát podnět nejblíže nadřízenému správci daně v případě, že správce daně nepostupuje v řízení bez zbytečných průtahů, protože
+>
+> - a) marně uplynula zákonem stanovená lhůta, v níž měl správce daně provést úkon,
+>
+> - b) neprovedl úkon ve lhůtě, která je pro provedení takového úkonu při správě daní obvyklá, nebo
+>
+> - c) nevydal rozhodnutí bezodkladně poté, co došlo k shromáždění podkladů potřebných pro rozhodnutí.
+>
+> (2) Nejsou-li splněny podmínky podle odstavce 1, lze podnět dát, jestliže správce daně nevydal rozhodnutí, ačkoli uplynuly 3 měsíce ode dne, kdy byl učiněn vůči osobě, která podala podnět, nebo touto osobou poslední úkon v řízení, kterého se předpokládaná nečinnost týká.
+>
+> (3) Nejblíže nadřízený správce daně podnět prověří, a pokud je důvodný, přikáže nejpozději do 30 dnů po jeho obdržení správci daně, aby zjednal nápravu. Nezjedná-li správce daně nápravu do 30 dnů od přijetí tohoto příkazu, bezodkladně zjedná nápravu nejblíže nadřízený správce daně a o provedených opatřeních vyrozumí osobu, která podala podnět.
+>
+> (4) Neshledá-li nejblíže nadřízený správce daně podnět důvodným, odloží jej a osobu, která podala podnět, o tom vyrozumí do 30 dnů s uvedením důvodů. Je-li důvodem odložení podnětu to, že správce daně dosud neshromáždil podklady potřebné k rozhodnutí, uvede ve vyrozumění i informaci o tom, které podklady dosud chybí.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=d28d65be8e7b2380bcfa -->
 
 ## Hlava III — Doručování
 
@@ -715,6 +1101,66 @@ Doručuje se přednostně při úkonu nebo elektronicky (datová schránka); po�
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=84486c09ea625111b20b generator=2026-07-17.4 source_sha256=c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3 -->
+#### Revizní doplnění k § 39 — Způsoby doručování
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/280-2009 Zákon daňový řád.md`; identifikátor verze: `SB-2009-00280_2026-01-01`; SHA-256: `c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3`.
+
+##### Znění ustanovení
+
+> (1) Správce daně doručuje písemnost
+>
+> - a) při ústním jednání nebo při jiném úkonu, nebo
+>
+> - b) elektronicky.
+>
+> (2) Není-li možné doručit písemnost podle odstavce 1, doručí ji správce daně prostřednictvím zásilky doručované
+>
+> - a) provozovatelem poštovních služeb,
+>
+> - b) úřední osobou pověřenou doručováním, nebo
+>
+> - c) jiným orgánem, o němž to stanoví zákon.
+>
+> (3) Prostřednictvím provozovatele poštovních služeb lze písemnost doručovat, jen jestliže podle uzavřené poštovní smlouvy6) vznikne provozovateli poštovních služeb povinnost dodat zásilku obsahující písemnost způsobem, který je stanoven pro doručování tímto zákonem; to neplatí, pokud je písemnost doručována do ciziny.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=84486c09ea625111b20b -->
+
 ### § 40 — Doručování do vlastních rukou
 
 > **§ 40**
@@ -784,6 +1230,58 @@ Spouští-li doručení běh lhůty, doručuje se vždy do vlastních rukou — 
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=f3f31edc0bbb8cb80f4f generator=2026-07-17.4 source_sha256=c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3 -->
+#### Revizní doplnění k § 40 — Doručování do vlastních rukou
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/280-2009 Zákon daňový řád.md`; identifikátor verze: `SB-2009-00280_2026-01-01`; SHA-256: `c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3`.
+
+##### Znění ustanovení
+
+> Do vlastních rukou se doručují písemnosti, pokud
+>
+> - a) je den doručení rozhodný pro počátek běhu lhůty stanovené právním předpisem nebo rozhodnutím správce daně,
+>
+> - b) tak stanoví zákon, nebo
+>
+> - c) tak určí správce daně.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=f3f31edc0bbb8cb80f4f -->
+
 ### § 41 — Doručování zástupci
 
 > **§ 41**
@@ -844,6 +1342,54 @@ Má-li subjekt zástupce, doručuje se v rozsahu plné moci výlučně zástupci
 **Typicky rozhodné důkazy / podklady:** plná moc s rozsahem a datem uplatnění, doručenky (komu bylo doručeno), evidence zástupce u správce daně, povaha úkonu (osobní/neosobní).
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=f9ac13dbebb7d112fca0 generator=2026-07-17.4 source_sha256=c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3 -->
+#### Revizní doplnění k § 41 — Doručování zástupci
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/280-2009 Zákon daňový řád.md`; identifikátor verze: `SB-2009-00280_2026-01-01`; SHA-256: `c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3`.
+
+##### Znění ustanovení
+
+> (1) Má-li osoba, které je písemnost doručována, zástupce, doručují se písemnosti pouze tomuto zástupci, a to v rozsahu jeho oprávnění k zastupování.
+>
+> (2) Má-li osoba, jejíž poměry jsou doručovanou písemností dotčeny, vykonat něco osobně, doručuje se písemnost jí i jejímu zástupci. Dnem doručení rozhodným pro počátek běhu lhůty je při souběžném doručování této osobě i jejímu zástupci den doručení písemnosti, který nastane později.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=f9ac13dbebb7d112fca0 -->
 
 ### Díl 2 — Elektronické doručování
 
@@ -920,6 +1466,52 @@ Má-li adresát zpřístupněnou datovou schránku, doručuje se mu povinně ele
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=4099cba13ab4f93ba6be generator=2026-07-17.4 source_sha256=c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3 -->
+#### Revizní doplnění k § 42 — Doručování prostřednictvím datové schránky
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/280-2009 Zákon daňový řád.md`; identifikátor verze: `SB-2009-00280_2026-01-01`; SHA-256: `c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3`.
+
+##### Znění ustanovení
+
+> Osobě, která má zpřístupněnu datovou schránku, se doručuje elektronicky podle jiného právního předpisu5).
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=4099cba13ab4f93ba6be -->
+
 ### Díl 3 — Doručování prostřednictvím zásilky
 
 ### § 43 — Obecná ustanovení o doručování prostřednictvím zásilky
@@ -980,6 +1572,54 @@ Zásilku lze doručit kdekoli, kde je adresát (nebo zástupce pro správu daní
 **Typicky rozhodné důkazy / podklady:** doručenka s místem, způsobem a totožností přijímajícího, záznam o výzvě k prokázání totožnosti, případný protokol o úkonu v místě zastižení.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=4caf6371e6736ea5b62e generator=2026-07-17.4 source_sha256=c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3 -->
+#### Revizní doplnění k § 43 — Obecná ustanovení o doručování prostřednictvím zásilky
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/280-2009 Zákon daňový řád.md`; identifikátor verze: `SB-2009-00280_2026-01-01`; SHA-256: `c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3`.
+
+##### Znění ustanovení
+
+> (1) Osobě, které je písemnost doručována, nebo jejímu zástupci pro správu daní (dále jen „adresát“), jakož i tomu, kdo písemnost za adresáta přijímá, lze písemnost doručit v bytě, v místě podnikání, na pracovišti nebo kdekoli, kde bude zastižen.
+>
+> (2) Adresát nebo ten, kdo písemnost za adresáta přijímá, je povinen na výzvu toho, kdo písemnost doručuje nebo jehož prostřednictvím se písemnost doručuje, prokázat svou totožnost a poskytnout další nezbytné údaje pro doručení.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=4caf6371e6736ea5b62e -->
 
 ### § 44 — Doručování fyzickým osobám
 
@@ -1071,6 +1711,62 @@ Fyzické osobě se doručuje na adresu místa pobytu (popř. evidovanou v ISEO �
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=a851b028d4ed51ed47a1 generator=2026-07-17.4 source_sha256=c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3 -->
+#### Revizní doplnění k § 44 — Doručování fyzickým osobám
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/280-2009 Zákon daňový řád.md`; identifikátor verze: `SB-2009-00280_2026-01-01`; SHA-256: `c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3`.
+
+##### Znění ustanovení
+
+> (1) Fyzické osobě se doručuje na adresu jejího místa pobytu, na adresu evidovanou v informačním systému evidence obyvatel, na kterou jí mají být doručovány písemnosti, nebo na adresu jejího bydliště v cizině.
+>
+> (2) Pro doručování písemnosti, která souvisí s podnikatelskou činností fyzické osoby, se obdobně použije ustanovení o doručování právnickým osobám. Není-li fyzická osoba jako podnikatel zapsána ve veřejném rejstříku, doručuje se jí na adresu jejího místa pobytu.
+>
+> (3) Pokud fyzická osoba požádá správce daně o doručování na jinou adresu v České republice, doručuje se písemnost na tuto adresu.
+>
+> (4) Písemnost určená do vlastních rukou adresáta se doručuje přímo adresátovi. Nebyl-li adresát písemnosti, která má být doručena do vlastních rukou, na adrese pro doručování zastižen, písemnost se uloží a adresát se vhodným způsobem upozorní, aby si ji ve lhůtě 10 dnů vyzvedl.
+>
+> (5) Písemnost, která se nedoručuje do vlastních rukou a jejíž převzetí má být potvrzeno, se doručuje přímo adresátovi nebo jiné vhodné fyzické osobě, která se na adrese pro doručování nebo jejím blízkém okolí zdržuje, pokud souhlasí s tím, že odevzdá písemnost adresátovi. Není-li možno takto doručit, písemnost se uloží a adresát se vhodným způsobem upozorní, aby si ji ve lhůtě 10 dnů vyzvedl.
+>
+> (6) Písemnost, která se nedoručuje do vlastních rukou nebo jejíž převzetí nemá být potvrzeno adresátem, lze doručit též vložením do domovní nebo jiné adresátem užívané schránky nebo na jiné vhodné místo.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=a851b028d4ed51ed47a1 -->
+
 ### § 45 — Doručování právnickým osobám
 
 > **§ 45**
@@ -1143,6 +1839,60 @@ PO se doručuje na zapsané sídlo; nesoulad zápisu se skutečností jde k jej�
 **Typicky rozhodné důkazy / podklady:** výpis z veřejného rejstříku (sídlo, statutární orgán), doručenka na sídlo s dnem uložení, údaj o adrese místa pobytu jednatele (§ 24 odst. 2), případně doručenka na adresu jednatele.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=4734723fd810c3d6ef8e generator=2026-07-17.4 source_sha256=c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3 -->
+#### Revizní doplnění k § 45 — Doručování právnickým osobám
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/280-2009 Zákon daňový řád.md`; identifikátor verze: `SB-2009-00280_2026-01-01`; SHA-256: `c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3`.
+
+##### Znění ustanovení
+
+> (1) Právnické osobě se doručuje na adresu jejího sídla. Zahraniční právnické osobě se doručuje na adresu sídla pobočky nebo jiné organizační složky jejího obchodního závodu zřízené v České republice, týká-li se písemnost činnosti této pobočky nebo jiné organizační složky.
+>
+> (2) Pokud právnická osoba požádá správce daně o doručování na jinou adresu v České republice, doručuje se písemnost na tuto adresu.
+>
+> (3) Je-li adresátem právnická osoba, je oprávněna písemnost převzít osoba oprávněná jednat jménem této právnické osoby. Písemnost, která není určena do vlastních rukou, se může doručit kterémukoliv zaměstnanci právnické osoby nebo jiné vhodné fyzické osobě, která se v místě doručení nebo jeho blízkém okolí zdržuje, pokud souhlasí s tím, že odevzdá písemnost adresátovi.
+>
+> (4) Nebyla-li na adrese pro doručování písemnosti do vlastních rukou nebo jiné písemnosti, jejíž převzetí má být rovněž potvrzeno, zastižena osoba oprávněná převzít písemnost podle odstavce 3, písemnost se uloží a adresát se vhodným způsobem upozorní, aby si ji ve lhůtě 10 dnů vyzvedl. Písemnost, která nebyla vyzvednuta ve stanovené lhůtě, může správce daně doručit na adresu místa pobytu fyzické osoby oprávněné jednat jménem této právnické osoby podle § 24 odst. 2, pokud je mu adresa jejího místa pobytu známa.
+>
+> (5) Pro doručování orgánům veřejné moci se přiměřeně použijí ustanovení odstavců 1 až 4.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 24
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=4734723fd810c3d6ef8e -->
 
 ### § 46 — Uložení písemnosti
 
@@ -1218,6 +1968,60 @@ Upozornění o uložení musí obsahovat zákonné náležitosti, zejména píse
 **Typicky rozhodné důkazy / podklady:** kopie/vzor upozornění o uložení (s poučením), doručenka s dnem uložení, doklad o vhození upozornění, případná žádost dle odst. 3, údaj o dni faktického seznámení.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=57a1f260ee3ec3143c25 generator=2026-07-17.4 source_sha256=c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3 -->
+#### Revizní doplnění k § 46 — Uložení písemnosti
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/280-2009 Zákon daňový řád.md`; identifikátor verze: `SB-2009-00280_2026-01-01`; SHA-256: `c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3`.
+
+##### Znění ustanovení
+
+> (1) Písemnost se ukládá
+>
+> - a) u správce daně, jehož písemnost se doručuje, nebo u správce daně, který byl o doručení dožádán, nebo
+>
+> - b) u provozovatele poštovních služeb, jestliže se doručuje jeho prostřednictvím.
+>
+> (2) V upozornění na uložení písemnosti, které se vkládá do domovní nebo jiné adresátem užívané schránky nebo na jiné vhodné místo, se adresát vyzve k převzetí písemnosti a dále se v něm uvede označení správce daně, jehož písemnost je doručována, komu je doručováno, kde a od kterého dne a v jakých hodinách je písemnost připravena k vyzvednutí; současně se adresát písemně poučí o právních důsledcích jejího nevyzvednutí.
+>
+> (3) Bez předchozího pokusu o doručení lze písemnost uložit, pokud adresát požádá předem písemně toho, kdo písemnost doručuje nebo jehož prostřednictvím se písemnost doručuje, o ukládání písemností.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=57a1f260ee3ec3143c25 -->
 
 ### § 47 — Účinky doručení
 
@@ -1320,6 +2124,64 @@ Doručeno je okamžikem převzetí; není-li zásilka vyzvednuta, nastává fikc
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=86ddd28c8d526666accf generator=2026-07-17.4 source_sha256=c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3 -->
+#### Revizní doplnění k § 47 — Účinky doručení
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/280-2009 Zákon daňový řád.md`; identifikátor verze: `SB-2009-00280_2026-01-01`; SHA-256: `c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3`.
+
+##### Znění ustanovení
+
+> (1) Písemnost, která se doručuje do vlastních rukou nebo jejíž převzetí má být potvrzeno adresátem, je doručena okamžikem převzetí zásilky, která obsahuje doručovanou písemnost, adresátem nebo jinou osobou oprávněnou k převzetí písemnosti podle zákona.
+>
+> (2) Nevyzvedne-li si adresát uloženou písemnost ve lhůtě 10 dnů od jejího uložení, považuje se písemnost posledním dnem této lhůty za doručenou, i když se adresát o uložení nedozvěděl.
+>
+> (3) Odepře-li adresát písemnost přijmout, považuje se tato písemnost za doručenou dnem, kdy bylo její přijetí odepřeno, a písemnost se vrátí správci daně; současně se adresát poučí o právních důsledcích odepření součinnosti. Není-li možné pro odepření součinnosti písemné poučení předat, lze je zanechat v domovní nebo jiné adresátem užívané schránce anebo na jiném vhodném místě.
+>
+> (4) Pokud je doručovaná písemnost uložena u provozovatele poštovních služeb, uvědomí tento neprodleně odesílajícího správce daně o marném uplynutí úložní lhůty.
+>
+> (5) Písemnosti, u nichž marně uplynula lhůta pro jejich vyzvednutí, vhodí osoba provádějící doručení do domovní nebo jiné adresátem užívané schránky, ledaže to správce daně předem vyloučí. Není-li takové schránky, nebo je-li tento způsob seznámení adresáta s obsahem písemnosti správcem daně vyloučen, písemnost se vrátí odesílajícímu správci daně.
+>
+> (6) Požádá-li adresát o to, aby jemu doručované písemnosti nebyly po marném uplynutí lhůty pro jejich vyzvednutí vhazovány do domovní nebo jiné jím užívané schránky, správce daně tento způsob seznámení adresáta s doručenou písemností předem vyloučí.
+>
+> (7) Lze-li při doručování zásilky do ciziny prokázat dodání zásilky podle právních předpisů dané země, považuje se tato zásilka za dodanou odpovídajícím způsobem podle tohoto zákona.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=86ddd28c8d526666accf -->
+
 ### § 48 — Neúčinnost doručení
 
 > **§ 48**
@@ -1403,6 +2265,56 @@ Neúčinnost doručení lze vyslovit při závažném a nepředvídatelném dův
 **Typicky rozhodné důkazy / podklady:** doklady o závažné nepředvídatelné překážce (lékařské zprávy), protokol o nahlížení do spisu s datem, doručenka rozhodnutí (den fikce), datum podání žádosti.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=3c90d24bdc95e64e2f6f generator=2026-07-17.4 source_sha256=c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3 -->
+#### Revizní doplnění k § 48 — Neúčinnost doručení
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/280-2009 Zákon daňový řád.md`; identifikátor verze: `SB-2009-00280_2026-01-01`; SHA-256: `c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3`.
+
+##### Znění ustanovení
+
+> (1) Adresát, který si ze závažného a předem nepředvídatelného důvodu nemohl uloženou písemnost ve stanovené lhůtě vyzvednout, může požádat správce daně, který písemnost doručil, o vyslovení neúčinnosti doručení.
+>
+> (2) Žádost je třeba podat do 15 dnů ode dne, kdy se adresát s doručovanou písemností skutečně seznámil, nejpozději však do 6 měsíců od doručení.
+>
+> (3) Shledá-li správce daně žádost důvodnou, vysloví neúčinnost doručení, jinak žádost zamítne; písemnost se pak považuje za doručenou dnem oznámení rozhodnutí o vyslovení neúčinnosti doručení.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=3c90d24bdc95e64e2f6f -->
 
 ### Díl 4 — Zvláštní způsoby doručení
 
@@ -1500,6 +2412,66 @@ Veřejná vyhláška je subsidiárním způsobem doručení (neznámý pobyt/sí
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=acd6acdefe040a6a3782 generator=2026-07-17.4 source_sha256=c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3 -->
+#### Revizní doplnění k § 49 — Doručování veřejnou vyhláškou
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/280-2009 Zákon daňový řád.md`; identifikátor verze: `SB-2009-00280_2026-01-01`; SHA-256: `c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3`.
+
+##### Znění ustanovení
+
+> (1) Veřejnou vyhláškou se písemnost doručuje
+>
+> - a) osobě neznámého pobytu nebo sídla, pokud této osobě není ustanoven zástupce podle § 26 odst. 1 písm. c), jakož i osobě, která není známa,
+>
+> - b) v řízení, ve kterém se doručuje velkému nebo neurčitému počtu adresátů, nebo
+>
+> - c) osobě, které se prokazatelně nedaří doručovat na adresu jejího bydliště nebo sídla v cizině.
+>
+> (2) Veřejnou vyhlášku správce daně vyvěsí po dobu nejméně 15 dnů na své úřední desce a zároveň ji zveřejní způsobem umožňujícím dálkový přístup. Veřejná vyhláška obsahuje upozornění na místo uložení písemnosti s jejím označením a s uvedením možnosti vyzvednutí.
+>
+> (3) Písemnost je doručena dnem vyzvednutí písemnosti adresátem. Nevyzvedne-li si adresát písemnost doručovanou veřejnou vyhláškou do 15 dnů ode dne vyvěšení na úřední desce správce daně, považuje se písemnost posledním dnem této lhůty za doručenou.
+>
+> (4) Na veřejné vyhlášce správce daně vyznačí den jejího vyvěšení na úřední desce a den jejího sejmutí.
+>
+> (5) Je-li doručováno osobám uvedeným v odstavci 1 písm. a) nebo hromadným předpisným seznamem, zveřejní veřejnou vyhlášku vydanou podle odstavce 2 na žádost správce daně též obecní úřad v místě adresátova posledního známého pobytu nebo sídla, popřípadě obecní úřad, v jehož územní působnosti se nachází předmět daně.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 26
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=acd6acdefe040a6a3782 -->
+
 ### § 50 — Doručování hromadného předpisného seznamu
 
 > **§ 50**
@@ -1564,6 +2536,56 @@ Hromadný předpisný seznam (typicky daň z nemovitých věcí) se zpřístupn�
 **Typicky rozhodné důkazy / podklady:** veřejná vyhláška o zpřístupnění s daty vyvěšení a sejmutí, doklad o době a místě zpřístupnění k nahlédnutí, evidence dálkového zveřejnění.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=83fe91ddf4d0093c4d5e generator=2026-07-17.4 source_sha256=c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3 -->
+#### Revizní doplnění k § 50 — Doručování hromadného předpisného seznamu
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/280-2009 Zákon daňový řád.md`; identifikátor verze: `SB-2009-00280_2026-01-01`; SHA-256: `c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3`.
+
+##### Znění ustanovení
+
+> (1) Pokud zákon stanoví, že správce daně stanoví daňovým subjektům daň hromadným předpisným seznamem, zpřístupní správce daně hromadný předpisný seznam k nahlédnutí po dobu nejméně 30 dnů; označení daně, jakož i místo a dobu, kdy lze do hromadného předpisného seznamu nahlédnout, zveřejní správce daně veřejnou vyhláškou, kterou vyvěsí po dobu nejméně 30 dnů.
+>
+> (2) Za den doručení hromadného předpisného seznamu se považuje třicátý den po jeho zpřístupnění.
+>
+> (3) Při nahlédnutí do hromadného předpisného seznamu jsou daňovému subjektu zpřístupněny pouze údaje týkající se jemu stanovené daně.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=83fe91ddf4d0093c4d5e -->
 
 ### Díl 5 — Prokázání doručení
 
@@ -1675,6 +2697,80 @@ Doručení do vlastních rukou se prokazuje doručenkou (veřejnou listinou); p�
 **Typicky rozhodné důkazy / podklady:** doručenka (je-li k dispozici), kopie písemnosti s podpisem (odst. 4), protokol s podpisy (odst. 5), nepřímé důkazy seznámení (platba odpovídající rozhodnutí, podání odkazující na rozhodnutí), záznam o ztrátě doručenky.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=9f8236fa2f26ce2e5265 generator=2026-07-17.4 source_sha256=c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3 -->
+#### Revizní doplnění k § 51
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/280-2009 Zákon daňový řád.md`; identifikátor verze: `SB-2009-00280_2026-01-01`; SHA-256: `c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3`.
+
+##### Znění ustanovení
+
+> (1) Doručení písemností, které se doručují do vlastních rukou nebo jejichž převzetí má být potvrzeno adresátem, potvrdí doručující řádně vyplněnou doručenkou, která je veřejnou listinou.
+>
+> (2) Doručenka obsahuje podle zvoleného způsobu doručování a podle okolností, které nastaly při doručování
+>
+> - a) označení správce daně, který písemnost doručuje,
+>
+> - b) označení adresáta a adresu, na kterou mu je doručováno,
+>
+> - c) označení doručované písemnosti,
+>
+> - d) způsob doručování,
+>
+> - e) údaje o dni a způsobu uložení písemnosti, pokud byla písemnost uložena, a o dni, kdy byla připravena k vyzvednutí, pokud se liší ode dne uložení,
+>
+> - f) údaj o dni doručení písemnosti nebo o dni jejího vrácení správci daně,
+>
+> - g) údaj o dni, v němž bylo přijetí písemnosti odepřeno, způsob poučení o důsledcích odepření a důvody odepření,
+>
+> - h) jméno a podpis osoby, která písemnost převzala, nebo jméno osoby, která převzetí písemnosti odepřela; jde-li o osobu odlišnou od adresáta, uvede se její vztah k adresátovi, a v případě doručování do vlastních rukou se uvede i způsob doložení oprávnění k převzetí písemnosti za adresáta,
+>
+> - i) podpis osoby, která předala doručovanou písemnost adresátovi nebo písemnost uložila, potvrzující správnost údajů na doručence a postupu při doručování, s uvedením jména.
+>
+> (3) Dojde-li ke ztrátě, zničení nebo poškození doručenky nebo není-li řádně vyplněna, lze doručení prokázat jiným způsobem, například tím, že je z postupu adresáta písemnosti zjevné, že mu bylo doručeno.
+>
+> (4) V případě, že úřední osoba nedoručuje písemnost za použití zalepené obálky s doručenkou, prokazuje se doručení písemnosti do vlastních rukou na její kopii obsahující náležitosti podle odstavce 2 písm. a), f), h) a i).
+>
+> (5) Je-li doručováno při ústním jednání, nebo při jiném úkonu učiněném v rámci správy daní, prokazuje se doručení písemnosti do vlastních rukou podpisy úřední osoby a adresáta v protokolu. Účinky doručení nastanou, i když adresát podpis protokolu odepřel. Odepření podpisu a důvody tohoto odepření se zaznamenají v protokolu.
+>
+> (6) Nemůže-li adresát potvrdit příjem doručované písemnosti pro tělesnou indispozici, podepíše se jiná dospělá osoba jako svědek a připíše důvod, pro který nemohlo dojít k potvrzení příjmu adresátem; podpis této osoby nahrazuje podpis adresáta.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=9f8236fa2f26ce2e5265 -->
 
 ## Synoptická tabulka — základní lhůty a fikce v Hlavách II a III
 

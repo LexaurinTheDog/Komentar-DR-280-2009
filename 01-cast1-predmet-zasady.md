@@ -105,6 +105,62 @@ Daňové tvrzení (řádné i dodatečné) je podle § 1 odst. 3–4 výchozím 
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=0237cc5df510edd92b86 generator=2026-07-17.4 source_sha256=c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3 -->
+#### Revizní doplnění k § 1
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/280-2009 Zákon daňový řád.md`; identifikátor verze: `SB-2009-00280_2026-01-01`; SHA-256: `c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3`.
+
+##### Znění ustanovení
+
+> (1) Tento zákon upravuje postup správců daní, práva a povinnosti daňových subjektů a třetích osob, které jim vznikají při správě daní.
+>
+> (2) Správa daně je postup, jehož cílem je správné zjištění a stanovení daní a zabezpečení jejich úhrady.
+>
+> (3) Základem pro správné zjištění a stanovení daně je daňové tvrzení podané daňovým subjektem.
+>
+> (4) Daňovým tvrzením je
+>
+> - a) řádné daňové tvrzení, a to daňové přiznání, hlášení nebo vyúčtování,
+>
+> - b) dodatečné daňové tvrzení, a to dodatečné daňové přiznání, následné hlášení nebo dodatečné vyúčtování.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=0237cc5df510edd92b86 -->
+
 ### § 2 — Předmět správy daní, pojem daně a příslušenství
 
 > **§ 2**
@@ -256,6 +312,76 @@ Pojem „daň" je v § 2 vymezen funkčně: kromě nominálních daní, cel a po
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=b6d9df405347e4121d9e generator=2026-07-17.4 source_sha256=c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3 -->
+#### Revizní doplnění k § 2
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/280-2009 Zákon daňový řád.md`; identifikátor verze: `SB-2009-00280_2026-01-01`; SHA-256: `c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3`.
+
+##### Znění ustanovení
+
+> (1) Předmětem správy daní jsou daně, které jsou příjmem veřejného rozpočtu, nebo snížením příjmu veřejného rozpočtu (dále jen „vratka“).
+>
+> (2) Veřejným rozpočtem se pro účely tohoto zákona rozumí
+>
+> - a) státní rozpočet, státní finanční aktiva nebo rezervní fond organizační složky státu,
+>
+> - b) rozpočet územního samosprávného celku,
+>
+> - c) rozpočet státního fondu nebo Národní fond,
+>
+> - d) rozpočet Evropské unie, nebo
+>
+> - e) rozpočet, o němž to stanoví zákon.
+>
+> (3) Daní se pro účely tohoto zákona rozumí
+>
+> - a) peněžité plnění, které zákon označuje jako daň, clo nebo poplatek,
+>
+> - b) peněžité plnění, pokud zákon stanoví, že se při jeho správě postupuje podle tohoto zákona,
+>
+> - c) peněžité plnění v rámci dělené správy.
+>
+> (4) Daň podle odstavce 3 zahrnuje rovněž daňový odpočet, daňovou ztrátu nebo jiný způsob zdanění a příslušenství daně.
+>
+> (5) Příslušenstvím daně se rozumějí úroky, penále, pokuty a náklady řízení, jsou-li ukládány nebo vznikají-li podle daňového zákona. Úroky, penále a pokuta za opožděné tvrzení daně sledují osud daně.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=b6d9df405347e4121d9e -->
+
 ### § 3 — Vznik daňové povinnosti
 
 > **§ 3**
@@ -318,6 +444,52 @@ Zákon alternativně hovoří o „skutečnostech, které jsou předmětem daně
 **Typicky rozhodné důkazy / podklady:** doklady o okamžiku uskutečnění plnění / dosažení příjmu (dodací listy, smlouvy, předávací protokoly), stav rozhodný ke dni u majetkových daní, znění hmotněprávního zákona účinné v rozhodné době.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=fdead1e706245399d066 generator=2026-07-17.4 source_sha256=c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3 -->
+#### Revizní doplnění k § 3
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/280-2009 Zákon daňový řád.md`; identifikátor verze: `SB-2009-00280_2026-01-01`; SHA-256: `c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3`.
+
+##### Znění ustanovení
+
+> Daňová povinnost vzniká okamžikem, kdy nastaly skutečnosti, které jsou podle zákona předmětem daně, nebo skutečnosti tuto povinnost zakládající.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=fdead1e706245399d066 -->
 
 ### § 4 — Subsidiarita daňového řádu
 
@@ -402,6 +574,52 @@ Krok 2 (jen při ANO): Speciální zákon upravuje jen dílčí otázku?
 **Typicky rozhodné důkazy / podklady:** znění relevantních ustanovení zvláštního daňového zákona, srovnání s obecnou úpravou DŘ, identifikace mlčení zvláštního zákona u konkrétní otázky.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=623fc47b8d17a73f90a1 generator=2026-07-17.4 source_sha256=c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3 -->
+#### Revizní doplnění k § 4
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/280-2009 Zákon daňový řád.md`; identifikátor verze: `SB-2009-00280_2026-01-01`; SHA-256: `c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3`.
+
+##### Znění ustanovení
+
+> Tento zákon nebo jeho jednotlivá ustanovení se použijí, neupravuje-li jiný zákon správu daní jinak.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=623fc47b8d17a73f90a1 -->
 
 ## Hlava II — Základní zásady správy daní
 
@@ -511,6 +729,56 @@ Odst. 3 je jednou z nejdůležitějších a nejčastěji citovaných zásad daň
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=9751a6711684edca2be7 generator=2026-07-17.4 source_sha256=c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3 -->
+#### Revizní doplnění k § 5
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/280-2009 Zákon daňový řád.md`; identifikátor verze: `SB-2009-00280_2026-01-01`; SHA-256: `c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3`.
+
+##### Znění ustanovení
+
+> (1) Správce daně postupuje při správě daní v souladu se zákony a jinými právními předpisy (dále jen „právní předpis“). Zákonem se pro účely tohoto zákona rozumí též mezinárodní smlouva, která je součástí právního řádu.
+>
+> (2) Správce daně uplatňuje svou pravomoc pouze k těm účelům, k nimž mu byla zákonem nebo na základě zákona svěřena, a v rozsahu, v jakém mu byla svěřena.
+>
+> (3) Správce daně šetří práva a právem chráněné zájmy daňových subjektů a třetích osob (dále jen „osoba zúčastněná na správě daní“) v souladu s právními předpisy a používá při vyžadování plnění jejich povinností jen takové prostředky, které je nejméně zatěžují a ještě umožňují dosáhnout cíle správy daní.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=9751a6711684edca2be7 -->
+
 ### § 6 — Zásady procesní rovnosti, součinnosti, poučovací povinnosti a vstřícnosti
 
 > **§ 6**
@@ -619,6 +887,58 @@ Formulace „podle možností" je klíčová — jde o relativní standard; spr�
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=977653f5f473e2ccd553 generator=2026-07-17.4 source_sha256=c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3 -->
+#### Revizní doplnění k § 6
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/280-2009 Zákon daňový řád.md`; identifikátor verze: `SB-2009-00280_2026-01-01`; SHA-256: `c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3`.
+
+##### Znění ustanovení
+
+> (1) Osoby zúčastněné na správě daní mají rovná procesní práva a povinnosti.
+>
+> (2) Osoby zúčastněné na správě daní a správce daně vzájemně spolupracují.
+>
+> (3) Správce daně umožní osobám zúčastněným na správě daní uplatňovat jejich práva a v souvislosti se svým úkonem jim poskytne přiměřené poučení o jejich právech a povinnostech, je-li to vzhledem k povaze úkonu potřebné nebo stanoví-li tak zákon.
+>
+> (4) Správce daně podle možností vychází osobám zúčastněným na správě daní vstříc. Úřední osoby jsou povinny vyvarovat se při správě daní nezdvořilostí.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=977653f5f473e2ccd553 -->
+
 ### § 7 — Zásada rychlosti a hospodárnosti
 
 > **§ 7**
@@ -700,6 +1020,54 @@ Odst. 2 obsahuje tři propojené požadavky:
 **Typicky rozhodné důkazy / podklady:** spisová časová osa a protokoly o úkonech, doklady o důvodech prodlevy (dožádání, znalecké posudky), evidence o zařazení společných úkonů do jednotlivých řízení.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=770a66ea9c0d09e0ed6e generator=2026-07-17.4 source_sha256=c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3 -->
+#### Revizní doplnění k § 7
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/280-2009 Zákon daňový řád.md`; identifikátor verze: `SB-2009-00280_2026-01-01`; SHA-256: `c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3`.
+
+##### Znění ustanovení
+
+> (1) Správce daně postupuje bez zbytečných průtahů.
+>
+> (2) Správce daně postupuje tak, aby nikomu nevznikaly zbytečné náklady. Z důvodu hospodárnosti může konat správce daně úkony pro různá řízení společně. Ze spisu, popřípadě z rozhodnutí vydaného na základě těchto úkonů, musí být zřejmé, ke které povinnosti a s jakým výsledkem byly úkony učiněny.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=770a66ea9c0d09e0ed6e -->
 
 ### § 8 — Zásada volného hodnocení důkazů, legitimního očekávání, přednosti obsahu před formou a zákazu zneužití práva (GAAR)
 
@@ -846,6 +1214,58 @@ Klíčové je slovo **„převažující"** — GAAR se neaplikuje, je-li daňov
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=cdf2573ac60733d02860 generator=2026-07-17.4 source_sha256=c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3 -->
+#### Revizní doplnění k § 8
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/280-2009 Zákon daňový řád.md`; identifikátor verze: `SB-2009-00280_2026-01-01`; SHA-256: `c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3`.
+
+##### Znění ustanovení
+
+> (1) Správce daně při dokazování hodnotí důkazy podle své úvahy. Správce daně posuzuje každý důkaz jednotlivě a všechny důkazy v jejich vzájemné souvislosti; přitom přihlíží ke všemu, co při správě daní vyšlo najevo.
+>
+> (2) Správce daně dbá na to, aby při rozhodování skutkově shodných nebo podobných případů nevznikaly nedůvodné rozdíly.
+>
+> (3) Správce daně vychází ze skutečného obsahu právního jednání nebo jiné skutečnosti rozhodné pro správu daní.
+>
+> (4) Při správě daní se nepřihlíží k právnímu jednání a jiným skutečnostem rozhodným pro správu daní, jejichž převažujícím účelem je získání daňové výhody v rozporu se smyslem a účelem daňového právního předpisu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=cdf2573ac60733d02860 -->
+
 ### § 9 — Zásada neveřejnosti, vyhledávací zásada a zpracování osobních údajů
 
 > **§ 9**
@@ -951,6 +1371,56 @@ Toto ustanovení spolu s §§ 52–58 (ochrana informací a mlčenlivost) tvoř�
 **Typicky rozhodné důkazy / podklady:** obsah žádosti o informace a posouzení zákonné výjimky, doklad o (ne)veřejnosti a seznatelnosti dotčeného rozhodnutí, podklady vyhledávací činnosti, vymezení rozsahu zpracovávaných osobních údajů a jeho nezbytnosti.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=498c9679d9c431b9029c generator=2026-07-17.4 source_sha256=c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3 -->
+#### Revizní doplnění k § 9
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/280-2009 Zákon daňový řád.md`; identifikátor verze: `SB-2009-00280_2026-01-01`; SHA-256: `c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3`.
+
+##### Znění ustanovení
+
+> (1) Správa daní je neveřejná. Osoby zúčastněné na správě daní a úřední osoby jsou povinny za podmínek stanovených tímto nebo jiným zákonem zachovávat mlčenlivost o všem, co se v souvislosti se správou daní dozvěděly.
+>
+> (2) Správce daně soustavně zjišťuje předpoklady pro vznik nebo trvání povinností osob zúčastněných na správě daní a činí nezbytné úkony, aby tyto povinnosti byly splněny.
+>
+> (3) Správce daně může zpracovávat osobní údaje a jiné údaje, jsou-li potřebné pro správu daní, a to jen v rozsahu, který je nezbytný pro dosažení cíle správy daní.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=498c9679d9c431b9029c -->
 
 ## Synoptická tabulka — 15 základních zásad správy daní (§§ 5–9)
 

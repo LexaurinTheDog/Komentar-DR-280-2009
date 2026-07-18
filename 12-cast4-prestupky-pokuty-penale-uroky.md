@@ -88,6 +88,56 @@ Přestupek podle § 246 stíhá výhradně fyzickou osobu vázanou daňovou mlč
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=ba0606ded4d50b6c8f96 generator=2026-07-17.4 source_sha256=c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3 -->
+#### Revizní doplnění k § 246 — Porušení povinnosti mlčenlivosti
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/280-2009 Zákon daňový řád.md`; identifikátor verze: `SB-2009-00280_2026-01-01`; SHA-256: `c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3`.
+
+##### Znění ustanovení
+
+> (1) Fyzická osoba, která je vázána povinností mlčenlivosti za podmínek stanovených daňovým zákonem, se dopustí přestupku tím, že tuto povinnost poruší.
+>
+> (2) Za přestupek lze uložit pokutu do 500 000 Kč.
+>
+> (3) Správním orgánem příslušným k projednání přestupku je správce daně nejblíže nadřízený správci daně, k jehož činnosti se povinnost mlčenlivosti vztahuje; v případě, že se povinnost mlčenlivosti vztahuje k činnosti více správců daně, projedná přestupek ten z nejblíže nadřízených správců daně, který zjistil podezření z porušení povinnosti mlčenlivosti jako první.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=ba0606ded4d50b6c8f96 -->
+
 ## Hlava II — Pokuty a penále
 
 ### § 247 — Pořádková pokuta
@@ -185,6 +235,66 @@ Rozšíření pořádkové pravomoci na **písemná podání** (odvolání, nám
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=d798f6409612ae0d312a generator=2026-07-17.4 source_sha256=c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3 -->
+#### Revizní doplnění k § 247 — Pořádková pokuta
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/280-2009 Zákon daňový řád.md`; identifikátor verze: `SB-2009-00280_2026-01-01`; SHA-256: `c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3`.
+
+##### Znění ustanovení
+
+> (1) Pořádkovou pokutu do 50 000 Kč může správce daně uložit tomu, kdo při jednání vedeném správcem daně závažně ztěžuje správu daní tím, že
+>
+> - a) navzdory předchozímu napomenutí ruší pořádek,
+>
+> - b) neuposlechne pokynu úřední osoby, nebo
+>
+> - c) navzdory předchozímu napomenutí se chová urážlivě k úřední osobě nebo osobě zúčastněné na správě daní.
+>
+> (2) Pořádkovou pokutu do 500 000 Kč může správce daně uložit tomu, kdo závažně ztěžuje nebo maří správu daní tím, že bez dostatečné omluvy nevyhoví ve stanovené lhůtě výzvě ke splnění procesní povinnosti nepeněžité povahy, která mu byla stanovena zákonem nebo správcem daně.
+>
+> (3) Pořádkovou pokutu podle odstavce 1 lze uložit i tomu, kdo učiní hrubě urážlivé podání.
+>
+> (4) Pořádkovou pokutu lze uložit nejpozději do 1 roku ode dne, ve kterém došlo k jednání, které je důvodem k jejímu uložení.
+>
+> (5) Pořádkovou pokutu lze ukládat i opakovaně, nevedlo-li dosavadní uložení pokuty k nápravě a protiprávní stav trvá.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=d798f6409612ae0d312a -->
+
 ### § 247a — Pokuta za nesplnění povinnosti nepeněžité povahy
 
 > **§ 247a**
@@ -269,6 +379,64 @@ Pokuta (diskreční i zákonná) musí být uložena nebo platební výměr mus�
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=1f6cbc81f4f40c60647d generator=2026-07-17.4 source_sha256=c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3 -->
+#### Revizní doplnění k § 247a — Pokuta za nesplnění povinnosti nepeněžité povahy
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/280-2009 Zákon daňový řád.md`; identifikátor verze: `SB-2009-00280_2026-01-01`; SHA-256: `c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3`.
+
+##### Znění ustanovení
+
+> (1) Pokutu do 500 000 Kč může správce daně uložit tomu, kdo
+>
+> - a) nesplní registrační, ohlašovací nebo jinou oznamovací povinnost stanovenou daňovým zákonem nebo správcem daně, nebo
+>
+> - b) nesplní záznamní nebo jinou evidenční povinnost stanovenou daňovým zákonem nebo správcem daně.
+>
+> (2) Tomu, kdo na výzvu správce daně neodstraní vadu podání podle § 74 odst. 1 písm. c) nebo d), vzniká povinnost uhradit pokutu ve výši 1 000 Kč.
+>
+> (3) O povinnosti platit pokutu podle odstavce 2 rozhodne správce daně platebním výměrem. Pokuta je splatná do 30 dnů ode dne oznámení platebního výměru.
+>
+> (4) Správce daně může rozhodnout o zvýšení pokuty podle odstavce 2 až na 50 000 Kč, pokud neodstranění vady podání podle § 74 odst. 1 písm. c) nebo d) závažně ztěžuje správu daní.
+>
+> (5) Pokutu lze uložit nebo rozhodnout o povinnosti ji platit nejpozději do 3 let ode dne, ve kterém došlo k porušení povinnosti.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 74
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=1f6cbc81f4f40c60647d -->
+
 ### § 248 — Společná ustanovení pro řízení o pokutě
 
 > **§ 248**
@@ -332,6 +500,56 @@ Odst. 1 konkretizuje pro oblast pokut obecnou zásadu přiměřenosti (§ 5 odst
 **Typicky rozhodné důkazy / podklady:** platební výměr s odůvodněním výše, podklady o majetkových poměrech pokutovaného, doklady o závažnosti a délce trvání porušení a o následku pro správu daní.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=d3e428b9c91288e607ca generator=2026-07-17.4 source_sha256=c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3 -->
+#### Revizní doplnění k § 248 — Společná ustanovení pro řízení o pokutě
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/280-2009 Zákon daňový řád.md`; identifikátor verze: `SB-2009-00280_2026-01-01`; SHA-256: `c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3`.
+
+##### Znění ustanovení
+
+> (1) Při stanovení výše pořádkové pokuty nebo pokuty za nesplnění povinnosti nepeněžité povahy dbá správce daně, aby pokuta nebyla v hrubém nepoměru k významu porušené povinnosti a k závažnosti následku pro správu daní.
+>
+> (2) Pořádková pokuta a pokuta za nesplnění povinnosti nepeněžité povahy je splatná do 15 dnů ode dne právní moci rozhodnutí o jejím uložení.
+>
+> (3) Správce daně, který pořádkovou pokutu nebo pokutu za nesplnění povinnosti nepeněžité povahy uložil, nebo rozhodl o povinnosti ji platit, spravuje i její placení a pokuta je příjmem veřejného rozpočtu, ze kterého je hrazena jeho činnost.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=d3e428b9c91288e607ca -->
 
 ### § 249 — Zjednodušené řízení o uložení pokuty
 
@@ -397,6 +615,54 @@ Zjednodušené řízení (daňová „bloková pokuta") je rychlou cestou jen do
 **Typicky rozhodné důkazy / podklady:** protokol o jednání s uvedením výše a důvodů pokuty, záznam o dobrovolném uznání, potvrzení o úhradě na místě, stejnopis protokolu předaný pokutovanému.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=3fb0173cda4e9a304ead generator=2026-07-17.4 source_sha256=c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3 -->
+#### Revizní doplnění k § 249 — Zjednodušené řízení o uložení pokuty
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/280-2009 Zákon daňový řád.md`; identifikátor verze: `SB-2009-00280_2026-01-01`; SHA-256: `c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3`.
+
+##### Znění ustanovení
+
+> (1) Pokud pořádková pokuta nebo pokuta za nesplnění povinnosti nepeněžité povahy nepřesahuje 5 000 Kč a pokud ten, komu je pokuta ukládána, důvody a výši ukládané pokuty uzná a současně pokutu uhradí na místě, správce daně uvede její výši a důvody do protokolu pořizovaného o jednání, při němž nastaly důvody pro uložení pořádkové pokuty nebo byly zjištěny důvody pro uložení pokuty za nesplnění povinnosti nepeněžité povahy. Proti tomuto rozhodnutí se nelze odvolat.
+>
+> (2) Pořádková pokuta nebo pokuta za nesplnění povinnosti nepeněžité povahy uložená podle odstavce 1 je splatná zaprotokolováním rozhodnutí. Skutečnost, že došlo k úhradě pokuty na místě, se uvede v protokolu. Osoba, které byla takto uložena pokuta, obdrží stejnopis protokolu i bez vyžádání.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=3fb0173cda4e9a304ead -->
 
 ### § 250 — Pokuta za opožděné tvrzení daně
 
@@ -515,6 +781,76 @@ Pokuta za opožděné tvrzení vzniká ex lege po více než 5 pracovních dnech
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=e136b668d83f3cd8a7c2 generator=2026-07-17.4 source_sha256=c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3 -->
+#### Revizní doplnění k § 250 — Pokuta za opožděné tvrzení daně
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/280-2009 Zákon daňový řád.md`; identifikátor verze: `SB-2009-00280_2026-01-01`; SHA-256: `c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3`.
+
+##### Znění ustanovení
+
+> (1) Daňovému subjektu vzniká povinnost uhradit pokutu, nepodá-li daňové přiznání nebo dodatečné daňové přiznání, ačkoliv měl tuto povinnost, nebo učiní-li tak po stanovené lhůtě, a toto zpoždění je delší než 5 pracovních dnů, ve výši
+>
+> - a) 0,05 % stanovené daně za každý následující den prodlení, nejvýše však 5 % stanovené daně,
+>
+> - b) 0,05 % stanoveného daňového odpočtu za každý následující den prodlení, nejvýše však 5 % stanoveného daňového odpočtu, nebo
+>
+> - c) 0,01 % stanovené daňové ztráty za každý následující den prodlení, nejvýše však 5 % stanovené daňové ztráty.
+>
+> (2) Plátci daně vzniká povinnost uhradit pokutu, nepodá-li hlášení, vyúčtování, následné hlášení nebo dodatečné vyúčtování, ačkoliv měl tuto povinnost, nebo učiní-li tak po stanovené lhůtě, a toto zpoždění je delší než 5 pracovních dnů, ve výši 0,05 % z celkové částky daně, kterou byl povinen v hlášení nebo vyúčtování uvést za každý následující den prodlení, nejvýše však 0,5 % z celkové částky daně, kterou byl povinen v hlášení nebo vyúčtování uvést.
+>
+> (3) Pokuta za opožděné tvrzení daně vzniklá v důsledku pozdního podání daňového tvrzení se nepředepíše a daňovému subjektu nevzniká povinnost ji uhradit, dosáhne-li její výše částku menší než 1 000 Kč.
+>
+> (4) V případě, kdy daňový subjekt nepodá daňové tvrzení, ačkoli měl tuto povinnost, a neučiní tak ani dodatečně po dobu, kdy možnost podat toto tvrzení trvá, použije se při výpočtu částky podle odstavce 1 nebo [[#§ 2|2]] stanovená horní hranice; výše pokuty za opožděné tvrzení daně v tomto případě činí vždy nejméně 500 Kč.
+>
+> (5) Maximální výše pokuty nesmí být vyšší než 300 000 Kč.
+>
+> (6) O povinnosti platit pokutu rozhodne správce daně platebním výměrem. Pokuta je splatná do 30 dnů ode dne oznámení platebního výměru.
+>
+> (7) Výše pokuty za opožděné tvrzení daně je poloviční, pokud
+>
+> - a) daňový subjekt podá daňové tvrzení do 30 dnů od marného uplynutí lhůty pro jeho podání a
+>
+> - b) v daném kalendářním roce nebylo správcem daně u daňového subjektu v době vydání platebního výměru zjištěno jiné prodlení při podání daňového tvrzení.
+>
+> (8) Základem pro výpočet pokuty za opožděné tvrzení daně je výše daně, daňového odpočtu nebo daňové ztráty stanovená ve vyměřovacím nebo doměřovacím řízení, která souvisejí s opožděně podaným daňovým tvrzením.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 2
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=e136b668d83f3cd8a7c2 -->
+
 ### § 251 — Penále
 
 > **§ 251**
@@ -611,6 +947,64 @@ Penále je objektivní zákonná sankce za nesprávné tvrzení zjištěné dom�
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=dccba02dc550a2980906 generator=2026-07-17.4 source_sha256=c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3 -->
+#### Revizní doplnění k § 251 — Penále
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/280-2009 Zákon daňový řád.md`; identifikátor verze: `SB-2009-00280_2026-01-01`; SHA-256: `c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3`.
+
+##### Znění ustanovení
+
+> (1) Daňovému subjektu vzniká povinnost uhradit penále z částky doměřené daně tak, jak byla stanovena oproti poslední známé dani, ve výši
+>
+> - a) 20 %, je-li daň zvyšována,
+>
+> - b) 20 %, je-li snižován daňový odpočet, nebo
+>
+> - c) 1 %, je-li snižována daňová ztráta.
+>
+> (2) Správce daně sníží penále podle odstavce 1 písm. a) o penále podle odstavce 1 písm. c), pokud povinnost k jeho úhradě vznikla z důvodu uplatnění ztráty v rozsahu snížení daňové ztráty, které bylo penalizováno.
+>
+> (3) Správce daně rozhodne o povinnosti uhradit penále platebním výměrem. Penále je splatné do 30 dnů ode dne oznámení platebního výměru, nejdříve však ke stejnému dni jako stanovená daň, ze které se toto penále vypočte.
+>
+> (4) Povinnost uhradit penále nevzniká z daně dodatečně tvrzené v dodatečném daňovém přiznání nebo dodatečném vyúčtování, na jehož základě došlo k doměření daně. To neplatí, pokud toto dodatečné daňové přiznání nebo dodatečné vyúčtování nebylo přípustné.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=dccba02dc550a2980906 -->
+
 ## Hlava III — Úroky
 
 ### Díl 1 — Společná ustanovení
@@ -690,6 +1084,60 @@ Sazba repo sazby ČNB platí vždy pro **první den příslušného kalendářn�
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=c60deece2db692716db5 generator=2026-07-17.4 source_sha256=c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3 -->
+#### Revizní doplnění k § 251a — Společná ustanovení o úrocích
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/280-2009 Zákon daňový řád.md`; identifikátor verze: `SB-2009-00280_2026-01-01`; SHA-256: `c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3`.
+
+##### Znění ustanovení
+
+> (1) Úrok vzniká za každý jednotlivý den, kdy jsou splněny podmínky pro jeho vznik.
+>
+> (2) Úrok se nepředepíše a nevzniká povinnost jej uhradit, nepřesáhne-li v úhrnu u jednoho druhu daně u jednoho správce daně za jedno zdaňovací období nebo za jeden kalendářní rok u jednorázových daní částku 1 000 Kč.
+>
+> (3) Správce daně vyrozumí daňový subjekt způsobem podle § 153 odst. 3 o předpisu úroku, je-li úrok předepsán do evidence daní z důvodu, že pominuly podmínky pro jeho další vznik.
+>
+> (4) Proti postupu správce daně v souvislosti s předepsáním a vyplacením úroku je daňový subjekt oprávněn uplatnit námitku.
+>
+> (5) Je-li při výpočtu výše úroku zohledňována výše repo sazby stanovené Českou národní bankou, použije se výše této sazby platná pro první den kalendářního pololetí, do něhož spadá daný jednotlivý den, kdy úrok vzniká.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 153
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=c60deece2db692716db5 -->
+
 ### § 251b — Společná ustanovení o úrocích hrazených daňovým subjektem
 
 > **§ 251b**
@@ -752,6 +1200,66 @@ Sazba repo sazby ČNB platí vždy pro **první den příslušného kalendářn�
 **Typicky rozhodné důkazy / podklady:** rozpis a doklady o splatnosti záloh, doklad o splatnosti zálohované daně, evidence plateb na osobním daňovém účtu, výpočet úroku z prodlení.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=f59191905cfa85aa5e14 generator=2026-07-17.4 source_sha256=c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3 -->
+#### Revizní doplnění k § 251b — Společná ustanovení o úrocích hrazených daňovým subjektem
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/280-2009 Zákon daňový řád.md`; identifikátor verze: `SB-2009-00280_2026-01-01`; SHA-256: `c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3`.
+
+##### Znění ustanovení
+
+> (1) Úrokem hrazeným daňovým subjektem je
+>
+> - a) úrok z prodlení,
+>
+> - b) úrok z posečkané částky.
+>
+> (2) Vznikne-li úrok hrazený daňovým subjektem, je daňový subjekt povinen jej uhradit správci daně.
+>
+> (3) Do evidence daní správce daně předepíše úrok hrazený daňovým subjektem, u kterého
+>
+> - a) dosud trvají podmínky pro jeho vznik, vyžaduje-li to stav osobního daňového účtu daňového subjektu, nebo
+>
+> - b) pominuly podmínky pro jeho další vznik.
+>
+> (4) Úrok hrazený daňovým subjektem u záloh vzniká do dne splatnosti zálohované daně.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=f59191905cfa85aa5e14 -->
 
 ### § 251c — Společná ustanovení o úrocích hrazených správcem daně
 
@@ -826,6 +1334,70 @@ Klíčová pravidla:
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=8f66cd443e553b491dde generator=2026-07-17.4 source_sha256=c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3 -->
+#### Revizní doplnění k § 251c — Společná ustanovení o úrocích hrazených správcem daně
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/280-2009 Zákon daňový řád.md`; identifikátor verze: `SB-2009-00280_2026-01-01`; SHA-256: `c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3`.
+
+##### Znění ustanovení
+
+> (1) Úrokem hrazeným správcem daně je
+>
+> - a) úrok z vratitelného přeplatku,
+>
+> - b) úrok z nesprávně stanovené daně,
+>
+> - c) úrok z daňového odpočtu.
+>
+> (2) Vznikne-li úrok hrazený správcem daně, je správce daně povinen jej uhradit daňovému subjektu.
+>
+> (3) Úrok hrazený správcem daně, u kterého pominuly podmínky pro jeho vznik, předepíše správce daně do evidence daní.
+>
+> (4) Úrok hrazený správcem daně je snížením příjmu rozpočtu, ze kterého je hrazena činnost správce daně.
+>
+> (5) Úrok hrazený správcem daně nevzniká z
+>
+> - a) vratitelného přeplatku, který správce daně daňovému subjektu nevrátil proto, že o to byl daňovým subjektem požádán,
+>
+> - b) úroku hrazeného správcem daně.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=8f66cd443e553b491dde -->
+
 ### § 251d — Vztah úroků hrazených správcem daně k náhradě újmy
 
 > **§ 251d**
@@ -878,6 +1450,52 @@ Naopak: v rozsahu, v jakém úrok *nevzniká* (typicky nemajetková újma, újma
 **Typicky rozhodné důkazy / podklady:** doklad o výši a době zadržení peněz, předpis a výplata úroku dle § 254, doklady o majetkové škodě nad rámec úroku (úvěrové náklady) a o nemajetkové újmě, uplatnění nároku u Ministerstva financí.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=10061590055bee4955b6 generator=2026-07-17.4 source_sha256=c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3 -->
+#### Revizní doplnění k § 251d — Vztah úroků hrazených správcem daně k náhradě újmy
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/280-2009 Zákon daňový řád.md`; identifikátor verze: `SB-2009-00280_2026-01-01`; SHA-256: `c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3`.
+
+##### Znění ustanovení
+
+> Přiznat náhradu škody nebo přiměřené zadostiučinění za vzniklou nemajetkovou újmu, které byly způsobeny daňovému subjektu jednáním správce daně, lze pouze v rozsahu, v jakém nevzniká úrok hrazený správcem daně.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=10061590055bee4955b6 -->
 
 ### Díl 2 — Úroky hrazené daňovým subjektem
 
@@ -981,6 +1599,76 @@ Odst. 4 věta druhá vylučuje, aby si daňový subjekt snižoval základ pro ú
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=4e602b0db8f0e268bce0 generator=2026-07-17.4 source_sha256=c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3 -->
+#### Revizní doplnění k § 252 — Úrok z prodlení
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/280-2009 Zákon daňový řád.md`; identifikátor verze: `SB-2009-00280_2026-01-01`; SHA-256: `c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3`.
+
+##### Znění ustanovení
+
+> (1) Základem pro výpočet úroku z prodlení je
+>
+> - a) splatná daň, která nebyla uhrazena, nebo
+>
+> - b) vratka vzniklá v důsledku neoprávněného uplatnění daňového odpočtu nebo daně.
+>
+> (2) Úrok z prodlení vzniká
+>
+> - a) od čtvrtého dne následujícího po původním dni splatnosti daně do dne její platby; stanovení náhradního dne splatnosti daně nemá vliv na určení doby, po kterou vzniká úrok z prodlení, nebo
+>
+> - b) ode dne vrácení, použití nebo převedení vratky vzniklé v důsledku stanovení daňového odpočtu nebo daně, anebo předepsání zálohy na daňový odpočet do dne její platby.
+>
+> (3) Úrok z prodlení nevzniká
+>
+> - a) po dobu posečkání,
+>
+> - b) u nedoplatku vzniklého v důsledku porušení daňové povinnosti zůstavitele, a to ode dne smrti zůstavitele do dne skončení řízení o pozůstalosti,
+>
+> - c) v případě příslušenství daně,
+>
+> - d) v případě peněžitého plnění v rámci procesní dělené správy.
+>
+> (4) Výše úroku z prodlení odpovídá výši úroku z prodlení podle [[občanského zákoníku|občanského zákoníku]]. Při určení výše úroku z prodlení se nepřihlíží k přeplatku evidovanému jiným věcně nepříslušným správcem daně, který nebyl použit k úhradě nedoplatku, u kterého úrok z prodlení vzniká.
+>
+> (5) Úrok z prodlení je splatný dnem, ve kterém jsou splněny zákonné podmínky pro jeho vznik.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=4e602b0db8f0e268bce0 -->
+
 ### § 253 — Úrok z posečkané částky
 
 > **§ 253**
@@ -1044,6 +1732,60 @@ Posečkání (§ 156–161 DŘ) je institut, jímž správce daně povolí daňo
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=6e4f5d93a5c6da578274 generator=2026-07-17.4 source_sha256=c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3 -->
+#### Revizní doplnění k § 253 — Úrok z posečkané částky
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/280-2009 Zákon daňový řád.md`; identifikátor verze: `SB-2009-00280_2026-01-01`; SHA-256: `c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3`.
+
+##### Znění ustanovení
+
+> (1) Základem pro výpočet úroku z posečkané částky je daň, u které bylo povoleno nebo nastalo posečkání.
+>
+> (2) Úrok z posečkané částky vzniká po dobu posečkání.
+>
+> (3) Úrok z posečkané částky nevzniká po dobu, kdy nevzniká úrok z prodlení z jiného důvodu, než je posečkání.
+>
+> (4) Výše úroku z posečkané částky odpovídá polovině úroku z prodlení nebo jeho obdoby podle jiného zákona, nejvýše však polovině úroku z prodlení podle tohoto zákona.
+>
+> (5) Úrok z posečkané částky je splatný do 30 dnů ode dne, kdy pominuly podmínky pro jeho vznik.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=6e4f5d93a5c6da578274 -->
+
 ### Díl 3 — Úroky hrazené správcem daně
 
 ### § 253a — Úrok z vratitelného přeplatku
@@ -1106,6 +1848,58 @@ Sazba úroku z vratitelného přeplatku = **sazba úroku z prodlení** (repo + 8
 **Typicky rozhodné důkazy / podklady:** žádost o vrácení přeplatku s datem doručení, evidence daní s výší přeplatku, datum skutečného vrácení, repo sazba k prvnímu dni pololetí, výpočet úroku.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=4bc04f5a354fc82e14a2 generator=2026-07-17.4 source_sha256=c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3 -->
+#### Revizní doplnění k § 253a — Úrok z vratitelného přeplatku
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/280-2009 Zákon daňový řád.md`; identifikátor verze: `SB-2009-00280_2026-01-01`; SHA-256: `c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3`.
+
+##### Znění ustanovení
+
+> (1) Základem pro výpočet úroku z vratitelného přeplatku je vratitelný přeplatek, který nebyl v souladu se zákonem vrácen, použit nebo převeden.
+>
+> (2) Úrok z vratitelného přeplatku vzniká ode dne následujícího po dni, ve kterém uplynula lhůta pro vrácení vratitelného přeplatku, do dne jeho vrácení, použití nebo převedení.
+>
+> (3) Úrok z vratitelného přeplatku nevzniká po dobu, kdy vzniká úrok z daňového odpočtu.
+>
+> (4) Výše úroku z vratitelného přeplatku odpovídá výši úroku z prodlení.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=4bc04f5a354fc82e14a2 -->
 
 ### § 254 — Úrok z nesprávně stanovené daně
 
@@ -1221,6 +2015,82 @@ Základní výše = **výši úroku z prodlení** (repo + 8 p.b.); při exekuci 
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=4933cc81a0ae7a2fae79 generator=2026-07-17.4 source_sha256=c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3 -->
+#### Revizní doplnění k § 254 — Úrok z nesprávně stanovené daně
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/280-2009 Zákon daňový řád.md`; identifikátor verze: `SB-2009-00280_2026-01-01`; SHA-256: `c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3`.
+
+##### Znění ustanovení
+
+> (1) Základem pro výpočet úroku z nesprávně stanovené daně je
+>
+> - a) část uhrazené daně, o kterou byla snížena daň stanovená nad rámec tvrzení daňového subjektu nebo z moci úřední,
+>
+> - b) část daňového odpočtu nárokovaného v daňovém tvrzení, o kterou byl zvýšen daňový odpočet stanovený odlišně od tohoto daňového tvrzení, nebo
+>
+> - c) částka uhrazená na základě nezákonného nebo nicotného zajišťovacího příkazu.
+>
+> (2) Úrok z nesprávně stanovené daně vzniká ode dne následujícího po
+>
+> - a) náhradním dni splatnosti daně, nebo došlo-li k její úhradě později, ode dne její úhrady, do dne jejího vrácení, použití nebo převedení, nejpozději však do uplynutí lhůty pro její vrácení,
+>
+> - b) posledním dni lhůty podle § 155b odst. 3 do dne vrácení, použití nebo převedení daňového odpočtu, nejpozději však do uplynutí lhůty podle § 155b odst. 4 písm. a), nebo
+>
+> - c) dni splatnosti částky uvedené v zajišťovacím příkazu, nebo došlo-li k její úhradě později, ode dne její úhrady, do dne jejího vrácení, použití nebo převedení, nejpozději však do uplynutí lhůty pro její vrácení.
+>
+> (3) Úrok z nesprávně stanovené daně nevzniká v případě stanovení
+>
+> - a) daně nebo daňového odpočtu, které se neodchylují od daňového tvrzení,
+>
+> - b) daně nebo daňového odpočtu, pokud následně vyšly najevo nové skutečnosti nebo důkazy, které nemohly být bez zavinění správce daně uplatněny v řízení již dříve a mohly mít podstatný vliv na toto stanovení,
+>
+> - c) daně nebo daňového odpočtu, pokud rozhodnutí o stanovení daně bylo učiněno na základě padělaného nebo pozměněného dokladu anebo písemnosti obsahující nepravdivé údaje předložené daňovým subjektem,
+>
+> - d) daně nebo daňového odpočtu, pokud rozhodnutí o stanovení daně bylo dosaženo trestným činem daňového subjektu, nebo
+>
+> - e) peněžitého plnění v rámci procesní dělené správy.
+>
+> (4) Výše úroku z nesprávně stanovené daně odpovídá výši úroku z prodlení.
+>
+> (5) Výše úroku z nesprávně stanovené daně podle odstavců 1 až 4 se zvyšuje na dvojnásobek po dobu, kdy je vedeno exekuční řízení.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 155b
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=4933cc81a0ae7a2fae79 -->
+
 ### § 254a — Úrok z daňového odpočtu
 
 > **§ 254a**
@@ -1303,6 +2173,64 @@ Záloha na daňový odpočet (§ 174a DŘ, zavedena novelou 2021) je nástrojem,
 **Typicky rozhodné důkazy / podklady:** přiznání s nadměrným odpočtem a datum podání, výzva k odstranění vad a datum jejího odstranění, doklad o vyplacení zálohy na odpočet, datum vrácení odpočtu, repo sazba k prvnímu dni pololetí, výpočet úroku s odečtením období stavení.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=6c53a05791f8641458f0 generator=2026-07-17.4 source_sha256=c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3 -->
+#### Revizní doplnění k § 254a — Úrok z daňového odpočtu
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/280-2009 Zákon daňový řád.md`; identifikátor verze: `SB-2009-00280_2026-01-01`; SHA-256: `c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3`.
+
+##### Znění ustanovení
+
+> (1) Základem pro výpočet úroku z daňového odpočtu je daňový odpočet stanovený správcem daně.
+>
+> (2) Úrok z daňového odpočtu vzniká ode dne následujícího po uplynutí doby 4 měsíců od posledního dne lhůty stanovené pro podání daňového tvrzení, ze kterého vyplývá, že daňovému subjektu má vzniknout daňový odpočet, nebo ode dne, kdy bylo toto daňové tvrzení podáno, pokud bylo podáno po lhůtě stanovené pro jeho podání, do dne vrácení, převedení nebo použití daňového odpočtu, nejpozději však do uplynutí lhůty pro jeho vrácení.
+>
+> (3) Běh doby podle odstavce 2 se staví a úrok z daňového odpočtu nevzniká ode dne vydání
+>
+> - a) výzvy k odstranění vad podání, které je učiněno v rámci nalézacího řízení týkajícího se daňového odpočtu, do dne, kdy dojde k odstranění těchto vad, nebo kdy dojde k marnému uplynutí lhůty stanovené v této výzvě, nebo
+>
+> - b) rozhodnutí, kterým správce daně stanoví lhůtu, ve které se může daňový subjekt vyjádřit k dosavadnímu výsledku kontrolního zjištění, do dne, kdy dojde ze strany daňového subjektu k požadovanému vyjádření, nebo kdy dojde k marnému uplynutí lhůty stanovené k vyjádření.
+>
+> (4) Úrok z daňového odpočtu nevzniká z části daňového odpočtu, které odpovídá záloha na daňový odpočet, a to ode dne, kdy byla tato záloha správcem daně vrácena, použita nebo převedena, nejpozději však do uplynutí lhůty pro její vrácení.
+>
+> (5) Výše úroku z daňového odpočtu odpovídá polovině úroku z prodlení.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=6c53a05791f8641458f0 -->
 
 ## Synoptická tabulka sankcí a úroků — Část čtvrtá DŘ
 

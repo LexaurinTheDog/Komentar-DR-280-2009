@@ -98,6 +98,56 @@ V režimu srážkové daně nese odpovědnost za správný odvod plátce, nikoli
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=e744d5b9a0b5a19b7a74 generator=2026-07-17.4 source_sha256=c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3 -->
+#### Revizní doplnění k § 233
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/280-2009 Zákon daňový řád.md`; identifikátor verze: `SB-2009-00280_2026-01-01`; SHA-256: `c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3`.
+
+##### Znění ustanovení
+
+> (1) Plátce daně, který je povinen podle zákona vybrat nebo srazit daň nebo úhradu na zajištění daně (dále jen „daň vybíraná srážkou“), je povinen daň vybíranou srážkou odvést ve stanovené lhůtě a výši.
+>
+> (2) Pokud plátce daně nesplní svoji povinnost, je povinen daň vybíranou srážkou odvést bezodkladně poté, co zjistil své pochybení.
+>
+> (3) Zjistí-li správce daně, že plátce daně nesplnil svoji povinnost a v důsledku toho není daň vybíraná srážkou uhrazena, stanoví ji plátci daně k přímé úhradě.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=e744d5b9a0b5a19b7a74 -->
+
 ### § 234 — Vyúčtování při zániku povinnosti vybírat srážkovou daň
 
 > **§ 234**
@@ -160,6 +210,52 @@ Při zániku srážkové povinnosti v průběhu roku nečekejte na řádný roč
 **Typicky rozhodné důkazy / podklady:** mzdové/výplatní listy, evidence sražených částek, doklady o posledním odvodu, oznámení o ukončení činnosti či výmazu, příslušné vyúčtování/hlášení.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=220dc00c08f3c1e163c5 generator=2026-07-17.4 source_sha256=c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3 -->
+#### Revizní doplnění k § 234
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/280-2009 Zákon daňový řád.md`; identifikátor verze: `SB-2009-00280_2026-01-01`; SHA-256: `c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3`.
+
+##### Znění ustanovení
+
+> Zanikne-li povinnost plátce daně vybírat daň srážkou před uplynutím kalendářního roku, je plátce daně povinen podat vyúčtování za jeho uplynulou část do konce měsíce následujícího po měsíci, v němž byl naposledy povinen odvést daň vybíranou srážkou, popřípadě podat hlášení.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=220dc00c08f3c1e163c5 -->
 
 ### § 235 — Odchylka mezi vyúčtovanou a správnou srážkou
 
@@ -239,6 +335,56 @@ Odchylky ve vyúčtování srážkové daně se vždy předepisují do evidence 
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=90baf4cd73bff4422d5b generator=2026-07-17.4 source_sha256=c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3 -->
+#### Revizní doplnění k § 235
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/280-2009 Zákon daňový řád.md`; identifikátor verze: `SB-2009-00280_2026-01-01`; SHA-256: `c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3`.
+
+##### Znění ustanovení
+
+> (1) Zjistí-li správce daně, že se částka, která byla plátcem daně vyúčtována, odchyluje od částky, která měla být plátcem daně sražena a odvedena, předepíše rozdíl mezi těmito částkami do evidence daní.
+>
+> (2) Je-li rozdílem podle odstavce 1 zvyšována povinnost plátce daně srazit a odvést daň vybíranou srážkou, je tento rozdíl předepsaný plátci daně k přímé úhradě splatný v náhradní lhůtě do 15 dnů ode dne právní moci platebního výměru.
+>
+> (3) Je-li rozdílem podle odstavce 1 snižována povinnost plátce daně srazit a odvést daň vybíranou srážkou, vypořádá se tento rozdíl v rámci správy daní zajišťované plátcem daně. Pokud tento rozdíl nemůže být vypořádán, je plátce daně povinen vrátit neoprávněně sraženou částku poplatníkovi. Správce daně vrátí rozdíl podle odstavce 1 plátci daně do 30 dnů ode dne, kdy plátce daně prokáže vrácení neoprávněně sražené částky poplatníkovi.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=90baf4cd73bff4422d5b -->
+
 ### § 236 — Penále a úrok z prodlení u srážkové daně
 
 > **§ 236**
@@ -301,6 +447,54 @@ Penále 20 % vzniká u srážkové daně jen tehdy, je-li doměřena po zjiště
 **Typicky rozhodné důkazy / podklady:** protokol o daňové kontrole, platební výměr na přímou úhradu, výpočet penále a úroku z prodlení, doklady o datu vzniku a úhrady daňové povinnosti.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=8db05761648a31829303 generator=2026-07-17.4 source_sha256=c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3 -->
+#### Revizní doplnění k § 236
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/280-2009 Zákon daňový řád.md`; identifikátor verze: `SB-2009-00280_2026-01-01`; SHA-256: `c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3`.
+
+##### Znění ustanovení
+
+> (1) Dojde-li u daně vybírané srážkou k doměření daně po zjištění správcem daně, vzniká k této částce povinnost uhradit penále podle ustanovení § 251 odst. 1 písm. a).
+>
+> (2) Úrok z prodlení u daně vybírané srážkou, který vznikl v důsledku skutečností, které nastaly před vydáním rozhodnutí o stanovení daně, se nepředepíše do evidence daní dříve než takto stanovená daň.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 251
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=8db05761648a31829303 -->
 
 ### § 237 — Stížnost na postup plátce daně
 
@@ -391,6 +585,58 @@ Poplatník nemá přímý vliv na odvod plátce, ale § 237 mu dává účinný 
 **Typicky rozhodné důkazy / podklady:** roční zúčtování / výplatní listiny, prohlášení poplatníka a potvrzení k slevám a zvýhodněním, žádost o vysvětlení s dokladem o doručení, případné vysvětlení plátce, evidence sražené daně.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=23f520a089919f9ff038 generator=2026-07-17.4 source_sha256=c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3 -->
+#### Revizní doplnění k § 237 — Stížnost na postup plátce daně
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/280-2009 Zákon daňový řád.md`; identifikátor verze: `SB-2009-00280_2026-01-01`; SHA-256: `c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3`.
+
+##### Znění ustanovení
+
+> (1) Má-li poplatník pochyby o správnosti sražené nebo vybrané daně, může nejpozději do 60 dnů ode dne, kdy se o výši sražené nebo vybrané daně dozvěděl, požádat plátce daně o vysvětlení. V žádosti uvede důvody svých pochybností.
+>
+> (2) Plátce daně je povinen podat poplatníkovi písemné vysvětlení do 30 dnů ode dne, kdy žádost obdržel, a v téže lhůtě případnou chybu opravit a současně podat následné hlášení nebo dodatečné vyúčtování správci daně.
+>
+> (3) Nesouhlasí-li poplatník s postupem plátce daně, může podat stížnost na postup plátce daně správci daně, který je tomuto plátci daně místně příslušný, a to do 30 dnů ode dne, kdy poplatník obdržel od plátce daně vysvětlení. Nesplní-li plátce daně svoji povinnost podle odstavce 2, je poplatník oprávněn podat takovou stížnost správci daně do 60 dnů ode dne, kdy měl plátce daně podat poplatníkovi vysvětlení.
+>
+> (4) V řízení o stížnosti na postup plátce daně se použije obdobně § 111 odst. 5 a [[#§ 112|§ 112]]. Správce daně o stížnosti rozhodne tak, že stížnosti vyhoví nebo částečně vyhoví a současně uloží plátci daně zjednat nápravu ve stanovené lhůtě anebo stížnost zamítne. Rozhodnutí o stížnosti se oznamuje poplatníkovi i plátci daně.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 111, § 112
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=23f520a089919f9ff038 -->
 
 ## Hlava VII — Právní nástupnictví a vztah k insolvenci
 
@@ -497,6 +743,68 @@ Souhlas správce daně je dle DŘ formálně podmínkou výmazu PO bez nástupce
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=b2d5a6ca842a9115eb8a generator=2026-07-17.4 source_sha256=c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3 -->
+#### Revizní doplnění k § 238 — Ukončení činnosti
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/280-2009 Zákon daňový řád.md`; identifikátor verze: `SB-2009-00280_2026-01-01`; SHA-256: `c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3`.
+
+##### Znění ustanovení
+
+> (1) Daňový subjekt, který je právnickou osobou zanikající bez právního nástupce, je povinen předložit současně se žádostí o výmaz z obchodního rejstříku nebo obdobného veřejného rejstříku souhlas správce daně, u kterého je registrován.
+>
+> (2) Vydal-li správce daně zamítavé rozhodnutí k žádosti daňového subjektu o souhlas s výmazem, lze žádost opakovat po uplynutí 1 měsíce ode dne, kdy bylo zamítavé rozhodnutí daňovému subjektu doručeno.
+>
+> (3) Není-li o žádosti o souhlas s výmazem vydáno rozhodnutí do 2 měsíců ode dne jejího podání, má se za to, že byl souhlas udělen.
+>
+> (4) Správce daně při zjištění, že daňový subjekt nevykonává činnost nebo nepobírá příjmy podrobené dani, učiní opatření potřebná k urychlenému zjištění, stanovení a vybrání daně, jakož i k úhradě nedoplatků.
+>
+> (5) Správce daně oznámí příslušnému orgánu veřejné moci skutečnosti zjištěné při své činnosti nasvědčující naplnění podmínek stanovených jinými právními předpisy pro zrušení
+>
+> - a) právnické osoby,
+>
+> - b) živnostenského oprávnění nebo pozastavení provozování živnosti nebo
+>
+> - c) oprávnění, na jehož základě byl daňový subjekt registrován správcem daně.
+>
+> (6) Pokud je zrušení právnické osoby vázáno na návrh, podá jej správce daně v případě podle odstavce 5 písm. a) příslušnému soudu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=b2d5a6ca842a9115eb8a -->
+
 ### § 239 — Pojem přechodu daňové povinnosti
 
 > **§ 239**
@@ -550,6 +858,52 @@ Přechod daňové povinnosti je vždy přechodem práv i povinností jako celku 
 **Typicky rozhodné důkazy / podklady:** evidence daní předchůdce (nedoplatky i přeplatky), daňová přiznání a vyúčtování, doklad o právním nástupnictví (usnesení o dědictví, projekt přeměny), soupis pozůstalosti.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=853bb98b1cb4b057983c generator=2026-07-17.4 source_sha256=c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3 -->
+#### Revizní doplnění k § 239 — Přechod daňové povinnosti
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/280-2009 Zákon daňový řád.md`; identifikátor verze: `SB-2009-00280_2026-01-01`; SHA-256: `c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3`.
+
+##### Znění ustanovení
+
+> Přechodem daňové povinnosti se pro účely tohoto zákona rozumí přechod práv a povinností daňového subjektu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=853bb98b1cb4b057983c -->
 
 ### § 239a — Přechod daňové povinnosti u fyzických osob (dědění)
 
@@ -636,6 +990,62 @@ Na dědice přechází daň i úroky, ale nikoli penále a pokuty (odst. 6). Ví
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=b87295c5639d3a7a2732 generator=2026-07-17.4 source_sha256=c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3 -->
+#### Revizní doplnění k § 239a — Přechod daňové povinnosti u fyzických osob
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/280-2009 Zákon daňový řád.md`; identifikátor verze: `SB-2009-00280_2026-01-01`; SHA-256: `c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3`.
+
+##### Znění ustanovení
+
+> (1) Pro účely správy daní se na právní skutečnosti hledí tak, jako by zůstavitel žil do dne předcházejícího dni skončení řízení o pozůstalosti.
+>
+> (2) Daňovou povinností zůstavitele se pro účely správy daní rozumí daňová povinnost vzniklá zůstaviteli do dne předcházejícího dni skončení řízení o pozůstalosti.
+>
+> (3) Daňová povinnost zůstavitele přechází na jeho dědice rozhodnutím soudu o dědictví; dědic tak získává postavení daňového subjektu namísto zůstavitele.
+>
+> (4) Pokud je dědiců více, přechází na ně společná daňová povinnost. Daňové dluhy z ní vzešlé hradí dědicové společně a nerozdílně v rozsahu podle [[občanského zákoníku|občanského zákoníku]]. Společnou daňovou povinnost spravuje správce daně, který byl příslušný ke správě daňové povinnosti zůstavitele v den předcházející dni skončení řízení o pozůstalosti.
+>
+> (5) Pro daňovou pohledávku, která vzniká v důsledku daňové povinnosti zůstavitele, neběží lhůta pro placení daně ode dne smrti zůstavitele do dne skončení řízení o pozůstalosti.
+>
+> (6) Daňová povinnost zůstavitele týkající se příslušenství daně přechází na jeho dědice, s výjimkou penále a pokut.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=b87295c5639d3a7a2732 -->
+
 ### § 239b — Plnění daňové povinnosti osobou spravující pozůstalost
 
 > **§ 239b**
@@ -706,6 +1116,60 @@ Osoba spravující pozůstalost plní daňové povinnosti zůstavitele vlastním
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=7779491633f048965509 generator=2026-07-17.4 source_sha256=c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3 -->
+#### Revizní doplnění k § 239b — Plnění daňové povinnosti osobou spravující pozůstalost
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/280-2009 Zákon daňový řád.md`; identifikátor verze: `SB-2009-00280_2026-01-01`; SHA-256: `c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3`.
+
+##### Znění ustanovení
+
+> (1) Osoba spravující pozůstalost plní daňovou povinnost zůstavitele, a to vlastním jménem na účet pozůstalosti.
+>
+> (2) Pokud je daňovou povinnost zůstavitele povinno plnit více osob spravujících pozůstalost, plní ji tyto osoby společně a nerozdílně.
+>
+> (3) Daňovou povinnost zůstavitele spravuje správce daně, který byl příslušný ke správě této povinnosti v den smrti zůstavitele.
+>
+> (4) Osoba spravující pozůstalost je povinna podat řádné daňové tvrzení do 3 měsíců ode dne smrti zůstavitele, a to za část zdaňovacího období, která uplynula přede dnem jeho smrti; tuto lhůtu nelze prodloužit.
+>
+> (5) Osoba spravující pozůstalost je povinna podat řádné daňové tvrzení do 30 dnů ode dne skončení řízení o pozůstalosti, a to za část zdaňovacího období, která uplynula do dne předcházejícího dni skončení řízení o pozůstalosti.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=7779491633f048965509 -->
+
 ### § 239c — Plnění daňové povinnosti likvidačním správcem
 
 > **§ 239c**
@@ -756,6 +1220,52 @@ Při soudem nařízené likvidaci pozůstalosti podává likvidační správce d
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=27d2982dd302902c41b8 generator=2026-07-17.4 source_sha256=c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3 -->
+#### Revizní doplnění k § 239c — Plnění daňové povinnosti likvidačním správcem
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/280-2009 Zákon daňový řád.md`; identifikátor verze: `SB-2009-00280_2026-01-01`; SHA-256: `c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3`.
+
+##### Znění ustanovení
+
+> Je-li soudem nařízena likvidace pozůstalosti, je likvidační správce povinen podat řádné daňové tvrzení do 15 dnů ode dne předložení řádné zprávy o zpeněžování majetku likvidační podstaty nebo jeho části soudu, a to za část zdaňovacího období, která uplynula přede dnem předložení této zprávy, a přiznanou daň zahrnout do této zprávy.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=27d2982dd302902c41b8 -->
+
 ### § 239d — Přechod daňové povinnosti na stát
 
 > **§ 239d**
@@ -803,6 +1313,52 @@ Připadne-li dědictví státu (odúmrť), vypořádá daňovou povinnost zůsta
 **Typicky rozhodné důkazy / podklady:** usnesení soudu o připadnutí dědictví státu, evidence daní zůstavitele (nedoplatky/přeplatky), soupis a ocenění pozůstalosti.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=76e3efd6a7269310dceb generator=2026-07-17.4 source_sha256=c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3 -->
+#### Revizní doplnění k § 239d — Přechod daňové povinnosti na stát
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/280-2009 Zákon daňový řád.md`; identifikátor verze: `SB-2009-00280_2026-01-01`; SHA-256: `c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3`.
+
+##### Znění ustanovení
+
+> Připadne-li dědictví státu, vypořádá daňovou povinnost zůstavitele správce daně.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=76e3efd6a7269310dceb -->
 
 ### § 240 — Přechod daňové povinnosti u právnických osob
 
@@ -883,6 +1439,62 @@ Při zániku PO s nástupcem přechází daňová povinnost na nástupce automat
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=712737ed1fdaef8dca79 generator=2026-07-17.4 source_sha256=c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3 -->
+#### Revizní doplnění k § 240 — Přechod daňové povinnosti u právnických osob
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/280-2009 Zákon daňový řád.md`; identifikátor verze: `SB-2009-00280_2026-01-01`; SHA-256: `c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3`.
+
+##### Znění ustanovení
+
+> (1) Zanikla-li právnická osoba, která má právního nástupce, přechází její daňová povinnost na tohoto právního nástupce; tím právní nástupce získává postavení daňového subjektu namísto zaniklé právnické osoby a správce daně toto postavení na žádost právního nástupce potvrdí.
+>
+> (2) Právním nástupcem se pro účely správy daní rozumí v případě
+>
+> - a) pobočky nebo jiné organizační složky obchodního závodu zahraniční osoby tato zahraniční osoba,
+>
+> - b) stálé provozovny zahraniční osoby tato zahraniční osoba,
+>
+> - c) plátcovy pokladny plátce daně, který ji zřídil,
+>
+> - d) zrušení právnické osoby bez likvidace a současné neexistence jiného právního nástupce zřizovatel nebo zakladatel právnické osoby.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=712737ed1fdaef8dca79 -->
+
 ### § 240a — Přechod daňové povinnosti při zrušení bez likvidace
 
 > **§ 240a**
@@ -933,6 +1545,52 @@ Při zrušení PO bez likvidace podá nástupce řádné daňové tvrzení za č
 **Typicky rozhodné důkazy / podklady:** výpis z OR o zániku PO, projekt přeměny / převodu jmění, účetnictví zaniklé PO za relevantní část ZO, doklad o přechodu daňové povinnosti na nástupce.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=74adeff3f0913eb6a788 generator=2026-07-17.4 source_sha256=c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3 -->
+#### Revizní doplnění k § 240a — Přechod daňové povinnosti při zrušení právnické osoby bez likvidace
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/280-2009 Zákon daňový řád.md`; identifikátor verze: `SB-2009-00280_2026-01-01`; SHA-256: `c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3`.
+
+##### Znění ustanovení
+
+> Dojde-li ke zrušení právnické osoby bez likvidace, je právní nástupce této právnické osoby povinen podat řádné daňové tvrzení týkající se její daňové povinnosti do 30 dnů ode dne jejího zániku, a to za část zdaňovacího období, která uplynula přede dnem jejího zániku.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=74adeff3f0913eb6a788 -->
 
 ### § 240b — Přechod daňové povinnosti při přeměně rozdělením
 
@@ -998,6 +1656,56 @@ Při rozdělení s nejasným rozsahem nástupnictví určí rozsah daňové povi
 **Typicky rozhodné důkazy / podklady:** projekt rozdělení (rozštěpení/odštěpení), výpis z OR, rozhodnutí správce daně o určení nástupnictví, odvolání s dokladem o včasnosti, evidence sporné daňové povinnosti.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=b97fccda53f8721ca409 generator=2026-07-17.4 source_sha256=c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3 -->
+#### Revizní doplnění k § 240b — Přechod daňové povinnosti při přeměně rozdělením
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/280-2009 Zákon daňový řád.md`; identifikátor verze: `SB-2009-00280_2026-01-01`; SHA-256: `c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3`.
+
+##### Znění ustanovení
+
+> (1) Dojde-li k přeměně právnické osoby rozdělením, aniž by bylo dostatečně zřejmé, v jakém rozsahu přechází daňová povinnost na její právní nástupce, určí právní nástupnictví ohledně daňových povinností správce daně; včas podané odvolání proti tomuto rozhodnutí má odkladný účinek.
+>
+> (2) Každý právní nástupce ručí za splnění platební povinnosti, která přešla na jiného právního nástupce v souvislosti s přeměnou právnické osoby rozdělením.
+>
+> (3) Daňovou povinnost, která přešla na právního nástupce při přeměně právnické osoby rozdělením, spravuje dosud příslušný správce daně.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=b97fccda53f8721ca409 -->
 
 ### § 240c — Přechod daňové povinnosti při zrušení s likvidací
 
@@ -1070,6 +1778,58 @@ Likvidace PO má tři daňové milníky: tvrzení do 30 dnů od vstupu do likvid
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=2514bb67c344f0aa5cbb generator=2026-07-17.4 source_sha256=c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3 -->
+#### Revizní doplnění k § 240c — Přechod daňové povinnosti při zrušení právnické osoby s likvidací
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/280-2009 Zákon daňový řád.md`; identifikátor verze: `SB-2009-00280_2026-01-01`; SHA-256: `c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3`.
+
+##### Znění ustanovení
+
+> (1) Dojde-li ke zrušení právnické osoby s likvidací, trvá povinnost podávat daňové tvrzení až do dne zániku právnické osoby.
+>
+> (2) Právnická osoba je povinna podat řádné daňové tvrzení do 30 dnů ode dne jejího vstupu do likvidace, a to za část zdaňovacího období, která uplynula přede dnem jejího vstupu do likvidace.
+>
+> (3) Právnická osoba je povinna podat řádné daňové tvrzení do 15 dnů ode dne zpracování návrhu na použití likvidačního zůstatku, a to za část zdaňovacího období, která uplynula přede dnem zpracování tohoto návrhu; tuto lhůtu nelze prodloužit.
+>
+> (4) Vznikne-li po dni zpracování návrhu na použití likvidačního zůstatku právnické osobě daňová povinnost, považuje se tato povinnost za daňovou povinnost vzniklou do dne zpracování návrhu na použití likvidačního zůstatku a právnická osoba je povinna podat dodatečné daňové tvrzení.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=2514bb67c344f0aa5cbb -->
+
 ### § 240d — Daňové tvrzení při převodu privatizovaného majetku
 
 > **§ 240d**
@@ -1119,6 +1879,52 @@ Při převodu poslední části privatizovaného majetku státního podniku pod�
 **Typicky rozhodné důkazy / podklady:** privatizační projekt, smlouvy/rozhodnutí o převodu majetku, doklad o převodu poslední části na příslušný orgán, účetnictví státního podniku za relevantní část ZO.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=6244e137d0d161995252 generator=2026-07-17.4 source_sha256=c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3 -->
+#### Revizní doplnění k § 240d — Řádné daňové tvrzení při převodu privatizovaného majetku
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/280-2009 Zákon daňový řád.md`; identifikátor verze: `SB-2009-00280_2026-01-01`; SHA-256: `c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3`.
+
+##### Znění ustanovení
+
+> Dojde-li k převodu poslední části privatizovaného majetku státního podniku na orgán, jemuž přísluší s tímto privatizovaným majetkem hospodařit, je státní podnik povinen podat řádné daňové tvrzení do 30 dnů ode dne tohoto převodu, a to za část zdaňovacího období, která uplynula přede dnem převodu; tuto lhůtu nelze prodloužit.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=6244e137d0d161995252 -->
 
 ### § 240e — Daňová povinnost při zániku svěřenského fondu
 
@@ -1195,6 +2001,60 @@ Při ukončení správy i při zániku svěřenského fondu podává svěřensk�
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=ec01494623f06fc71cc9 generator=2026-07-17.4 source_sha256=c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3 -->
+#### Revizní doplnění k § 240e — Daňová povinnost při zániku svěřenského fondu
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/280-2009 Zákon daňový řád.md`; identifikátor verze: `SB-2009-00280_2026-01-01`; SHA-256: `c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3`.
+
+##### Znění ustanovení
+
+> (1) Dojde-li k ukončení správy svěřenského fondu, trvá povinnost svěřenského správce podávat daňové tvrzení až do dne zániku svěřenského fondu.
+>
+> (2) Svěřenský správce je povinen podat řádné daňové tvrzení do 15 dnů ode dne ukončení správy svěřenského fondu, a to za část zdaňovacího období, která uplynula přede dnem tohoto ukončení.
+>
+> (3) Svěřenský správce je povinen podat řádné daňové tvrzení do 15 dnů ode dne zániku svěřenského fondu, a to za část zdaňovacího období, která uplynula přede dnem tohoto zániku.
+>
+> (4) Ten, kdo přijal majetek ze svěřenského fondu v souvislosti s jeho zánikem, odpovídá v příslušném rozsahu a do výše přijatého majetku za splnění platební povinnosti svěřenského fondu, která nebyla splněna do dne zániku svěřenského fondu. V tomto rozsahu je ten, kdo přijal majetek ze svěřenského fondu, daňovým subjektem.
+>
+> (5) Dojde-li k zániku svěřenského fondu, aniž by bylo dostatečně zřejmé, v jakém rozsahu ten, kdo přijal majetek ze svěřenského fondu, odpovídá za splnění platební povinnosti podle odstavce 4, určí tento rozsah správce daně. Včas podané odvolání proti tomuto rozhodnutí má odkladný účinek.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=ec01494623f06fc71cc9 -->
+
 ### § 241 — Zákaz přenosu daňové povinnosti
 
 > **§ 241**
@@ -1260,6 +2120,52 @@ Daňovou povinnost nelze smluvně přenést na jinou osobu s účinky vůči spr
 **Typicky rozhodné důkazy / podklady:** smlouva obsahující ujednání o převzetí daně, evidence daňové povinnosti a její původ, doklady o tom, čí činností povinnost vznikla, případně zákonný titul zajištění/ručení.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=dbe80222dacc9cee9857 generator=2026-07-17.4 source_sha256=c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3 -->
+#### Revizní doplnění k § 241 — Zákaz přenosu daňové povinnosti
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/280-2009 Zákon daňový řád.md`; identifikátor verze: `SB-2009-00280_2026-01-01`; SHA-256: `c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3`.
+
+##### Znění ustanovení
+
+> Dohoda, podle níž daňovou povinnost ponese místo daňového subjektu zcela nebo částečně jiná osoba, není vůči správci daně účinná; to neplatí, pokud jiná osoba plní povinnost, která této osobě vznikla v důsledku zajištění daně podle zákona.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=dbe80222dacc9cee9857 -->
 
 ### Díl 2 — Vztah k insolvenčnímu řízení
 
@@ -1348,6 +2254,56 @@ Daňové pohledávky vzniklé od účinnosti rozhodnutí o úpadku jsou pohledá
 **Typicky rozhodné důkazy / podklady:** rozhodnutí o úpadku s datem účinnosti, platební výměry s datem vzniku povinnosti, rozhodnutí o poskytnutí dotace (u rozpočtové kázně), evidence přeplatků a jejich původ.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=ca926ee083f04d3a119f generator=2026-07-17.4 source_sha256=c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3 -->
+#### Revizní doplnění k § 242 — Pohledávky za majetkovou podstatou a majetek dlužníka
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/280-2009 Zákon daňový řád.md`; identifikátor verze: `SB-2009-00280_2026-01-01`; SHA-256: `c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3`.
+
+##### Znění ustanovení
+
+> (1) Daňové pohledávky, které vznikají v důsledku daňových povinností, které vznikly v době ode dne účinnosti rozhodnutí o úpadku do ukončení insolvenčního řízení, jsou pohledávky za majetkovou podstatou.
+>
+> (2) Pro potřeby insolvenčního řízení je za majetek daňového subjektu považován vratitelný přeplatek s tím, že přeplatek vzniklý na základě daňových povinností, které vznikly nejpozději dnem předcházejícím dni účinnosti rozhodnutí o úpadku, se použije pouze na úhradu splatných daňových pohledávek, které nejsou pohledávkami za majetkovou podstatou, nejpozději do jejich přezkoumání.
+>
+> (3) Přeplatek vzniklý na základě daňových povinností, které vznikly v době ode dne účinnosti rozhodnutí o úpadku, se použije pouze na úhradu splatných pohledávek za majetkovou podstatou.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=ca926ee083f04d3a119f -->
 
 ### § 243 — Účinky insolvenčního řízení na daňové řízení
 
@@ -1438,6 +2394,60 @@ Insolvence nezastavuje daňové řízení (s výjimkou provedení exekuce). Nepr
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=e0f304d466f82420ff5e generator=2026-07-17.4 source_sha256=c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3 -->
+#### Revizní doplnění k § 243 — Účinky insolvenčního řízení na daňové řízení
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/280-2009 Zákon daňový řád.md`; identifikátor verze: `SB-2009-00280_2026-01-01`; SHA-256: `c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3`.
+
+##### Znění ustanovení
+
+> (1) Po zahájení insolvenčního řízení lze daňové řízení zahájit a v celém daňovém řízení pokračovat, s výjimkou daňové exekuce, kterou lze nařídit, avšak nelze ji provést, pokud [[insolvenční zákon|insolvenční zákon]] nestanoví jinak.
+>
+> (2) Ukončením přezkumného jednání nebo schválením zprávy o přezkumu soudem nabývá nepravomocné rozhodnutí v nalézacím řízení týkajícím se pohledávek, které nejsou pohledávkami za majetkovou podstatou, právní moci.
+>
+> (3) Ode dne účinnosti rozhodnutí o úpadku nevzniká k daňové pohledávce, která není pohledávkou za majetkovou podstatou, úrok z prodlení.
+>
+> (4) Výsledek popření daňové pohledávky v rámci incidenčního sporu zohlední správce daně v evidenci daní.
+>
+> (5) Daňová pohledávka, od jejíhož placení byl dlužník osvobozen rozhodnutím insolvenčního soudu, zaniká právní mocí tohoto rozhodnutí.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=e0f304d466f82420ff5e -->
+
 ### § 244 — Daňové tvrzení při insolvenčním řízení
 
 > **§ 244**
@@ -1525,6 +2535,60 @@ V insolvenci je daňový subjekt (po konkursu insolvenční správce) povinen po
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=22df48ed94dbdbecacc7 generator=2026-07-17.4 source_sha256=c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3 -->
+#### Revizní doplnění k § 244 — Daňové tvrzení při insolvenčním řízení
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/280-2009 Zákon daňový řád.md`; identifikátor verze: `SB-2009-00280_2026-01-01`; SHA-256: `c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3`.
+
+##### Znění ustanovení
+
+> (1) Při insolvenčním řízení je daňový subjekt povinen podat nejpozději do 30 dnů ode dne účinnosti rozhodnutí o úpadku řádné daňové tvrzení za část zdaňovacího období, která uplynula do dne předcházejícího účinnosti tohoto rozhodnutí a za kterou dosud nebylo podáno; tuto lhůtu nelze prodloužit. Zjistí-li insolvenční správce, který prohlášením konkursu získal oprávnění nakládat s majetkovou podstatou, nedostatečnost podkladů, pro kterou nelze zajistit splnění této povinnosti a povinnosti dle § 245 odst. 1, povinnost zaniká; insolvenční správce tuto skutečnost sdělí správci daně ve stejné lhůtě a poskytne mu nezbytnou součinnost ke stanovení daně podle pomůcek.
+>
+> (2) Lhůty, ve kterých je daňový subjekt povinen podat daňové tvrzení v průběhu insolvenčního řízení, zůstávají zachovány.
+>
+> (3) Ke dni předložení konečné zprávy je daňový subjekt povinen zpracovat řádné daňové tvrzení za uplynulou část zdaňovacího období, za kterou nebylo dosud podáno, a tvrzenou daň zahrnout do příslušného dokumentu.
+>
+> (4) Řádné daňové tvrzení zpracované podle odstavce 3 je daňový subjekt povinen podat do 15 dnů ode dne, ke kterému mělo dojít k jeho zpracování.
+>
+> (5) Nebylo-li podáno řádné daňové tvrzení ve lhůtě podle odstavce 1, správce daně může daň stanovit podle pomůcek, bez nutnosti vydávat nejprve výzvu podle § 145 odst. 1. Obdobně správce daně postupuje v případě, že se jedná o daň, u které se nepodává řádné daňové tvrzení.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 245, § 145
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=22df48ed94dbdbecacc7 -->
+
 ### § 245 — Sjednocení lhůt
 
 > **§ 245**
@@ -1598,6 +2662,54 @@ Nastane-li některá z mimořádných situací Hlavy VII (smrt, zánik, přeměn
 **Typicky rozhodné důkazy / podklady:** výpis z OR / doklad o mimořádné události s datem, evidence o (ne)podaných tvrzeních za předcházející ZO, účetnictví za relevantní zdaňovací období, projekt přeměny / usnesení o dědictví / rozhodnutí o úpadku.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=3d7f106d32b31521dc26 generator=2026-07-17.4 source_sha256=c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3 -->
+#### Revizní doplnění k § 245 — Sjednocení lhůt
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/280-2009 Zákon daňový řád.md`; identifikátor verze: `SB-2009-00280_2026-01-01`; SHA-256: `c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3`.
+
+##### Znění ustanovení
+
+> (1) Ve stejných lhůtách, které jsou stanoveny v § 239b odst. 4 a [[#§ 5|5]], [[#§ 239c|§ 239c]], [[#§ 240a|§ 240a]], § 240c odst. 2 a [[#§ 3|3]], [[#§ 240d|§ 240d]], § 240e odst. 2 a [[#§ 3|3]] a § 244 odst. 1 a [[#§ 4|4]], vzniká povinnost podat daňové tvrzení, které nebylo dosud podáno za předcházející zdaňovací období, v případě, kdy původní lhůta pro jeho podání dosud neuplynula. Obdobně se postupuje v případě daňového tvrzení u daní vyměřovaných na zdaňovací období, jakož i u daní jednorázových, pokud nebylo dosud podáno.
+>
+> (2) Lhůta pro podání daňového přiznání za předcházející zdaňovací období u daní vyměřovaných za zdaňovací období, které činí nejméně 12 měsíců, které dosud nebylo podáno, činí pro účely posouzení podmínky podle odstavce 1, zda lhůta dosud neuplynula, 6 měsíců po uplynutí tohoto zdaňovacího období.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 239b, § 5, § 239c, § 240a, § 240c, § 3, § 240d, § 240e, § 244, § 4
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=3d7f106d32b31521dc26 -->
 
 ## Souhrnné poznámky a vazby na související kapitoly
 

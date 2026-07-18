@@ -112,6 +112,70 @@ Evidence daní je dokladově vázaná: každá změna na ODA musí mít průkazn
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=18e20979b7c61c557c30 generator=2026-07-17.4 source_sha256=c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3 -->
+#### Revizní doplnění k § 149
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/280-2009 Zákon daňový řád.md`; identifikátor verze: `SB-2009-00280_2026-01-01`; SHA-256: `c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3`.
+
+##### Znění ustanovení
+
+> (1) Správce daně vede evidenci daní, kde zaznamenává stanovení daně, vznik, splnění, popřípadě jiný zánik daňových povinností, a z toho vyplývající přeplatky, nedoplatky a případné převody. Tyto údaje jsou evidovány na osobních daňových účtech.
+>
+> (2) Osobní daňový účet je veden pro jednotlivé daňové subjekty odděleně za každý druh daně. S ohledem na přehlednost evidence daní může být daný druh daně rozčleněn na několik částí, o nichž se vedou samostatné osobní daňové účty.
+>
+> (3) Ministerstvo financí zveřejňuje přehled druhů daní a jejich částí, o nichž vedou osobní daňové účty jím řízení správci daně, ve Finančním zpravodaji a způsobem umožňujícím dálkový přístup. Ostatní správci daně zveřejňují tyto údaje způsobem podle § 56 odst. 2.
+>
+> (4) Údaje na osobních daňových účtech jsou průkazným způsobem evidovány na základě dokladů, které zachycují veškeré změny prováděné na osobních daňových účtech a které jsou potvrzeny úřední osobou. Těmito doklady jsou
+>
+> - a) předpisné doklady,
+>
+> - b) odpisné doklady,
+>
+> - c) platební doklady,
+>
+> - d) opravné doklady.
+>
+> (5) Správnost evidence osobních daňových účtů měsíčně odsouhlasí správce daně podle dokladů, které obdrží od poskytovatele platebních služeb, popřípadě dalších dokladů o provedení platby.
+>
+> (6) Roční uzavření záznamů následuje po uzávěrce posledního měsíce kalendářního roku a výsledné částky se přenesou jako počáteční zůstatky na osobních daňových účtech v následujícím kalendářním roce.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 56
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=18e20979b7c61c557c30 -->
+
 ### § 150 — Debetní a kreditní strana ODA; depozitní účet
 
 > **§ 150**
@@ -191,6 +255,62 @@ ODE je „parkovací" účet pro zajišťovací platby, vymožené částky a do
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=1ffe56837ddcff16a300 generator=2026-07-17.4 source_sha256=c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3 -->
+#### Revizní doplnění k § 150
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/280-2009 Zákon daňový řád.md`; identifikátor verze: `SB-2009-00280_2026-01-01`; SHA-256: `c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3`.
+
+##### Znění ustanovení
+
+> (1) Na debetní straně osobních daňových účtů se evidují předpisy a odpisy daní, včetně jejich případných oprav, jakož i odpisy nedoplatků.
+>
+> (2) Platby a vratky jsou evidovány na kreditní straně osobních daňových účtů. Podkladem pro evidenci jsou doklady poskytovatelů platebních služeb, provozovatelů poštovních služeb, popřípadě další doklady o provedení platby. Vratky se mohou uskutečnit jen na základě vydaných platebních dokladů.
+>
+> (3) Nedobytný nedoplatek se eviduje v oddělené části pro evidenci nedobytných nedoplatků osobního daňového účtu.
+>
+> (4) Částky na zajištění úhrady na nesplatnou nebo dosud nestanovenou daň se přijímají a evidují na osobním depozitním účtu daňového subjektu. Ke dni zániku účinnosti zajišťovacího příkazu se převede zajištěná částka ve výši potřebné k úhradě zajištěné daně z osobního depozitního účtu na příslušný osobní daňový účet daňového subjektu.
+>
+> (5) Částky vymožené jednotlivými způsoby vymáhání se přijímají a evidují na osobním depozitním účtu daňového subjektu. Vymožené částky převede správce daně na osobní daňový účet daňového subjektu s datem platby evidovaným na osobním depozitním účtu. Je-li částka na osobním depozitním účtu předmětem rozvrhového řízení, převádějí se určené částky podle pravomocného rozhodnutí správce daně o rozvrhu nebo na základě pravomocného usnesení soudu o výsledku rozvrhového řízení.
+>
+> (6) Částku dobrovolně uhrazenou ze strany daňového subjektu v souvislosti s vyrozuměním podle § 153 odst. 3 lze přijmout a evidovat také na osobním depozitním účtu daňového subjektu. Takto získanou částku převede správce daně na osobní daňový účet s datem platby evidovaným na osobním depozitním účtu. Jsou-li nedoplatky evidovány na více osobních daňových účtech, převede se tato částka na úhradu nedoplatků postupně podle jednotlivých skupin uvedených v § 152 odst. 1 bez ohledu na to, na jakém osobním daňovém účtu se nacházejí.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 153, § 152
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=1ffe56837ddcff16a300 -->
+
 ### § 151 — Potvrzení o stavu osobního daňového účtu
 
 > **§ 151**
@@ -250,6 +370,54 @@ Potvrzení o stavu ODA je osvědčení vydávané na žádost, povinně s uveden
 **Typicky rozhodné důkazy / podklady:** žádost o potvrzení, vydané potvrzení o stavu ODA, evidence ODA, doklady o splatnosti jednotlivých daní.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=b6cd94a25c794d08ffae generator=2026-07-17.4 source_sha256=c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3 -->
+#### Revizní doplnění k § 151
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/280-2009 Zákon daňový řád.md`; identifikátor verze: `SB-2009-00280_2026-01-01`; SHA-256: `c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3`.
+
+##### Znění ustanovení
+
+> (1) Z údajů evidence daní správce daně na žádost daňového subjektu vystaví potvrzení o stavu jeho osobního daňového účtu. Na vydávání potvrzení se přiměřeně použijí ustanovení § 102 odst. 1 a § 104 odst. 1.
+>
+> (2) Z potvrzení o stavu osobního daňového účtu musí být patrný původní den splatnosti, popřípadě náhradní den splatnosti, jednotlivých daní.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 102, § 104
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=b6cd94a25c794d08ffae -->
 
 ### § 152 — Pořadí úhrady daně
 
@@ -347,6 +515,76 @@ Pořadí úhrady je závazné a kogentní: skupiny a)–d) podle odst. 1, uvnit�
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=b556dc84b5a3fe89de3c generator=2026-07-17.4 source_sha256=c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3 -->
+#### Revizní doplnění k § 152 — Pořadí úhrady daně
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/280-2009 Zákon daňový řád.md`; identifikátor verze: `SB-2009-00280_2026-01-01`; SHA-256: `c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3`.
+
+##### Znění ustanovení
+
+> (1) Úhrada daně se na osobním daňovém účtu použije na úhradu splatných daňových pohledávek postupně podle těchto skupin:
+>
+> - a) nedoplatky na dani a splatná daň,
+>
+> - b) nedoplatky na příslušenství daně,
+>
+> - c) vymáhané nedoplatky na dani,
+>
+> - d) vymáhané nedoplatky na příslušenství daně.
+>
+> (2) Úhrada daně vymožené jednotlivými způsoby vymáhání podle [[#§ 175|§ 175]] se použije na úhradu nedoplatků evidovaných u daného správce daně postupně podle těchto skupin:
+>
+> - a) nedoplatky na dani vymáhané daným způsobem vymáhání,
+>
+> - b) nedoplatky na příslušenství daně vymáhané daným způsobem vymáhání.
+>
+> (3) Úhrada daně hrazené jako pohledávka za majetkovou podstatou se na osobním daňovém účtu použije na úhradu splatných daňových pohledávek postupně podle těchto skupin:
+>
+> - a) nedoplatky na dani a splatná daň z daňových povinností, které vznikly v době ode dne účinnosti rozhodnutí o úpadku,
+>
+> - b) nedoplatky na příslušenství daně z daňových povinností, které vznikly v době ode dne účinnosti rozhodnutí o úpadku.
+>
+> (4) V jednotlivých skupinách podle odstavců 1 až 3 se úhrada daně použije nejdříve na splatné daňové pohledávky s dřívějším datem splatnosti.
+>
+> (5) Při určení pořadí úhrady daně se vychází ze stavu ke dni úhrady.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 175
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=b556dc84b5a3fe89de3c -->
+
 ### § 153 — Nedoplatek
 
 > **§ 153**
@@ -418,6 +656,58 @@ Nedoplatek je zákonná kategorie (nesplněná povinnost + uplynutí splatnosti)
 **Typicky rozhodné důkazy / podklady:** platební výměr a doklad o splatnosti, kompletní evidence ODA a úkonů správce, případně rozhodnutí o zástavním právu / zahájení exekuce / přihláška do insolvence.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=ad45c1ecc97a7727fafb generator=2026-07-17.4 source_sha256=c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3 -->
+#### Revizní doplnění k § 153 — Nedoplatek
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/280-2009 Zákon daňový řád.md`; identifikátor verze: `SB-2009-00280_2026-01-01`; SHA-256: `c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3`.
+
+##### Znění ustanovení
+
+> (1) Nedoplatek je částka daně, která není uhrazena, a uplynul již den splatnosti této daně; nedoplatek je rovněž neuhrazené příslušenství daně, u kterého již uplynul den splatnosti, popřípadě též neuhrazená částka zajištěné daně.
+>
+> (2) Nedoplatek hradí daňový subjekt jako svůj daňový dluh; tomuto dluhu odpovídá na straně příslušného veřejného rozpočtu splatná daňová pohledávka.
+>
+> (3) Správce daně může daňový subjekt vhodným způsobem vyrozumět o výši jeho nedoplatků a upozornit jej na následky spojené s jejich neuhrazením. Správce daně tak učiní vždy, jedná-li se o nedoplatek, který má být poprvé vymáhán; to neplatí, byl-li daňový subjekt o nedoplatku již dříve vyrozuměn, hrozí-li nebezpečí z prodlení nebo by vyrozumění bylo zjevně neúčelné.
+>
+> (4) Po marném uplynutí lhůty pro placení daně nedoplatek zaniká.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=ad45c1ecc97a7727fafb -->
 
 ### § 154 — Přeplatek
 
@@ -513,6 +803,60 @@ Přeplatek je saldo ODA a vzniká automaticky; správce jej bez žádosti přev�
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=afd457c5a1a8f2aaa755 generator=2026-07-17.4 source_sha256=c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3 -->
+#### Revizní doplnění k § 154 — Přeplatek
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/280-2009 Zákon daňový řád.md`; identifikátor verze: `SB-2009-00280_2026-01-01`; SHA-256: `c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3`.
+
+##### Znění ustanovení
+
+> (1) Přeplatek je částka, o kterou úhrn plateb a vratek na kreditní straně osobního daňového účtu převyšuje úhrn předpisů a odpisů na debetní straně osobního daňového účtu.
+>
+> (2) Správce daně převede přeplatek na úhradu případného nedoplatku téhož daňového subjektu na jiném osobním daňovém účtu, popřípadě na úhradu nedoplatku podle odstavce 4. Není-li takového nedoplatku, stává se přeplatek vratitelným přeplatkem a zůstává jako platba na dosud neuhrazenou daň na osobním daňovém účtu, na kterém je evidován. Pokud existuje odůvodněný předpoklad, že dojde ke vzniku povinnosti uhradit daň na stejném osobním daňovém účtu, přeplatek se na úhradu nedoplatku na jiném osobním daňovém účtu nepoužije; to neplatí, pokud daňový subjekt o takové použití přeplatku požádá.
+>
+> (3) Jsou-li nedoplatky evidovány na více osobních daňových účtech, upřednostní správce daně při převodu přeplatku na jiný osobní daňový účet úhradu nákladů řízení a zbylý přeplatek použije na úhradu nedoplatků postupně podle jednotlivých skupin uvedených v § 152 odst. 1 bez ohledu na to, na jakém osobním daňovém účtu se nacházejí.
+>
+> (4) Přeplatek se použije i na úhradu nedoplatku téhož daňového subjektu u jiného správce daně, u něhož je nedoplatek evidován, vyžádá-li si ho správce daně tak, aby žádost došla správci daně, u něhož je evidován přeplatek, ještě před vystavením příkazu k jeho vrácení, nejpozději však do dne, kdy uplyne lhůta stanovená pro jeho vrácení. K žádosti se připojí výkaz nedoplatků, které mají být přeplatkem uhrazeny; pokud se požadavek uplatní prostřednictvím propojených informačních systémů, stačí předložit výkaz nedoplatků dodatečně do 30 dnů od uplatnění požadavku na úhradu nedoplatků prostřednictvím těchto systémů. Žádosti se vyhoví i v případě, že přeplatek vznikne do 30 dnů ode dne vyžádání. Bylo-li správci daně doručeno více žádostí, provede se úhrada v pořadí, v jakém správci daně žádosti došly. Úhrada nedoplatků evidovaných u správce daně, u něhož je evidován přeplatek, má přednost.
+>
+> (5) O převedení přeplatku podle odstavců 2 a [[#§ 4|4]], jehož výše přesahuje částku 1 000 Kč, se daňový subjekt vyrozumí. Za den úhrady nedoplatku převodem přeplatku se považuje den, který následuje po dni vzniku přeplatku, pokud tento nastal po dni vzniku nedoplatku; jinak den vzniku nedoplatku.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 152, § 4
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=afd457c5a1a8f2aaa755 -->
+
 ### § 155 — Vrácení, použití a převod vratitelného přeplatku
 
 > **§ 155**
@@ -603,6 +947,76 @@ Vratitelný přeplatek (přeplatek, který nelze započíst na vlastní nedoplat
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=49f7c96d5a84df8bb372 generator=2026-07-17.4 source_sha256=c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3 -->
+#### Revizní doplnění k § 155 — Vrácení, použití a převod vratitelného přeplatku
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/280-2009 Zákon daňový řád.md`; identifikátor verze: `SB-2009-00280_2026-01-01`; SHA-256: `c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3`.
+
+##### Znění ustanovení
+
+> (1) Daňový subjekt je oprávněn požádat správce daně o
+>
+> - a) vrácení vratitelného přeplatku,
+>
+> - b) použití vratitelného přeplatku na úhradu
+>
+>   - 1. nedoplatku jiného daňového subjektu u téhož nebo jiného správce daně,
+>
+>   - 2. zálohy, jejíž výše se předepíše na debetní stranu osobního daňového účtu na základě uhrazené částky,
+>
+> - c) převod vratitelného přeplatku na jiný osobní daňový účet u téhož nebo jiného správce daně.
+>
+> (2) Žádosti o vrácení, použití nebo převod vratitelného přeplatku správce daně vyhoví pouze tehdy, pokud vratitelný přeplatek dosahuje v době podání žádosti částku nejméně 200 Kč. V opačném případě správce daně žádosti vyhoví pouze tehdy, pokud vratitelný přeplatek této částky dosáhne do 60 dnů ode dne podání žádosti.
+>
+> (3) Žádosti o vrácení, použití nebo převod vratitelného přeplatku správce daně nevyhoví,
+>
+> - a) existuje-li odůvodněný předpoklad, že do 1 měsíce ode dne, kdy má být vratitelný přeplatek vrácen, použit nebo převeden, dojde ke vzniku povinnosti uhradit daň na stejném osobním daňovém účtu, nebo
+>
+> - b) vznikl-li tento vratitelný přeplatek v důsledku uhrazení daně, která dosud nebyla pravomocně stanovena nebo u které dosud neuplynul náhradní den splatnosti.
+>
+> (4) Správce daně vratitelný přeplatek nižší než 200 Kč vrátí, použije nebo převede na základě žádosti daňového subjektu, nebo bez žádosti jen ve výjimečných případech tak, aby byla zajištěna zásada hospodárnosti.
+>
+> (5) Nelze-li žádosti o vrácení, použití nebo převod vratitelného přeplatku vyhovět, správce daně o tom daňový subjekt vhodným způsobem vyrozumí.
+>
+> (6) Za den vrácení vratitelného přeplatku se považuje den, kdy došlo k jeho odepsání z účtu správce daně. Účinky změny v evidenci daní v důsledku použití nebo převodu vratitelného přeplatku nastanou ke dni, kdy došla žádost správci daně, nejdříve však ke dni vzniku vratitelného přeplatku.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=49f7c96d5a84df8bb372 -->
+
 ### § 155a — Postup při vrácení vratitelného přeplatku
 
 > **§ 155a**
@@ -661,6 +1075,66 @@ Přeplatek se vrací v české měně ve výši evidované; registrovaný subjek
 **Typicky rozhodné důkazy / podklady:** žádost o vrácení, registrační údaje s uvedenými bankovními účty, výpis ODA o výši přeplatku, doklad o zveřejnění hotovostního vrácení (u odst. 2 písm. c).
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=26373ca7fe45c4666bd2 generator=2026-07-17.4 source_sha256=c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3 -->
+#### Revizní doplnění k § 155a — Postup při vrácení vratitelného přeplatku
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/280-2009 Zákon daňový řád.md`; identifikátor verze: `SB-2009-00280_2026-01-01`; SHA-256: `c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3`.
+
+##### Znění ustanovení
+
+> (1) Vratitelný přeplatek vrací správce daně v české měně ve výši, v jaké byl evidován.
+>
+> (2) Vratitelný přeplatek vrací správce daně
+>
+> - a) bezhotovostním převodem na účet vedený u poskytovatele platebních služeb určený daňovým subjektem,
+>
+> - b) poštovním poukazem, nejedná-li se o vrácení vratitelného přeplatku právnické osobě nebo podnikající fyzické osobě, nebo
+>
+> - c) v hotovosti, pokud jeho výše nepřesahuje 1 000 Kč a správce daně způsobem umožňujícím dálkový přístup zveřejní, že tento způsob vrácení vratitelného přeplatku umožňuje, a určí podmínky, které je při tom nutné dodržet.
+>
+> (3) Je-li daňový subjekt u správce daně registrován, je povinen určit k vrácení vratitelného přeplatku jeden z účtů u poskytovatelů platebních služeb uvedených při registraci; při tom je povinen upřednostnit účet vedený u poskytovatele platebních služeb v České republice.
+>
+> (4) Nesplní-li daňový subjekt povinnost podle odstavce 3, vyzve jej správce daně ke zjednání nápravy.
+>
+> (5) V případě bezhotovostního převodu na účet vedený u poskytovatele platebních služeb mimo území členského státu Evropské unie hradí náklady převodu daňový subjekt.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=26373ca7fe45c4666bd2 -->
 
 ### § 155b — Lhůta pro vrácení vratitelného přeplatku
 
@@ -738,6 +1212,80 @@ Lhůty pro vrácení se liší podle titulu: 30 dnů na žádost; 15 dnů bez ž
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=309c61b63aebd7f851bc generator=2026-07-17.4 source_sha256=c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3 -->
+#### Revizní doplnění k § 155b — Lhůta pro vrácení vratitelného přeplatku
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/280-2009 Zákon daňový řád.md`; identifikátor verze: `SB-2009-00280_2026-01-01`; SHA-256: `c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3`.
+
+##### Znění ustanovení
+
+> (1) Správce daně vrátí vratitelný přeplatek na žádost daňového subjektu do 30 dnů ode dne obdržení žádosti o vrácení vratitelného přeplatku.
+>
+> (2) Pokud vratitelný přeplatek nedosahuje v době podání žádosti částku nejméně 200 Kč, lhůta pro jeho vrácení počíná běžet až ode dne následujícího po dosažení této částky.
+>
+> (3) Vznikne-li v důsledku stanovení daňového odpočtu vratitelný přeplatek, vrátí jej správce daně daňovému subjektu bez žádosti do
+>
+> - a) 15 dnů ode dne oznámení platebního výměru nebo dodatečného platebního výměru, nebo
+>
+> - b) 30 dnů ode dne, který se považuje za den doručení platebního výměru nebo dodatečného platebního výměru v případě, kdy se výsledek vyměření nebo doměření daňovému subjektu neoznamuje.
+>
+> (4) Vznikne-li v důsledku zrušení, změny, zániku účinnosti nebo prohlášení nicotnosti rozhodnutí o stanovení daně nebo zajišťovacího příkazu vratitelný přeplatek, vrátí jej správce daně bez žádosti do 15 dnů ode dne
+>
+> - a) účinnosti rozhodnutí, kterým došlo ke zrušení, změně nebo prohlášení nicotnosti rozhodnutí o stanovení daně nebo zajišťovacího příkazu; v případě peněžitého plnění v rámci věcné dělené správy počíná lhůta pro vrácení vratitelného přeplatku běžet ode dne, kdy byla podle § 162 odst. 3 správci daně sdělena skutečnost, že došlo ke zrušení, změně nebo prohlášení nicotnosti rozhodnutí o stanovení daně,
+>
+> - b) následujícího po dni uplynutí lhůty pro vrácení vratitelného přeplatku podle písmene a), je-li vracen vratitelný přeplatek na úroku z nesprávně stanovené daně, nebo
+>
+> - c) zániku účinnosti zajišťovacího příkazu.
+>
+> (5) Vznikne-li v důsledku neoprávněného vymáhání přeplatek, správce daně jej vrátí bez žádosti do 15 dnů ode dne prohlášení neoprávněného vymáhání, pokud
+>
+> - a) je vratitelným přeplatkem, nebo
+>
+> - b) jde o peněžní prostředky pocházející z majetku v rozsahu, v němž tento majetek nepodléhá vymáhání.
+>
+> (6) Stanoví-li zákon, že se vratitelný přeplatek vrací bez žádosti, správce daně tento vratitelný přeplatek daňovému subjektu nevrátí bez žádosti, pokud
+>
+> - a) daňový subjekt neurčil účet vedený u poskytovatele platebních služeb nezbytný pro jeho vrácení, nebo
+>
+> - b) je o to daňovým subjektem před jeho vrácením požádán; je-li vratitelný přeplatek evidován na osobním depozitním účtu, musí daňový subjekt v žádosti uvést, na který osobní daňový účet má být vratitelný přeplatek převeden.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 162
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=309c61b63aebd7f851bc -->
+
 ### § 160a — Lhůta pro zánik vratitelného přeplatku
 
 > **§ 160a**
@@ -785,6 +1333,52 @@ Právo na vrácení vratitelného přeplatku je časově omezeno: nepožádá-li
 **Typicky rozhodné důkazy / podklady:** evidence ODA s datem vzniku přeplatku, žádost o vrácení a datum jejího podání.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=173f5ba9c85648a7cac0 generator=2026-07-17.4 source_sha256=c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3 -->
+#### Revizní doplnění k § 160a — Lhůta pro zánik vratitelného přeplatku
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/280-2009 Zákon daňový řád.md`; identifikátor verze: `SB-2009-00280_2026-01-01`; SHA-256: `c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3`.
+
+##### Znění ustanovení
+
+> Nepožádá-li daňový subjekt o vrácení vratitelného přeplatku do 6 let od konce roku, ve kterém přeplatek vznikl, přeplatek zaniká a stává se příjmem rozpočtu, ze kterého je hrazena činnost správce daně, který jej evidoval.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=173f5ba9c85648a7cac0 -->
 
 ### § 156 — Posečkání úhrady daně a splátky
 
@@ -874,6 +1468,72 @@ Posečkání je dočasný odklad nebo splátkový režim úhrady při některém
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=69cd243b60b3008552a8 generator=2026-07-17.4 source_sha256=c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3 -->
+#### Revizní doplnění k § 156
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/280-2009 Zákon daňový řád.md`; identifikátor verze: `SB-2009-00280_2026-01-01`; SHA-256: `c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3`.
+
+##### Znění ustanovení
+
+> (1) Na žádost daňového subjektu nebo z moci úřední může správce daně povolit posečkání úhrady daně, popřípadě rozložení její úhrady na splátky (dále jen „posečkání“),
+>
+> - a) pokud by neprodlená úhrada znamenala pro daňový subjekt vážnou újmu,
+>
+> - b) pokud by byla ohrožena výživa daňového subjektu nebo osob na jeho výživu odkázaných,
+>
+> - c) pokud by neprodlená úhrada vedla k zániku podnikání daňového subjektu, přičemž výnos z ukončení podnikání by byl pravděpodobně nižší než jím vytvořená daň v příštím zdaňovacím období,
+>
+> - d) není-li možné vybrat daň od daňového subjektu najednou, nebo
+>
+> - e) při důvodném očekávání částečného nebo úplného zániku povinnosti uhradit daň.
+>
+> (2) Správce daně rozhodne o žádosti o posečkání do 30 dnů ode dne jejího podání.
+>
+> (3) V rozhodnutí, kterým bylo povoleno posečkání, se stanoví doba posečkání a posečkání může být vázáno i na další podmínky.
+>
+> (4) Posečkání lze povolit nejdříve ode dne splatnosti, a to i zpětně.
+>
+> (5) Posečkání nesmí být povoleno na dobu delší, než je lhůta pro placení daně.
+>
+> (6) Na žádost daňového subjektu může správce daně změnit stanovenou dobu posečkání nebo změnit anebo doplnit další podmínky, na které je posečkání vázáno; při tom není vázán návrhem daňového subjektu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=69cd243b60b3008552a8 -->
+
 ### § 157 — Zánik účinnosti rozhodnutí o posečkání
 
 > **§ 157**
@@ -926,6 +1586,54 @@ Posečkání zaniká ze zákona dnem nedodržení podmínky (rozhodnutí správc
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=5c0fd2e00232b7407f10 generator=2026-07-17.4 source_sha256=c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3 -->
+#### Revizní doplnění k § 157
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/280-2009 Zákon daňový řád.md`; identifikátor verze: `SB-2009-00280_2026-01-01`; SHA-256: `c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3`.
+
+##### Znění ustanovení
+
+> (1) Není-li dodržena některá z podmínek rozhodnutí o posečkání, pozbývá toto rozhodnutí účinnosti uplynutím dne jejího nedodržení. O tom správce daně vydá rozhodnutí.
+>
+> (2) Rozhodnutí o posečkání pozbývá účinnosti rovněž uplynutím dne předcházejícího dni, ve kterém došlo ke vstupu daňového subjektu do likvidace nebo k nabytí účinnosti rozhodnutí o úpadku daňového subjektu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=5c0fd2e00232b7407f10 -->
+
 ### § 157a — Zákonné posečkání při soudním přezkumu
 
 > **§ 157a**
@@ -976,6 +1684,52 @@ Přiznáním odkladného účinku soudem (správní soud nebo Ústavní soud) na
 **Typicky rozhodné důkazy / podklady:** žaloba a návrh na odkladný účinek, usnesení o přiznání odkladného účinku, evidence exekučních úkonů, rozhodnutí soudu ve věci s vyznačením právní moci.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=7211d004643bcb62dfa8 generator=2026-07-17.4 source_sha256=c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3 -->
+#### Revizní doplnění k § 157a
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/280-2009 Zákon daňový řád.md`; identifikátor verze: `SB-2009-00280_2026-01-01`; SHA-256: `c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3`.
+
+##### Znění ustanovení
+
+> Úhrada daně je posečkána ode dne přiznání odkladného účinku v řízení, které je v souvislosti se stanovením daně vedeno před soudem ve správním soudnictví nebo před Ústavním soudem. Toto posečkání skončí uplynutím dne, kdy rozhodnutí soudu ve věci související se stanovením daně nabylo právní moci.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=7211d004643bcb62dfa8 -->
 
 ### § 158 — Odpis nedoplatku pro nedobytnost
 
@@ -1043,6 +1797,60 @@ Odpis nedoplatku pro nedobytnost je účetní operací, nikoli zánikem dluhu: n
 **Typicky rozhodné důkazy / podklady:** protokoly o bezvýsledné exekuci, evidence majetku dlužníka, odpisný doklad, případně podklady k ručení (§ 171) a údaj o lhůtě pro placení.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=86b9018c869f3ee7c5cf generator=2026-07-17.4 source_sha256=c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3 -->
+#### Revizní doplnění k § 158 — Odpis nedoplatku pro nedobytnost
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/280-2009 Zákon daňový řád.md`; identifikátor verze: `SB-2009-00280_2026-01-01`; SHA-256: `c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3`.
+
+##### Znění ustanovení
+
+> (1) Správce daně odepíše nedobytný nedoplatek.
+>
+> (2) Nedobytným nedoplatkem se pro účely tohoto zákona rozumí nedoplatek,
+>
+> - a) který byl bezvýsledně vymáhán na daňovém subjektu i na jiných osobách, na nichž mohl být vymáhán, nebo jehož vymáhání by zřejmě nevedlo k výsledku, anebo u něhož je pravděpodobné, že by náklady vymáhání přesáhly jeho výtěžek, nebo
+>
+> - b) jehož vymáhání je spojeno se zvláštními nebo nepoměrnými obtížemi.
+>
+> (3) Na základě příkazu správce daně k odpisu nedobytného nedoplatku z osobního daňového účtu se vystaví odpisný doklad, který současně plní úlohu předpisného dokladu na účtu nedobytných nedoplatků; nedoplatek trvá dále, pokud neuplynula lhůta pro placení daně.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=86b9018c869f3ee7c5cf -->
 
 ### § 159 — Námitka
 
@@ -1127,6 +1935,62 @@ Námitka je opravným prostředkem ve fázi placení proti úkonům správce (a 
 **Typicky rozhodné důkazy / podklady:** napadený úkon (exekuční příkaz, výpis ODA), text námitky a rozhodnutí o ní, doklady o doručení a o okamžiku seznámení s úkonem.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=c78c36c2fc865a48711a generator=2026-07-17.4 source_sha256=c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3 -->
+#### Revizní doplnění k § 159 — Námitka
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/280-2009 Zákon daňový řád.md`; identifikátor verze: `SB-2009-00280_2026-01-01`; SHA-256: `c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3`.
+
+##### Znění ustanovení
+
+> (1) Proti úkonu správce daně při placení daní, nejde-li o rozhodnutí, u kterého zákon připouští podání odvolání, může osoba zúčastněná na správě daní uplatnit námitku ve lhůtě 30 dnů ode dne, kdy se o úkonu dozvěděla. Vyrozumívá-li správce daně osobu zúčastněnou na správě daní o úkonu při placení daní, proti němuž lze uplatnit námitku, poučí ji současně o možnosti jejího uplatnění.
+>
+> (2) Námitka se podává u správce daně, který úkon provedl.
+>
+> (3) Správce daně námitku posoudí a rozhodne o ní. Vyhoví-li námitce v plném rozsahu, napadený úkon zruší, a vyhoví-li námitce částečně, napadený úkon změní nebo zjedná nápravu jiným způsobem. Neuzná-li správce daně oprávněnost v námitce uplatňovaných důvodů, námitku rozhodnutím zamítne. Rozhodnutí, kterým je námitce v plném rozsahu vyhověno, se neodůvodňuje.
+>
+> (4) V řízení o námitce se použije obdobně § 111 odst. 5 a [[#§ 112|§ 112]]. Proti rozhodnutí o námitce nelze uplatnit opravné prostředky ani další námitku.
+>
+> (5) V případě, kdy námitka směřuje proti rozhodnutí správce daně, je řádným opravným prostředkem proti tomuto rozhodnutí. Ustanovení vylučující uplatnění opravných prostředků se na tuto námitku nepoužijí.
+>
+> (6) Ochrany před nečinností správce daně při placení daní se lze namísto podnětu na nečinnost domáhat prostřednictvím námitky.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 111, § 112
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=c78c36c2fc865a48711a -->
 
 ### § 160 — Lhůta pro placení daně
 
@@ -1255,6 +2119,88 @@ Lhůta pro placení je prekluzivní (6 let od splatnosti), přerušuje se taxati
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=ae20361fc869bb07cc30 generator=2026-07-17.4 source_sha256=c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3 -->
+#### Revizní doplnění k § 160 — Lhůta pro placení daně
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/280-2009 Zákon daňový řád.md`; identifikátor verze: `SB-2009-00280_2026-01-01`; SHA-256: `c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3`.
+
+##### Znění ustanovení
+
+> (1) Daň nelze vybrat a vymáhat po uplynutí lhůty pro placení daně, která činí 6 let. Lhůta pro placení daně začne běžet dnem splatnosti daně.
+>
+> (2) Byl-li před uplynutím lhůty pro placení daně správcem daně učiněn úkon podle odstavce 3, běží lhůta pro placení daně znovu ode dne, v němž byl tento úkon učiněn.
+>
+> (3) Úkonem přerušujícím běh lhůty pro placení daně je
+>
+> - a) pravomocné stanovení daně,
+>
+> - b) zahájení exekučního řízení podle tohoto nebo jiného zákona,
+>
+> - c) zřízení zástavního práva, nebo
+>
+> - d) oznámení rozhodnutí o posečkání nebo rozhodnutí, kterým se mění stanovená doba posečkání.
+>
+> (4) Lhůta pro placení daně neběží po dobu
+>
+> - a) vymáhání daně soudem nebo soudním exekutorem,
+>
+> - b) přihlášení daňové pohledávky do insolvenčního řízení nebo do veřejné dražby,
+>
+> - c) uplatnění pohledávky za majetkovou podstatou u osoby s dispozičními oprávněními během insolvenčního řízení,
+>
+> - d) posečkání úhrady daně podle [[#§ 157a|§ 157a]],
+>
+> - e) odkladu daňové exekuce odložené na návrh,
+>
+> - f) daňové exekuce srážkami ze mzdy,
+>
+> - g) dožádání mezinárodní pomoci při vymáhání daně, nebo
+>
+> - h) restrukturalizačního řízení, pokud se správce daně stal dotčenou stranou podle [[zákona upravujícího preventivní restrukturalizaci|zákona upravujícího preventivní restrukturalizaci]].
+>
+> (5) Lhůta pro placení daně končí nejpozději uplynutím 20 let od jejího počátku podle odstavce 1, s výjimkou daně zajištěné podle odstavce 6.
+>
+> (6) Je-li daň zajištěna zástavním právem, které se zapisuje do příslušného veřejného seznamu nebo rejstříku, zaniká právo vybrat a vymáhat daň uplynutím 30 let po tomto zápisu.
+>
+> (7) Lhůta pro placení daně neskončí dříve než lhůta pro stanovení této daně.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 157a
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=ae20361fc869bb07cc30 -->
+
 ## Díl 2 — Dělená správa
 
 ### § 161 — Pojem a druhy dělené správy
@@ -1324,6 +2270,56 @@ Dělená správa funkčně rozděluje uložení povinnosti a správu jejího pla
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=aae61861557946ad3011 generator=2026-07-17.4 source_sha256=c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3 -->
+#### Revizní doplnění k § 161
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/280-2009 Zákon daňový řád.md`; identifikátor verze: `SB-2009-00280_2026-01-01`; SHA-256: `c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3`.
+
+##### Znění ustanovení
+
+> (1) K procesní dělené správě dochází, je-li rozhodnutím orgánu veřejné moci, který není správcem daně, vydaným při výkonu veřejné moci uložena platební povinnost k peněžitému plnění určenému do veřejného rozpočtu a postupuje-li se při jeho placení podle tohoto zákona nebo podle jeho jednotlivých ustanovení. To platí i tehdy, pokud vznikla platební povinnost k peněžitému plnění určenému do veřejného rozpočtu přímo ze zákona bez vydání rozhodnutí.
+>
+> (2) Orgán veřejné moci věcně příslušný ke správě placení peněžitého plnění podle odstavce 1 je v tomto rozsahu správcem daně. Osoba povinná k placení tohoto peněžitého plnění má stejná práva a povinnosti jako daňový subjekt při placení daní.
+>
+> (3) K věcné dělené správě dochází, jestliže zákon stanoví, že ke správě placení peněžitého plnění je příslušný jiný správní orgán než orgán veřejné moci, který platební povinnost k peněžitému plnění uložil.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=aae61861557946ad3011 -->
+
 ### § 162 — Předávání údajů v dělené správě
 
 > **§ 162**
@@ -1391,6 +2387,62 @@ Předání v dělené správě je formalizované: povinně elektronicky ve stano
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=583ebf04ea0faba18635 generator=2026-07-17.4 source_sha256=c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3 -->
+#### Revizní doplnění k § 162
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/280-2009 Zákon daňový řád.md`; identifikátor verze: `SB-2009-00280_2026-01-01`; SHA-256: `c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3`.
+
+##### Znění ustanovení
+
+> (1) Pokud orgán veřejné moci, který uložil platební povinnost k peněžitému plnění v rámci dělené správy, není současně příslušný ke správě placení tohoto peněžitého plnění, předá příslušnému správci daně nezbytné údaje o uložení nebo vzniku této povinnosti nejpozději do 30 dnů ode dne právní moci rozhodnutí, jímž byla platební povinnost uložena; přílohou těchto údajů je stejnopis rozhodnutí s vyznačením právní moci a přehled o předávaných rozhodnutích.
+>
+> (2) Pokud orgán veřejné moci, který uložil platební povinnost k peněžitému plnění v rámci dělené správy, není současně příslušný k vymáhání tohoto peněžitého plnění, předá příslušnému správci daně nezbytné údaje o uložení nebo vzniku této platební povinnosti, včetně stejnopisu rozhodnutí s vyznačením právní moci a přehledu předávaných rozhodnutí. Tyto údaje jsou předávány o peněžitém plnění, které nebylo dobrovolně uhrazeno do 30 dnů po marném uplynutí lhůty jeho splatnosti.
+>
+> (3) Orgán veřejné moci, který předal údaje ke správě placení peněžitého plnění v rámci dělené správy příslušnému správci daně, je povinen tomuto správci daně neprodleně sdělit jakékoliv změny, které nastaly nebo mohou nastat při správě placení těchto peněžitých plnění.
+>
+> (4) Správce daně, který převzal údaje ke správě placení peněžitého plnění v rámci dělené správy, poskytne na dožádání orgánu veřejné moci, který mu tyto údaje předal, údaje o placení tohoto peněžitého plnění.
+>
+> (5) Předání údajů ke správě placení peněžitého plnění v rámci dělené správy a žádost, kterou orgán veřejné moci žádá obecného správce daně o výkon správy placení nebo vymáhání peněžitého plnění v rámci dělené správy, lze učinit pouze elektronicky ve formátu a struktuře určených a zveřejněných správcem daně způsobem umožňujícím dálkový přístup.
+>
+> (6) Údaje podle odstavců 1 až 4 lze poskytovat také v rozsahu a způsobem dohodnutým mezi příslušným orgánem veřejné moci a správcem daně.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=583ebf04ea0faba18635 -->
+
 ### § 162a — Přechod příslušnosti k vymáhání
 
 > **§ 162a**
@@ -1442,6 +2494,56 @@ Přechod příslušnosti k vymáhání automaticky zahrnuje i vybírání (odst.
 **Typicky rozhodné důkazy / podklady:** žádost o převzetí vymáhání a doklad o doručení, podklady k titulu, doklady o nákladech a škodě, případně doklad o zániku povinnosti.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=52f94341c94bbee35883 generator=2026-07-17.4 source_sha256=c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3 -->
+#### Revizní doplnění k § 162a
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/280-2009 Zákon daňový řád.md`; identifikátor verze: `SB-2009-00280_2026-01-01`; SHA-256: `c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3`.
+
+##### Znění ustanovení
+
+> (1) Dojde-li k přechodu příslušnosti k vymáhání peněžitého plnění v rámci dělené správy, přechází současně i příslušnost k jeho vybírání.
+>
+> (2) Požádá-li orgán veřejné moci obecného správce daně o výkon správy placení nebo vymáhání peněžitého plnění v rámci dělené správy, dochází tím k přechodu příslušnosti k výkonu správy placení nebo vymáhání tohoto peněžitého plnění. Tuto žádost nelze vzít zpět.
+>
+> (3) Orgán veřejné moci, který pozbyl příslušnost ke správě placení peněžitého plnění nebo vymáhání v rámci dělené správy, je povinen příslušnému správci daně uhradit hotové výdaje, úroky hrazené správcem daně a přiznanou náhradu škody, pokud tento orgán veřejné moci způsobil jejich vznik.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=52f94341c94bbee35883 -->
 
 ## Díl 3 — Vybírání daní
 
@@ -1524,6 +2626,82 @@ Daň se platí v české měně; bezhotovostní převod je primární způsob, h
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=e8cd25e0555bff30f1dc generator=2026-07-17.4 source_sha256=c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3 -->
+#### Revizní doplnění k § 163
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/280-2009 Zákon daňový řád.md`; identifikátor verze: `SB-2009-00280_2026-01-01`; SHA-256: `c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3`.
+
+##### Znění ustanovení
+
+> (1) Daň se platí příslušnému správci daně v české měně.
+>
+> (2) Je-li platba poukázána v cizí měně, zaeviduje ji správce daně na osobní daňový účet daňového subjektu ve výši, v jaké mu byla připsána na účet v české měně.
+>
+> (3) Daň lze platit
+>
+> - a) bezhotovostním převodem z účtu vedeného u poskytovatele platebních služeb na příslušný účet správce daně,
+>
+> - b) v hotovosti
+>
+>   - 1. prostřednictvím poskytovatele platebních služeb nebo poštovním poukazem na příslušný účet správce daně,
+>
+>   - 2. úřední osobě pověřené přijímat tyto platby, přičemž součet plateb na všechny druhy daně za jeden daňový subjekt nesmí v průběhu jednoho kalendářního dne u jednoho správce daně přesáhnout částku 500 000 Kč,
+>
+>   - 3. šekem, jehož proplacení je zajištěno poskytovatelem platebních služeb,
+>
+>   - 4. daňovému exekutorovi, jde-li o platbu při daňové exekuci, a
+>
+>   - 5. oprávněné úřední osobě, jde-li o platbu pokuty, kterou lze na základě zjednodušeného řízení hradit na místě,
+>
+> - c) přeplatkem na jiné dani.
+>
+> (4) V případech podle odstavce 3 písm. b) bodů 2, [[#§ 4|4]] a [[#§ 5|5]] lze platit daň v hotovosti také v cizí měně, pokud pro ni vyhlašuje Česká národní banka kurz devizového trhu, a jedná-li se o druh daně, v jehož případě správce daně zveřejnil způsobem umožňujícím dálkový přístup skutečnost, že daň lze platit v hotovosti také v této cizí měně, a podmínky, které je při těchto platbách nutné dodržet.
+>
+> (5) Je-li daň podle odstavce 4 uhrazena v cizí měně, zaeviduje ji správce daně na osobní daňový účet daňového subjektu v české měně. Při přepočtu měny se použije kurz devizového trhu vyhlášený Českou národní bankou pro den, který předchází dni platby daně.
+>
+> (6) Vznikne-li nedoplatek nebo přeplatek pouze v důsledku kurzového rozdílu nebo zaokrouhlení při přepočtu měny, tento
+>
+> - a) nedoplatek zaniká,
+>
+> - b) přeplatek zaniká a stává se příjmem rozpočtu, ze kterého je hrazena činnost správce daně, který jej evidoval.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 4, § 5
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=e8cd25e0555bff30f1dc -->
+
 ### § 164 — Označení platby a nejasné platby
 
 > **§ 164**
@@ -1593,6 +2771,58 @@ Platbu je nutné jednoznačně označit; neoznačená platba jde na účet nejas
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=7d0d0f155303edc9953c generator=2026-07-17.4 source_sha256=c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3 -->
+#### Revizní doplnění k § 164
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/280-2009 Zákon daňový řád.md`; identifikátor verze: `SB-2009-00280_2026-01-01`; SHA-256: `c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3`.
+
+##### Znění ustanovení
+
+> (1) Daňový subjekt je povinen uvést, na kterou daň je platba určena, a správce daně ji na tuto daň přijme.
+>
+> (2) Platbu vykonanou bez dostatečného označení daně přijme správce daně na účtu nejasných plateb a vyzve daňový subjekt, aby mu ve stanovené lhůtě oznámil, na kterou daň byla platba určena. Obdrží-li správce daně odpověď ve stanovené lhůtě, zaeviduje platbu na daň určenou daňovým subjektem v odpovědi s účinností ke dni, kdy byla vykonána. Neodpoví-li daňový subjekt ve stanovené lhůtě, určí správce daně, na kterou daň se platba zaeviduje; v tomto případě platí za den platby den, kdy ji správce daně zaevidoval.
+>
+> (3) Na účet nejasných plateb přijme správce daně i platby, u nichž není jednoznačně identifikován daňový subjekt, a učiní opatření k jeho identifikaci; odstavec 2 se použije přiměřeně. Není-li platba identifikována do 6 let od konce roku, ve kterém byla přijata na účet nejasných plateb, stává se příjmem rozpočtu, ze kterého je hrazena činnost správce daně, který platbu přijal, a zaniká nárok na její vrácení.
+>
+> (4) Správce daně přijme každou platbu daně, i když není provedena daňovým subjektem, a zachází s ní stejným způsobem, jako by ji vykonal daňový subjekt.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=7d0d0f155303edc9953c -->
+
 ### § 165 — Vrácení chybné platby
 
 > **§ 165**
@@ -1650,6 +2880,60 @@ Platbu za subjekt zásadně nelze plátci vrátit (odst. 1). Omylnou platbu lze 
 **Typicky rozhodné důkazy / podklady:** doklad o (dvojí) platbě, žádost s prokázáním omylu, údaj o dni zaevidování platby, výpis ODA o (ne)spotřebování platby na nedoplatek.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=7164d7606ee5a1f6c516 generator=2026-07-17.4 source_sha256=c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3 -->
+#### Revizní doplnění k § 165
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/280-2009 Zákon daňový řád.md`; identifikátor verze: `SB-2009-00280_2026-01-01`; SHA-256: `c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3`.
+
+##### Znění ustanovení
+
+> (1) Vrácení platby tomu, kdo ji za daňový subjekt uhradil, není přípustné.
+>
+> (2) Správce daně vrátí platbu provedenou omylem na žádost toho, kdo za daňový subjekt platbu uhradil, poskytovatele platebních služeb nebo provozovatele poštovních služeb podanou nejpozději v den, kdy platba daně byla zaevidována v evidenci daní. Omyl musí být v žádosti prokázán.
+>
+> (3) Je-li žádost podle odstavce 2 podána po dni, kdy byla platba zaevidována v evidenci daní, nejpozději však do 1 roku od tohoto dne, posoudí se jako žádost o vrácení vratitelného přeplatku podaná daňovým subjektem s tím, že případný vratitelný přeplatek evidovaný v době podání žádosti se vrací žadateli namísto daňovému subjektu. Tomu, kdo za daňový subjekt uhradil platbu, lze takto vzniklý vratitelný přeplatek vrátit pouze tehdy, pokud nemá současně u správce daně evidován nedoplatek, na který by bylo možné tento přeplatek převést.
+>
+> (4) Nelze-li žádosti vyhovět, vydá správce daně žadateli potvrzení o došlé platbě a o totožnosti daňového subjektu, na úhradu jehož nedoplatku byla v důsledku jím způsobené chyby zaevidována.
+>
+> (5) O vrácení vratitelného přeplatku podle odstavce 3, jehož výše přesahuje částku 1 000 Kč, se daňový subjekt vyrozumí.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=7164d7606ee5a1f6c516 -->
 
 ### § 166 — Den platby
 
@@ -1723,6 +3007,66 @@ Den platby u bezhotovostního převodu je den připsání na účet správce dan
 **Typicky rozhodné důkazy / podklady:** doklad o zadání příkazu a o připsání na účet správce, údaj o dni splatnosti, u pošty doklad o převzetí a předání platby, identifikační údaje od poskytovatele platebních služeb (odst. 2).
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=153f9641f9ef34a5e2be generator=2026-07-17.4 source_sha256=c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3 -->
+#### Revizní doplnění k § 166 — Den platby
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/280-2009 Zákon daňový řád.md`; identifikátor verze: `SB-2009-00280_2026-01-01`; SHA-256: `c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3`.
+
+##### Znění ustanovení
+
+> (1) Za den platby se považuje
+>
+> - a) u platby, která byla prováděna poskytovatelem platebních služeb nebo provozovatelem poštovních služeb, den, kdy byla připsána na účet správce daně,
+>
+> - b) u platby prováděné v hotovosti u správce daně den, kdy úřední osoba platbu převzala, nebo
+>
+> - c) u platby prováděné bezhotovostním převodem, k němuž je dán platební příkaz prostřednictvím platební karty nebo obdobného platebního prostředku, den, kdy ten, kdo daň platí, předal platební příkaz správci daně.
+>
+> (2) Poskytovatel platebních služeb, u něhož je veden účet správce daně, je povinen sdělit správci daně bezúplatně údaje nezbytné k identifikaci platby a příkazce, jakož i další zpřesňující údaje o příkazci v případě nejasných plateb. Stejnou povinnost plní i provozovatel poštovních služeb přímo nebo prostřednictvím zúčastněného poskytovatele platebních služeb.
+>
+> (3) Provozovatel poštovních služeb, který přijal platbu k úhradě poštovním poukazem, ji předá k provedení převodu poskytovateli platebních služeb, který vede jeho účet, do 2 pracovních dnů ode dne, kdy platbu přijal; pro další převod této platby se uplatní lhůty podle zákona upravujícího platební styk.
+>
+> (4) Pokud provozovatel poštovních služeb nedodrží lhůtu podle odstavce 3, uhradí správci daně úrok z prodlení podle občanského zákoníku.
+>
+> (5) Úrok z prodlení uhrazený správci daně podle odstavce 4 je evidován a dále spravován jako příslušenství daně.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=153f9641f9ef34a5e2be -->
 
 ## Díl 4 — Zajištění daní
 
@@ -1822,6 +3166,60 @@ Zajišťovací příkaz je preventivní nástroj ke složení jistoty na dosud n
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=92d110eca966f1b87d71 generator=2026-07-17.4 source_sha256=c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3 -->
+#### Revizní doplnění k § 167
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/280-2009 Zákon daňový řád.md`; identifikátor verze: `SB-2009-00280_2026-01-01`; SHA-256: `c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3`.
+
+##### Znění ustanovení
+
+> (1) Je-li odůvodněná obava, že daň, u které dosud neuplynul den splatnosti, nebo daň, která nebyla dosud stanovena, bude v době její vymahatelnosti nedobytná, nebo že v této době bude vybrání daně spojeno se značnými obtížemi, může správce daně vydat zajišťovací příkaz.
+>
+> (2) Zajišťovacím příkazem správce daně uloží daňovému subjektu úhradu v příkazu uvedené částky.
+>
+> (3) Není-li nebezpečí z prodlení, správce daně uloží daňovému subjektu, aby do 3 pracovních dnů tuto částku daně zajistil ve prospěch správce daně složením jistoty na jeho depozitní účet. Hrozí-li nebezpečí z prodlení, je zajišťovací příkaz vykonatelný okamžikem oznámení daňovému subjektu.
+>
+> (4) U daně, která nebyla dosud stanovena, stanoví výši zajišťované částky správce daně podle vlastních pomůcek. Není-li nebezpečí z prodlení, může správce daně vyzvat daňový subjekt, aby nejpozději do 3 pracovních dnů sdělil údaje potřebné pro určení výše zajišťované daně.
+>
+> (5) Je-li zajišťovací příkaz vykonatelný, může správce daně na základě předchozího písemného souhlasu daňového subjektu s úředně ověřeným podpisem vyzvat tento daňový subjekt k podání prohlášení o majetku i v případě, že by nedoplatek mohl být uhrazen daňovou exekucí přikázáním pohledávky z účtu u poskytovatele platebních služeb.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=92d110eca966f1b87d71 -->
+
 ### § 168 — Zánik účinnosti zajišťovacího příkazu
 
 > **§ 168**
@@ -1900,6 +3298,62 @@ Nevydá-li odvolací orgán rozhodnutí o odvolání proti ZP do 30 dnů, ZP zan
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=ade3ac6314415637b0fc generator=2026-07-17.4 source_sha256=c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3 -->
+#### Revizní doplnění k § 168
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/280-2009 Zákon daňový řád.md`; identifikátor verze: `SB-2009-00280_2026-01-01`; SHA-256: `c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3`.
+
+##### Znění ustanovení
+
+> (1) Pokud není vydáno rozhodnutí o odvolání proti zajišťovacímu příkazu do 30 dnů ode dne, kdy bylo podáno, zajišťovací příkaz se stává neúčinným; § 35 odst. 2 se nepoužije.
+>
+> (2) Proti zajišťovacímu příkazu nelze uplatnit obnovu řízení.
+>
+> (3) Pominou-li před pravomocným stanovením daně nebo před dnem její splatnosti důvody, pro které bylo zajištění daně uplatněno, správce daně bezodkladně rozhodne o ukončení účinnosti zajišťovacího příkazu. Zjistí-li správce daně před pravomocným stanovením daně nebo před dnem její splatnosti důvody pro snížení původní výše zajištění, rozhodne o změně zajištěné částky rozhodnutím, které mění částku uvedenou v zajišťovacím příkazu a současně ukončí v rozsahu změny účinnost příkazu původního.
+>
+> (4) Dojde-li k pravomocnému stanovení daně, která nebyla v době vydání zajišťovacího příkazu stanovena, je tato daň splatná ke dni jejího pravomocného stanovení. Tímto dnem zaniká účinnost zajišťovacího příkazu a zajištěná částka se převede na úhradu této daně.
+>
+> (5) Uplynul-li den splatnosti u daně, u které byl zajišťovací příkaz vydán z důvodu, že dosud neuplynul den její splatnosti, zaniká tímto dnem účinnost zajišťovacího příkazu a zajištěná částka se převede na úhradu této daně.
+>
+> (6) Pokud daňový subjekt nesplní povinnost uloženou v zajišťovacím příkazu, může správce daně rozhodnout o zřízení zástavního práva k zajištění částky stanovené tímto zajišťovacím příkazem. Toto zástavní právo trvá v rozsahu, který odpovídá výši zajištěné daně, která byla stanovena nebo která se stala splatnou, po zániku účinnosti zajišťovacího příkazu z důvodů uvedených v odstavcích 4 a [[#§ 5|5.]]
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 35, § 5
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=ade3ac6314415637b0fc -->
+
 ### § 169 — Přechod exekučního titulu
 
 > **§ 169**
@@ -1952,6 +3406,52 @@ Při zániku ZP z důvodu splatnosti/pravomocného stanovení daně se exekučn�
 **Typicky rozhodné důkazy / podklady:** zajišťovací příkaz a exekuční příkazy, rozhodnutí o stanovení daně s právní mocí, rozhodnutí o změně exekučního titulu, evidence ODA o výši nedoplatku.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=8b74d0a366c3fc90d87d generator=2026-07-17.4 source_sha256=c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3 -->
+#### Revizní doplnění k § 169
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/280-2009 Zákon daňový řád.md`; identifikátor verze: `SB-2009-00280_2026-01-01`; SHA-256: `c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3`.
+
+##### Znění ustanovení
+
+> Pokud nebyla při vymáhání zahájeném na základě zajišťovacího příkazu zajištěná částka uhrazena do doby zániku účinnosti zajišťovacího příkazu z důvodu toho, že zajištěná daň se stala splatnou podle § 168 odst. 4 nebo [[#§ 5|5]], rozhodne správce daně, že vykonatelné rozhodnutí o stanovení daně se stává exekučním titulem namísto zajišťovacího příkazu a současně uvede výši nedoplatku, pro jehož úhradu má být vymáhání nadále prováděno. Účinky provedených exekučních úkonů zůstávají zachovány v rozsahu vymezeném novým exekučním titulem.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 168, § 5
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=8b74d0a366c3fc90d87d -->
 
 ### § 170 — Zástavní právo
 
@@ -2043,6 +3543,70 @@ Daňové zástavní právo je veřejnoprávní (vzniká doručením rozhodnutí)
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=db2f2553c11a00c15167 generator=2026-07-17.4 source_sha256=c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3 -->
+#### Revizní doplnění k § 170 — Zástavní právo
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/280-2009 Zákon daňový řád.md`; identifikátor verze: `SB-2009-00280_2026-01-01`; SHA-256: `c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3`.
+
+##### Znění ustanovení
+
+> (1) Správce daně může zřídit rozhodnutím zástavní právo k majetku daňového subjektu k zajištění jím neuhrazené daně za podmínek stanovených občanským zákoníkem, pokud tento zákon nestanoví jinak. K ujednání dlužníka a věřitele podle [[občanského zákoníku|občanského zákoníku]], které vylučuje postoupení pohledávky jinému, se přitom nepřihlíží.
+>
+> (2) Rozhodnutí o zřízení zástavního práva obsahuje ve výroku kromě náležitostí podle § 102 odst. 1 výši daně zajištěné zástavním právem a označení zástavy.
+>
+> (3) Správce daně může rozhodnout o zřízení zástavního práva k majetku vlastníka, odlišného od daňového subjektu, jehož nedoplatek je zajišťován, a to na základě předchozího písemného souhlasu vlastníka s úředně ověřeným podpisem.
+>
+> (4) Zástavní právo vzniká doručením rozhodnutí o zřízení zástavního práva daňovému subjektu nebo osobě podle odstavce 3. Správce daně bezodkladně po vzniku zástavního práva
+>
+> - a) doručí rozhodnutí o zřízení zástavního práva tomu, kdo vede veřejný seznam nebo rejstřík, je-li zástavou majetek, o kterém je veden tento veřejný seznam nebo rejstřík, nebo
+>
+> - b) podá návrh na vklad zástavního práva do katastru nemovitostí a návrh na zápis poznámek podle odstavce 6, je-li zástavou nemovitá věc, která je předmětem evidence v katastru nemovitostí.
+>
+> (5) Zástavní právo zřízené rozhodnutím správce daně zaniká rovněž právní mocí rozhodnutí, kterým správce daně ruší zástavní právo. O zániku zástavního práva z důvodů stanovených občanským zákoníkem vyrozumí správce daně daňový subjekt a vlastníka zástavy. Je-li zástavou nemovitá věc, která je předmětem evidence v katastru nemovitostí, podá správce daně návrh na výmaz zástavního práva z katastru nemovitostí a návrh na výmaz poznámek podle odstavce 6.
+>
+> (6) Je-li zástavní právo zřízeno rozhodnutím správce daně, hledí se na toto právo tak, jako by se vlastník zástavy zavázal, že
+>
+> - a) zástavním právem zapsaným ve výhodnějším pořadí nezajistí nový dluh; tato skutečnost se zapíše do příslušného veřejného seznamu nebo rejstříku, nebo
+>
+> - b) neumožní zápis nového zástavního práva namísto starého zástavního práva zapsaného ve výhodnějším pořadí než zástavní právo zřízené rozhodnutím správce daně; tato skutečnost se zapíše do příslušného veřejného seznamu nebo rejstříku.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 102
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=db2f2553c11a00c15167 -->
+
 ### § 170a — Výkon zástavního práva
 
 > **§ 170a**
@@ -2097,6 +3661,54 @@ Zástavní právo správce daně vykoná podle OZ (soudně i mimosoudně) s při
 **Typicky rozhodné důkazy / podklady:** rozhodnutí o zřízení zástavního práva, výpis z katastru/rejstříku, ocenění zástavy, podklady k výši zajištěné daně, doklady o pořadí zástavních práv.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=3a1cab32237c7e26061c generator=2026-07-17.4 source_sha256=c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3 -->
+#### Revizní doplnění k § 170a — Výkon zástavního práva
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/280-2009 Zákon daňový řád.md`; identifikátor verze: `SB-2009-00280_2026-01-01`; SHA-256: `c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3`.
+
+##### Znění ustanovení
+
+> (1) Správce daně může vykonat zástavní právo podle [[občanského zákoníku|občanského zákoníku]].
+>
+> (2) Při výkonu zástavního práva se přiměřeně použije ustanovení o provádění daňové exekuce.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=3a1cab32237c7e26061c -->
 
 ### § 171 — Ručení za daňový nedoplatek
 
@@ -2177,6 +3789,60 @@ Ručení za daňový nedoplatek je zákonné a subsidiární: výzvu lze vydat a
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=833f071fe1b3e41c4bb3 generator=2026-07-17.4 source_sha256=c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3 -->
+#### Revizní doplnění k § 171
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/280-2009 Zákon daňový řád.md`; identifikátor verze: `SB-2009-00280_2026-01-01`; SHA-256: `c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3`.
+
+##### Znění ustanovení
+
+> (1) Nedoplatek je povinen uhradit také ručitel, pokud mu zákon16) povinnost ručení ukládá a pokud mu správce daně ve výzvě sdělí stanovenou daň, za kterou ručí, a současně jej vyzve k úhradě nedoplatku ve stanovené lhůtě; kopie rozhodnutí o stanovení daně je přílohou této výzvy.
+>
+> (2) Zanikne-li daňový subjekt bez právního nástupce, povinnost ručitele uhradit nedoplatek tím není dotčena.
+>
+> (3) Výzvu ručiteli lze vydat, pokud nebyl nedoplatek uhrazen daňovým subjektem, ačkoliv byl daňový subjekt o jeho úhradu bezvýsledně upomenut, a nedoplatek nebyl uhrazen ani při vymáhání na daňovém subjektu, pokud není zřejmé, že vymáhání by bylo prokazatelně bezvýsledné; výzvu ručiteli lze vydat rovněž po zahájení insolvenčního řízení vůči daňovému subjektu. Výzvu ručiteli lze vydat i po uplynutí lhůty pro stanovení daně, pokud neuplynula lhůta pro placení daně.
+>
+> (4) Proti výzvě ručiteli se může ručitel odvolat; včas podané odvolání má odkladný účinek.
+>
+> (5) V rozhodnutí o odvolání lze snížit nedoplatek, který má být ručitelem uhrazen, jako výsledek doměřovacího řízení nebo řízení o dozorčím prostředku vůči rozhodnutí o stanovení daně, za kterou ručitel ručí. V případě, že takto nelze změnit výši stanovené daně v důsledku uplynutí lhůty pro stanovení daně, lze při uznání důvodů, že původní daň byla stanovena nesprávně, snížit nedoplatek, který má být ručitelem uhrazen, pouze vůči ručiteli.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=833f071fe1b3e41c4bb3 -->
+
 ### § 172 — Procesní postavení ručitele
 
 > **§ 172**
@@ -2247,6 +3913,62 @@ Ručitel má po výzvě procesní postavení daňového subjektu (nahlížení d
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=3748ce288d2c890f1624 generator=2026-07-17.4 source_sha256=c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3 -->
+#### Revizní doplnění k § 172
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/280-2009 Zákon daňový řád.md`; identifikátor verze: `SB-2009-00280_2026-01-01`; SHA-256: `c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3`.
+
+##### Znění ustanovení
+
+> (1) Ručitel, kterému byla doručena výzva podle § 171 odst. 1, má při placení daní procesní postavení jako daňový subjekt, jakož i oprávnění ke zproštění povinnosti mlčenlivosti podle § 52 odst. 2 o informacích podléhajících povinnosti mlčenlivosti, se kterými byl seznámen.
+>
+> (2) Po oznámení výzvy ručiteli je ručitel oprávněn nahlížet do spisu ohledně nedoplatku, za který ručí, v rozsahu nezbytném pro uplatnění opravného prostředku, podání podnětu k použití dozorčího prostředku nebo podnětu k prominutí daně. Do té doby má právo na informaci od správce daně o výši nedoplatku, za který ručí.
+>
+> (3) Je-li na žádost ručitele povoleno posečkání, lze nedoplatek po tuto dobu vymáhat pouze na daňovém subjektu.
+>
+> (4) Ručiteli, který je v prodlení s úhradou nedoplatku, ke které byl vyzván, nevzniká k tomuto nedoplatku samostatný úrok z prodlení; to platí i pro úrok z posečkané částky v případě, že je ručiteli povoleno posečkání.
+>
+> (5) Ručiteli, který uhradil za daňový subjekt nedoplatek, vydá správce daně potvrzení o úhradě tohoto nedoplatku.
+>
+> (6) Platba daně provedená ručitelem se použije na úhradu nedoplatku daňového subjektu, za který ručitel ručí. Nelze-li tuto platbu zcela nebo zčásti použít na úhradu uvedeného nedoplatku, neboť byl ke dni platby již zcela nebo zčásti uhrazen, vznikne ručiteli přeplatek ve výši rovnající se částce, která nebyla použita na úhradu nedoplatku. Správce daně převede tento přeplatek na případný nedoplatek na osobním účtu ručitele, na kterém se eviduje o jeho vlastních daňových povinnostech. Nemá-li ručitel nedoplatek, na který lze přeplatek převést, správce daně přeplatek nebo jeho zbývající část ručiteli vrátí bez žádosti do 30 dnů od jeho vzniku. Stejně se postupuje v případě, že dojde k zániku daňové povinnosti, kterou ručitel zcela nebo zčásti uhradil.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 171, § 52
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=3748ce288d2c890f1624 -->
+
 ### § 173 — Ručení finanční zárukou
 
 > **§ 173**
@@ -2298,6 +4020,56 @@ Ručitel má po výzvě procesní postavení daňového subjektu (nahlížení d
 **Typicky rozhodné důkazy / podklady:** záruční listina / písemné prohlášení ručitele s ověřeným podpisem, rozhodnutí o přijetí ručení/záruky, výzva k plnění, doklady o výši zajištěné daně.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=19a080e26f990ac9e1c5 generator=2026-07-17.4 source_sha256=c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3 -->
+#### Revizní doplnění k § 173 — Zajištění daně ručením nebo finanční zárukou
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/280-2009 Zákon daňový řád.md`; identifikátor verze: `SB-2009-00280_2026-01-01`; SHA-256: `c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3`.
+
+##### Znění ustanovení
+
+> (1) Správce daně může rozhodnout o přijetí ručení třetí osoby odlišné od daňového subjektu k zajištění jím neuhrazené daně, a to na základě písemného prohlášení ručitele s úředně ověřeným podpisem.
+>
+> (2) Správce daně může rozhodnout o přijetí finanční záruky k zajištění dosud neuhrazené daně, a to na základě předloženého písemného prohlášení výstavce v záruční listině o tom, že na výzvu správce daně uhradí zajištěnou částku. Nejde-li o bankovní záruku, musí být záruční listina opatřena úředně ověřeným podpisem.
+>
+> (3) Při úhradě nedoplatku zajištěného podle odstavce 1 nebo [[#§ 2|2]] se postupuje obdobně podle [[#§ 171|§ 171]] a [[#§ 172|172]].
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 2, § 171, § 172
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=19a080e26f990ac9e1c5 -->
 
 ### § 174 — Zálohy na daň
 
@@ -2374,6 +4146,64 @@ Zálohy jsou průběžné zajišťovací plnění na budoucí daň; jejich povin
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=dfb8208f9306d20cf662 generator=2026-07-17.4 source_sha256=c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3 -->
+#### Revizní doplnění k § 174 — Zálohy
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/280-2009 Zákon daňový řád.md`; identifikátor verze: `SB-2009-00280_2026-01-01`; SHA-256: `c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3`.
+
+##### Znění ustanovení
+
+> (1) Daň lze zajistit prostřednictvím placení záloh, jestliže daň není ještě známa a neuplynul-li den její splatnosti. Povinnost platit daň prostřednictvím záloh stanoví zákon.
+>
+> (2) Daňový subjekt je povinen platit zálohy na daň ve výši a lhůtách stanovených zákonem nebo rozhodnutím správce daně.
+>
+> (3) Po skončení zdaňovacího období nebo období, za které je podáváno daňové přiznání, popřípadě vyúčtování, se uhrazené zálohy na daň započítávají na úhradu splatné daně.
+>
+> (4) Závisí-li změna periodicity nebo výše záloh na poslední známé dani, účinnost změny poslední známé daně nastává následující měsíc po právní moci rozhodnutí o stanovení daně.
+>
+> (5) V odůvodněných případech stanoví správce daně zálohy jinak, popřípadě povolí výjimku z povinnosti daň zálohovat, a to i za celé zdaňovací období.
+>
+> (6) Daňovému subjektu, kterému nově vznikne povinnost platit daň, pro kterou zákon stanoví zálohy, správce daně stanoví na základě jeho žádosti, nebo z moci úřední zálohy s přihlédnutím k očekávané daňové povinnosti; jde-li o daňový subjekt, kterému současně vznikne registrační povinnost, uvede údaje potřebné pro stanovení této zálohy při registraci.
+>
+> (7) Pokud nebyla při vymáhání uhrazena splatná částka zálohy na daň do doby stanovení této daně, rozhodne správce daně, že vykonatelné rozhodnutí o stanovení této daně se stává exekučním titulem namísto dosavadního exekučního titulu nebo titulů a současně uvede výši nedoplatku, pro jehož úhradu má být vymáhání nadále prováděno. Účinky provedených exekučních úkonů zůstávají zachovány v rozsahu vymezeném novým exekučním titulem.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=dfb8208f9306d20cf662 -->
+
 ### § 174a — Záloha na daňový odpočet
 
 > **§ 174a**
@@ -2449,6 +4279,60 @@ Záloha na daňový odpočet uvolňuje nespornou (neprověřovanou) část odpo�
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=90cf1ce746946b9b444f generator=2026-07-17.4 source_sha256=c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3 -->
+#### Revizní doplnění k § 174a — Záloha na daňový odpočet
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/280-2009 Zákon daňový řád.md`; identifikátor verze: `SB-2009-00280_2026-01-01`; SHA-256: `c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3`.
+
+##### Znění ustanovení
+
+> (1) V případě, kdy tak stanoví zákon, vzniká daňovému subjektu nárok na zálohu na daňový odpočet ve výši odpovídající té části daňového odpočtu nárokovaného v jím podaném daňovém tvrzení, kterou správce daně nehodlá prověřovat v rámci postupu k odstranění pochybností nebo daňové kontroly.
+>
+> (2) Nárok na zálohu na daňový odpočet nevzniká, pokud by výše jednotlivé zálohy nedosáhla částky 50 000 Kč.
+>
+> (3) Jsou-li naplněny podmínky pro vznik zálohy na daňový odpočet, správce daně ji bez zbytečného odkladu předepíše do evidence daní s účinky ke dni tohoto předepsání a současně o tom daňový subjekt vhodným způsobem vyrozumí.
+>
+> (4) Vznikne-li v důsledku předepsání zálohy na daňový odpočet vratitelný přeplatek, vrátí jej správce daně daňovému subjektu bez žádosti do 15 dnů ode dne předepsání této zálohy do evidence daní.
+>
+> (5) Byla-li proti postupu správce daně při posouzení vzniku nároku na zálohu na daňový odpočet podána námitka, lze novou námitku ve věci týkající se téhož daňového odpočtu podat nejdříve po 60 dnech ode dne právní moci rozhodnutí, kterým je rozhodnuto o předchozí námitce.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=90cf1ce746946b9b444f -->
+
 ### § 174b — Vypořádání zálohy na daňový odpočet
 
 > **§ 174b**
@@ -2507,6 +4391,56 @@ Po skončení prověřování správce v platebním výměru vypořádá vyplace
 **Typicky rozhodné důkazy / podklady:** platební výměr na DPH s vypořádáním zálohy, doklad o výši vyplacené zálohy, evidence ODA, doklad o právní moci výměru.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=8411426a9d1b8cf43f31 generator=2026-07-17.4 source_sha256=c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3 -->
+#### Revizní doplnění k § 174b — Vypořádání zálohy na daňový odpočet
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/280-2009 Zákon daňový řád.md`; identifikátor verze: `SB-2009-00280_2026-01-01`; SHA-256: `c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3`.
+
+##### Znění ustanovení
+
+> (1) Správce daně se v rámci rozhodnutí o stanovení daně vypořádá s výší předepsané zálohy na daňový odpočet a určí částku, která má být v důsledku tohoto vypořádání daňovým subjektem uhrazena nebo která se má stát vratkou daňového subjektu.
+>
+> (2) Správcem daně vrácená, použitá nebo převedená záloha na daňový odpočet se započte vůči částce, která se má stát v důsledku stanovení daňového odpočtu vratkou daňového subjektu.
+>
+> (3) Vznikne-li v důsledku vypořádání daňovému subjektu povinnost uhradit rozdíl mezi správcem daně vrácenou, použitou nebo převedenou zálohou na daňový odpočet a výší stanovené daně, je daňový subjekt povinen vzniklý rozdíl uhradit do 15 dnů ode dne právní moci platebního výměru nebo dodatečného platebního výměru.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=8411426a9d1b8cf43f31 -->
 
 ## Synoptická tabulka — zajišťovací nástroje při placení daní
 

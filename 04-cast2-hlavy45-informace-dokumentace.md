@@ -128,6 +128,68 @@ Mlčenlivost dle § 52 chrání vše, co se úřední či zúčastněná osoba d
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=e6373eb5b299b4029195 generator=2026-07-17.4 source_sha256=c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3 -->
+#### Revizní doplnění k § 52
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/280-2009 Zákon daňový řád.md`; identifikátor verze: `SB-2009-00280_2026-01-01`; SHA-256: `c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3`.
+
+##### Znění ustanovení
+
+> (1) Úřední osoby a osoby zúčastněné na správě daní jsou vázány povinností mlčenlivosti o tom, co se při správě daní dozvěděly o poměrech jiných osob. To neplatí pro daňový subjekt, pokud jde o informace získané nebo použité při správě jeho daní.
+>
+> (2) Daňový subjekt může správce daně nebo jinou osobu zúčastněnou na správě daní zprostit povinnosti mlčenlivosti ohledně údajů, které se ho týkají, a údajů, které byly využity při dokazování jeho povinností při správě daní, s uvedením rozsahu údajů a účelu zproštění. Zanikne-li daňový subjekt bez právního nástupce, nebo zemře-li bez dědice, má oprávnění ke zproštění povinnosti mlčenlivosti ministr financí.
+>
+> (3) Povinnost mlčenlivosti se nevztahuje na informace veřejně známé, nebo které jsou veřejnosti dostupné z informačních systémů veřejné správy.
+>
+> (4) Porušením povinnosti mlčenlivosti není zveřejnění zobecněných informací získaných při správě daní, z nichž nevyplývá, které osoby se týkají.
+>
+> (5) O porušení povinnosti mlčenlivosti nejde, poskytne-li úřední osoba informace
+>
+> - a) úřední osobě téhož nebo jiného správce daně pro výkon jeho pravomoci,
+>
+> - b) úřední osobě při plnění povinností ve věcech archivnictví, nebo
+>
+> - c) osobě zúčastněné na správě daní v rozsahu, v jakém jsou její práva a povinnosti správou daní dotčena.
+>
+> (6) Povinnost mlčenlivosti se nevztahuje na informace získané při správě daní zveřejňované při plnění informační povinnosti poskytovatele veřejné podpory nebo podpory malého rozsahu podle jiného zákona nebo přímo použitelného předpisu Evropské unie nebo rozhodnutí Evropské komise z oblasti veřejných podpor.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=e6373eb5b299b4029195 -->
+
 ### § 53 — Výjimky z mlčenlivosti — poskytování informací jiným orgánům
 
 > **§ 53**
@@ -258,6 +320,100 @@ Sdílení informací pro trestní řízení je podmíněno trojí podmínkou:
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=86626938201cdc5c312a generator=2026-07-17.4 source_sha256=c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3 -->
+#### Revizní doplnění k § 53
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/280-2009 Zákon daňový řád.md`; identifikátor verze: `SB-2009-00280_2026-01-01`; SHA-256: `c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3`.
+
+##### Znění ustanovení
+
+> (1) O porušení povinnosti mlčenlivosti nejde, poskytne-li správce daně informace získané při správě daní
+>
+> - a) Finančnímu analytickému úřadu na základě zákona o některých opatřeních proti legalizaci výnosů z trestné činnosti a financování terorismu nebo zákona [[o provádění mezinárodních sankcí|o provádění mezinárodních sankcí]],
+>
+> - b) koordinačnímu orgánu veřejné podpory podle zákona upravujícího některé vztahy v oblasti veřejné podpory při plnění informační povinnosti ve věci veřejné podpory nebo podpory malého rozsahu poskytované správcem daně,
+>
+> - c) soudu, jde-li o
+>
+> - 1. řízení vedené z podnětu daňového subjektu ve věci správy jeho daní,
+>
+> - 2. uplatnění práva správcem daně při správě daní, nebo
+>
+> - 3. údaje potřebné pro účely rozhodnutí o výživném,
+>
+> - 4. oznámení nesrovnalosti podle zákona upravujícího evidenci skutečných majitelů,
+>
+> - d) správnímu orgánu, který vede řízení o správním deliktu, který se týká porušení povinnosti při správě daní,
+>
+> - e) Ministerstvu práce a sociálních věcí při výkonu jeho působnosti a dalším orgánům sociálního zabezpečení při výkonu jejich působnosti, jde-li o údaje, které mohou tyto úřady vyžadovat v rozsahu nezbytném k plnění úkolů ve své působnosti,
+>
+> - f) zdravotním pojišťovnám, jde-li o údaje nezbytné pro stanovení platby pojistného na veřejné zdravotní pojištění, které mohou tyto pojišťovny při výkonu své zákonné pravomoci požadovat od plátců pojistného, kteří jsou daňovými subjekty,
+>
+> - g) Nejvyššímu kontrolnímu úřadu, jakož i dalším kontrolním orgánům, pokud provádí v rozsahu svého oprávnění kontrolu podle schváleného plánu kontrolní činnosti a pokud jsou oprávněny kontrolovat správu daní,
+>
+> - h) Českému statistickému úřadu, jde-li o údaje nezbytné pro potřeby sestavování národních účtů Evropských společenství a pro potřeby vedení statistických registrů,
+>
+> - i) Komoře daňových poradců nebo České advokátní komoře ke kárnému řízení s jejím členem, jakož i orgánu, který jmenoval znalce nebo tlumočníka, pro řízení o jeho odvolání,
+>
+> - j) příslušnému orgánu veřejné moci pro projednání nároku podle zákona o odpovědnosti za škodu způsobenou při správě daní výkonem veřejné moci rozhodnutím nebo nesprávným úředním postupem,
+>
+> - k) veřejnému ochránci práv nebo ochránci práv dětí při výkonu jejich působnosti podle jiného právního předpisu.
+>
+> - l) orgánu veřejné moci pro účely prokázání skutečnosti, že daňový subjekt nemá u správce daně evidován nedoplatek, a to v případě, kdy takové prokázání požaduje jiný zákon,
+>
+> - m) Ministerstvu financí jako orgánu příslušnému k jednání v řízení na základě mezinárodní smlouvy, a to v rozsahu projednávání správy daní v tomto řízení.
+>
+> (2) O porušení povinnosti mlčenlivosti rovněž nejde, poskytne-li správce daně informace získané při správě daní pro účely trestního řízení, pokud je požaduje státní zástupce a po podání obžaloby soud v souvislosti s objasněním okolností nasvědčujících tomu, že byl spáchán
+>
+> - a) některý z trestných činů daňových, poplatkových a devizových,
+>
+> - b) trestný čin, jehož nepřekažení nebo neoznámení je trestným činem,
+>
+> - c) trestný čin dotačního podvodu, trestný čin zkreslování údajů o stavu hospodaření a jmění a trestný čin poškození finančních zájmů Evropské unie,
+>
+> - d) některý z trestných činů proti výkonu pravomoci orgánu veřejné moci a úřední osoby, některý z trestných činů úředních osob, některý z trestných činů úplatkářství a trestný čin maření výkonu úředního rozhodnutí a vykázání, nebo
+>
+> - e) některý z trestných činů proti měně a platebním prostředkům, trestný čin padělání a pozměnění veřejné listiny a trestný čin nedovolené výroby a držení pečetidla státní pečeti a úředního razítka.
+>
+> (3) Správce daně má oznamovací povinnost podle zákona7), pokud při své činnosti zjistí skutečnosti nasvědčující tomu, že byl spáchán některý z trestných činů uvedených v odstavci 2.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=86626938201cdc5c312a -->
+
 ### § 54 — Postup při poskytování informací jiným orgánům
 
 > **§ 54**
@@ -315,6 +471,54 @@ Sdílení informací pro trestní řízení je podmíněno trojí podmínkou:
 **Typicky rozhodné důkazy / podklady:** žádost přijímajícího orgánu (s vymezením účelu), rozsah skutečně poskytnutých údajů, protokol/úřední záznam o poskytnutí, případná písemná dohoda o postupu předávání.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=62fd669dd22fab5dc934 generator=2026-07-17.4 source_sha256=c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3 -->
+#### Revizní doplnění k § 54
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/280-2009 Zákon daňový řád.md`; identifikátor verze: `SB-2009-00280_2026-01-01`; SHA-256: `c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3`.
+
+##### Znění ustanovení
+
+> (1) Správce daně poskytne informace podle [[#§ 53|§ 53]] k účelu a v rozsahu vymezeném zákonem. O rozsahu poskytnutých informací pořídí správce daně podle formy poskytnutí protokol nebo úřední záznam.
+>
+> (2) Správce daně může poskytovat informace podle [[#§ 53|§ 53]] postupem sjednaným v písemné dohodě uzavřené mezi správcem daně, který informace shromažďuje, a příslušným orgánem veřejné moci.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 53
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=62fd669dd22fab5dc934 -->
 
 ### § 55 — Podmínky pro zachování mlčenlivosti, sankce za porušení
 
@@ -395,6 +599,58 @@ DŘ sám neobsahuje vlastní skutkovou podstatu přestupku za porušení mlčenl
 **Typicky rozhodné důkazy / podklady:** logy přístupu do informačního systému, interní přístupová oprávnění a bezpečnostní politika, obsah a adresát sdělené informace, prokázání prospěchu/újmy nebo jejich způsobilosti, doklad o ukončení výkonu funkce (k odst. 4).
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=64631667a419eb6e74f1 generator=2026-07-17.4 source_sha256=c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3 -->
+#### Revizní doplnění k § 55
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/280-2009 Zákon daňový řád.md`; identifikátor verze: `SB-2009-00280_2026-01-01`; SHA-256: `c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3`.
+
+##### Znění ustanovení
+
+> (1) Správce daně vytváří podmínky pro dodržování povinnosti mlčenlivosti. To platí i pro přístup a ochranu údajů uchovávaných v elektronické podobě.
+>
+> (2) Osoby, které se seznámily s informacemi poskytnutými správcem daně, je mohou využít pouze pro zákonem stanovené účely a jsou vázány ohledně těchto informací povinností mlčenlivosti podle tohoto zákona. Za vytvoření podmínek pro dodržování povinnosti mlčenlivosti odpovídá příslušný orgán veřejné moci, který si informace vyžádal.
+>
+> (3) Za porušení povinnosti mlčenlivosti se považuje rovněž využití informací získaných při správě daní pro jednání přinášející prospěch osobě zavázané touto povinností nebo jiné osobě anebo využití těchto informací pro jednání, které by mohlo způsobit někomu újmu.
+>
+> (4) Povinnost mlčenlivosti úřední osoby nezaniká, jestliže se tato osoba přestane podílet na výkonu pravomoci správce daně.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=64631667a419eb6e74f1 -->
 
 ### Informační povinnost správce daně
 
@@ -484,6 +740,78 @@ DŘ sám neobsahuje vlastní skutkovou podstatu přestupku za porušení mlčenl
 **Typicky rozhodné důkazy / podklady:** archivované verze zveřejněných technických podmínek (formát, datová struktura, adresy podatelen) k rozhodnému datu, doklad o formátu skutečně použitého podání, výpis z úřední desky / webu finanční správy z rozhodné doby.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=998950564cd4ac84aa15 generator=2026-07-17.4 source_sha256=c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3 -->
+#### Revizní doplnění k § 56 — Informační povinnost správce daně
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/280-2009 Zákon daňový řád.md`; identifikátor verze: `SB-2009-00280_2026-01-01`; SHA-256: `c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3`.
+
+##### Znění ustanovení
+
+> (1) Správce daně určí a zveřejní
+>
+> - a) úřední hodiny pro veřejnost, ve kterých lze zejména učinit podání ústně do protokolu nebo nahlížet do spisu, a pracovní dobu správce daně, ve které je otevřena podatelna správce daně,
+>
+> - b) podmínky, za nichž lze učinit podání elektronicky, a to
+>
+> - 1. elektronickou adresu své podatelny, kterou může být adresa elektronické pošty nebo jiná obecně dostupná elektronická adresa, a jaká podání lze na jednotlivé elektronické adresy učinit,
+>
+> - 2. formu technického nosiče datových zpráv, kterou je způsobilý přijmout,
+>
+> - 3. formát a datovou strukturu podání, které je způsobilý přijmout,
+>
+> - 4. datovou strukturu formulářového podání odpovídající stanovenému formátu a stanovené obsahové struktuře tohoto podání,
+>
+> - c) jiné technické prostředky, jimiž lze učinit podání, které je nutné potvrdit za podmínek podle § 71 odst. 3, a jaká podání lze učinit tímto způsobem,
+>
+> - d) čísla účtů, na které přijímá platby, a způsob označení úhrady na tyto účty podle jednotlivých daní, jejichž správa mu náleží,
+>
+> - e) druhy daní, které lze platit inkasem podle zákona upravujícího platební styk nebo soustředěnou platbou zajišťovanou provozovatelem poštovních služeb, a podmínky, které je při těchto platbách nutné dodržet,
+>
+> - f) druhy daní, které lze platit bezhotovostním převodem, k němuž je dán platební příkaz prostřednictvím platební karty nebo obdobného platebního prostředku, a podmínky, které je při těchto platbách nutné dodržet.
+>
+> (2) Správce daně zveřejní informace podle odstavce 1 na své úřední desce a způsobem umožňujícím dálkový přístup. Informace podle odstavce 1 písm. b) bodů 3 a [[#§ 4|4]] postačí zveřejnit způsobem umožňujícím dálkový přístup.
+>
+> (3) Správce daně zveřejňuje vhodným způsobem informace o právních předpisech, které se vztahují k působnosti tohoto správce daně, a informace o jejich změnách.
+>
+> (4) Správce daně zajistí dostupnost dříve zveřejněné informace podle odstavce 1 písm. b) a c) způsobem umožňujícím dálkový přístup, a to nejméně po dobu 10 let od jejího zveřejnění.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 71, § 4
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=998950564cd4ac84aa15 -->
 
 ### Poskytování informací správci daně
 
@@ -589,6 +917,78 @@ Tato povinnost umožňuje správci daně efektivně ověřovat přiznané příj
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=2f00504b68f720947742 generator=2026-07-17.4 source_sha256=c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3 -->
+#### Revizní doplnění k § 57
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/280-2009 Zákon daňový řád.md`; identifikátor verze: `SB-2009-00280_2026-01-01`; SHA-256: `c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3`.
+
+##### Znění ustanovení
+
+> (1) Povinnost poskytnout údaje na základě vyžádání správce daně mají orgány veřejné moci a osoby, které
+>
+> - a) vedou evidenci osob nebo věcí,
+>
+> - b) poskytují plnění, které je předmětem daně,
+>
+> - c) provádějí řízení v případech, jejichž předmět podléhá daňové povinnosti, nebo
+>
+> - d) zpracovávají jiné údaje nezbytné pro správu daní.
+>
+> (2) Zdravotní pojišťovny jsou povinny na vyžádání správce daně poskytnout údaje, které jsou na základě zákona oprávněny shromažďovat.
+>
+> (3) Banky, spořitelní a úvěrní družstva, platební instituce, poskytovatelé platebních služeb malého rozsahu, instituce elektronických peněz a vydavatelé elektronických peněz malého rozsahu (dále jen „poskytovatel platebních služeb“) jsou povinni na vyžádání správce daně poskytnout údaje o
+>
+> - a) číslech účtů a jiných jedinečných identifikátorech,
+>
+> - b) majitelích účtů a zmocněncích, kteří jsou oprávněni nakládat s peněžními prostředky na účtech,
+>
+> - c) stavech peněžních prostředků na účtech a o jejich pohybu, a údaje o osobách, které peněžní prostředky na účet vložily, a o příjemcích plateb,
+>
+> - d) úvěrech, úschovách a pronájmech bezpečnostních schránek.
+>
+> (4) Provozovatelé poštovních služeb jsou povinni na vyžádání správce daně poskytnout údaje o poštovních zásilkách, poštovních poukazech a pronajatých poštovních přihrádkách, a to i o jejich příjemcích a pronajímatelích.
+>
+> (5) Podnikatelé poskytující veřejně dostupnou telefonní službu jsou povinni na vyžádání správce daně poskytnout údaje, které shromažďují o účastnících veřejně dostupných telefonních služeb.
+>
+> (6) Vydavatelé periodického tisku jsou povinni na vyžádání správce daně poskytnout jméno nebo název a adresu objednatele inzerátu uveřejněného pod značkou.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=2f00504b68f720947742 -->
+
 ### § 57a — Informační povinnosti povinných osob dle AML legislativy
 
 > **§ 57a**
@@ -650,6 +1050,62 @@ Tato povinnost umožňuje správci daně efektivně ověřovat přiznané příj
 **Typicky rozhodné důkazy / podklady:** KYC dokumentace (identifikace a kontrola klienta), doklad o postavení povinné osoby dle AML zákona, určení žadatele (správce daně vs. ústřední kontaktní orgán) a účelu (domácí řízení vs. mezinárodní spolupráce), vymezení rozsahu vyžádaných údajů.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=09d1fa5305e4175a345b generator=2026-07-17.4 source_sha256=c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3 -->
+#### Revizní doplnění k § 57a
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/280-2009 Zákon daňový řád.md`; identifikátor verze: `SB-2009-00280_2026-01-01`; SHA-256: `c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3`.
+
+##### Znění ustanovení
+
+> (1) Povinná osoba podle zákona [[o některých opatřeních proti legalizaci výnosů z trestné činnosti a financování terorismu|o některých opatřeních proti legalizaci výnosů z trestné činnosti a financování terorismu]], a to i v případě, že se jedná o osobu podle [[#§ 57|§ 57]], je povinna na vyžádání správce daně poskytnout tyto údaje nebo dokumenty30):
+>
+> - a) údaje získané při provádění identifikace klienta,
+>
+> - b) údaje získané při provádění kontroly klienta podle [[§ 9 odst. 2 písm. a) až c)|§ 9 odst. 2 písm. a) až c)]] zákona [[o některých opatřeních proti legalizaci výnosů z trestné činnosti a financování terorismu|o některých opatřeních proti legalizaci výnosů z trestné činnosti a financování terorismu]],
+>
+> - c) údaje o způsobu získávání údajů podle písmen a) a b),
+>
+> - d) dokumenty získané při provádění identifikace a kontroly klienta obsahující údaje podle písmen a) a b).
+>
+> (2) Pokud je povinnou osobou podle odstavce 1 advokát, notář, daňový poradce, soudní exekutor nebo auditor, může vyžádat údaje a dokumenty podle odstavce 1 pouze ústřední kontaktní orgán podle zákona upravujícího mezinárodní spolupráci při správě daní, a to pouze za účelem výkonu mezinárodní spolupráce při správě daní. Ustanovení [[§ 26 odst. 1|§ 26 odst. 1]] a [[2|2]] a [[§ 27 odst. 1|§ 27 odst. 1]], [[2|2]] a [[4|4]] zákona [[o některých opatřeních proti legalizaci výnosů z trestné činnosti a financování terorismu|o některých opatřeních proti legalizaci výnosů z trestné činnosti a financování terorismu]] se použijí obdobně.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 57, § 9, § 26, § 27
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=09d1fa5305e4175a345b -->
 
 ### § 58 — Způsob a podmínky poskytnutí informací
 
@@ -714,6 +1170,56 @@ Tato subsidiarita je výrazem zásady přiměřenosti a zdrženlivosti (§ 5 ods
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=8daffd17317af381213b generator=2026-07-17.4 source_sha256=c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3 -->
+#### Revizní doplnění k § 58
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/280-2009 Zákon daňový řád.md`; identifikátor verze: `SB-2009-00280_2026-01-01`; SHA-256: `c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3`.
+
+##### Znění ustanovení
+
+> (1) Orgány veřejné moci a osoby uvedené v [[#§ 57|§ 57]] a [[#§ 57a|§ 57a]] jsou povinny poskytnout bezúplatně na vyžádání správce daně stanovené údaje nebo dokumenty, a to v rozsahu nezbytném pro správu daní.
+>
+> (2) Údaje nebo dokumenty podle odstavce 1 se poskytují jednotlivě nebo v rozsahu a způsobem dohodnutým mezi jejich poskytovatelem a správcem daně.
+>
+> (3) Správce daně si může údaje nebo dokumenty podle [[#§ 57|§ 57]] a [[#§ 57a|57a]] vyžádat jen v případě, že je nelze získat z úřední evidence, kterou sám vede; správce daně si může vyžádat potřebné údaje nebo dokumenty od osob uvedených v [[#§ 57|§ 57]] a [[#§ 57a|§ 57a]] jen v případě, že je nelze získat od jiného orgánu veřejné moci.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 57, § 57a
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=8daffd17317af381213b -->
+
 ### § 59 — Automatické předávání informací kontrolními orgány
 
 > **§ 59**
@@ -767,6 +1273,54 @@ Zatímco § 57 a § 58 upravují informační povinnost **na žádost** správce
 **Typicky rozhodné důkazy / podklady:** kontrolní protokol s datem kontrolního zjištění, doklad o předání správci daně a o jeho načasování, posouzení daňové relevance zjištění, návaznost na lhůtu pro stanovení daně (§ 148).
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=11f4de7984b675bbd8d3 generator=2026-07-17.4 source_sha256=c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3 -->
+#### Revizní doplnění k § 59
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/280-2009 Zákon daňový řád.md`; identifikátor verze: `SB-2009-00280_2026-01-01`; SHA-256: `c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3`.
+
+##### Znění ustanovení
+
+> (1) Nejvyšší kontrolní úřad a další kontrolní orgány9) předávají i bez vyžádání příslušným správcům daně údaje uvedené v kontrolních protokolech, které mají vztah ke správě daní.
+>
+> (2) Kontrolní orgány zjištěné údaje poskytnou správci daně do 30 dnů od provedeného kontrolního zjištění.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=11f4de7984b675bbd8d3 -->
 
 ### § 59a — Zpracování osobních údajů správcem daně
 
@@ -833,6 +1387,60 @@ Zatímco § 57 a § 58 upravují informační povinnost **na žádost** správce
 **Typicky rozhodné důkazy / podklady:** záznamy o činnosti zpracování osobních údajů, popis algoritmů a výběrových kritérií (risk scoring), úřední záznam o označení sporného údaje, podání námitky a její vyřízení v režimu stížnosti, doklad o způsobu uplatnění práva na přístup.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=79d43140edfd38a6430e generator=2026-07-17.4 source_sha256=c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3 -->
+#### Revizní doplnění k § 59a — Zpracování osobních údajů správcem daně
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/280-2009 Zákon daňový řád.md`; identifikátor verze: `SB-2009-00280_2026-01-01`; SHA-256: `c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3`.
+
+##### Znění ustanovení
+
+> (1) Správce daně
+>
+> - a) označí formou úředního záznamu nebo jiným vhodným způsobem osobní údaje, jejichž přesnost byla popřena nebo proti jejichž zpracování byla vznesena námitka, a tyto osobní údaje dále zpracovává i bez souhlasu subjektu údajů, a
+>
+> - b) může provádět výkon správy daní, nejde-li o vydávání rozhodnutí, výhradně na základě automatizovaného zpracování osobních údajů; popis počítačových algoritmů a výběrová kritéria, na jejichž základě je toto zpracování prováděno, uvede správce daně v záznamech o činnosti zpracování osobních údajů a uchovává je nejméně po dobu jednoho roku od jejich posledního použití pro zpracování osobních údajů.
+>
+> (2) Právo na přístup k osobním údajům zpracovávaným při správě daní uplatňuje daňový subjekt v rozsahu a způsobem stanoveným pro nahlížení do spisu nebo nahlížení do osobních daňových účtů; obdobně se postupuje při uplatnění práva třetí osoby na přístup k osobním údajům zpracovávaným při správě daní.
+>
+> (3) Při uplatnění práva na námitku nebo jiného prostředku ochrany proti zpracování osobních údajů se použijí obdobně ustanovení o stížnosti.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=79d43140edfd38a6430e -->
 
 ## Hlava V — Dokumentace
 
@@ -941,6 +1549,76 @@ Protokol dle § 60 je primárním důkazem o průběhu ústních úkonů; zachyc
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=ce155e23ea340ebae8b4 generator=2026-07-17.4 source_sha256=c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3 -->
+#### Revizní doplnění k § 60
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/280-2009 Zákon daňový řád.md`; identifikátor verze: `SB-2009-00280_2026-01-01`; SHA-256: `c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3`.
+
+##### Znění ustanovení
+
+> (1) O ústních podáních a jednáních při správě daní sepíše správce daně protokol.
+>
+> (2) Správce daně může pořídit o úkonech, o kterých se podle zákona pořizuje protokol, obrazový nebo zvukový záznam, který je přílohou protokolu; o této skutečnosti předem uvědomí osoby, které se tohoto úkonu účastní.
+>
+> (3) Protokol musí obsahovat zejména
+>
+> - a) předmět jednání,
+>
+> - b) místo jednání,
+>
+> - c) časový údaj o začátku a skončení jednání,
+>
+> - d) označení správce daně a úřední osoby, která úkon provedla,
+>
+> - e) údaje umožňující určení osob, které se úkonu zúčastnily,
+>
+> - f) vylíčení průběhu jednání,
+>
+> - g) označení dokladů a jiných listin odevzdaných při jednání nebo podstatný obsah listin předložených k nahlédnutí,
+>
+> - h) poskytnutá poučení a vyjádření poučených osob,
+>
+> - i) návrhy osob, které se úkonu zúčastnily, nebo jejich výhrady směřující proti obsahu protokolu,
+>
+> - j) vyjádření správce daně k uplatněným návrhům nebo výhradám.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=ce155e23ea340ebae8b4 -->
+
 ### § 61 — Rozhodnutí vyhlášená při jednání
 
 > **§ 61**
@@ -994,6 +1672,54 @@ Protokol dle § 60 je primárním důkazem o průběhu ústních úkonů; zachyc
 **Typicky rozhodné důkazy / podklady:** protokol obsahující vyhlášené rozhodnutí, doklad o předání stejnopisu protokolu příjemci, obsah a lhůta výzvy/oznámení, doklad o účasti příjemce na jednání.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=0eb0f1224b098d0d9ac6 generator=2026-07-17.4 source_sha256=c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3 -->
+#### Revizní doplnění k § 61
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/280-2009 Zákon daňový řád.md`; identifikátor verze: `SB-2009-00280_2026-01-01`; SHA-256: `c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3`.
+
+##### Znění ustanovení
+
+> (1) Součástí protokolu jsou rozhodnutí vyhlášená při jednání.
+>
+> (2) Rozhodnutí vyhlášené při jednání, kterým se vyzývá příjemce rozhodnutí k uplatnění práva nebo ke splnění povinností, nebo které je oznámením, se doručuje předáním stejnopisu protokolu; tento protokol nemusí obsahovat otisk úředního razítka se státním znakem.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=0eb0f1224b098d0d9ac6 -->
 
 ### § 62 — Podpis, opravy a procesní pravidla pro pořízení protokolu
 
@@ -1069,6 +1795,62 @@ Drobné opravy (překlepy, chyby v číslech, zjevné nesprávnosti) správce da
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=a628c0b8818431837127 generator=2026-07-17.4 source_sha256=c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3 -->
+#### Revizní doplnění k § 62
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/280-2009 Zákon daňový řád.md`; identifikátor verze: `SB-2009-00280_2026-01-01`; SHA-256: `c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3`.
+
+##### Znění ustanovení
+
+> (1) Není-li protokol hlasitě diktován, je nutno jej před podepsáním hlasitě přečíst a zapsat v něm, že se tak stalo, a dále uvést, co bylo před podpisem protokolu opraveno nebo jinak změněno. Přeškrtnutá místa musí zůstat čitelná.
+>
+> (2) Správce daně zaznamená všechna vyjádření k protokolované věci, návrhy a výhrady vznesené osobami zúčastněnými na protokolovaném jednání a své stanovisko k nim.
+>
+> (3) Po vyznačení všech návrhů, výhrad, vyjádření k nim, oprav či změn v protokolu, které musí být opět hlasitě přečteny, pokud nebyl protokol hlasitě diktován, podepíší protokol osoby zúčastněné na protokolovaném jednání a úřední osoba.
+>
+> (4) Odepření podpisu a důvody tohoto odepření se v protokolu zaznamenají. Odepření podpisu nebo vzdálení se před podpisem protokolu bez dostatečného důvodu nemá vliv na použitelnost protokolu jako důkazního prostředku. Na to musí být osoby zúčastněné na protokolovaném jednání předem upozorněny.
+>
+> (5) Správce daně po podpisu předá stejnopis protokolu daňovému subjektu, pokud se jednání zúčastnil, popřípadě též další osobě na jednání zúčastněné, pokud o to požádá.
+>
+> (6) Správce daně opraví v protokolu chyby v psaní a v počtech, jakož i jiné zřejmé nesprávnosti tak, aby původní zápis zůstal čitelný.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=a628c0b8818431837127 -->
+
 ### § 63 — Úřední záznam
 
 > **§ 63**
@@ -1135,6 +1917,54 @@ Drobné opravy (překlepy, chyby v číslech, zjevné nesprávnosti) správce da
 **Typicky rozhodné důkazy / podklady:** samotný úřední záznam (podpis, časový údaj, forma), návazné řádné důkazní prostředky (protokoly o výslechu, listiny, bankovní údaje), zařazení záznamu ve spisu (vyhledávací část), odůvodnění rozhodnutí a jeho důkazní opora.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=531982a0b9a6bf8a5d86 generator=2026-07-17.4 source_sha256=c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3 -->
+#### Revizní doplnění k § 63 — Úřední záznam
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/280-2009 Zákon daňový řád.md`; identifikátor verze: `SB-2009-00280_2026-01-01`; SHA-256: `c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3`.
+
+##### Znění ustanovení
+
+> (1) O důležitých úkonech při správě daní, které nejsou součástí protokolu, sepíše správce daně úřední záznam, ve kterém zachytí skutečnosti, které mají vztah ke správě daní, zjištěné zejména z ústních sdělení, oznámení, poznámek, obsahů telefonických hovorů a jiných spisových materiálů.
+>
+> (2) Úřední záznam podepíše úřední osoba, která ho vyhotovila, s uvedením časového údaje, kdy došlo k jeho vyhotovení; to neplatí, je-li úřední záznam vyhotoven úřední osobou elektronicky způsobem umožňujícím její identifikaci a zjištění změny obsahu úředního záznamu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=531982a0b9a6bf8a5d86 -->
 
 ### Spis
 
@@ -1236,6 +2066,78 @@ Přísné oddělení vyhledávací části od ostatních je klíčovým nástroj
 **Typicky rozhodné důkazy / podklady:** předložený správní spis (soupis/obsah, číslování, chronologie), porovnání obsahu spisu s odůvodněním rozhodnutí, evidence přeřazení písemností (návaznost na § 65 odst. 3), spisová značka a členění na části.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=ca9f2e889f4769371ce6 generator=2026-07-17.4 source_sha256=c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3 -->
+#### Revizní doplnění k § 64
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/280-2009 Zákon daňový řád.md`; identifikátor verze: `SB-2009-00280_2026-01-01`; SHA-256: `c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3`.
+
+##### Znění ustanovení
+
+> (1) Písemnosti týkající se práv a povinností daňového subjektu se zakládají do spisu, který vede příslušný správce daně. Těmito písemnostmi jsou zejména
+>
+> - a) písemnosti obsahující podání,
+>
+> - b) písemná vyhotovení rozhodnutí,
+>
+> - c) protokoly,
+>
+> - d) úřední záznamy.
+>
+> (2) Písemností se při výkonu správy daní rozumí listinná zpráva, jakož i datová zpráva, pokud to nevylučuje povaha věci.
+>
+> (3) Součástí spisu jsou i obrazové a zvukové záznamy.
+>
+> (4) Spis se člení na
+>
+> - a) části podle jednotlivých daňových řízení,
+>
+> - b) část týkající se vymáhání daní,
+>
+> - c) část týkající se dalších povinností při správě daní, o nichž se vede řízení,
+>
+> - d) část vyhledávací,
+>
+> - e) část týkající se řízení o pořádkových pokutách.
+>
+> (5) Jednotlivé části spisu musí obsahovat soupis všech písemností, které jsou v nich založeny; písemnosti ve spisu se řadí v časové posloupnosti, označují se jednotlivými pořadovými čísly a vedou se pod společnou spisovou značkou.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=ca9f2e889f4769371ce6 -->
 
 ### § 65 — Vyhledávací část spisu
 
@@ -1342,6 +2244,64 @@ Vyhledávací část (§ 65) chrání efektivitu vyhledávací a kontrolní funk
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=d8fd5ba9016ea987c86a generator=2026-07-17.4 source_sha256=c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3 -->
+#### Revizní doplnění k § 65
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/280-2009 Zákon daňový řád.md`; identifikátor verze: `SB-2009-00280_2026-01-01`; SHA-256: `c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3`.
+
+##### Znění ustanovení
+
+> (1) Do vyhledávací části spisu se zakládají
+>
+> - a) písemnosti, které mohou být uplatněny v řízení jako důkazní prostředek, jestliže by jejich zpřístupnění daňovému subjektu zmařilo nebo ohrozilo cíl správy daní, účel úkonu nebo ohrozilo objektivnost důkazu,
+>
+> - b) písemnosti, které mohou být použity při stanovení daně jako pomůcky, jejichž zpřístupnění daňovému subjektu by ohrozilo zájem jiného daňového subjektu nebo jiných osob zúčastněných na správě daní,
+>
+> - c) úřední záznamy nebo protokoly o podaných vysvětleních, pokud nejsou použity jako pomůcky,
+>
+> - d) písemnosti sloužící výlučně pro potřeby správce daně.
+>
+> (2) Písemnosti zakládané do části vyhledávací podle odstavce 1 písm. a) lze v této části ponechat nejdéle do provedení hodnocení důkazů. Jde-li o důkazní prostředky, které jsou uplatněny v rámci daňové kontroly, lze je v části vyhledávací ponechat nejdéle do sdělení dosavadního výsledku kontrolního zjištění.
+>
+> (3) Při přeřazení písemnosti z vyhledávací části spisu do příslušné části spisu musí být ze soupisu písemností patrno, která písemnost, zaevidovaná v části vyhledávací, byla přeřazena, do které části, pod jakým pořadovým číslem a k jakému datu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=d8fd5ba9016ea987c86a -->
+
 ### Nahlížení do spisů
 
 ### § 66 — Právo daňového subjektu nahlížet do spisu
@@ -1434,6 +2394,58 @@ Nahlížení se zásadně váže na **úřední hodiny pro veřejnost** (zveřej
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=661d5ca730f7af5db1e2 generator=2026-07-17.4 source_sha256=c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3 -->
+#### Revizní doplnění k § 66
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/280-2009 Zákon daňový řád.md`; identifikátor verze: `SB-2009-00280_2026-01-01`; SHA-256: `c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3`.
+
+##### Znění ustanovení
+
+> (1) Daňový subjekt je oprávněn u správce daně nahlédnout do částí spisu týkajících se jeho práv a povinností, které označí, s výjimkou části vyhledávací; za stejných podmínek je daňový subjekt oprávněn nahlédnout do osobních daňových účtů vedených v rámci evidence daní o jeho daňových povinnostech.
+>
+> (2) Daňový subjekt je oprávněn nahlédnout do soupisu písemností obsažených ve vyhledávací části spisu. Z takto poskytnutého soupisu nesmí být patrný obsah jednotlivých písemností.
+>
+> (3) Není-li ohrožen zájem jiného daňového subjektu nebo jiných osob zúčastněných na správě daní anebo cíl správy daní, může správce daně v odůvodněných případech, kdy je to nutné pro další průběh řízení, umožnit nahlédnutí i do písemností ve vyhledávací části spisu.
+>
+> (4) Oprávnění nahlédnout do spisu lze využít v úředních hodinách pro veřejnost, pokud správce daně nepřipustí nahlížení do spisu i v průběhu pracovní doby mimo úřední hodiny pro veřejnost.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=661d5ca730f7af5db1e2 -->
+
 ### § 67 — Způsob provedení nahlédnutí a pořizování opisů
 
 > **§ 67**
@@ -1508,6 +2520,66 @@ Ověřovací doložka musí obsahovat taxativně vyjmenované údaje (odst. 4) �
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=27512521b9fc87c48d2a generator=2026-07-17.4 source_sha256=c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3 -->
+#### Revizní doplnění k § 67
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/280-2009 Zákon daňový řád.md`; identifikátor verze: `SB-2009-00280_2026-01-01`; SHA-256: `c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3`.
+
+##### Znění ustanovení
+
+> (1) Správce daně pořídí o každém nahlédnutí do spisu podle povahy věci protokol nebo úřední záznam, ve kterém uvede, do kterých částí spisu bylo daňovému subjektu umožněno nahlédnout.
+>
+> (2) Nevidomým osobám bude spis přečten. Správce daně umožní průvodci nevidomé osoby nahlédnout do spisu a na její požádání umožní též pořízení zvukového záznamu.
+>
+> (3) Na žádost daňového subjektu pořídí správce daně z části spisu, do níž lze nahlížet, doslovné opisy, kopie, výpisy nebo potvrzení o skutečnostech v ní obsažených a vydá je daňovému subjektu. Na žádost daňového subjektu správce daně rovněž ověří jejich shodu s obsahem spisu. O pořízení listiny a vydání ověřovací doložky provede úřední záznam.
+>
+> (4) V ověřovací doložce o shodě se spisem správce daně uvede
+>
+> - a) zda opis, kopie nebo stejnopis souhlasí doslovně s listinou, z níž byl pořízen, a zda tato listina je prvopisem, opisem, kopií nebo stejnopisem a z kolika listů nebo archů se skládá,
+>
+> - b) počet listů nebo archů, které ověřená listina obsahuje,
+>
+> - c) místo a datum ověření,
+>
+> - d) podpis úřední osoby a otisk úředního razítka se státním znakem.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=27512521b9fc87c48d2a -->
+
 ### § 68 — Zapůjčení části spisu jinému orgánu veřejné moci
 
 > **§ 68**
@@ -1565,6 +2637,56 @@ Zapůjčení části spisu je přesně to: **fyzické nebo elektronické předá
 **Typicky rozhodné důkazy / podklady:** žádost přijímajícího orgánu (předmět řízení), rozsah zapůjčené části spisu, identifikace písemností z vyhledávací části a doklad o upozornění na režim § 66, evidence nahlížení / vyžádání zpět správcem daně, doklad o nakládání s písemnostmi u přijímajícího orgánu.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=22604530e5c79618e99d generator=2026-07-17.4 source_sha256=c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3 -->
+#### Revizní doplnění k § 68
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/280-2009 Zákon daňový řád.md`; identifikátor verze: `SB-2009-00280_2026-01-01`; SHA-256: `c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3`.
+
+##### Znění ustanovení
+
+> (1) Správce daně zapůjčí příslušnému orgánu veřejné moci část spisu, která se týká předmětu řízení, pro které je poskytována, za podmínek stanovených v [[#§ 52|§ 52]] a [[#§ 53|53]].
+>
+> (2) Správce daně, který část spisu zapůjčil příslušnému orgánu veřejné moci, může u něho do zapůjčené části spisu nahlížet, pořizovat z ní výpisy a kopie, a nebrání-li tomu závažné okolnosti, může vyžádat její dočasné poskytnutí pro účely daňového řízení.
+>
+> (3) Orgán veřejné moci, kterému je část spisu zapůjčena, zajistí dodržení podmínek mlčenlivosti; u zapůjčených písemností z vyhledávací části spisu zajistí tento orgán dodržení podmínek podle [[#§ 66|§ 66]].
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 52, § 53, § 66
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=22604530e5c79618e99d -->
 
 ### § 69 — Daňová informační schránka
 
@@ -1666,6 +2788,98 @@ Podání prostřednictvím DIS se hledí jako na podání **samotného daňovéh
 **Typicky rozhodné důkazy / podklady:** log podání v DIS (kdo, kdy, v jaké roli), plná moc a doklad o okamžiku jejího uplatnění u správce daně, nastavení rolí a pověření v DIS, zveřejněné podmínky provozu DIS (odst. 3).
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=4da942359c95ad0fee11 generator=2026-07-17.4 source_sha256=c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3 -->
+#### Revizní doplnění k § 69 — Daňová informační schránka
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/280-2009 Zákon daňový řád.md`; identifikátor verze: `SB-2009-00280_2026-01-01`; SHA-256: `c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3`.
+
+##### Znění ustanovení
+
+> (1) Správce daně, který je k tomu technicky vybaven, umožní daňovému subjektu využívat prostřednictvím dálkového přístupu daňovou informační schránku. Daňová informační schránka může být společná pro více správců daně.
+>
+> (2) Daňový subjekt může prostřednictvím daňové informační schránky
+>
+> - a) získávat informace shromažďované ve spisu a na osobním daňovém účtu tohoto daňového subjektu v rozsahu a členění, v jakém jsou tyto informace v daňové informační schránce soustředěny,
+>
+> - b) získávat vybrané informace o svých právech a povinnostech,
+>
+> - c) činit podání s využitím vybraných informací, které o něm správce daně zpracovává.
+>
+> (3) Správce daně zveřejní způsobem umožňujícím dálkový přístup
+>
+> - a) skutečnost, že je technicky vybaven pro
+>
+> - 1. zřízení daňové informační schránky,
+>
+> - 2. přidělení přístupových údajů do daňové informační schránky,
+>
+> - b) rozsah a členění informací soustřeďovaných v daňové informační schránce a četnost jejich aktualizace,
+>
+> - c) podmínky a postup pro
+>
+> - 1. získávání informací prostřednictvím daňové informační schránky,
+>
+> - 2. možnost činit podání prostřednictvím daňové informační schránky,
+>
+> - 3. přidělení, používání a zneplatnění přístupových údajů,
+>
+> - 4. určení osob pověřených přístupem do daňové informační schránky a rozsahu tohoto pověření,
+>
+> - d) rozsah, v jakém může daňový subjekt využívat daňovou informační schránku jako třetí osoba,
+>
+> - e) požadovanou úroveň záruky prostředků pro elektronickou identifikaci,
+>
+> - f) označení správců daně, pro které je daňová informační schránka společná.
+>
+> (4) Prostřednictvím daňové informační schránky zřízené daňovému subjektu lze činit podání tohoto daňového subjektu nebo podání učiněné namísto tohoto daňového subjektu.
+>
+> (5) Na podání učiněné prostřednictvím daňové informační schránky se hledí jako na podání učiněné daňovým subjektem, kterému byla tato schránka zřízena; to neplatí, pokud je osobou, která takto činí podání,
+>
+> - a) zákonný zástupce, opatrovník, ustanovený zástupce daňového subjektu nebo osoba, která plní povinnosti daňového subjektu podle § 20 odst. 3, nebo
+>
+> - b) zmocněnec daňového subjektu,
+>
+> - 1. jemuž byla udělena plná moc uplatněná u příslušného správce daně nejpozději v okamžiku učinění tohoto podání a
+>
+> - 2. který v rámci daňové informační schránky zvolil možnost učinit podání jako zmocněnec.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 20
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=4da942359c95ad0fee11 -->
 
 ### § 69a — Přístup do daňové informační schránky
 
@@ -1769,6 +2983,78 @@ Pověření musí být uděleno **výhradně prostřednictvím samotné DIS** (o
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=35f57675d4416b29ee43 generator=2026-07-17.4 source_sha256=c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3 -->
+#### Revizní doplnění k § 69a — Přístup do daňové informační schránky
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/280-2009 Zákon daňový řád.md`; identifikátor verze: `SB-2009-00280_2026-01-01`; SHA-256: `c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3`.
+
+##### Znění ustanovení
+
+> (1) Správce daně zřídí daňovou informační schránku daňovému subjektu na základě projevu vůle poprvé přistoupit do této schránky učiněného daňovým subjektem v informačním systému daňových informačních schránek.
+>
+> (2) Přístup do daňové informační schránky je možný prostřednictvím přihlášení
+>
+> - a) s využitím přístupu se zaručenou identitou,
+>
+> - b) s ověřenou identitou způsobem, kterým se lze přihlásit do datové schránky, nebo
+>
+> - c) pomocí přidělených přístupových údajů.
+>
+> (3) Právo přístupu do daňové informační schránky daňového subjektu má
+>
+> - a) daňový subjekt,
+>
+> - b) osoba, která plní povinnosti daňového subjektu podle § 20 odst. 3,
+>
+> - c) zákonný zástupce, opatrovník nebo ustanovený zástupce daňového subjektu.
+>
+> (4) Právo přístupu do daňové informační schránky daňového subjektu může vykonávat pouze fyzická osoba, která je
+>
+> - a) uvedena v odstavci 3, nebo
+>
+> - b) oprávněna jednat podle § 24 odst. 2 jménem právnické osoby uvedené v odstavci 3.
+>
+> (5) Právo přístupu do daňové informační schránky daňového subjektu může vykonávat také fyzická osoba, která je pověřena přístupem do této schránky osobou uvedenou v odstavci 4; stejným způsobem je možné pověřit fyzickou osobu právem pověřovat přístupem do této schránky další fyzické osoby.
+>
+> (6) Pověření fyzických osob podle odstavce 5 a určení rozsahu tohoto pověření lze učinit pouze prostřednictvím daňové informační schránky.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 20, § 24
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=35f57675d4416b29ee43 -->
+
 ### § 69b — Přístupové údaje
 
 > **§ 69b**
@@ -1822,6 +3108,54 @@ Přístupové údaje přiděluje správce daně **na žádost**, a to jen tehdy,
 **Typicky rozhodné důkazy / podklady:** žádost o přidělení přístupových údajů, doklad o způsobu jejich uchování a zabezpečení, logy přihlášení a podání v DIS, oznámení/zneplatnění při podezření na zneužití, případné trestní oznámení, doklad o zvolené metodě autentizace.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=469554628fe3786d93e1 generator=2026-07-17.4 source_sha256=c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3 -->
+#### Revizní doplnění k § 69b — Přístupové údaje pro přístup do daňové informační schránky
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/280-2009 Zákon daňový řád.md`; identifikátor verze: `SB-2009-00280_2026-01-01`; SHA-256: `c0e36731231634c3e50b968b00579063c365b1311e554bbeafa06ab1f4d533e3`.
+
+##### Znění ustanovení
+
+> (1) Správce daně, který zveřejnil způsobem umožňujícím dálkový přístup skutečnost, že je technicky vybaven pro přidělení přístupových údajů, přidělí osobě vykonávající právo přístupu do daňové informační schránky přístupové údaje na základě její žádosti.
+>
+> (2) Osoba, které byly přiděleny přístupové údaje nebo jiné jedinečné údaje potřebné pro přístup do daňové informační schránky, je povinna s nimi zacházet tak, aby nemohlo dojít k jejich zneužití.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=469554628fe3786d93e1 -->
 
 ## Souhrnná poznámka ke vztahu Hlav IV a V
 
